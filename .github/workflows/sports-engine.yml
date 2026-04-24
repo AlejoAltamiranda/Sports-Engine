@@ -1,0 +1,142 @@
+name: Sports Engine
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Instalar dependencias
+      run: python -m pip install --upgrade pip
+    
+    - name: Verificar archivos necesarios
+      run: |
+        echo "🔍 Verificando archivos..."
+        ls -la
+        [ -f teams.json ] && echo "✅ teams.json" || echo "❌ teams.json"
+        [ -f nba_teams.json ] && echo "✅ nba_teams.json" || echo "❌ nba_teams.json"
+        [ -f mlb_teams.json ] && echo "✅ mlb_teams.json" || echo "❌ mlb_teams.json"
+        [ -f scraper.py ] && echo "✅ scraper.py" || echo "❌ scraper.py"
+        [ -f engine.py ] && echo "✅ engine.py" || echo "❌ engine.py"
+    
+    - name: Ejecutar scraper
+      run: |
+        echo "🕷️ Ejecutando scraper..."
+        python scraper.py
+        echo "✅ scraper_output.json generado"
+    
+    - name: Verificar scraper_output.json
+      run: |
+        if [ ! -f scraper_output.json ]; then
+          echo "❌ scraper_output.json no generado"
+          exit 1
+        fi
+        echo "📊 Partidos crudos: $(python -c "import json; print(len(json.load(open('scraper_output.json'))))")"
+    
+    - name: Ejecutar engine (batch)
+      run: |
+        echo "⚙️ Normalizando partidos..."
+        python engine.py batch
+        echo "✅ matches.json generado"
+    
+    - name: Verificar matches.json
+      run: |
+        if [ ! -f matches.json ]; then
+          echo "❌ matches.json no generado"
+          exit 1
+        fi
+        echo "📊 Partidos unificados: $(python -c "import json; print(len(json.load(open('matches.json'))))")"
+    
+    - name: Subir archivos al repositorio
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin main --rebase || true
+        git add scraper_output.json matches.json
+        git commit -m "Actualizar datos de partidos [skip ci]" || echo "No hay cambios para commit"
+        git push origin main
+    
+    - name: Mostrar estadísticas
+      run: |
+        echo "📁 Archivos generados:"
+        ls -lh *.json 2>/dev/null || echo "   No hay JSONs"
+        if [ -f matches.json ]; then
+          echo "📊 Resumen de partidos:"
+          python -c "import json; data=json.load(open('matches.json')); print(f'   Total partidos: {len(data)}'); total_canales=sum(len(m.get('canales',[])) for m in data); print(f'   Total canales: {total_canales}'); deportes={}; _=[deportes.update({m.get('sport','soccer'): deportes.get(m.get('sport','soccer'),0)+1}) for m in data]; [print(f'   - {s}: {c} partidos') for s,c in deportes.items()]"
+        fi
+
+  deploy:
+    needs: test
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v4
+    
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Crear API simple
+      run: |
+        echo 'import json' > api.py
+        echo 'from http.server import HTTPServer, BaseHTTPRequestHandler' >> api.py
+        echo '' >> api.py
+        echo 'class Handler(BaseHTTPRequestHandler):' >> api.py
+        echo '    def do_GET(self):' >> api.py
+        echo '        if self.path == "/partidos":' >> api.py
+        echo '            try:' >> api.py
+        echo '                with open("matches.json") as f:' >> api.py
+        echo '                    data = json.load(f)' >> api.py
+        echo '                self.send_response(200)' >> api.py
+        echo '                self.send_header("Content-type", "application/json")' >> api.py
+        echo '                self.end_headers()' >> api.py
+        echo '                self.wfile.write(json.dumps(data).encode())' >> api.py
+        echo '            except:' >> api.py
+        echo '                self.send_response(404)' >> api.py
+        echo '                self.end_headers()' >> api.py
+        echo '        else:' >> api.py
+        echo '            self.send_response(404)' >> api.py
+        echo '            self.end_headers()' >> api.py
+        echo '' >> api.py
+        echo 'if __name__ == "__main__":' >> api.py
+        echo '    print("API en puerto 8080")' >> api.py
+        echo '    HTTPServer(("0.0.0.0", 8080), Handler).serve_forever()' >> api.py
+        echo "✅ api.py creado"
+    
+    - name: Subir API al repositorio
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin main --rebase || true
+        git add api.py
+        git commit -m "Agregar API para partidos [skip ci]" || echo "No hay cambios"
+        git push origin main
+    
+    - name: Desplegar información
+      run: |
+        echo "🚀 Preparado para desplegar"
+        echo "   - Para Cloudflare Workers: usar wrangler"
+        echo "   - Para Vercel: usar vercel CLI"
+        echo "   - Para Railway: conectar repositorio"
+        echo "   - Para servidor propio: ejecutar python api.py"
