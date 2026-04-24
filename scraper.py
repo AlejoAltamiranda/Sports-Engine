@@ -16,11 +16,31 @@ SOURCES = {
 OUTPUT_FILE = 'scraper_output.json'
 
 # ============================================
-# CONVERSIÓN DE HORAS A UTC
+# DETECCIÓN Y CONVERSIÓN DE HORAS
 # ============================================
 
-# Fuentes que ya están en UTC (no necesitan conversión)
-FUENTES_UTC = ['cdn', 'github']
+def detectar_tipo_hora(hora_str):
+    """
+    Detecta si una hora es UTC o Local
+    UTC: termina con Z o tiene formato ISO con Z
+    Local: formato ISO sin Z, o solo hora (ej: "16:00")
+    """
+    if not hora_str:
+        return 'desconocido'
+    
+    # Si tiene Z al final, es UTC
+    if hora_str.endswith('Z'):
+        return 'utc'
+    
+    # Si tiene T pero no Z, es local
+    if 'T' in hora_str and not hora_str.endswith('Z'):
+        return 'local'
+    
+    # Si es solo hora (ej: "16:00" o "14:30"), es local
+    if ':' in hora_str and len(hora_str) <= 8:
+        return 'local'
+    
+    return 'desconocido'
 
 def convertir_local_a_utc(hora_str, fecha_referencia=None):
     """Convierte hora LOCAL de Colombia (UTC-5) a UTC"""
@@ -63,7 +83,7 @@ def convertir_local_a_utc(hora_str, fecha_referencia=None):
         if not local_dt:
             return hora_str
         
-        # Colombia UTC-5 → LOCAL a UTC: sumar 5 horas
+        # Colombia UTC-5 → sumar 5 horas
         utc_dt = local_dt + timedelta(hours=5)
         return utc_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
     
@@ -71,58 +91,48 @@ def convertir_local_a_utc(hora_str, fecha_referencia=None):
         print(f"  ⚠️ Error convirtiendo {hora_str}: {e}")
         return hora_str
 
-def convertir_utc_a_utc(hora_str, fecha_referencia=None):
-    """Formatea hora UTC correctamente (sin conversión)"""
+def formatear_utc(hora_str):
+    """Formatea una hora que ya está en UTC"""
     if not hora_str:
         return None
     
     try:
-        if 'T' in hora_str:
-            hora_limpia = hora_str.replace('Z', '')
-        else:
-            hora_limpia = hora_str
+        # Si tiene espacio, reemplazar por T
+        if ' ' in hora_str:
+            hora_str = hora_str.replace(' ', 'T')
         
-        if ':' in hora_limpia and len(hora_limpia) <= 8:
-            if fecha_referencia:
-                fecha_str = fecha_referencia.strftime('%Y-%m-%d')
-            else:
-                fecha_str = datetime.now().strftime('%Y-%m-%d')
-            hora_completa = f"{fecha_str} {hora_limpia}"
-        else:
-            hora_completa = hora_limpia
+        # Si no tiene Z, agregarla
+        if not hora_str.endswith('Z'):
+            hora_str = hora_str + 'Z'
         
-        formatos = [
-            '%Y-%m-%d %H:%M:%S',
-            '%Y-%m-%d %H:%M',
-            '%Y-%m-%dT%H:%M:%S',
-            '%Y-%m-%dT%H:%M'
-        ]
-        
-        dt = None
-        for fmt in formatos:
-            try:
-                dt = datetime.strptime(hora_completa, fmt)
-                break
-            except:
-                continue
-        
-        if not dt:
-            return hora_str
-        
-        return dt.strftime('%Y-%m-%dT%H:%M:%SZ')
-    
-    except Exception as e:
-        print(f"  ⚠️ Error formateando {hora_str}: {e}")
+        return hora_str
+    except:
         return hora_str
 
 def procesar_hora_segun_fuente(hora_str, fuente, fecha_ref=None):
+    """
+    Procesa la hora según la fuente con detección automática
+    - cdn, github: siempre UTC → formatear
+    - elcanal, streamtp: detectar si es UTC o LOCAL → actuar según corresponda
+    """
     if not hora_str:
         return None
     
-    if fuente in FUENTES_UTC:
-        return convertir_utc_a_utc(hora_str, fecha_ref)
-    else:
-        return convertir_local_a_utc(hora_str, fecha_ref)
+    # Fuentes que siempre son UTC (no necesitan detección)
+    if fuente in ['cdn', 'github']:
+        return formatear_utc(hora_str)
+    
+    # Fuentes que pueden ser UTC o LOCAL (detección automática)
+    if fuente in ['elcanal', 'streamtp']:
+        tipo = detectar_tipo_hora(hora_str)
+        if tipo == 'utc':
+            print(f"  🔍 {fuente}: UTC detectado → {hora_str}")
+            return formatear_utc(hora_str)
+        else:
+            print(f"  🔍 {fuente}: LOCAL detectado → {hora_str} (convirtiendo a UTC)")
+            return convertir_local_a_utc(hora_str, fecha_ref)
+    
+    return hora_str
 
 # ============================================
 # MAPEO DE URLs (elcanaldeportivo)
@@ -171,7 +181,6 @@ TOURNAMENT_TO_COUNTRY = {
     'Torneo Apertura Uruguay': 'uruguay','Torneo Clausura Uruguay': 'uruguay',
     'Champions League': 'champions', 'Champions': 'champions', 'UEFA Champions League': 'champions',
     'mls': 'estados unidos', 'MLS': 'estados unidos', 'mls': 'usa',
-    'mls': 'usa',
     'MLB': 'mlb',
     'NBA': 'nba',
     'WWE': 'wwe',
@@ -247,13 +256,15 @@ def process_elcanal_source(data):
     if not data:
         return matches
     
+    today = datetime.now()
+    
     for item in data:
         if 'equipos' not in item:
             continue
         
         liga = item.get('liga', 'Fútbol').replace(':', '')
         hora_raw = item.get('hora_utc', '')
-        hora_utc = procesar_hora_segun_fuente(hora_raw, 'elcanal')
+        hora_utc = procesar_hora_segun_fuente(hora_raw, 'elcanal', today)
         
         canales_fixed = []
         for ch in item.get('canales', []):
@@ -343,7 +354,7 @@ def process_cdn_source(data):
 # ============================================
 
 def run_scraper():
-    print('\n🏆 SCRAPER MULTIFUENTE (TODO a UTC)\n')
+    print('\n🏆 SCRAPER MULTIFUENTE (TODO a UTC con detección)\n')
     all_matches = []
     processors = [
         ('GitHub (MLB)', SOURCES['github'], process_github_source),
