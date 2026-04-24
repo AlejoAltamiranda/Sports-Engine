@@ -1,0 +1,1675 @@
+{
+  "bayern": {
+    "name": "Bayern München",
+    "aliases": ["bayern", "bayern munich", "bayern münchen"],
+    "country": "germany"
+  },
+  "dortmund": {
+    "name": "Borussia Dortmund",
+    "aliases": ["dortmund", "borussia dortmund"],
+    "country": "germany"
+  },
+  "leipzig": {
+    "name": "RB Leipzig",
+    "aliases": ["leipzig", "rb leipzig"],
+    "country": "germany"
+  },
+  "stuttgart": {
+    "name": "VfB Stuttgart",
+    "aliases": ["stuttgart"],
+    "country": "germany"
+  },
+  "hoffenheim": {
+    "name": "TSG Hoffenheim",
+    "aliases": ["hoffenheim"],
+    "country": "germany"
+  },
+  "leverkusen": {
+    "name": "Bayer Leverkusen",
+    "aliases": ["leverkusen", "bayer leverkusen"],
+    "country": "germany"
+  },
+  "freiburg": {
+    "name": "SC Freiburg",
+    "aliases": ["freiburg", "friburgo"],
+    "country": "germany"
+  },
+  "frankfurt": {
+    "name": "Eintracht Frankfurt",
+    "aliases": ["frankfurt", "eintracht frankfurt", "fráncfort"],
+    "country": "germany"
+  },
+  "augsburg": {
+    "name": "FC Augsburg",
+    "aliases": ["augsburg", "augsburgo"],
+    "country": "germany"
+  },
+  "mainz": {
+    "name": "Mainz 05",
+    "aliases": ["mainz"],
+    "country": "germany"
+  },
+  "union_berlin": {
+    "name": "Union Berlin",
+    "aliases": ["union berlin"],
+    "country": "germany"
+  },
+  "koln": {
+    "name": "1. FC Köln",
+    "aliases": ["koln", "cologne", "colonia"],
+    "country": "germany"
+  },
+  "gladbach": {
+    "name": "Borussia Mönchengladbach",
+    "aliases": ["gladbach", "borussia m'gladbach"],
+    "country": "germany"
+  },
+  "hamburg": {
+    "name": "Hamburger SV",
+    "aliases": ["hamburgo", "hamburg"],
+    "country": "germany"
+  },
+  "werder": {
+    "name": "Werder Bremen",
+    "aliases": ["werder bremen"],
+    "country": "germany"
+  },
+  "st_pauli": {
+    "name": "FC St. Pauli",
+    "aliases": ["st pauli", "st. pauli"],
+    "country": "germany"
+  },
+  "wolfsburg": {
+    "name": "VfL Wolfsburg",
+    "aliases": ["wolfsburg", "wolfsburgo"],
+    "country": "germany"
+  },
+  "heidenheim": {
+    "name": "1. FC Heidenheim",
+    "aliases": ["heidenheim"],
+    "country": "germany"
+  },
+
+
+  "estudiantes_lp": {
+    "name": "Estudiantes de La Plata",
+    "aliases": ["estudiantes lp", "estudiantes la plata", "estudiantes", "edlp"],
+    "country": "argentina"
+  },
+  "velez": {
+    "name": "Vélez Sarsfield",
+    "aliases": ["velez", "velez sarsfield"],
+    "country": "argentina"
+  },
+  "boca": {
+    "name": "Boca Juniors",
+    "aliases": ["boca", "boca juniors", "boca jrs"],
+    "country": "argentina"
+  },
+  "talleres": {
+    "name": "Talleres",
+    "aliases": ["talleres", "talleres cordoba"],
+    "country": "argentina"
+  },
+  "lanus": {
+    "name": "Lanús",
+    "aliases": ["lanus"],
+    "country": "argentina"
+  },
+  "independiente": {
+    "name": "Independiente",
+    "aliases": ["independiente", "independiente avellaneda"],
+    "country": "argentina"
+  },
+  "union": {
+    "name": "Unión Santa Fe",
+    "aliases": ["union", "union santa fe"],
+    "country": "argentina"
+  },
+  "defensa": {
+    "name": "Defensa y Justicia",
+    "aliases": ["defensa y justicia", "defensa", "dyj"],
+    "country": "argentina"
+  },
+  "san_lorenzo": {
+    "name": "San Lorenzo",
+    "aliases": ["san lorenzo", "casla"],
+    "country": "argentina"
+  },
+  "instituto": {
+    "name": "Instituto",
+    "aliases": ["instituto", "instituto cordoba"],
+    "country": "argentina"
+  },
+  "platense": {
+    "name": "Platense",
+    "aliases": ["platense"],
+    "country": "argentina"
+  },
+  "gimnasia_mendoza": {
+    "name": "Gimnasia y Esgrima de Mendoza",
+    "aliases": ["gimnasia mendoza", "gimnasia y esgrima mendoza"],
+    "country": "argentina"
+  },
+  "central_cordoba": {
+    "name": "Central Córdoba",
+    "aliases": ["central cordoba", "central cordoba sd"],
+    "country": "argentina"
+  },
+  "newells": {
+    "name": "Newell's Old Boys",
+    "aliases": ["newells", "newells old boys", "newell's"],
+    "country": "argentina"
+  },
+  "riestra": {
+    "name": "Deportivo Riestra",
+    "aliases": ["riestra", "deportivo riestra"],
+    "country": "argentina"
+  },
+  "independiente_rivadavia": {
+    "name": "Independiente Rivadavia",
+    "aliases": ["independiente rivadavia", "ind rivadavia"],
+    "country": "argentina"
+  },
+  "river": {
+    "name": "River Plate",
+    "aliases": ["river", "river plate"],
+    "country": "argentina"
+  },
+  "argentinos": {
+    "name": "Argentinos Juniors",
+    "aliases": ["argentinos", "argentinos juniors", "argentinos jrs"],
+    "country": "argentina"
+  },
+  "rosario_central": {
+    "name": "Rosario Central",
+    "aliases": ["rosario central", "central"],
+    "country": "argentina"
+  },
+  "belgrano": {
+    "name": "Belgrano",
+    "aliases": ["belgrano", "belgrano cordoba"],
+    "country": "argentina"
+  },
+  "huracan": {
+    "name": "Huracán",
+    "aliases": ["huracan"],
+    "country": "argentina"
+  },
+  "barracas": {
+    "name": "Barracas Central",
+    "aliases": ["barracas", "barracas central"],
+    "country": "argentina"
+  },
+  "gimnasia_lp": {
+    "name": "Gimnasia y Esgrima La Plata",
+    "aliases": ["gimnasia lp", "gimnasia la plata", "gelp"],
+    "country": "argentina"
+  },
+  "tigre": {
+    "name": "Tigre",
+    "aliases": ["tigre"],
+    "country": "argentina"
+  },
+  "racing": {
+    "name": "Racing Club",
+    "aliases": ["racing", "racing club"],
+    "country": "argentina"
+  },
+  "sarmiento": {
+    "name": "Sarmiento",
+    "aliases": ["sarmiento", "sarmiento junin"],
+    "country": "argentina"
+  },
+  "banfield": {
+    "name": "Banfield",
+    "aliases": ["banfield"],
+    "country": "argentina"
+  },
+  "atletico_tucuman": {
+    "name": "Atlético Tucumán",
+    "aliases": ["atletico tucuman", "atl tucuman"],
+    "country": "argentina"
+  },
+  "aldosivi": {
+    "name": "Aldosivi",
+    "aliases": ["aldosivi"],
+    "country": "argentina"
+  },
+  "estudiantes_rc": {
+    "name": "Estudiantes de Río Cuarto",
+    "aliases": ["estudiantes rio cuarto", "estudiantes rc"],
+    "country": "argentina"
+  },
+
+  "palmeiras": {
+    "name": "Palmeiras",
+    "aliases": ["palmeiras"],
+    "country": "brazil"
+  },
+  "flamengo": {
+    "name": "Flamengo",
+    "aliases": ["flamengo", "mengao"],
+    "country": "brazil"
+  },
+  "fluminense": {
+    "name": "Fluminense",
+    "aliases": ["fluminense", "flu"],
+    "country": "brazil"
+  },
+  "sao_paulo": {
+    "name": "São Paulo",
+    "aliases": ["sao paulo", "são paulo", "spfc"],
+    "country": "brazil"
+  },
+  "bahia": {
+    "name": "Bahia",
+    "aliases": ["bahia"],
+    "country": "brazil"
+  },
+  "athletico_pr": {
+    "name": "Athletico Paranaense",
+    "aliases": ["athletico pr", "athletico-pr", "cap"],
+    "country": "brazil"
+  },
+  "coritiba": {
+    "name": "Coritiba",
+    "aliases": ["coritiba", "coxas"],
+    "country": "brazil"
+  },
+  "bragantino": {
+    "name": "RB Bragantino",
+    "aliases": ["bragantino", "red bull bragantino"],
+    "country": "brazil"
+  },
+  "botafogo": {
+    "name": "Botafogo",
+    "aliases": ["botafogo", "fogao"],
+    "country": "brazil"
+  },
+  "vasco": {
+    "name": "Vasco da Gama",
+    "aliases": ["vasco", "vasco da gama"],
+    "country": "brazil"
+  },
+  "vitoria": {
+    "name": "Vitória",
+    "aliases": ["vitoria", "vitória"],
+    "country": "brazil"
+  },
+  "atletico_mg": {
+    "name": "Atlético Mineiro",
+    "aliases": ["atletico mg", "atletico-mg", "galo"],
+    "country": "brazil"
+  },
+  "gremio": {
+    "name": "Grêmio",
+    "aliases": ["gremio", "grêmio"],
+    "country": "brazil"
+  },
+  "internacional": {
+    "name": "Internacional",
+    "aliases": ["internacional", "inter porto alegre"],
+    "country": "brazil"
+  },
+  "santos": {
+    "name": "Santos",
+    "aliases": ["santos"],
+    "country": "brazil"
+  },
+  "cruzeiro": {
+    "name": "Cruzeiro",
+    "aliases": ["cruzeiro"],
+    "country": "brazil"
+  },
+  "corinthians": {
+    "name": "Corinthians",
+    "aliases": ["corinthians", "timao"],
+    "country": "brazil"
+  },
+  "mirassol": {
+    "name": "Mirassol",
+    "aliases": ["mirassol"],
+    "country": "brazil"
+  },
+  "remo": {
+    "name": "Remo",
+    "aliases": ["remo"],
+    "country": "brazil"
+  },
+  "chapecoense": {
+    "name": "Chapecoense",
+    "aliases": ["chapecoense", "chape"],
+    "country": "brazil"
+  },
+
+  "colo_colo": {
+    "name": "Colo Colo",
+    "aliases": ["colo colo"],
+    "country": "chile"
+  },
+  "u_catolica": {
+    "name": "Universidad Católica",
+    "aliases": ["u catolica", "universidad catolica", "catolica", "uc"],
+    "country": "chile"
+  },
+  "u_de_chile": {
+    "name": "Universidad de Chile",
+    "aliases": ["u de chile", "universidad de chile", "la u", "udechile"],
+    "country": "chile"
+  },
+  "huachipato": {
+    "name": "Huachipato",
+    "aliases": ["huachipato"],
+    "country": "chile"
+  },
+  "nublense": {
+    "name": "Ñublense",
+    "aliases": ["nublense", "ñublense"],
+    "country": "chile"
+  },
+  "ohiggins": {
+    "name": "O'Higgins",
+    "aliases": ["ohiggins", "o higgins"],
+    "country": "chile"
+  },
+  "palestino": {
+    "name": "Palestino",
+    "aliases": ["palestino"],
+    "country": "chile"
+  },
+  "u_concepcion": {
+    "name": "Universidad de Concepción",
+    "aliases": ["u de concepcion", "universidad de concepcion", "conce"],
+    "country": "chile"
+  },
+  "coquimbo": {
+    "name": "Coquimbo Unido",
+    "aliases": ["coquimbo", "coquimbo unido"],
+    "country": "chile"
+  },
+  "la_serena": {
+    "name": "La Serena",
+    "aliases": ["la serena", "deportes la serena"],
+    "country": "chile"
+  },
+  "everton_viña": {
+    "name": "Everton",
+    "aliases": ["everton", "everton de viña"],
+    "country": "chile"
+  },
+  "audax": {
+    "name": "Audax Italiano",
+    "aliases": ["audax", "audax italiano"],
+    "country": "chile"
+  },
+  "cobresal": {
+    "name": "Cobresal",
+    "aliases": ["cobresal"],
+    "country": "chile"
+  },
+  "la_calera": {
+    "name": "Unión La Calera",
+    "aliases": ["la calera", "union la calera"],
+    "country": "chile"
+  },
+  "limache": {
+    "name": "Deportes Limache",
+    "aliases": ["limache", "deportes limache"],
+    "country": "chile"
+  },
+  "concepcion": {
+    "name": "Deportes Concepción",
+    "aliases": ["concepcion", "deportes concepcion"],
+    "country": "chile"
+  },
+
+  "atl_nacional": {
+    "name": "Atlético Nacional",
+    "aliases": ["atl nacional", "atletico nacional", "nacional"],
+    "country": "colombia"
+  },
+  "deportivo_pasto": {
+    "name": "Deportivo Pasto",
+    "aliases": ["pasto", "deportivo pasto"],
+    "country": "colombia"
+  },
+  "junior": {
+    "name": "Junior",
+    "aliases": ["junior", "junior de barranquilla", "junior barranquilla"],
+    "country": "colombia"
+  },
+  "tolima": {
+    "name": "Deportes Tolima",
+    "aliases": ["tolima", "deportes tolima"],
+    "country": "colombia"
+  },
+  "america_de_cali": {
+    "name": "América de Cali",
+    "aliases": ["america de cali", "america", "dimayor america"],
+    "country": "colombia"
+  },
+  "once_caldas": {
+    "name": "Once Caldas",
+    "aliases": ["once caldas", "caldas"],
+    "country": "colombia"
+  },
+  "inter_bogota": {
+    "name": "Inter Bogotá",
+    "aliases": ["inter bogota", "inter bogotá"],
+    "country": "colombia"
+  },
+  "ind_santa_fe": {
+    "name": "Independiente Santa Fe",
+    "aliases": ["santa fe", "ind santa fe", "independiente santa fe"],
+    "country": "colombia"
+  },
+  "deportivo_cali": {
+    "name": "Deportivo Cali",
+    "aliases": ["cali", "deportivo cali"],
+    "country": "colombia"
+  },
+  "ind_medellin": {
+    "name": "Independiente Medellín",
+    "aliases": ["medellin", "ind medellin", "independiente medellin"],
+    "country": "colombia"
+  },
+  "bucaramanga": {
+    "name": "Atlético Bucaramanga",
+    "aliases": ["bucaramanga", "atl bucaramanga"],
+    "country": "colombia"
+  },
+  "millonarios": {
+    "name": "Millonarios",
+    "aliases": ["millonarios"],
+    "country": "colombia"
+  },
+  "aguilas_doradas": {
+    "name": "Águilas Doradas",
+    "aliases": ["aguilas doradas", "rionegro aguilas"],
+    "country": "colombia"
+  },
+  "llaneros": {
+    "name": "Llaneros",
+    "aliases": ["llaneros"],
+    "country": "colombia"
+  },
+  "fortaleza": {
+    "name": "Fortaleza CEIF",
+    "aliases": ["fortaleza"],
+    "country": "colombia"
+  },
+  "cucuta": {
+    "name": "Cúcuta Deportivo",
+    "aliases": ["cucuta", "cúcuta"],
+    "country": "colombia"
+  },
+  "alianza": {
+    "name": "Alianza",
+    "aliases": ["alianza petrolera", "alianza"],
+    "country": "colombia"
+  },
+  "jaguares": {
+    "name": "Jaguares de Córdoba",
+    "aliases": ["jaguares", "jaguares cordoba"],
+    "country": "colombia"
+  },
+  "boyaca_chico": {
+    "name": "Boyacá Chicó",
+    "aliases": ["boyaca chico", "chico"],
+    "country": "colombia"
+  },
+  "pereira": {
+    "name": "Deportivo Pereira",
+    "aliases": ["pereira", "deportivo pereira"],
+    "country": "colombia"
+  }, 
+
+  "independiente_valle": {
+    "name": "Independiente del Valle",
+    "aliases": ["ind del valle", "independiente del valle", "idv"],
+    "country": "ecuador"
+  },
+  "u_catolica_ec": {
+    "name": "Universidad Católica (EC)",
+    "aliases": ["u catolica", "universidad catolica"],
+    "country": "ecuador"
+  },
+  "barcelona_sc": {
+    "name": "Barcelona SC",
+    "aliases": ["barcelona sc", "barcelona de guayaquil", "barcelona"],
+    "country": "ecuador"
+  },
+  "aucas": {
+    "name": "Aucas",
+    "aliases": ["aucas"],
+    "country": "ecuador"
+  },
+  "guayaquil_city": {
+    "name": "Guayaquil City",
+    "aliases": ["guayaquil city"],
+    "country": "ecuador"
+  },
+  "deportivo_cuenca": {
+    "name": "Deportivo Cuenca",
+    "aliases": ["dep cuenca", "deportivo cuenca", "cuenca"],
+    "country": "ecuador"
+  },
+  "ldu_quito": {
+    "name": "LDU Quito",
+    "aliases": ["ldu quito", "liga de quito", "ldu"],
+    "country": "ecuador"
+  },
+  "macara": {
+    "name": "Macará",
+    "aliases": ["macara", "macará"],
+    "country": "ecuador"
+  },
+  "mushuc_runa": {
+    "name": "Mushuc Runa",
+    "aliases": ["mushuc runa"],
+    "country": "ecuador"
+  },
+  "orense": {
+    "name": "Orense",
+    "aliases": ["orense"],
+    "country": "ecuador"
+  },
+  "delfin": {
+    "name": "Delfín",
+    "aliases": ["delfin", "delfín"],
+    "country": "ecuador"
+  },
+  "tecnico_universitario": {
+    "name": "Técnico Universitario",
+    "aliases": ["tecnico universitario", "tecnico u", "técnico u"],
+    "country": "ecuador"
+  },
+  "emelec": {
+    "name": "Emelec",
+    "aliases": ["emelec"],
+    "country": "ecuador"
+  },
+  "libertad": {
+    "name": "Libertad FC",
+    "aliases": ["libertad"],
+    "country": "ecuador"
+  },
+  "leones_norte": {
+    "name": "Leones del Norte",
+    "aliases": ["leones del norte"],
+    "country": "ecuador"
+  },
+  "manta": {
+    "name": "Manta FC",
+    "aliases": ["manta"],
+    "country": "ecuador"
+  }, 
+  "psg": {
+    "name": "Paris Saint-Germain",
+    "aliases": ["psg", "paris saint germain"],
+    "country": "france"
+  },
+  "lens": {
+    "name": "RC Lens",
+    "aliases": ["lens"],
+    "country": "france"
+  },
+  "lyon": {
+    "name": "Olympique Lyonnais",
+    "aliases": ["lyon", "olympique lyon"],
+    "country": "france"
+  },
+  "lille": {
+    "name": "LOSC Lille",
+    "aliases": ["lille"],
+    "country": "france"
+  },
+  "rennes": {
+    "name": "Stade Rennais",
+    "aliases": ["rennes", "stade rennais"],
+    "country": "france"
+  },
+  "marseille": {
+    "name": "Olympique de Marseille",
+    "aliases": ["marsella", "marseille"],
+    "country": "france"
+  },
+  "monaco": {
+    "name": "AS Monaco",
+    "aliases": ["mónaco", "monaco"],
+    "country": "france"
+  },
+  "strasbourg": {
+    "name": "RC Strasbourg",
+    "aliases": ["estraburgo", "strasbourg"],
+    "country": "france"
+  },
+  "lorient": {
+    "name": "FC Lorient",
+    "aliases": ["lorient"],
+    "country": "france"
+  },
+  "paris_fc": {
+    "name": "Paris FC",
+    "aliases": ["paris fc"],
+    "country": "france"
+  },
+  "toulouse": {
+    "name": "Toulouse FC",
+    "aliases": ["toulouse"],
+    "country": "france"
+  },
+  "brest": {
+    "name": "Stade Brestois",
+    "aliases": ["brest"],
+    "country": "france"
+  },
+  "angers": {
+    "name": "Angers SCO",
+    "aliases": ["angers"],
+    "country": "france"
+  },
+  "lehavre": {
+    "name": "Le Havre AC",
+    "aliases": ["le havre"],
+    "country": "france"
+  },
+  "nice": {
+    "name": "OGC Nice",
+    "aliases": ["niza", "nice"],
+    "country": "france"
+  },
+  "auxerre": {
+    "name": "AJ Auxerre",
+    "aliases": ["auxerre"],
+    "country": "france"
+  },
+  "nantes": {
+    "name": "FC Nantes",
+    "aliases": ["nantes", "fc nantes"],
+    "country": "france"
+  },
+  "metz": {
+    "name": "FC Metz",
+    "aliases": ["metz"],
+    "country": "france"
+  },
+  "man_city": {
+    "name": "Manchester City",
+    "aliases": ["manchester city", "man city", "city"],
+    "country": "england"
+  },
+  "arsenal": {
+    "name": "Arsenal",
+    "aliases": ["arsenal"],
+    "country": "england"
+  },
+  "man_united": {
+    "name": "Manchester United",
+    "aliases": ["manchester united", "man utd", "man united", "united"],
+    "country": "england"
+  },
+  "aston_villa": {
+    "name": "Aston Villa",
+    "aliases": ["aston villa", "villa"],
+    "country": "england"
+  },
+  "liverpool": {
+    "name": "Liverpool",
+    "aliases": ["liverpool"],
+    "country": "england"
+  },
+  "brighton": {
+    "name": "Brighton & Hove Albion",
+    "aliases": ["brighton"],
+    "country": "england"
+  },
+  "bournemouth": {
+    "name": "AFC Bournemouth",
+    "aliases": ["bournemouth"],
+    "country": "england"
+  },
+  "chelsea": {
+    "name": "Chelsea",
+    "aliases": ["chelsea"],
+    "country": "england"
+  },
+  "brentford": {
+    "name": "Brentford",
+    "aliases": ["brentford"],
+    "country": "england"
+  },
+  "everton": {
+    "name": "Everton",
+    "aliases": ["everton"],
+    "country": "england"
+  },
+  "sunderland": {
+    "name": "Sunderland",
+    "aliases": ["sunderland"],
+    "country": "england"
+  },
+  "fulham": {
+    "name": "Fulham",
+    "aliases": ["fulham"],
+    "country": "england"
+  },
+  "crystal_palace": {
+    "name": "Crystal Palace",
+    "aliases": ["crystal palace", "palace"],
+    "country": "england"
+  },
+  "newcastle": {
+    "name": "Newcastle United",
+    "aliases": ["newcastle", "newcastle utd"],
+    "country": "england"
+  },
+  "leeds": {
+    "name": "Leeds United",
+    "aliases": ["leeds", "leeds utd"],
+    "country": "england"
+  },
+  "nottingham": {
+    "name": "Nottingham Forest",
+    "aliases": ["nottingham", "forest"],
+    "country": "england"
+  },
+  "west_ham": {
+    "name": "West Ham United",
+    "aliases": ["west ham"],
+    "country": "england"
+  },
+  "tottenham": {
+    "name": "Tottenham Hotspur",
+    "aliases": ["tottenham"],
+    "country": "england"
+  },
+  "burnley": {
+    "name": "Burnley",
+    "aliases": ["burnley"],
+    "country": "england"
+  },
+  "wolves": {
+    "name": "Wolverhampton Wanderers",
+    "aliases": ["wolves", "wolverhampton"],
+    "country": "england"
+  },
+  "inter": {
+    "name": "Inter Milan",
+    "aliases": ["inter", "inter milan", "internazionale", "inter de milan" ],
+    "country": "italy"
+  },
+  "milan": {
+    "name": "AC Milan",
+    "aliases": ["milan", "ac milan"],
+    "country": "italy"
+  },
+  "napoli": {
+    "name": "Napoli",
+    "aliases": ["napoli", "nápoles"],
+    "country": "italy"
+  },
+  "juventus": {
+    "name": "Juventus",
+    "aliases": ["juventus", "juve"],
+    "country": "italy"
+  },
+  "como": {
+    "name": "Como 1907",
+    "aliases": ["como"],
+    "country": "italy"
+  },
+  "roma": {
+    "name": "AS Roma",
+    "aliases": ["roma", "as roma"],
+    "country": "italy"
+  },
+  "atalanta": {
+    "name": "Atalanta",
+    "aliases": ["atalanta"],
+    "country": "italy"
+  },
+  "bologna": {
+    "name": "Bologna",
+    "aliases": ["bolonia", "bologna"],
+    "country": "italy"
+  },
+  "lazio": {
+    "name": "Lazio",
+    "aliases": ["lazio"],
+    "country": "italy"
+  },
+  "sassuolo": {
+    "name": "Sassuolo",
+    "aliases": ["sassuolo"],
+    "country": "italy"
+  },
+  "udinese": {
+    "name": "Udinese",
+    "aliases": ["udinese"],
+    "country": "italy"
+  },
+  "torino": {
+    "name": "Torino",
+    "aliases": ["torino"],
+    "country": "italy"
+  },
+  "genoa": {
+    "name": "Genoa",
+    "aliases": ["genoa"],
+    "country": "italy"
+  },
+  "parma": {
+    "name": "Parma",
+    "aliases": ["parma"],
+    "country": "italy"
+  },
+  "fiorentina": {
+    "name": "Fiorentina",
+    "aliases": ["fiorentina"],
+    "country": "italy"
+  },
+  "cagliari": {
+    "name": "Cagliari",
+    "aliases": ["cagliari"],
+    "country": "italy"
+  },
+  "cremonese": {
+    "name": "Cremonese",
+    "aliases": ["cremonese"],
+    "country": "italy"
+  },
+  "lecce": {
+    "name": "Lecce",
+    "aliases": ["lecce"],
+    "country": "italy"
+  },
+  "verona": {
+    "name": "Hellas Verona",
+    "aliases": ["verona", "hellas verona"],
+    "country": "italy"
+  },
+  "pisa": {
+    "name": "Pisa",
+    "aliases": ["pisa"],
+    "country": "italy"
+  },
+
+  "guadalajara": {
+    "name": "Chivas Guadalajara",
+    "aliases": ["guadalajara", "chivas", "chivas guadalajara"],
+    "country": "mexico"
+  },
+  "pumas": {
+    "name": "Pumas UNAM",
+    "aliases": ["pumas", "pumas unam"],
+    "country": "mexico"
+  },
+  "pachuca": {
+    "name": "Pachuca",
+    "aliases": ["pachuca"],
+    "country": "mexico"
+  },
+  "cruz_azul": {
+    "name": "Cruz Azul",
+    "aliases": ["cruz azul"],
+    "country": "mexico"
+  },
+  "toluca": {
+    "name": "Toluca",
+    "aliases": ["toluca"],
+    "country": "mexico"
+  },
+  "america": {
+    "name": "Club América",
+    "aliases": ["america", "club america"],
+    "country": "mexico"
+  },
+  "atlas": {
+    "name": "Atlas",
+    "aliases": ["atlas"],
+    "country": "mexico"
+  },
+  "tigres": {
+    "name": "Tigres UANL",
+    "aliases": ["tigres", "tigres uanl"],
+    "country": "mexico"
+  },
+  "tijuana": {
+    "name": "Club Tijuana",
+    "aliases": ["tijuana", "xolos"],
+    "country": "mexico"
+  },
+  "leon": {
+    "name": "León",
+    "aliases": ["leon", "león"],
+    "country": "mexico"
+  },
+  "monterrey": {
+    "name": "Monterrey",
+    "aliases": ["monterrey", "rayados"],
+    "country": "mexico"
+  },
+  "san_luis": {
+    "name": "Atlético de San Luis",
+    "aliases": ["san luis", "atletico san luis"],
+    "country": "mexico"
+  },
+  "necaxa": {
+    "name": "Necaxa",
+    "aliases": ["necaxa"],
+    "country": "mexico"
+  },
+  "queretaro": {
+    "name": "Querétaro",
+    "aliases": ["queretaro", "querétaro"],
+    "country": "mexico"
+  },
+  "juarez": {
+    "name": "FC Juárez",
+    "aliases": ["juarez", "juárez"],
+    "country": "mexico"
+  },
+  "mazatlan": {
+    "name": "Mazatlán FC",
+    "aliases": ["mazatlan", "mazatlán"],
+    "country": "mexico"
+  },
+  "puebla": {
+    "name": "Puebla",
+    "aliases": ["puebla"],
+    "country": "mexico"
+  },
+  "santos_laguna": {
+    "name": "Santos Laguna",
+    "aliases": ["santos", "santos laguna"],
+    "country": "mexico"
+  },
+  "psv": {
+    "name": "PSV Eindhoven",
+    "aliases": ["psv", "psv eindhoven"],
+    "country": "netherlands"
+  },
+  "feyenoord": {
+    "name": "Feyenoord",
+    "aliases": ["feyenoord"],
+    "country": "netherlands"
+  },
+  "nijmegen": {
+    "name": "NEC Nijmegen",
+    "aliases": ["nijmegen", "nec nijmegen"],
+    "country": "netherlands"
+  },
+  "twente": {
+    "name": "FC Twente",
+    "aliases": ["twente", "fc twente"],
+    "country": "netherlands"
+  },
+  "ajax": {
+    "name": "Ajax",
+    "aliases": ["ajax", "ajax amsterdam"],
+    "country": "netherlands"
+  },
+  "az_alkmaar": {
+    "name": "AZ Alkmaar",
+    "aliases": ["az", "az alkmaar"],
+    "country": "netherlands"
+  },
+  "utrecht": {
+    "name": "FC Utrecht",
+    "aliases": ["utrecht", "fc utrecht"],
+    "country": "netherlands"
+  },
+  "heerenveen": {
+    "name": "SC Heerenveen",
+    "aliases": ["heerenveen"],
+    "country": "netherlands"
+  },
+  "groningen": {
+    "name": "FC Groningen",
+    "aliases": ["groningen"],
+    "country": "netherlands"
+  },
+  "sparta_rotterdam": {
+    "name": "Sparta Rotterdam",
+    "aliases": ["sparta rotterdam"],
+    "country": "netherlands"
+  },
+  "go_ahead_eagles": {
+    "name": "Go Ahead Eagles",
+    "aliases": ["go ahead eagles", "g.a. eagles"],
+    "country": "netherlands"
+  },
+  "sittard": {
+    "name": "Fortuna Sittard",
+    "aliases": ["sittard", "fortuna sittard"],
+    "country": "netherlands"
+  },
+  "zwolle": {
+    "name": "PEC Zwolle",
+    "aliases": ["zwolle", "pec zwolle"],
+    "country": "netherlands"
+  },
+  "telstar": {
+    "name": "SC Telstar",
+    "aliases": ["telstar"],
+    "country": "netherlands"
+  },
+  "volendam": {
+    "name": "FC Volendam",
+    "aliases": ["volendam", "fc volendam"],
+    "country": "netherlands"
+  },
+  "excelsior": {
+    "name": "Excelsior",
+    "aliases": ["excelsior", "excelsior rotterdam"],
+    "country": "netherlands"
+  },
+  "breda": {
+    "name": "NAC Breda",
+    "aliases": ["breda", "nac breda"],
+    "country": "netherlands"
+  },
+  "heracles": {
+    "name": "Heracles Almelo",
+    "aliases": ["heracles", "heracles almelo"],
+    "country": "netherlands"
+  },
+  "olimpia": {
+    "name": "Club Olimpia",
+    "aliases": ["olimpia", "club olimpia"],
+    "country": "paraguay"
+  },
+  "cerro_porteno": {
+    "name": "Cerro Porteño",
+    "aliases": ["cerro porteno", "cerro porteño"],
+    "country": "paraguay"
+  },
+  "ameliano": {
+    "name": "Sportivo Ameliano",
+    "aliases": ["ameliano", "s. ameliano"],
+    "country": "paraguay"
+  },
+  "trinidense": {
+    "name": "Sportivo Trinidense",
+    "aliases": ["trinidense", "sportivo trinidense"],
+    "country": "paraguay"
+  },
+  "nacional_py": {
+    "name": "Club Nacional (Asunción)",
+    "aliases": ["nacional asuncion", "nacional asunción"],
+    "country": "paraguay"
+  },
+  "guarani": {
+    "name": "Club Guaraní",
+    "aliases": ["guarani", "guaraní"],
+    "country": "paraguay"
+  },
+  "recoleta": {
+    "name": "Deportivo Recoleta",
+    "aliases": ["recoleta"],
+    "country": "paraguay"
+  },
+  "libertad_py": {
+    "name": "Club Libertad",
+    "aliases": ["libertad"],
+    "country": "paraguay"
+  },
+  "rubio_nu": {
+    "name": "Rubio Ñu",
+    "aliases": ["rubio nu", "rubio ñu"],
+    "country": "paraguay"
+  },
+  "luqueno": {
+    "name": "Sportivo Luqueño",
+    "aliases": ["luqueno", "luqueño", "sp. luqueño"],
+    "country": "paraguay"
+  },
+  "dos_de_mayo": {
+    "name": "2 de Mayo",
+    "aliases": ["2 de mayo"],
+    "country": "paraguay"
+  },
+  "san_lorenzo_py": {
+    "name": "San Lorenzo (Paraguay)",
+    "aliases": ["san lorenzo py", "san lorenzo paraguay"],
+    "country": "paraguay"
+  },
+  "alianza_lima": {
+    "name": "Alianza Lima",
+    "aliases": ["alianza lima", "alianza"],
+    "country": "peru"
+  },
+  "los_chankas": {
+    "name": "Los Chankas",
+    "aliases": ["los chankas"],
+    "country": "peru"
+  },
+  "cienciano": {
+    "name": "Cienciano",
+    "aliases": ["cienciano"],
+    "country": "peru"
+  },
+  "universitario": {
+    "name": "Universitario de Deportes",
+    "aliases": ["universitario", "universitario de deportes", "u"],
+    "country": "peru"
+  },
+  "melgar": {
+    "name": "FBC Melgar",
+    "aliases": ["melgar"],
+    "country": "peru"
+  },
+  "comerciantes_unidos": {
+    "name": "Comerciantes Unidos",
+    "aliases": ["comerciantes unidos"],
+    "country": "peru"
+  },
+  "cusco": {
+    "name": "Cusco FC",
+    "aliases": ["cusco"],
+    "country": "peru"
+  },
+  "utc": {
+    "name": "UTC Cajamarca",
+    "aliases": ["utc", "utc cajamarca"],
+    "country": "peru"
+  },
+  "sporting_cristal": {
+    "name": "Sporting Cristal",
+    "aliases": ["sporting cristal"],
+    "country": "peru"
+  },
+  "juan_pablo_ii": {
+    "name": "Juan Pablo II College",
+    "aliases": ["juan pablo ii"],
+    "country": "peru"
+  },
+  "moquegua": {
+    "name": "Deportivo Moquegua",
+    "aliases": ["moquegua"],
+    "country": "peru"
+  },
+  "sport_huancayo": {
+    "name": "Sport Huancayo",
+    "aliases": ["sport huancayo"],
+    "country": "peru"
+  },
+  "alianza_atletico": {
+    "name": "Alianza Atlético",
+    "aliases": ["alianza atl", "alianza atletico"],
+    "country": "peru"
+  },
+  "sport_boys": {
+    "name": "Sport Boys",
+    "aliases": ["sport boys"],
+    "country": "peru"
+  },
+  "ad_tarma": {
+    "name": "AD Tarma",
+    "aliases": ["ad tarma"],
+    "country": "peru"
+  },
+  "deportivo_grau": {
+    "name": "Deportivo Grau",
+    "aliases": ["grau"],
+    "country": "peru"
+  },
+  "garcilaso": {
+    "name": "Deportivo Garcilaso",
+    "aliases": ["deportivo garcilaso", "garcilaso"],
+    "country": "peru"
+  },
+  "cajamarca": {
+    "name": "FC Cajamarca",
+    "aliases": ["fc cajamarca"],
+    "country": "peru"
+  },
+  "barcelona": {
+    "name": "FC Barcelona",
+    "aliases": ["barcelona", "fc barcelona"],
+    "country": "spain"
+  },
+  "real_madrid": {
+    "name": "Real Madrid",
+    "aliases": ["real madrid", "madrid"],
+    "country": "spain"
+  },
+  "villarreal": {
+    "name": "Villarreal",
+    "aliases": ["villarreal", "villarreal cf"],
+    "country": "spain"
+  },
+  "atletico_madrid": {
+    "name": "Atlético de Madrid",
+    "aliases": ["atletico madrid", "atlético de madrid", "atleti"],
+    "country": "spain"
+  },
+  "betis": {
+    "name": "Real Betis",
+    "aliases": ["betis", "real betis"],
+    "country": "spain"
+  },
+  "getafe": {
+    "name": "Getafe",
+    "aliases": ["getafe"],
+    "country": "spain"
+  },
+  "celta": {
+    "name": "Celta de Vigo",
+    "aliases": ["celta", "celta de vigo"],
+    "country": "spain"
+  },
+  "real_sociedad": {
+    "name": "Real Sociedad",
+    "aliases": ["real sociedad", "sociedad"],
+    "country": "spain"
+  },
+  "athletic_bilbao": {
+    "name": "Athletic Club",
+    "aliases": ["athletic", "athletic club", "bilbao"],
+    "country": "spain"
+  },
+  "osasuna": {
+    "name": "Osasuna",
+    "aliases": ["osasuna"],
+    "country": "spain"
+  },
+  "girona": {
+    "name": "Girona",
+    "aliases": ["girona", "girona fc"],
+    "country": "spain"
+  },
+  "espanyol": {
+    "name": "Espanyol",
+    "aliases": ["espanyol"],
+    "country": "spain"
+  },
+  "valencia": {
+    "name": "Valencia CF",
+    "aliases": ["valencia", "valencia cf"],
+    "country": "spain"
+  },
+  "mallorca": {
+    "name": "Mallorca",
+    "aliases": ["mallorca"],
+    "country": "spain"
+  },
+  "elche": {
+    "name": "Elche",
+    "aliases": ["elche"],
+    "country": "spain"
+  },
+  "rayo_vallecano": {
+    "name": "Rayo Vallecano",
+    "aliases": ["rayo vallecano", "rayo"],
+    "country": "spain"
+  },
+  "sevilla": {
+    "name": "Sevilla",
+    "aliases": ["sevilla", "sevilla fc"],
+    "country": "spain"
+  },
+  "alaves": {
+    "name": "Deportivo Alavés",
+    "aliases": ["alaves", "alavés"],
+    "country": "spain"
+  },
+  "levante": {
+    "name": "Levante",
+    "aliases": ["levante"],
+    "country": "spain"
+  },
+  "real_oviedo": {
+    "name": "Real Oviedo",
+    "aliases": ["oviedo", "real oviedo"],
+    "country": "spain"
+  },
+  "galatasaray": {
+    "name": "Galatasaray",
+    "aliases": ["galatasaray"],
+    "country": "turkey"
+  },
+  "fenerbahce": {
+    "name": "Fenerbahçe",
+    "aliases": ["fenerbahce", "fenerbahçe"],
+    "country": "turkey"
+  },
+  "trabzonspor": {
+    "name": "Trabzonspor",
+    "aliases": ["trabzonspor"],
+    "country": "turkey"
+  },
+  "besiktas": {
+    "name": "Beşiktaş",
+    "aliases": ["besiktas", "beşiktaş"],
+    "country": "turkey"
+  },
+  "basaksehir": {
+    "name": "Başakşehir",
+    "aliases": ["basaksehir", "başakşehir"],
+    "country": "turkey"
+  },
+  "goztepe": {
+    "name": "Göztepe",
+    "aliases": ["goztepe", "göztepe"],
+    "country": "turkey"
+  },
+  "samsunspor": {
+    "name": "Samsunspor",
+    "aliases": ["samsunspor"],
+    "country": "turkey"
+  },
+  "rizespor": {
+    "name": "Çaykur Rizespor",
+    "aliases": ["rizespor", "caykur rizespor"],
+    "country": "turkey"
+  },
+  "konyaspor": {
+    "name": "Konyaspor",
+    "aliases": ["konyaspor"],
+    "country": "turkey"
+  },
+  "gaziantep": {
+    "name": "Gaziantep FK",
+    "aliases": ["gaziantep", "gaziantep fk"],
+    "country": "turkey"
+  },
+  "kocaelispor": {
+    "name": "Kocaelispor",
+    "aliases": ["kocaelispor"],
+    "country": "turkey"
+  },
+  "alanyaspor": {
+    "name": "Alanyaspor",
+    "aliases": ["alanyaspor"],
+    "country": "turkey"
+  },
+  "kasimpasa": {
+    "name": "Kasımpaşa",
+    "aliases": ["kasimpasa", "kasımpasa"],
+    "country": "turkey"
+  },
+  "antalyaspor": {
+    "name": "Antalyaspor",
+    "aliases": ["antalyaspor"],
+    "country": "turkey"
+  },
+  "genclerbirligi": {
+    "name": "Gençlerbirliği",
+    "aliases": ["genclerbirligi", "gençlerbirligi"],
+    "country": "turkey"
+  },
+  "eyupspor": {
+    "name": "Eyüpspor",
+    "aliases": ["eyupspor", "eyüpspor"],
+    "country": "turkey"
+  },
+  "kayserispor": {
+    "name": "Kayserispor",
+    "aliases": ["kayserispor"],
+    "country": "turkey"
+  },
+  "karagumruk": {
+    "name": "Fatih Karagümrük",
+    "aliases": ["karagumruk", "karagümrük"],
+    "country": "turkey"
+  },
+  "porto": {
+    "name": "FC Porto",
+    "aliases": ["porto", "fc porto", "oporto", "dragões", "dragoes"],
+    "country": "portugal"
+  },
+  "benfica": {
+    "name": "SL Benfica",
+    "aliases": ["benfica", "sl benfica", "águias", "aguias", "encarnados"],
+    "country": "portugal"
+  },
+  "sporting_cp": {
+    "name": "Sporting CP",
+    "aliases": ["sporting", "sporting cp", "sporting lisboa", "sporting lisbon", "leões", "leoes"],
+    "country": "portugal"
+  },
+  "braga": {
+    "name": "SC Braga",
+    "aliases": ["braga", "sc braga", "arsenalista", "guerreiros"],
+    "country": "portugal"
+  },
+  "famalicao": {
+    "name": "FC Famalicão",
+    "aliases": ["famalicao", "famalicão", "fc famalicão"],
+    "country": "portugal"
+  },
+  "gil_vicente": {
+    "name": "Gil Vicente",
+    "aliases": ["gil vicente", "gil vicente fc"],
+    "country": "portugal"
+  },
+  "vitoria_guimaraes": {
+    "name": "Vitória Guimarães",
+    "aliases": ["vitoria", "vitoria guimaraes", "vitória guimarães", "vitoria sc", "vitoria de guimaraes"],
+    "country": "portugal"
+  },
+  "moreirense": {
+    "name": "Moreirense FC",
+    "aliases": ["moreirense", "moreirense fc"],
+    "country": "portugal"
+  },
+  "estoril": {
+    "name": "Estoril Praia",
+    "aliases": ["estoril", "estoril praia", "gd estoril praia"],
+    "country": "portugal"
+  },
+  "alverca": {
+    "name": "Alverca",
+    "aliases": ["alverca", "fc alverca"],
+    "country": "portugal"
+  },
+  "arouca": {
+    "name": "FC Arouca",
+    "aliases": ["arouca", "fc arouca"],
+    "country": "portugal"
+  },
+  "rio_ave": {
+    "name": "Rio Ave FC",
+    "aliases": ["rio ave", "rio ave fc", "vilacondenses"],
+    "country": "portugal"
+  },
+  "santa_clara": {
+    "name": "Santa Clara",
+    "aliases": ["santa clara", "cd santa clara"],
+    "country": "portugal"
+  },
+  "nacional": {
+    "name": "Nacional",
+    "aliases": ["nacional", "cd nacional", "nacional da madeira"],
+    "country": "portugal"
+  },
+  "estrela": {
+    "name": "Estrela da Amadora",
+    "aliases": ["estrela", "estrela amadora", "estrela da amadora"],
+    "country": "portugal"
+  },
+  "casa_pia": {
+    "name": "Casa Pia AC",
+    "aliases": ["casa pia", "casa pia ac"],
+    "country": "portugal"
+  },
+  "tondela": {
+    "name": "CD Tondela",
+    "aliases": ["tondela", "cd tondela"],
+    "country": "portugal"
+  },
+  "al_nassr": {
+    "name": "Al Nassr",
+    "aliases": ["al nassr", "al-nassr", "nassr", "al nassr riyadh"],
+    "country": "saudi_arabia"
+  },
+  "al_hilal": {
+    "name": "Al-Hilal",
+    "aliases": ["al hilal", "al-hilal", "hilal"],
+    "country": "saudi_arabia"
+  },
+  "al_ahli": {
+    "name": "Al Ahli SC",
+    "aliases": ["al ahli", "al-ahli", "ahli", "al ahli sc"],
+    "country": "saudi_arabia"
+  },
+  "al_qadsiah": {
+    "name": "Al Qadsiah",
+    "aliases": ["al qadsiah", "al-qadsiah", "qadsiah"],
+    "country": "saudi_arabia"
+  },
+  "al_taawon": {
+    "name": "Al-Taawon",
+    "aliases": ["al taawon", "al-taawon", "taawon"],
+    "country": "saudi_arabia"
+  },
+  "al_ittihad": {
+    "name": "Al-Ittihad FC",
+    "aliases": ["al ittihad", "al-ittihad", "ittihad", "al ittihad fc"],
+    "country": "saudi_arabia"
+  },
+  "al_ettifaq": {
+    "name": "Al-Ettifaq",
+    "aliases": ["al ettifaq", "al-ettifaq", "ettifaq"],
+    "country": "saudi_arabia"
+  },
+  "neom_sc": {
+    "name": "Neom SC",
+    "aliases": ["neom", "neom sc"],
+    "country": "saudi_arabia"
+  },
+  "al_fayha": {
+    "name": "Al Fayha",
+    "aliases": ["al fayha", "al-fayha", "fayha"],
+    "country": "saudi_arabia"
+  },
+  "al_hazem": {
+    "name": "Al Hazem",
+    "aliases": ["al hazem", "al-hazem", "hazem"],
+    "country": "saudi_arabia"
+  },
+  "al_khaleej": {
+    "name": "Al Khaleej",
+    "aliases": ["al khaleej", "al-khaleej", "khaleej"],
+    "country": "saudi_arabia"
+  },
+  "al_shabab": {
+    "name": "Al Shabab",
+    "aliases": ["al shabab", "al-shabab", "shabab"],
+    "country": "saudi_arabia"
+  },
+  "al_kholood": {
+    "name": "Al Kholood",
+    "aliases": ["al kholood", "al-kholood", "kholood"],
+    "country": "saudi_arabia"
+  },
+  "al_fateh": {
+    "name": "Al Fateh",
+    "aliases": ["al fateh", "al-fateh", "fateh"],
+    "country": "saudi_arabia"
+  },
+  "damac": {
+    "name": "Damac",
+    "aliases": ["damac", "damac fc"],
+    "country": "saudi_arabia"
+  },
+  "al_riyadh": {
+    "name": "Al Riyadh",
+    "aliases": ["al riyadh", "al-riyadh", "riyadh"],
+    "country": "saudi_arabia"
+  },
+  "al_okhdood": {
+    "name": "Al Okhdood",
+    "aliases": ["al okhdood", "al-okhdood", "okhdood"],
+    "country": "saudi_arabia"
+  },
+  "al_najma": {
+    "name": "Al Najma",
+    "aliases": ["al najma", "al-najma", "najma"],
+    "country": "saudi_arabia"
+  },
+  "racing_montevideo": {
+    "name": "Racing Club de Montevideo",
+    "aliases": ["racing montevideo", "racing", "racing club"],
+    "country": "uruguay"
+  },
+  "maldonado": {
+    "name": "Deportivo Maldonado",
+    "aliases": ["maldonado", "dep maldonado"],
+    "country": "uruguay"
+  },
+  "penarol": {
+    "name": "Peñarol",
+    "aliases": ["peñarol", "penarol", "carboneros", "manyas"],
+    "country": "uruguay"
+  },
+  "albion": {
+    "name": "Albion FC",
+    "aliases": ["albion"],
+    "country": "uruguay"
+  },
+  "nacional_uy": {
+    "name": "Club Nacional de Football",
+    "aliases": ["nacional", "nacional uruguay", "bolsos", "tricolores"],
+    "country": "uruguay"
+  },
+  "central_espanol": {
+    "name": "Central Español",
+    "aliases": ["central espanol", "central español"],
+    "country": "uruguay"
+  },
+  "defensor_sporting": {
+    "name": "Defensor Sporting",
+    "aliases": ["defensor sporting", "defensor", "violetas"],
+    "country": "uruguay"
+  },
+  "montevideo_city": {
+    "name": "Montevideo City Torque",
+    "aliases": ["montevideo city", "city torque", "torque"],
+    "country": "uruguay"
+  },
+  "liverpool_montevideo": {
+    "name": "Liverpool Montevideo",
+    "aliases": ["liverpool montevideo", "liverpool uy", "negriazules"],
+    "country": "uruguay"
+  },
+  "danubio": {
+    "name": "Danubio FC",
+    "aliases": ["danubio", "franjeados"],
+    "country": "uruguay"
+  },
+  "cerro_largo": {
+    "name": "Cerro Largo FC",
+    "aliases": ["cerro largo", "arachanes"],
+    "country": "uruguay"
+  },
+  "boston_river": {
+    "name": "Boston River",
+    "aliases": ["boston river", "boston"],
+    "country": "uruguay"
+  },
+  "wanderers": {
+    "name": "Montevideo Wanderers",
+    "aliases": ["wanderers", "montevideo wanderers", "bohemios"],
+    "country": "uruguay"
+  },
+  "progreso": {
+    "name": "CA Progreso",
+    "aliases": ["progreso", "gauchos"],
+    "country": "uruguay"
+  },
+  "ca_cerro": {
+    "name": "CA Cerro",
+    "aliases": ["cerro", "ca cerro", "villeros"],
+    "country": "uruguay"
+  },
+  "juventud": {
+    "name": "Juventud de Las Piedras",
+    "aliases": ["juventud", "juventud piedras"],
+    "country": "uruguay"
+  }
+
+}
