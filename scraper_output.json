@@ -2053,6 +2053,41 @@
     "fuente": "elcanal"
   },
   {
+    "hora_utc": "2026-04-25T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Serie A",
+    "equipos": "Bologna vs. Roma",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://elcanaldeportivo.com/ver/espn4.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T16:15:00Z",
+    "logo": "img/default.png",
+    "liga": "FA Cup",
+    "equipos": "Manchester City vs. Southampton",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "ESPN (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
     "hora_utc": "2026-04-25T16:30:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
@@ -2067,6 +2102,21 @@
       {
         "nombre": "Dsports (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/dsports-sharecast.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Ligue 1",
+    "equipos": "Paris Saint-Germain vs. Angers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://elcanaldeportivo.com/ver/espn2.php",
         "calidad": "720p"
       }
     ],
@@ -2093,41 +2143,26 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T23:30:00Z",
+    "hora_utc": "2026-04-25T19:05:00Z",
     "logo": "img/default.png",
-    "liga": "agenda",
-    "equipos": "en actualización...",
+    "liga": "Ligue 1",
+    "equipos": "Toulouse vs. Monaco",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "",
-        "url": "",
+        "nombre": "ESPN 2",
+        "url": "https://elcanaldeportivo.com/ver/espn2.php",
         "calidad": "720p"
       }
     ],
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-26T02:30:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Spurs vs Trail Blazers",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Nba 3",
-        "url": "https://streamtpnew.com/global1.php?stream=nba3",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
     "hora_utc": "2026-04-26T03:00:00Z",
     "logo": "img/default.png",
     "liga": "Liga MX",
     "equipos": "Puebla vs Querétaro",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Tudn_Usa",

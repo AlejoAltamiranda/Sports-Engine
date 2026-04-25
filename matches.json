@@ -2238,6 +2238,51 @@
     ]
   },
   {
+    "hora_utc": "2026-04-25T16:00:00Z",
+    "liga": "Serie A",
+    "equipos": "Bologna vs AS Roma",
+    "team1": "Bologna",
+    "team2": "AS Roma",
+    "team1_country": "italy",
+    "team2_country": "italy",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/it.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://elcanaldeportivo.com/ver/espn4.php",
+        "calidad": "720p"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T16:15:00Z",
+    "liga": "FA Cup",
+    "equipos": "Manchester City vs Southampton",
+    "team1": "Manchester City",
+    "team2": "Southampton",
+    "team1_country": "england",
+    "team2_country": "england",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/en.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "ESPN (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
+        "calidad": "720p"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-04-25T16:30:00Z",
     "liga": "LaLiga",
     "equipos": "Valencia CF vs Girona",
@@ -2258,6 +2303,26 @@
       {
         "nombre": "Dsports (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/dsports-sharecast.php",
+        "calidad": "720p"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T17:00:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Paris Saint-Germain vs Angers SCO",
+    "team1": "Paris Saint-Germain",
+    "team2": "Angers SCO",
+    "team1_country": "france",
+    "team2_country": "france",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/fr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://elcanaldeportivo.com/ver/espn2.php",
         "calidad": "720p"
       }
     ]
@@ -2288,21 +2353,21 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T02:30:00Z",
-    "liga": "NBA",
-    "equipos": "Spurs vs Trail Blazers",
-    "team1": "Spurs",
-    "team2": "Trail Blazers",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
+    "hora_utc": "2026-04-25T19:05:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Toulouse FC vs AS Monaco",
+    "team1": "Toulouse FC",
+    "team2": "AS Monaco",
+    "team1_country": "france",
+    "team2_country": "france",
+    "same_country": true,
+    "confidence": 0.95,
+    "image": "img/fr.png",
+    "sport": "soccer",
     "canales": [
       {
-        "nombre": "Nba 3",
-        "url": "https://streamtpnew.com/global1.php?stream=nba3",
+        "nombre": "ESPN 2",
+        "url": "https://elcanaldeportivo.com/ver/espn2.php",
         "calidad": "720p"
       }
     ]
