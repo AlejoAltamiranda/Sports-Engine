@@ -1328,21 +1328,6 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-24T20:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa de Primera",
-    "equipos": "Nacional Asunción vs Deportivo Recoleta",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 2",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz2",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
     "hora_utc": "2026-04-24T21:00:00Z",
     "logo": "img/col.png",
     "liga": "Liga Betplay",
@@ -1358,29 +1343,19 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-24T21:00:00Z",
+    "hora_utc": "2026-04-24T21:00Z",
     "logo": "img/col.png",
-    "liga": "Liga BetPlay",
+    "liga": "Primera A",
     "equipos": "Cúcuta Deportivo vs Junior",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Sports+2",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
-        "calidad": "720p"
-      },
       {
         "nombre": "Win Futbol",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-24T22:00:00Z",
@@ -1398,24 +1373,19 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-24T22:00:00Z",
+    "hora_utc": "2026-04-24T22:00Z",
     "logo": "img/cl.png",
-    "liga": "Liga de Primera",
+    "liga": "Primera Division",
     "equipos": "Unión La Calera vs Coquimbo Unido",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Max 2",
-        "url": "https://streamtpnew.com/global1.php?stream=max2",
-        "calidad": "720p"
-      },
       {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-24T22:15:00Z",
@@ -1448,22 +1418,12 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-24T22:15:00Z",
+    "hora_utc": "2026-04-24T22:15Z",
     "logo": "img/ar.png",
-    "liga": "Liga Profesional",
+    "liga": "Primera División",
     "equipos": "Lanús vs Central Córdoba SdE",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Fanatiz 3",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnpremium",
-        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
-        "calidad": "720p"
-      },
       {
         "nombre": "ESPN",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free",
@@ -1475,92 +1435,22 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-24T22:15:00Z",
+    "hora_utc": "2026-04-24T22:15Z",
     "logo": "img/ar.png",
-    "liga": "Liga Profesional",
+    "liga": "Primera División",
     "equipos": "Estudiantes Río Cuarto vs Rosario Central",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Fanatiz 4",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz4",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Tntsports",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
-        "calidad": "720p"
-      },
       {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-24T22:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Primera División",
-    "equipos": "Torque vs Boston River",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Disney+1",
-        "url": "https://streamtpnew.com/global1.php?stream=disney1",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-24T23:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa de Primera",
-    "equipos": "Cerro Porteño vs Sportivo Ameliano",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fanatiz 5",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz5",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-24T23:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Celtics vs 76ers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Nba 1",
-        "url": "https://streamtpnew.com/global1.php?stream=nba1",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T00:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Lakers vs Rockets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Nba 2",
-        "url": "https://streamtpnew.com/global1.php?stream=nba2",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-25T00:30:00Z",
@@ -1608,42 +1498,12 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T00:30:00Z",
+    "hora_utc": "2026-04-25T00:30Z",
     "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Platense vs San Lorenzo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fanatiz 6",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz6",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnpremium",
-        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T00:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
+    "liga": "Primera División",
     "equipos": "Racing Club vs Barracas Central",
-    "status": "pronto",
+    "status": "live",
     "canales": [
-      {
-        "nombre": "Fanatiz 7",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz7",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Tntsports",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
-        "calidad": "720p"
-      },
       {
         "nombre": "Arena 2 Premium",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free",
@@ -1665,42 +1525,22 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-25T00:30:00Z",
+    "hora_utc": "2026-04-25T00:30Z",
     "logo": "img/cl.png",
-    "liga": "Liga de Primera",
+    "liga": "Primera Division",
     "equipos": "Audax Italiano vs Deportes Limache",
-    "status": "pronto",
+    "status": "live",
     "canales": [
-      {
-        "nombre": "Max 1",
-        "url": "https://streamtpnew.com/global1.php?stream=max1",
-        "calidad": "720p"
-      },
       {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T02:30:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Spurs vs Trail Blazers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Nba 3",
-        "url": "https://streamtpnew.com/global1.php?stream=nba3",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-25T03:00:00Z",
@@ -1718,7 +1558,262 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T03:00:00Z",
+    "hora_utc": "2026-04-25T03:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga MX",
+    "equipos": "Puebla vs Querétaro",
+    "status": "upcoming",
+    "canales": [
+      {
+        "nombre": "TUDN",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-25T11:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Premier League",
+    "equipos": "Fulham vs. Aston Villa",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://elcanaldeportivo.com/ver/espn2.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T12:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Deportivo Alavés vs. RCD Mallorca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "ESPN (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T13:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Bundesliga",
+    "equipos": "FSV Mainz 05 vs. Bayern Munich",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://elcanaldeportivo.com/ver/espn2.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T14:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Premier League",
+    "equipos": "Wolverhampton Wanderers vs. Tottenham Hotspur",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Universo",
+        "url": "https://elcanaldeportivo.com/ver/universo.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T14:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Premier League",
+    "equipos": "Liverpool vs. Crystal Palace",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://elcanaldeportivo.com/ver/disneyplus.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T14:15:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Getafe CF vs. Barcelona",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "ESPN (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T16:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Valencia vs. Girona",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "url": "https://elcanaldeportivo.com/ver/directvsports.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Dsports (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/dsports-sharecast.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T19:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Atlético de Madrid vs. vs. Athletic Club",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "url": "https://elcanaldeportivo.com/ver/directvsports.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Dsports (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/dsports-sharecast.php",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-25T23:30:00Z",
+    "logo": "img/default.png",
+    "liga": "agenda",
+    "equipos": "en actualización...",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "",
+        "url": "",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "elcanal"
+  },
+  {
+    "hora_utc": "2026-04-26T00:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Lakers vs Rockets",
+    "status": "en vivo",
+    "canales": [
+      {
+        "nombre": "Nba 2",
+        "url": "https://streamtpnew.com/global1.php?stream=nba2",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-26T00:30:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "Platense vs San Lorenzo",
+    "status": "en vivo",
+    "canales": [
+      {
+        "nombre": "Fanatiz 6",
+        "url": "https://streamtpnew.com/global1.php?stream=fanatiz6",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Espnpremium",
+        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-26T00:30:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "Racing Club vs Barracas Central",
+    "status": "en vivo",
+    "canales": [
+      {
+        "nombre": "Fanatiz 7",
+        "url": "https://streamtpnew.com/global1.php?stream=fanatiz7",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Tntsports",
+        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-26T00:30:00Z",
+    "logo": "img/cl.png",
+    "liga": "Liga de Primera",
+    "equipos": "Audax Italiano vs Deportes Limache",
+    "status": "en vivo",
+    "canales": [
+      {
+        "nombre": "Max 1",
+        "url": "https://streamtpnew.com/global1.php?stream=max1",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-26T02:30:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Spurs vs Trail Blazers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Nba 3",
+        "url": "https://streamtpnew.com/global1.php?stream=nba3",
+        "calidad": "720p"
+      }
+    ],
+    "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-26T03:00:00Z",
     "logo": "img/default.png",
     "liga": "Liga MX",
     "equipos": "Puebla vs Querétaro",
@@ -1728,11 +1823,6 @@
         "nombre": "Tudn_Usa",
         "url": "https://streamtpnew.com/global1.php?stream=tudn_usa",
         "calidad": "720p"
-      },
-      {
-        "nombre": "TUDN",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
       }
     ],
     "fuente": "streamtp"
