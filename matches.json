@@ -523,7 +523,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -548,7 +548,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -588,7 +588,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -897,7 +897,7 @@
     "team1_country": "turkey",
     "team2_country": "turkey",
     "same_country": true,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "image": "img/tr.png",
     "sport": "soccer",
     "canales": [
@@ -917,8 +917,8 @@
     "team1_country": "spain",
     "team2_country": "spain",
     "same_country": true,
-    "confidence": 0.9,
-    "image": "img/esp.png",
+    "confidence": 0.93,
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1493,8 +1493,8 @@
     "team1_country": "germany",
     "team2_country": "germany",
     "same_country": true,
-    "confidence": 0.88,
-    "image": "img/ale.png",
+    "confidence": 0.9,
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1599,7 +1599,7 @@
     "team2_country": "germany",
     "same_country": true,
     "confidence": 0.95,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1639,7 +1639,7 @@
     "team2_country": "germany",
     "same_country": true,
     "confidence": 0.95,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1669,7 +1669,7 @@
     "team2_country": "germany",
     "same_country": true,
     "confidence": 0.97,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1708,8 +1708,8 @@
     "team1_country": "germany",
     "team2_country": "germany",
     "same_country": true,
-    "confidence": 0.9,
-    "image": "img/ale.png",
+    "confidence": 0.93,
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1961,8 +1961,8 @@
     "team1": "West Ham United",
     "team2": "Everton",
     "team1_country": "england",
-    "team2_country": "chile",
-    "same_country": false,
+    "team2_country": "england",
+    "same_country": true,
     "confidence": 1.0,
     "image": "img/en.png",
     "sport": "soccer",
@@ -2083,7 +2083,7 @@
     "team1_country": "turkey",
     "team2_country": "turkey",
     "same_country": true,
-    "confidence": 0.97,
+    "confidence": 0.88,
     "image": "img/tr.png",
     "sport": "soccer",
     "canales": [
@@ -2097,14 +2097,14 @@
   {
     "hora_utc": "2026-04-25T14:15:00Z",
     "liga": "LaLiga",
-    "equipos": "Getafe vs Barcelona SC",
+    "equipos": "Getafe vs FC Barcelona",
     "team1": "Getafe",
-    "team2": "Barcelona SC",
+    "team2": "FC Barcelona",
     "team1_country": "spain",
-    "team2_country": "ecuador",
-    "same_country": false,
-    "confidence": 0.88,
-    "image": "img/esp.png",
+    "team2_country": "spain",
+    "same_country": true,
+    "confidence": 0.9,
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -2273,8 +2273,8 @@
     "team1_country": "unknown",
     "team2_country": "spain",
     "same_country": false,
-    "confidence": 0.4,
-    "image": "img/esp.png",
+    "confidence": 0.35,
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -2327,13 +2327,13 @@
   {
     "hora_utc": "2026-04-25T14:30Z",
     "liga": "Primeira Liga",
-    "equipos": "CD Tondela vs Atlético Nacional",
+    "equipos": "CD Tondela vs Nacional",
     "team1": "CD Tondela",
-    "team2": "Atlético Nacional",
+    "team2": "Nacional",
     "team1_country": "portugal",
-    "team2_country": "colombia",
-    "same_country": false,
-    "confidence": 0.95,
+    "team2_country": "portugal",
+    "same_country": true,
+    "confidence": 0.97,
     "image": "img/pt.png",
     "sport": "soccer",
     "canales": [
@@ -2353,7 +2353,7 @@
     "team1_country": "uruguay",
     "team2_country": "england",
     "same_country": false,
-    "confidence": 0.97,
+    "confidence": 0.88,
     "image": "img/ar.png",
     "sport": "soccer",
     "canales": [
@@ -2374,7 +2374,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -2394,7 +2394,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": []
   },
@@ -2586,7 +2586,7 @@
     "team1_country": "england",
     "team2_country": "england",
     "same_country": true,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "image": "img/en.png",
     "sport": "soccer",
     "canales": [
@@ -2761,7 +2761,7 @@
     "team1_country": "saudi_arabia",
     "team2_country": "unknown",
     "same_country": false,
-    "confidence": 0.47,
+    "confidence": 0.42,
     "image": "img/default.png",
     "sport": "soccer",
     "canales": [
@@ -2796,7 +2796,7 @@
     "team1_country": "germany",
     "team2_country": "ecuador",
     "same_country": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "image": "img/default.png",
     "sport": "soccer",
     "canales": [
@@ -2822,7 +2822,7 @@
     "team2_country": "spain",
     "same_country": true,
     "confidence": 0.97,
-    "image": "img/esp.png",
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -2937,7 +2937,7 @@
     "team2_country": "germany",
     "same_country": true,
     "confidence": 0.97,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -3157,7 +3157,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/esp.png",
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -3182,7 +3182,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.5,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -3440,7 +3440,7 @@
     "team1_country": "turkey",
     "team2_country": "turkey",
     "same_country": true,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "image": "img/tr.png",
     "sport": "soccer",
     "canales": [
@@ -3858,7 +3858,7 @@
     "team1_country": "uruguay",
     "team2_country": "uruguay",
     "same_country": true,
-    "confidence": 0.97,
+    "confidence": 0.88,
     "image": "img/uy.png",
     "sport": "soccer",
     "canales": [
@@ -4031,7 +4031,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ale.png",
+    "image": "img/de.png",
     "sport": "soccer",
     "canales": [
       {
@@ -4200,8 +4200,8 @@
     "team1_country": "spain",
     "team2_country": "spain",
     "same_country": true,
-    "confidence": 0.9,
-    "image": "img/esp.png",
+    "confidence": 0.93,
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -4366,7 +4366,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/esp.png",
+    "image": "img/es.png",
     "sport": "soccer",
     "canales": [
       {
@@ -4459,13 +4459,13 @@
   {
     "hora_utc": "2026-04-25T19:00Z",
     "liga": "Eredivisie",
-    "equipos": "FC Twente vs Necaxa",
+    "equipos": "FC Twente vs NEC Nijmegen",
     "team1": "FC Twente",
-    "team2": "Necaxa",
+    "team2": "NEC Nijmegen",
     "team1_country": "netherlands",
-    "team2_country": "mexico",
-    "same_country": false,
-    "confidence": 0.88,
+    "team2_country": "netherlands",
+    "same_country": true,
+    "confidence": 0.9,
     "image": "img/nl.png",
     "sport": "soccer",
     "canales": [
@@ -4575,7 +4575,7 @@
     "team1_country": "unknown",
     "team2_country": "turkey",
     "same_country": false,
-    "confidence": 0.4,
+    "confidence": 0.35,
     "image": "img/nba.png",
     "sport": "nba",
     "canales": [
@@ -4740,7 +4740,7 @@
     "team1_country": "paraguay",
     "team2_country": "paraguay",
     "same_country": true,
-    "confidence": 1.0,
+    "confidence": 0.9,
     "image": "img/py.png",
     "sport": "soccer",
     "canales": [
@@ -4960,7 +4960,7 @@
     "team1_country": "colombia",
     "team2_country": "uruguay",
     "same_country": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "image": "img/ar.png",
     "sport": "soccer",
     "canales": [
@@ -5035,7 +5035,7 @@
     "team1_country": "ecuador",
     "team2_country": "paraguay",
     "same_country": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "image": "img/default.png",
     "sport": "soccer",
     "canales": [
@@ -5669,14 +5669,14 @@
   {
     "hora_utc": "2026-04-26T03:00:00Z",
     "liga": "Liga MX",
-    "equipos": "América de Cali vs Atlas",
-    "team1": "América de Cali",
+    "equipos": "Club América vs Atlas",
+    "team1": "Club América",
     "team2": "Atlas",
-    "team1_country": "colombia",
+    "team1_country": "mexico",
     "team2_country": "mexico",
-    "same_country": false,
+    "same_country": true,
     "confidence": 0.97,
-    "image": "img/default.png",
+    "image": "img/mx.png",
     "sport": "soccer",
     "canales": [
       {
