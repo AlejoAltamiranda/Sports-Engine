@@ -1134,161 +1134,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T13:00:00Z",
-    "liga": "Serie A",
-    "equipos": "Parma vs Pisa",
-    "team1": "Parma",
-    "team2": "Pisa",
-    "team1_country": "italy",
-    "team2_country": "italy",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/it.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+4",
-        "url": "https://streamtpnew.com/global1.php?stream=disney4",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fox_Deportes_Usa",
-        "url": "https://streamtpnew.com/global1.php?stream=fox_deportes_usa",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnmx",
-        "url": "https://streamtpnew.com/global1.php?stream=espnmx",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "SuperSport Football",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DAZN 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport TV 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Ziggo Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Cosmote Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Match Football 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Max Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 7",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+7&code=rs&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TV4 Sport Live 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+1&code=se&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Prima Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T13:00:00Z",
-    "liga": "Ligue 1",
-    "equipos": "Olympique Lyonnais vs AJ Auxerre",
-    "team1": "Olympique Lyonnais",
-    "team2": "AJ Auxerre",
-    "team1_country": "france",
-    "team2_country": "france",
-    "same_country": true,
-    "confidence": 0.97,
-    "image": "img/fr.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+5",
-        "url": "https://streamtpnew.com/global1.php?stream=disney5",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "beIN SPORTS",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS N",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport TV 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Nova Sport 5",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+5&code=cz&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport 5",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-25T13:00Z",
     "liga": "1. Lig",
     "equipos": "Adana Demirspor vs Ümranıyespor",
@@ -1364,6 +1209,141 @@
       {
         "nombre": "Diema Sport 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T13:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Olympique Lyonnais vs AJ Auxerre",
+    "team1": "Olympique Lyonnais",
+    "team2": "AJ Auxerre",
+    "team1_country": "france",
+    "team2_country": "france",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/fr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS N",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport TV 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Nova Sport 5",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+5&code=cz&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport 5",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T13:00Z",
+    "liga": "Serie A",
+    "equipos": "Parma vs Pisa",
+    "team1": "Parma",
+    "team2": "Pisa",
+    "team1_country": "italy",
+    "team2_country": "italy",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/it.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SuperSport Football",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DAZN 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport TV 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Ziggo Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Cosmote Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Match Football 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Max Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 7",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+7&code=rs&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV4 Sport Live 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+1&code=se&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Prima Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -1468,16 +1448,6 @@
         "calidad": "720p"
       },
       {
-        "nombre": "Disney+6",
-        "url": "https://streamtpnew.com/global1.php?stream=disney6",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn",
-        "url": "https://streamtpnew.com/global1.php?stream=espn",
-        "calidad": "720p"
-      },
-      {
         "nombre": "beIN SPORTS 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free",
         "calidad": "HD"
@@ -1555,7 +1525,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T13:30:00Z",
+    "hora_utc": "2026-04-25T13:30Z",
     "liga": "Bundesliga",
     "equipos": "VfL Wolfsburg vs Borussia Mönchengladbach",
     "team1": "VfL Wolfsburg",
@@ -1567,11 +1537,6 @@
     "image": "img/de.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+7",
-        "url": "https://streamtpnew.com/global1.php?stream=disney7",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS MAX 8",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+8&code=fr&user=cdnlivetv&plan=free",
@@ -1595,7 +1560,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T13:30:00Z",
+    "hora_utc": "2026-04-25T13:30Z",
     "liga": "Bundesliga",
     "equipos": "1. FC Heidenheim vs FC St. Pauli",
     "team1": "1. FC Heidenheim",
@@ -1607,11 +1572,6 @@
     "image": "img/de.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+8",
-        "url": "https://streamtpnew.com/global1.php?stream=disney8",
-        "calidad": "720p"
-      },
       {
         "nombre": "Sky Sport Bundesliga 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+3&code=de&user=cdnlivetv&plan=free",
@@ -1625,7 +1585,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T13:30:00Z",
+    "hora_utc": "2026-04-25T13:30Z",
     "liga": "Bundesliga",
     "equipos": "FC Augsburg vs Eintracht Frankfurt",
     "team1": "FC Augsburg",
@@ -1637,11 +1597,6 @@
     "image": "img/de.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+9",
-        "url": "https://streamtpnew.com/global1.php?stream=disney9",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS MAX 7",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+7&code=fr&user=cdnlivetv&plan=free",
@@ -1665,7 +1620,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T13:30:00Z",
+    "hora_utc": "2026-04-25T13:30Z",
     "liga": "Bundesliga",
     "equipos": "1. FC Köln vs Bayer Leverkusen",
     "team1": "1. FC Köln",
@@ -1677,11 +1632,6 @@
     "image": "img/de.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+10",
-        "url": "https://streamtpnew.com/global1.php?stream=disney10",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS MAX 6",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free",
@@ -1730,16 +1680,6 @@
       {
         "nombre": "Universo",
         "url": "https://elcanaldeportivo.com/ver/universo.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Disney+13",
-        "url": "https://streamtpnew.com/global1.php?stream=disney13",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Max 1",
-        "url": "https://streamtpnew.com/global1.php?stream=max1",
         "calidad": "720p"
       },
       {
@@ -1843,11 +1783,6 @@
         "calidad": "720p"
       },
       {
-        "nombre": "Disney+11",
-        "url": "https://streamtpnew.com/global1.php?stream=disney11",
-        "calidad": "720p"
-      },
-      {
         "nombre": "Astro Premier League 2",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league+2&code=us&user=cdnlivetv&plan=free",
         "calidad": "HD"
@@ -1920,7 +1855,27 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T14:00:00Z",
+    "hora_utc": "2026-04-25T14:00Z",
+    "liga": "Super Lig",
+    "equipos": "Kayserispor vs Çaykur Rizespor",
+    "team1": "Kayserispor",
+    "team2": "Çaykur Rizespor",
+    "team1_country": "turkey",
+    "team2_country": "turkey",
+    "same_country": true,
+    "confidence": 0.88,
+    "image": "img/tr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T14:00Z",
     "liga": "Premier League",
     "equipos": "West Ham United vs Everton",
     "team1": "West Ham United",
@@ -1932,11 +1887,6 @@
     "image": "img/en.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+12",
-        "url": "https://streamtpnew.com/global1.php?stream=disney12",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS MENA 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free",
@@ -2000,7 +1950,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T14:00:00Z",
+    "hora_utc": "2026-04-25T14:00Z",
     "liga": "Championship",
     "equipos": "Queens Park Rangers vs Derby County",
     "team1": "Queens Park Rangers",
@@ -2012,11 +1962,6 @@
     "image": "img/en.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+14",
-        "url": "https://streamtpnew.com/global1.php?stream=disney14",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS MENA 2",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free",
@@ -2035,26 +1980,6 @@
       {
         "nombre": "Arena Sport 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=rs&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T14:00Z",
-    "liga": "Super Lig",
-    "equipos": "Kayserispor vs Çaykur Rizespor",
-    "team1": "Kayserispor",
-    "team2": "Çaykur Rizespor",
-    "team1_country": "turkey",
-    "team2_country": "turkey",
-    "same_country": true,
-    "confidence": 0.88,
-    "image": "img/tr.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -2080,26 +2005,6 @@
       {
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Disney+15",
-        "url": "https://streamtpnew.com/global1.php?stream=disney15",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 3",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 4",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus4",
         "calidad": "720p"
       },
       {
@@ -2230,8 +2135,8 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T14:15:00Z",
-    "liga": "LaLiga 2",
+    "hora_utc": "2026-04-25T14:15Z",
+    "liga": "Segunda Division",
     "equipos": "Real Valladolid vs Real Sociedad",
     "team1": "Real Valladolid",
     "team2": "Real Sociedad",
@@ -2239,52 +2144,12 @@
     "team2_country": "spain",
     "same_country": false,
     "confidence": 0.35,
-    "image": "img/es.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Laligahypermotion",
-        "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion",
-        "calidad": "720p"
-      },
       {
         "nombre": "LaLiga TV Hypermotion 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T14:30:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Feyenoord vs FC Groningen",
-    "team1": "Feyenoord",
-    "team2": "FC Groningen",
-    "team1_country": "netherlands",
-    "team2_country": "netherlands",
-    "same_country": true,
-    "confidence": 0.97,
-    "image": "img/nl.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+16",
-        "url": "https://streamtpnew.com/global1.php?stream=disney16",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "SportDigital Fussball",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Nova Sports 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -2305,6 +2170,36 @@
       {
         "nombre": "Sport TV 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T14:30Z",
+    "liga": "Eredivisie",
+    "equipos": "Feyenoord vs FC Groningen",
+    "team1": "Feyenoord",
+    "team2": "FC Groningen",
+    "team1_country": "netherlands",
+    "team2_country": "netherlands",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/nl.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "SportDigital Fussball",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Nova Sports 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+2&code=gr&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -4158,6 +4053,71 @@
   },
   {
     "hora_utc": "2026-04-25T19:00:00Z",
+    "liga": "Futbol Argentino",
+    "equipos": "Ñublense vs O'Higgins",
+    "team1": "Ñublense",
+    "team2": "O'Higgins",
+    "team1_country": "chile",
+    "team2_country": "chile",
+    "same_country": true,
+    "confidence": 0.9,
+    "image": "img/cl.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premium",
+        "url": "https://elcanaldeportivo.com/ver/tntsportspremium.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Max 3",
+        "url": "https://streamtpnew.com/global1.php?stream=max3",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "TNT Sports",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T19:00:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Atlético Bucaramanga vs Jaguares de Córdoba",
+    "team1": "Atlético Bucaramanga",
+    "team2": "Jaguares de Córdoba",
+    "team1_country": "colombia",
+    "team2_country": "colombia",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/col.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Win Sports+",
+        "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Win Sports+",
+        "url": "https://streamtpnew.com/global1.php?stream=winplus",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Win Sports+2",
+        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Win Futbol",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T19:00:00Z",
     "liga": "LaLiga",
     "equipos": "Atlético de Madrid vs Athletic Club",
     "team1": "Atlético de Madrid",
@@ -4367,61 +4327,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T19:00:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "Ñublense vs O'Higgins",
-    "team1": "Ñublense",
-    "team2": "O'Higgins",
-    "team1_country": "chile",
-    "team2_country": "chile",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/cl.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Max 3",
-        "url": "https://streamtpnew.com/global1.php?stream=max3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "TNT Sports",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T19:00:00Z",
-    "liga": "Liga BetPlay",
-    "equipos": "Atlético Bucaramanga vs Jaguares de Córdoba",
-    "team1": "Atlético Bucaramanga",
-    "team2": "Jaguares de Córdoba",
-    "team1_country": "colombia",
-    "team2_country": "colombia",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/col.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Sports+2",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Futbol",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-25T19:00Z",
     "liga": "Eredivisie",
     "equipos": "FC Twente vs NEC Nijmegen",
@@ -4593,17 +4498,22 @@
   },
   {
     "hora_utc": "2026-04-25T20:00:00Z",
-    "liga": "Liga Profesional",
+    "liga": "Futbol Argentino",
     "equipos": "Estudiantes de La Plata vs Talleres",
     "team1": "Estudiantes de La Plata",
     "team2": "Talleres",
     "team1_country": "argentina",
     "team2_country": "argentina",
     "same_country": true,
-    "confidence": 0.95,
+    "confidence": 0.97,
     "image": "img/ar.png",
     "sport": "soccer",
     "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://elcanaldeportivo.com/ver/tntsports.php",
+        "calidad": "720p"
+      },
       {
         "nombre": "Fanatiz 2",
         "url": "https://streamtpnew.com/global1.php?stream=fanatiz2",
@@ -4738,6 +4648,41 @@
   },
   {
     "hora_utc": "2026-04-25T21:00:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Deportivo Pereira vs Atlético Nacional",
+    "team1": "Deportivo Pereira",
+    "team2": "Atlético Nacional",
+    "team1_country": "colombia",
+    "team2_country": "colombia",
+    "same_country": true,
+    "confidence": 0.95,
+    "image": "img/col.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Win Sports+",
+        "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Win Sports+",
+        "url": "https://streamtpnew.com/global1.php?stream=winplus",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Win Sports+2",
+        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "Win Futbol",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T21:00:00Z",
     "liga": "UFC Fight Night",
     "equipos": "Sterling vs Zalal, preliminares",
     "team1": "Sterling",
@@ -4753,36 +4698,6 @@
         "nombre": "Paramount+",
         "url": "https://elcanaldeportivo.com/ver/paramountplus.php",
         "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T21:00:00Z",
-    "liga": "Liga BetPlay",
-    "equipos": "Deportivo Pereira vs Atlético Nacional",
-    "team1": "Deportivo Pereira",
-    "team2": "Atlético Nacional",
-    "team1_country": "colombia",
-    "team2_country": "colombia",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/col.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Sports+2",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Futbol",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free",
-        "calidad": "HD"
       }
     ]
   },
@@ -4893,6 +4808,26 @@
   },
   {
     "hora_utc": "2026-04-25T22:00:00Z",
+    "liga": "Futbol Argentino",
+    "equipos": "Universidad de Chile vs Universidad Católica",
+    "team1": "Universidad de Chile",
+    "team2": "Universidad Católica",
+    "team1_country": "chile",
+    "team2_country": "chile",
+    "same_country": true,
+    "confidence": 0.85,
+    "image": "img/cl.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premium",
+        "url": "https://elcanaldeportivo.com/ver/tntsportspremium.php",
+        "calidad": "720p"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T22:00:00Z",
     "liga": "Liga de Primera",
     "equipos": "Universidad Chile vs Universidad Católica",
     "team1": "Universidad Chile",
@@ -4963,17 +4898,22 @@
   },
   {
     "hora_utc": "2026-04-25T22:15:00Z",
-    "liga": "Liga Profesional",
+    "liga": "Futbol Argentino",
     "equipos": "Sarmiento vs Tigre",
     "team1": "Sarmiento",
     "team2": "Tigre",
     "team1_country": "argentina",
     "team2_country": "argentina",
     "same_country": true,
-    "confidence": 1.0,
+    "confidence": 0.93,
     "image": "img/ar.png",
     "sport": "soccer",
     "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://elcanaldeportivo.com/ver/espnpremium.php",
+        "calidad": "720p"
+      },
       {
         "nombre": "Fanatiz 8",
         "url": "https://streamtpnew.com/global1.php?stream=fanatiz8",
@@ -5078,7 +5018,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:10:00Z",
-    "liga": "Liga BetPlay",
+    "liga": "Liga Betplay",
     "equipos": "Deportivo Cali vs América de Cali",
     "team1": "Deportivo Cali",
     "team2": "América de Cali",
@@ -5089,6 +5029,11 @@
     "image": "img/col.png",
     "sport": "soccer",
     "canales": [
+      {
+        "nombre": "Win Sports+",
+        "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
+        "calidad": "720p"
+      },
       {
         "nombre": "Win Sports+",
         "url": "https://streamtpnew.com/global1.php?stream=winplus",
@@ -5283,7 +5228,7 @@
   },
   {
     "hora_utc": "2026-04-26T00:30:00Z",
-    "liga": "Liga Profesional",
+    "liga": "Futbol Argentino",
     "equipos": "River Plate vs Aldosivi",
     "team1": "River Plate",
     "team2": "Aldosivi",
@@ -5294,6 +5239,21 @@
     "image": "img/ar.png",
     "sport": "soccer",
     "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://elcanaldeportivo.com/ver/tntsports.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://elcanaldeportivo.com/ver/espn.php",
+        "calidad": "720p"
+      },
+      {
+        "nombre": "ESPN (Sharecast)",
+        "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
+        "calidad": "720p"
+      },
       {
         "nombre": "Disney+10",
         "url": "https://streamtpnew.com/global1.php?stream=disney10",
@@ -5528,17 +5488,22 @@
   },
   {
     "hora_utc": "2026-04-26T01:30:00Z",
-    "liga": "Liga BetPlay",
+    "liga": "Liga Betplay",
     "equipos": "Independiente Medellín vs Fortaleza CEIF",
     "team1": "Independiente Medellín",
     "team2": "Fortaleza CEIF",
     "team1_country": "colombia",
     "team2_country": "colombia",
     "same_country": true,
-    "confidence": 0.97,
+    "confidence": 0.95,
     "image": "img/col.png",
     "sport": "soccer",
     "canales": [
+      {
+        "nombre": "Win Sports+",
+        "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
+        "calidad": "720p"
+      },
       {
         "nombre": "Win Sports+",
         "url": "https://streamtpnew.com/global1.php?stream=winplus",
