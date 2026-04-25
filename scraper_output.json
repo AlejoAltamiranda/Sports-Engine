@@ -1562,7 +1562,7 @@
     "logo": "img/default.png",
     "liga": "Liga MX",
     "equipos": "Puebla vs Querétaro",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "TUDN",
@@ -1726,21 +1726,6 @@
       }
     ],
     "fuente": "elcanal"
-  },
-  {
-    "hora_utc": "2026-04-26T00:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Lakers vs Rockets",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Nba 2",
-        "url": "https://streamtpnew.com/global1.php?stream=nba2",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
   },
   {
     "hora_utc": "2026-04-26T00:30:00Z",

@@ -1388,11 +1388,11 @@
     "equipos": "Leicester City vs Millwall",
     "team1": "Leicester City",
     "team2": "Millwall",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
+    "team1_country": "england",
+    "team2_country": "england",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/en.png",
     "sport": "soccer",
     "canales": [
       {
@@ -1540,13 +1540,13 @@
   {
     "hora_utc": "2026-04-24T22:00:00Z",
     "liga": "Futbol Chileno",
-    "equipos": "U La Calera vs Coquimbo Unido",
-    "team1": "U La Calera",
+    "equipos": "Unión La Calera vs Coquimbo Unido",
+    "team1": "Unión La Calera",
     "team2": "Coquimbo Unido",
-    "team1_country": "unknown",
+    "team1_country": "chile",
     "team2_country": "chile",
-    "same_country": false,
-    "confidence": 0.47,
+    "same_country": true,
+    "confidence": 0.95,
     "image": "img/cl.png",
     "sport": "soccer",
     "canales": [
@@ -1554,22 +1554,7 @@
         "nombre": "TNT Sports Premium",
         "url": "https://elcanaldeportivo.com/ver/tntsportspremium.php",
         "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-24T22:00Z",
-    "liga": "Primera Division",
-    "equipos": "Unión La Calera vs Coquimbo Unido",
-    "team1": "Unión La Calera",
-    "team2": "Coquimbo Unido",
-    "team1_country": "chile",
-    "team2_country": "chile",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/cl.png",
-    "sport": "soccer",
-    "canales": [
+      },
       {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free",
@@ -1898,26 +1883,6 @@
       {
         "nombre": "Dsports (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/dsports-sharecast.php",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T00:00:00Z",
-    "liga": "NBA",
-    "equipos": "Lakers vs Rockets",
-    "team1": "Lakers",
-    "team2": "Rockets",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Nba 2",
-        "url": "https://streamtpnew.com/global1.php?stream=nba2",
         "calidad": "720p"
       }
     ]
