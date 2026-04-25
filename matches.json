@@ -1618,6 +1618,26 @@
     ]
   },
   {
+    "hora_utc": "2026-04-24T22:40Z",
+    "liga": "MLB",
+    "equipos": "Detroit Tigers vs Cincinnati Reds",
+    "team1": "Detroit Tigers",
+    "team2": "Cincinnati Reds",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2110",
+        "url": "https://sharkstreams.net/player.php?channel=2110",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-04-24T23:00Z",
     "liga": "NFL",
     "equipos": "2026 NFL Draft vs Day 2",
@@ -1628,7 +1648,7 @@
     "same_country": false,
     "confidence": 0.0,
     "image": "img/default.png",
-    "sport": "soccer",
+    "sport": "nfl",
     "canales": [
       {
         "nombre": "2125",
@@ -1658,6 +1678,26 @@
     ]
   },
   {
+    "hora_utc": "2026-04-24T23:05Z",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Baltimore Orioles",
+    "team1": "Boston Red Sox",
+    "team2": "Baltimore Orioles",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2111",
+        "url": "https://sharkstreams.net/player.php?channel=2111",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-04-24T23:07Z",
     "liga": "MLB",
     "equipos": "Cleveland Guardians vs Toronto Blue Jays",
@@ -1668,11 +1708,51 @@
     "same_country": false,
     "confidence": 0.0,
     "image": "img/mlb.png",
-    "sport": "nba",
+    "sport": "mlb",
     "canales": [
       {
         "nombre": "2112",
         "url": "https://sharkstreams.net/player.php?channel=2112",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:10Z",
+    "liga": "MLB",
+    "equipos": "Minnesota Twins vs Tampa Bay Rays",
+    "team1": "Minnesota Twins",
+    "team2": "Tampa Bay Rays",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2113",
+        "url": "https://sharkstreams.net/player.php?channel=2113",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:10Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Mets",
+    "team1": "Colorado Rockies",
+    "team2": "New York Mets",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2114",
+        "url": "https://sharkstreams.net/player.php?channel=2114",
         "calidad": "HD"
       }
     ]
@@ -1688,7 +1768,7 @@
     "same_country": false,
     "confidence": 0.0,
     "image": "img/mlb.png",
-    "sport": "nba",
+    "sport": "mlb",
     "canales": [
       {
         "nombre": "2115",
@@ -1708,11 +1788,31 @@
     "same_country": false,
     "confidence": 0.0,
     "image": "img/mlb.png",
-    "sport": "nba",
+    "sport": "mlb",
     "canales": [
       {
         "nombre": "2116",
         "url": "https://sharkstreams.net/player.php?channel=2116",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:40Z",
+    "liga": "MLB",
+    "equipos": "Pittsburgh Pirates vs Milwaukee Brewers",
+    "team1": "Pittsburgh Pirates",
+    "team2": "Milwaukee Brewers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2118",
+        "url": "https://sharkstreams.net/player.php?channel=2118",
         "calidad": "HD"
       }
     ]
@@ -1808,7 +1908,7 @@
     "same_country": false,
     "confidence": 0.0,
     "image": "img/mlb.png",
-    "sport": "nba",
+    "sport": "mlb",
     "canales": [
       {
         "nombre": "2120",
@@ -1918,6 +2018,46 @@
       {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T02:15Z",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Los Angeles Dodgers",
+    "team1": "Chicago Cubs",
+    "team2": "Los Angeles Dodgers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2122",
+        "url": "https://sharkstreams.net/player.php?channel=2122",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T02:15Z",
+    "liga": "MLB",
+    "equipos": "Miami Marlins vs San Francisco Giants",
+    "team1": "Miami Marlins",
+    "team2": "San Francisco Giants",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2123",
+        "url": "https://sharkstreams.net/player.php?channel=2123",
         "calidad": "HD"
       }
     ]
@@ -2048,6 +2188,26 @@
       {
         "nombre": "Universo",
         "url": "https://elcanaldeportivo.com/ver/universo.php",
+        "calidad": "720p"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T14:00:00Z",
+    "liga": "Premier League",
+    "equipos": "Liverpool vs Crystal Palace",
+    "team1": "Liverpool",
+    "team2": "Crystal Palace",
+    "team1_country": "england",
+    "team2_country": "england",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/en.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://elcanaldeportivo.com/ver/disneyplus.php",
         "calidad": "720p"
       }
     ]
