@@ -1453,6 +1453,326 @@
     "fuente": "cdn"
   },
   {
+    "hora_utc": "2026-04-24T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Detroit Tigers vs Cincinnati Reds",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2110",
+        "url": "https://sharkstreams.net/player.php?channel=2110",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2110",
+        "url": "https://sharkstreams.net/player.php?channel=2110",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:00Z",
+    "logo": "img/default.png",
+    "liga": "NFL",
+    "equipos": "2026 NFL Draft - Day 2",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2125",
+        "url": "https://sharkstreams.net/player.php?channel=2125",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2125",
+        "url": "https://sharkstreams.net/player.php?channel=2125",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Boston Celtics vs Philadelphia 76ers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2107",
+        "url": "https://sharkstreams.net/player.php?channel=2107",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2107",
+        "url": "https://sharkstreams.net/player.php?channel=2107",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Baltimore Orioles",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2111",
+        "url": "https://sharkstreams.net/player.php?channel=2111",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2111",
+        "url": "https://sharkstreams.net/player.php?channel=2111",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:07Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Toronto Blue Jays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2112",
+        "url": "https://sharkstreams.net/player.php?channel=2112",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2112",
+        "url": "https://sharkstreams.net/player.php?channel=2112",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Minnesota Twins vs Tampa Bay Rays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2113",
+        "url": "https://sharkstreams.net/player.php?channel=2113",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2113",
+        "url": "https://sharkstreams.net/player.php?channel=2113",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Mets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2114",
+        "url": "https://sharkstreams.net/player.php?channel=2114",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2114",
+        "url": "https://sharkstreams.net/player.php?channel=2114",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:15Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Philadelphia Phillies vs Atlanta Braves",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2115",
+        "url": "https://sharkstreams.net/player.php?channel=2115",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2115",
+        "url": "https://sharkstreams.net/player.php?channel=2115",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Washington Nationals vs Chicago White Sox",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2116",
+        "url": "https://sharkstreams.net/player.php?channel=2116",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2116",
+        "url": "https://sharkstreams.net/player.php?channel=2116",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Pittsburgh Pirates vs Milwaukee Brewers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2118",
+        "url": "https://sharkstreams.net/player.php?channel=2118",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2118",
+        "url": "https://sharkstreams.net/player.php?channel=2118",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-24T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Los Angeles Angels vs Kansas City Royals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2117",
+        "url": "https://sharkstreams.net/player.php?channel=2117",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2117",
+        "url": "https://sharkstreams.net/player.php?channel=2117",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T00:00Z",
+    "logo": "img/default.png",
+    "liga": "Boxing",
+    "equipos": "BKFC Clearwater: Gaskins vs Guymo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2124",
+        "url": "https://sharkstreams.net/player.php?channel=2124",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2124",
+        "url": "https://sharkstreams.net/player.php?channel=2124",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Los Angeles Lakers vs Houston Rockets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2108",
+        "url": "https://sharkstreams.net/player.php?channel=2108",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2108",
+        "url": "https://sharkstreams.net/player.php?channel=2108",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T00:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Athletics vs Texas Rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2119",
+        "url": "https://sharkstreams.net/player.php?channel=2119",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2119",
+        "url": "https://sharkstreams.net/player.php?channel=2119",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T00:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "New York Yankees vs Houston Astros",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2120",
+        "url": "https://sharkstreams.net/player.php?channel=2120",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2120",
+        "url": "https://sharkstreams.net/player.php?channel=2120",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T00:15Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Seattle Mariners vs St. Louis Cardinals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2121",
+        "url": "https://sharkstreams.net/player.php?channel=2121",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2121",
+        "url": "https://sharkstreams.net/player.php?channel=2121",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-04-25T00:30:00Z",
     "logo": "img/cl.png",
     "liga": "Futbol Chileno",
@@ -1541,6 +1861,66 @@
       }
     ],
     "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-25T02:15Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Los Angeles Dodgers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2122",
+        "url": "https://sharkstreams.net/player.php?channel=2122",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2122",
+        "url": "https://sharkstreams.net/player.php?channel=2122",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T02:15Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Miami Marlins vs San Francisco Giants",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2123",
+        "url": "https://sharkstreams.net/player.php?channel=2123",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2123",
+        "url": "https://sharkstreams.net/player.php?channel=2123",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-25T02:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "San Antonio Spurs vs Portland Trail Blazers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2109",
+        "url": "https://sharkstreams.net/player.php?channel=2109",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2109",
+        "url": "https://sharkstreams.net/player.php?channel=2109",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-04-25T03:00:00Z",

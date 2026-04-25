@@ -1618,6 +1618,226 @@
     ]
   },
   {
+    "hora_utc": "2026-04-24T23:00Z",
+    "liga": "NFL",
+    "equipos": "2026 NFL Draft vs Day 2",
+    "team1": "2026 NFL Draft",
+    "team2": "Day 2",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "2125",
+        "url": "https://sharkstreams.net/player.php?channel=2125",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:00Z",
+    "liga": "NBA",
+    "equipos": "Boston Celtics vs Philadelphia 76ers",
+    "team1": "Boston Celtics",
+    "team2": "Philadelphia 76ers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2107",
+        "url": "https://sharkstreams.net/player.php?channel=2107",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:07Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Toronto Blue Jays",
+    "team1": "Cleveland Guardians",
+    "team2": "Toronto Blue Jays",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2112",
+        "url": "https://sharkstreams.net/player.php?channel=2112",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:15Z",
+    "liga": "MLB",
+    "equipos": "Philadelphia Phillies vs Atlanta Braves",
+    "team1": "Philadelphia Phillies",
+    "team2": "Atlanta Braves",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2115",
+        "url": "https://sharkstreams.net/player.php?channel=2115",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:40Z",
+    "liga": "MLB",
+    "equipos": "Washington Nationals vs Chicago White Sox",
+    "team1": "Washington Nationals",
+    "team2": "Chicago White Sox",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2116",
+        "url": "https://sharkstreams.net/player.php?channel=2116",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-24T23:40Z",
+    "liga": "MLB",
+    "equipos": "Los Angeles Angels vs Kansas City Royals",
+    "team1": "Los Angeles Angels",
+    "team2": "Kansas City Royals",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2117",
+        "url": "https://sharkstreams.net/player.php?channel=2117",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T00:00Z",
+    "liga": "Boxing",
+    "equipos": "BKFC Clearwater: Gaskins vs Guymo",
+    "team1": "BKFC Clearwater: Gaskins",
+    "team2": "Guymo",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "2124",
+        "url": "https://sharkstreams.net/player.php?channel=2124",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T00:00Z",
+    "liga": "NBA",
+    "equipos": "Los Angeles Lakers vs Houston Rockets",
+    "team1": "Los Angeles Lakers",
+    "team2": "Houston Rockets",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2108",
+        "url": "https://sharkstreams.net/player.php?channel=2108",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T00:05Z",
+    "liga": "MLB",
+    "equipos": "Athletics vs Texas Rangers",
+    "team1": "Athletics",
+    "team2": "Texas Rangers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2119",
+        "url": "https://sharkstreams.net/player.php?channel=2119",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T00:10Z",
+    "liga": "MLB",
+    "equipos": "New York Yankees vs Houston Astros",
+    "team1": "New York Yankees",
+    "team2": "Houston Astros",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2120",
+        "url": "https://sharkstreams.net/player.php?channel=2120",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T00:15Z",
+    "liga": "MLB",
+    "equipos": "Seattle Mariners vs St Louis Cardinals",
+    "team1": "Seattle Mariners",
+    "team2": "St Louis Cardinals",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2121",
+        "url": "https://sharkstreams.net/player.php?channel=2121",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-04-25T00:30:00Z",
     "liga": "Futbol Chileno",
     "equipos": "Audax Italiano vs Deportes Limache",
@@ -1698,6 +1918,26 @@
       {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T02:30Z",
+    "liga": "NBA",
+    "equipos": "San Antonio Spurs vs Portland Trail Blazers",
+    "team1": "San Antonio Spurs",
+    "team2": "Portland Trail Blazers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2109",
+        "url": "https://sharkstreams.net/player.php?channel=2109",
         "calidad": "HD"
       }
     ]
