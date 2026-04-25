@@ -399,7 +399,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Leixões vs Portimonense",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport TV 1",
@@ -618,7 +618,7 @@
     "logo": "img/default.png",
     "liga": "Premier League",
     "equipos": "Fulham vs Aston Villa",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+1",
@@ -763,7 +763,7 @@
     "logo": "img/default.png",
     "liga": "Championship",
     "equipos": "West Bromwich Albion vs Ipswich Town",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+2",
@@ -878,7 +878,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Deportivo Alavés vs Mallorca",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+3",
@@ -998,7 +998,7 @@
     "logo": "img/default.png",
     "liga": "Liga I",
     "equipos": "Botoşani vs Oţelul",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Digi Sport 1",
@@ -1018,7 +1018,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 2",
     "equipos": "Reims vs Nancy",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS 2",
@@ -1053,7 +1053,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 2",
     "equipos": "Grenoble Foot 38 vs Le Mans",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS MAX 5",
@@ -1068,7 +1068,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Várda SE vs Diósgyőr",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "M4 Sports",
@@ -1083,7 +1083,7 @@
     "logo": "img/default.png",
     "liga": "Ekstraklasa",
     "equipos": "Korona Kielce vs Katowice",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Canal Sport 3",
@@ -1243,7 +1243,7 @@
     "logo": "img/tr.png",
     "liga": "1. Lig",
     "equipos": "Adana Demirspor vs Ümranıyespor",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "TRT Spor",
@@ -1258,7 +1258,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Farense vs Academico Viseu",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "TNT Sports 7",
@@ -1273,7 +1273,7 @@
     "logo": "img/default.png",
     "liga": "DStv Premiership",
     "equipos": "AmaZulu vs Chippa United",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "SuperSport PSL",
@@ -1288,7 +1288,7 @@
     "logo": "img/default.png",
     "liga": "Parva Liga",
     "equipos": "CSKA Sofia vs Levski Sofia",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Diema Sport 1",
@@ -1303,7 +1303,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Reggiana vs Palermo",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1312,7 +1312,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Südtirol vs Mantova",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1321,7 +1321,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Pescara vs Juve Stabia",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1330,7 +1330,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Virtus Entella vs Calcio Padova",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1339,7 +1339,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Frosinone vs Carrarese",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "FOX Soccer Plus",
@@ -3153,7 +3153,7 @@
   },
   {
     "hora_utc": "2026-04-25T17:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Toronto FC vs Atlanta United",
     "status": "pronto",
@@ -3561,7 +3561,7 @@
   },
   {
     "hora_utc": "2026-04-25T18:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "CF Montréal vs New York City",
     "status": "pronto",
@@ -4253,7 +4253,7 @@
   },
   {
     "hora_utc": "2026-04-25T20:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/ufc.png",
     "liga": "UFC",
     "equipos": "Almajain Sterling vs Youssef Zalal",
     "status": "pronto",
@@ -4358,7 +4358,7 @@
   },
   {
     "hora_utc": "2026-04-25T20:45:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Minnesota United vs Los Angeles FC",
     "status": "pronto",
@@ -4598,7 +4598,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Pachuca vs Pumas UNAM",
     "status": "pronto",
@@ -4623,7 +4623,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Tigres UANL vs Mazatlán",
     "status": "pronto",
@@ -4678,7 +4678,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Inter Miami vs. New England Revolution",
     "status": "pronto",
@@ -4693,7 +4693,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Inter Miami vs New England",
     "status": "pronto",
@@ -4708,7 +4708,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Columbus Crew vs Philadelphia Union",
     "status": "pronto",
@@ -4723,7 +4723,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "DC United vs Orlando City SC",
     "status": "pronto",
@@ -4738,7 +4738,7 @@
   },
   {
     "hora_utc": "2026-04-25T23:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Cincinnati vs New York RB",
     "status": "pronto",
@@ -4908,7 +4908,7 @@
   },
   {
     "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Austin vs Houston Dynamo",
     "status": "pronto",
@@ -4923,7 +4923,7 @@
   },
   {
     "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Chicago Fire vs Sporting KC",
     "status": "pronto",
@@ -4938,7 +4938,7 @@
   },
   {
     "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Nashville SC vs Charlotte",
     "status": "pronto",
@@ -4953,7 +4953,7 @@
   },
   {
     "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "St. Louis City vs SJ Earthquakes",
     "status": "pronto",
@@ -4988,7 +4988,7 @@
   },
   {
     "hora_utc": "2026-04-26T01:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Toluca vs León",
     "status": "pronto",
@@ -5033,7 +5033,7 @@
   },
   {
     "hora_utc": "2026-04-26T01:07Z",
-    "logo": "img/default.png",
+    "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Guadalajara vs Tijuana",
     "status": "upcoming",
@@ -5078,7 +5078,7 @@
   },
   {
     "hora_utc": "2026-04-26T01:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "San Diego vs Portland Timbers",
     "status": "pronto",
@@ -5093,7 +5093,7 @@
   },
   {
     "hora_utc": "2026-04-26T02:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Vancouver Whitecaps vs Colorado Rapids",
     "status": "pronto",
@@ -5108,7 +5108,7 @@
   },
   {
     "hora_utc": "2026-04-26T02:30:00Z",
-    "logo": "img/default.png",
+    "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Seattle Sounders FC vs Dallas",
     "status": "pronto",
@@ -5123,7 +5123,7 @@
   },
   {
     "hora_utc": "2026-04-26T03:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "América vs Atlas",
     "status": "pronto",
@@ -5158,7 +5158,7 @@
   },
   {
     "hora_utc": "2026-04-26T03:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Juárez vs Atlético San Luis",
     "status": "pronto",
