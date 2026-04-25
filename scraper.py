@@ -165,7 +165,7 @@ def fix_elcanal_url(url):
 # MAPEO DE LIGAS A PAÍSES (para logos)
 # ============================================
 TOURNAMENT_TO_COUNTRY = {
-    'La Liga': 'spain', 'LaLiga': 'spain', 'LaLiga:': 'spain',
+    'La Liga': 'spain', 'LaLiga': 'spain', 'LaLiga 2:': 'spain',
     'Copa Alemania': 'germany', 'DFB Pokal': 'germany',
     'Eredivisie': 'netherlands',
     'Copa de Portugal': 'portugal', 'Taça de Portugal': 'portugal', 'Primeira Liga': 'portugal',
@@ -180,10 +180,11 @@ TOURNAMENT_TO_COUNTRY = {
     'Primera División Uruguay': 'uruguay', 'Liga Uruguaya': 'uruguay','Uruguayan Primera División': 'uruguay',
     'Torneo Apertura Uruguay': 'uruguay','Torneo Clausura Uruguay': 'uruguay',
     'Champions League': 'champions', 'Champions': 'champions', 'UEFA Champions League': 'champions',
-    'mls': 'estados unidos', 'MLS': 'estados unidos', 'mls': 'usa',
+    'mls': 'estados unidos', 'MLS': 'usa', 'mls': 'usa',
     'MLB': 'mlb',
     'NBA': 'nba',
     'WWE': 'wwe',
+    'UFC': 'ufc'
 }
 
 COUNTRY_LOGO = {
@@ -192,8 +193,8 @@ COUNTRY_LOGO = {
     'argentina': 'img/ar.png', 'colombia': 'img/col.png', 'chile': 'img/cl.png',
     'ecuador': 'img/ec.png', 'turkey': 'img/tr.png', 'usa': 'img/usa.png', 
     'arabia': 'img/sa.png', 'paraguay': 'img/py.png', 'uruguay': 'img/uy.png',
-    'nba': 'img/nba.png', 'mlb': 'img/mlb.png', 'wwe': 'img/wwe.png', 
-    'champions':'img/champions.png', 'default': 'img/default.png'
+    'mexico': 'img/mx.png', 'nba': 'img/nba.png', 'mlb': 'img/mlb.png', 'wwe': 'img/wwe.png', 
+    'champions':'img/champions.png', 'ufc': 'img/ufc.png', 'default': 'img/default.png'
 }
 
 # ============================================
