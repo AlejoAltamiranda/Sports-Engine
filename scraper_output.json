@@ -1,232 +1,5 @@
 [
   {
-    "hora_utc": "2026-06-21T18:20Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "chicago cubs vs toronto blue jays",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23314/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Chicago Cubs vs Toronto Blue Jays"
-  },
-  {
-    "hora_utc": "2026-06-21T18:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "texas rangers vs san diego padres",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23315/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Texas Rangers vs San Diego Padres"
-  },
-  {
-    "hora_utc": "2026-06-21T19:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "colorado rockies vs pittsburgh pirates",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23316/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Colorado Rockies vs Pittsburgh Pirates"
-  },
-  {
-    "hora_utc": "2026-06-21T19:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "arizona diamondbacks vs minnesota twins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23317/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Arizona Diamondbacks vs Minnesota Twins"
-  },
-  {
-    "hora_utc": "2026-06-21T20:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "golden state valkyries vs las vegas aces",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2850",
-        "url": "https://sharkstreams.net/player.php?channel=2850",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Golden State Valkyries vs Las Vegas Aces"
-  },
-  {
-    "hora_utc": "2026-06-21T20:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "las vegas aces vs golden state valkyries",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-las-vegas-aces/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Las Vegas Aces vs Golden State Valkyries"
-  },
-  {
-    "hora_utc": "2026-06-21T20:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "los angeles angels vs athletics",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2846",
-        "url": "https://sharkstreams.net/player.php?channel=2846",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Los Angeles Angels vs Athletics"
-  },
-  {
-    "hora_utc": "2026-06-21T20:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "athletics vs los angeles angels",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23318/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_mlb_athletics-angels-live-streaming-1328842827/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179175/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Athletics vs Los Angeles Angels"
-  },
-  {
-    "hora_utc": "2026-06-21T20:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "baltimore orioles vs los angeles dodgers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2847",
-        "url": "https://sharkstreams.net/player.php?channel=2847",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Baltimore Orioles vs Los Angeles Dodgers"
-  },
-  {
-    "hora_utc": "2026-06-21T20:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "boston red sox vs seattle mariners",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2848",
-        "url": "https://sharkstreams.net/player.php?channel=2848",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Boston Red Sox vs Seattle Mariners"
-  },
-  {
-    "hora_utc": "2026-06-21T20:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "los angeles dodgers vs baltimore orioles",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23319/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_mlb_dodgers-orioles-live-streaming-1328843826/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/los-angeles-dodgers-vs-baltimore-orioles-baseball-179161/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Los Angeles Dodgers vs Baltimore Orioles"
-  },
-  {
-    "hora_utc": "2026-06-21T20:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "seattle mariners vs boston red sox",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23320/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Seattle Mariners vs Boston Red Sox"
-  },
-  {
     "hora_utc": "2026-06-21T22:00:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
@@ -234,38 +7,38 @@
     "status": "live",
     "canales": [
       {
+        "nombre": "VIX+",
+        "url": "https://sa.streamtpday1.xyz:443/global/vix1/index.m3u8?token=2ddb5a350eed545e6e7bc926ed8fb9077770af14-93-1782142783-1782088783",
+        "calidad": "480p",
+        "tipo": "m3u8"
+      },
+      {
         "nombre": "Dsports",
-        "url": "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=3fb7d3075e2fe539e46f34650a3e458b24496cdb-d3-1782136134-1782082134",
+        "url": "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=0d0737a35e2fb1ce96a47979d6fef7b37b070f1c-fb-1782142783-1782088783",
         "calidad": "480p",
         "tipo": "m3u8"
       },
       {
         "nombre": "VIX+",
-        "url": "https://sa.streamtpday1.xyz:443/global/vix1/index.m3u8?token=adecc9b406910adb8d8d62fc054cdc7ad09af4ed-dd-1782136134-1782082134",
-        "calidad": "480p",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "VIX+",
-        "url": "https://sa.streamtpday1.xyz:443/global/disney3/index.m3u8?token=d1c1d96495169d8a3c6b290a19ce20b2739b028e-06-1782136134-1782082134",
+        "url": "https://sa.streamtpday1.xyz:443/global/disney3/index.m3u8?token=9e7cbd6adad59059e542e6091898c6b27aec5d43-37-1782142784-1782088784",
         "calidad": "480p",
         "tipo": "m3u8"
       },
       {
         "nombre": "Telemundo",
-        "url": "https://st.streamtpday1.xyz:443/global/telemundousa/index.m3u8?token=09e6a3ce0319f075668174c2370604d01dc61776-b7-1782136134-1782082134",
+        "url": "https://sa.streamtpday1.xyz:443/global/telemundousa/index.m3u8?token=841432fc3941269af03b8ed24ef5d80a75107887-b9-1782142784-1782088784",
         "calidad": "480p",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "Dsports  FHD",
-        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "calidad": "1080p",
         "tipo": "m3u8"
       },
       {
         "nombre": "Dsports FHD OP2 | Latam",
         "url": "https://sudamericaplay2.com/canal_8112/dsports4541.html",
+        "calidad": "1080p",
+        "tipo": "m3u8"
+      },
+      {
+        "nombre": "Dsports  FHD",
+        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "calidad": "1080p",
         "tipo": "m3u8"
       },
@@ -280,125 +53,6 @@
     "equipos_original": "Cabo Verde vs Uruguay"
   },
   {
-    "hora_utc": "2026-06-21T22:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "washington mystics vs minnesota lynx",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2851",
-        "url": "https://sharkstreams.net/player.php?channel=2851",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Washington Mystics vs Minnesota Lynx"
-  },
-  {
-    "hora_utc": "2026-06-21T22:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "uruguay vs cape verde",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23276/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/uruguay-vs-cape-verde-islands-football-1489398/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Uruguay vs Cape Verde"
-  },
-  {
-    "hora_utc": "2026-06-21T22:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "minnesota lynx vs washington mystics",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Minnesota Lynx vs Washington Mystics"
-  },
-  {
-    "hora_utc": "2026-06-21T23:00:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "mlb philadelphia phillies vs new york mets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn3",
-        "calidad": "HD",
-        "tipo": "iframe"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "MLB – Philadelphia Phillies vs New York Mets"
-  },
-  {
-    "hora_utc": "2026-06-21T23:20Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "new york mets vs philadelphia phillies",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2849",
-        "url": "https://sharkstreams.net/player.php?channel=2849",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Mets vs Philadelphia Phillies"
-  },
-  {
     "hora_utc": "2026-06-21T23:20Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -407,21 +61,11 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23321/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328845824/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179165/1",
         "calidad": "HD"
       }
@@ -431,83 +75,20 @@
   },
   {
     "hora_utc": "2026-06-22T00:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "wnba los angeles vs new york",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "ESPN 4 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn4",
-        "calidad": "HD",
-        "tipo": "iframe"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "WNBA – Los Angeles vs New York"
-  },
-  {
-    "hora_utc": "2026-06-22T00:00:00Z",
     "logo": "img/default.png",
-    "liga": "Copa Chile",
+    "liga": "Fútbol Copa Chile",
     "equipos": "ohiggins vs union espanola",
-    "status": "pronto",
+    "status": "live",
     "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD",
-        "tipo": "iframe"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://cxm3.futbolonlinehd.com:443/tntsportschile/mono.m3u8?token=5416134e8719b104bd4e9c6d1822c595f0c92f1a-bd-1782110712-1782092712",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
       {
         "nombre": "MAX",
-        "url": "https://sa.streamtpday1.xyz:443/global/max1/index.m3u8?token=9869528d277db0e162a1474ea63a76ed949b69a0-c3-1782136135-1782082135",
+        "url": "https://st.streamtpday1.xyz:443/global/max1/index.m3u8?token=f09030444d15bc3e7414f00632808a40580770ab-f6-1782142784-1782088784",
         "calidad": "480p",
         "tipo": "m3u8"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "eventos",
     "equipos_original": "O'Higgins vs Unión Española"
-  },
-  {
-    "hora_utc": "2026-06-22T00:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "new york liberty vs los angeles sparks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2852",
-        "url": "https://sharkstreams.net/player.php?channel=2852",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Liberty vs Los Angeles Sparks"
   },
   {
     "hora_utc": "2026-06-22T00:00Z",
@@ -526,100 +107,6 @@
     "equipos_original": "Los Angeles Sparks vs New York Liberty"
   },
   {
-    "hora_utc": "2026-06-22T00:30:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "oriente petrolero vs nacional potosi",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://cxm4.futbolonlinehd.com:443/even1/mono.m3u8?token=1cbe04141e3f4603bd437da019e4079697d8f9f9-5b-1782110722-1782092722",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Oriente Petrolero vs Nacional Potosí"
-  },
-  {
-    "hora_utc": "2026-06-22T01:00:00Z",
-    "logo": "img/world_cup.png",
-    "liga": "Copa del Mundo",
-    "equipos": "nueva zelanda vs egipto",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "DSports HD",
-        "url": "https://cxm1.futbolonlinehd.com:443/dsports/mono.m3u8?token=fe4626d28fe95c8923027a930d13572f8fbd83d5-27-1782110734-1782092734",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://wp9xqedt.fubo18.com:443/dsports/mono.m3u8?token=57aa4b081deadee936200c15069b3a787ee1ace1-60-1782110736-1782092736",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://cxm10.futbolonlinehd.com:443/telemundo/mono.m3u8?token=b164455b7d3d33dbfd20c8833a7df7858d590715-71-1782110728-1782092728",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://agvyby.fubo18.com:443/telemundo/mono.m3u8?token=57b42d39f8bbc9cecbc0c91366a6321c9c63b816-1a-1782110731-1782092731",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://x4bnd7lq.fubo18.com:443/dsports/mono.m3u8?token=e486bd9a2905c4647bdb624c4206b596befc09ac-35-1782110731-1782092731",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://qzv4jmsc.fubo18.com:443/dsports/mono.m3u8?token=4e1cd072493fe573a301e94033d702128b33f200-5d-1782110731-1782092731",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://wp9xqedt.fubo18.com:443/tycsports/mono.m3u8?token=cdc41c150ff99dd5c62413f31dfcf3972c270f9f-a8-1782110731-1782092731",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "TYC Sports HD",
-        "url": "https://cxm5.futbolonlinehd.com:443/tycsports/mono.m3u8?token=e5d58f6a25c4749d4104b3b16448bcb6b709804e-c2-1782110728-1782092728",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://c2nvdxq.fubo18.com:443/sportv/mono.m3u8?token=6da4d8e2d6c896a1baa29943cf8f856f69d1e236-44-1782110734-1782092734",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "FOX Sports 1 USA",
-        "url": "https://aw1wcm92zq.fubo18.com:443/foxsports1_usa/mono.m3u8?token=0d3248c3b0e634b88a82d656c61cb5bbbf9075d7-59-1782110734-1782092734",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://cxm2.futbolonlinehd.com:443/sportv/mono.m3u8?token=891557d6fe82da33b8a51de552c7378a516e2222-23-1782110734-1782092734",
-        "calidad": "HD",
-        "tipo": "m3u8"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Nueva Zelanda vs Egipto"
-  },
-  {
     "hora_utc": "2026-06-22T01:00:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
@@ -628,13 +115,13 @@
     "canales": [
       {
         "nombre": "Dsports",
-        "url": "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=0db052452fea902ff46370a27f3dd5a6920745c2-d4-1782136136-1782082136",
+        "url": "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=f200cf8de175d53a19874ff67fe05b7a8e684781-71-1782142785-1782088785",
         "calidad": "480p",
         "tipo": "m3u8"
       },
       {
         "nombre": "VIX+",
-        "url": "https://sa.streamtpday1.xyz:443/global/vix1/index.m3u8?token=70f1d4b26a45f292aca6fc779635290ca72c3528-22-1782136136-1782082136",
+        "url": "https://sa.streamtpday1.xyz:443/global/vix1/index.m3u8?token=1c2a58d33cfc6eff1c7973d1bc2cc0fc9ce36b63-ab-1782142786-1782088786",
         "calidad": "480p",
         "tipo": "m3u8"
       },
@@ -646,7 +133,7 @@
       },
       {
         "nombre": "Telemundo",
-        "url": "https://st.streamtpday1.xyz:443/global/telemundousa/index.m3u8?token=32c770071913abf781193b584ece984cd667d6c4-9d-1782136137-1782082137",
+        "url": "https://st.streamtpday1.xyz:443/global/telemundousa/index.m3u8?token=2b757156d045d5d3740844222ebc051fc28b2898-5f-1782142786-1782088786",
         "calidad": "480p",
         "tipo": "m3u8"
       },
@@ -681,6 +168,16 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23277/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/delta/live_world-championship-gr-g_new-zealand-egypt-live-streaming-1243725030/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/echo/new-zealand-vs-egypt-football-1489396/1",
         "calidad": "HD"
       }
     ],
@@ -738,7 +235,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23329/1",
+        "url": "https://embed.st/embed/golf/23350/1",
         "calidad": "HD"
       }
     ],
@@ -754,7 +251,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23330/1",
+        "url": "https://embed.st/embed/golf/23349/1",
         "calidad": "HD"
       }
     ],
@@ -770,7 +267,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23331/1",
+        "url": "https://embed.st/embed/golf/23352/1",
         "calidad": "HD"
       }
     ],
@@ -786,7 +283,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23332/1",
+        "url": "https://embed.st/embed/golf/23353/1",
         "calidad": "HD"
       }
     ],
@@ -802,7 +299,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23333/1",
+        "url": "https://embed.st/embed/golf/23348/1",
         "calidad": "HD"
       }
     ],

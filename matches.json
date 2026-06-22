@@ -1,375 +1,20 @@
 [
   {
-    "hora_utc": "2026-06-21T18:20Z",
-    "hora_fin_utc": "2026-06-21T21:35:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Toronto Blue Jays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23314/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T18:35Z",
-    "hora_fin_utc": "2026-06-21T21:50:00Z",
-    "liga": "MLB",
-    "equipos": "San Diego Padres vs Texas Rangers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23315/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T19:10Z",
-    "hora_fin_utc": "2026-06-21T22:25:00Z",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23316/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T19:15Z",
-    "hora_fin_utc": "2026-06-21T22:30:00Z",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs Minnesota Twins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23317/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T20:00Z",
-    "hora_fin_utc": "2026-06-21T23:15:00Z",
-    "liga": "WNBA",
-    "equipos": "golden state valkyries vs las vegas aces",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2850",
-        "url": "https://sharkstreams.net/player.php?channel=2850",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T20:00Z",
-    "hora_fin_utc": "2026-06-21T23:15:00Z",
-    "liga": "WNBA",
-    "equipos": "las vegas aces vs golden state valkyries",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-las-vegas-aces/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T20:05Z",
-    "hora_fin_utc": "2026-06-21T23:20:00Z",
-    "liga": "MLB",
-    "equipos": "Los Angeles Angels vs Oakland Athletics",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2846",
-        "url": "https://sharkstreams.net/player.php?channel=2846",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23318/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_mlb_athletics-angels-live-streaming-1328842827/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179175/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T20:10Z",
-    "hora_fin_utc": "2026-06-21T23:25:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Los Angeles Dodgers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2847",
-        "url": "https://sharkstreams.net/player.php?channel=2847",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23319/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_mlb_dodgers-orioles-live-streaming-1328843826/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/los-angeles-dodgers-vs-baltimore-orioles-baseball-179161/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T20:10Z",
-    "hora_fin_utc": "2026-06-21T23:25:00Z",
-    "liga": "MLB",
-    "equipos": "Boston Red Sox vs Seattle Mariners",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2848",
-        "url": "https://sharkstreams.net/player.php?channel=2848",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23320/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T22:00Z",
-    "hora_fin_utc": "2026-06-22T01:15:00Z",
-    "liga": "WNBA",
-    "equipos": "washington mystics vs minnesota lynx",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2851",
-        "url": "https://sharkstreams.net/player.php?channel=2851",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T22:00Z",
-    "hora_fin_utc": "2026-06-22T00:20:00Z",
-    "liga": "Soccer",
-    "equipos": "uruguay vs cape verde",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23276/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/uruguay-vs-cape-verde-islands-football-1489398/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T22:00Z",
-    "hora_fin_utc": "2026-06-22T01:15:00Z",
-    "liga": "WNBA",
-    "equipos": "minnesota lynx vs washington mystics",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-21T23:00:00Z",
-    "hora_fin_utc": "2026-06-22T02:15:00Z",
+    "hora_utc": "2026-06-21T23:20Z",
+    "hora_fin_utc": "2026-06-22T02:35:00Z",
     "liga": "MLB",
     "equipos": "New York Mets vs Philadelphia Phillies",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2849",
-        "url": "https://sharkstreams.net/player.php?channel=2849",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23321/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328845824/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179165/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-22T00:00:00Z",
-    "hora_fin_utc": "2026-06-22T03:15:00Z",
-    "liga": "NBA",
-    "equipos": "New York Knicks vs Wnba Los Angeles",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-22T00:00:00Z",
-    "hora_fin_utc": "2026-06-22T02:20:00Z",
-    "liga": "Copa Chile",
-    "equipos": "ohiggins vs union espanola",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://cxm3.futbolonlinehd.com:443/tntsportschile/mono.m3u8?token=5416134e8719b104bd4e9c6d1822c595f0c92f1a-bd-1782110712-1782092712",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://sa.streamtpday1.xyz:443/global/max1/index.m3u8?token=9869528d277db0e162a1474ea63a76ed949b69a0-c3-1782136135-1782082135",
-        "calidad": "480p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-22T00:00Z",
-    "hora_fin_utc": "2026-06-22T03:15:00Z",
-    "liga": "WNBA",
-    "equipos": "new york liberty vs los angeles sparks",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2852",
-        "url": "https://sharkstreams.net/player.php?channel=2852",
         "calidad": "HD"
       }
     ]
@@ -390,90 +35,10 @@
     ]
   },
   {
-    "hora_utc": "2026-06-22T00:30:00Z",
-    "hora_fin_utc": "2026-06-22T02:50:00Z",
-    "liga": "Primera División",
-    "equipos": "oriente petrolero vs nacional potosi",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://cxm4.futbolonlinehd.com:443/even1/mono.m3u8?token=1cbe04141e3f4603bd437da019e4079697d8f9f9-5b-1782110722-1782092722",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-22T01:00:00Z",
-    "hora_fin_utc": "2026-06-22T03:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "nueva zelanda vs egipto",
-    "logo": "img/world_cup.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports HD",
-        "url": "https://cxm1.futbolonlinehd.com:443/dsports/mono.m3u8?token=fe4626d28fe95c8923027a930d13572f8fbd83d5-27-1782110734-1782092734",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://wp9xqedt.fubo18.com:443/dsports/mono.m3u8?token=57aa4b081deadee936200c15069b3a787ee1ace1-60-1782110736-1782092736",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://cxm10.futbolonlinehd.com:443/telemundo/mono.m3u8?token=b164455b7d3d33dbfd20c8833a7df7858d590715-71-1782110728-1782092728",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://agvyby.fubo18.com:443/telemundo/mono.m3u8?token=57b42d39f8bbc9cecbc0c91366a6321c9c63b816-1a-1782110731-1782092731",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://x4bnd7lq.fubo18.com:443/dsports/mono.m3u8?token=e486bd9a2905c4647bdb624c4206b596befc09ac-35-1782110731-1782092731",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://qzv4jmsc.fubo18.com:443/dsports/mono.m3u8?token=4e1cd072493fe573a301e94033d702128b33f200-5d-1782110731-1782092731",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://wp9xqedt.fubo18.com:443/tycsports/mono.m3u8?token=cdc41c150ff99dd5c62413f31dfcf3972c270f9f-a8-1782110731-1782092731",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports HD",
-        "url": "https://cxm5.futbolonlinehd.com:443/tycsports/mono.m3u8?token=e5d58f6a25c4749d4104b3b16448bcb6b709804e-c2-1782110728-1782092728",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://c2nvdxq.fubo18.com:443/sportv/mono.m3u8?token=6da4d8e2d6c896a1baa29943cf8f856f69d1e236-44-1782110734-1782092734",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Sports 1 USA",
-        "url": "https://aw1wcm92zq.fubo18.com:443/foxsports1_usa/mono.m3u8?token=0d3248c3b0e634b88a82d656c61cb5bbbf9075d7-59-1782110734-1782092734",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://cxm2.futbolonlinehd.com:443/sportv/mono.m3u8?token=891557d6fe82da33b8a51de552c7378a516e2222-23-1782110734-1782092734",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-06-22T01:00Z",
     "hora_fin_utc": "2026-06-22T03:20:00Z",
     "liga": "Soccer",
-    "equipos": "new zealand vs egypt",
+    "equipos": "Egipto vs Nueva Zelanda",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
@@ -486,6 +51,16 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23277/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/delta/live_world-championship-gr-g_new-zealand-egypt-live-streaming-1243725030/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/echo/new-zealand-vs-egypt-football-1489396/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -493,7 +68,7 @@
     "hora_utc": "2026-06-22T17:00Z",
     "hora_fin_utc": "2026-06-22T19:20:00Z",
     "liga": "Soccer",
-    "equipos": "argentina vs austria",
+    "equipos": "Argentina vs Austria",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
@@ -513,7 +88,7 @@
     "hora_utc": "2026-06-22T21:00Z",
     "hora_fin_utc": "2026-06-22T23:20:00Z",
     "liga": "Soccer",
-    "equipos": "france vs iraq",
+    "equipos": "Francia vs Irak",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
@@ -539,7 +114,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23329/1",
+        "url": "https://embed.st/embed/golf/23350/1",
         "calidad": "HD"
       }
     ]
@@ -554,7 +129,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23330/1",
+        "url": "https://embed.st/embed/golf/23349/1",
         "calidad": "HD"
       }
     ]
@@ -569,7 +144,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23331/1",
+        "url": "https://embed.st/embed/golf/23352/1",
         "calidad": "HD"
       }
     ]
@@ -584,7 +159,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23332/1",
+        "url": "https://embed.st/embed/golf/23353/1",
         "calidad": "HD"
       }
     ]
@@ -599,7 +174,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23333/1",
+        "url": "https://embed.st/embed/golf/23348/1",
         "calidad": "HD"
       }
     ]
@@ -608,7 +183,7 @@
     "hora_utc": "2026-06-23T00:00Z",
     "hora_fin_utc": "2026-06-23T02:20:00Z",
     "liga": "Soccer",
-    "equipos": "norway vs senegal",
+    "equipos": "Noruega vs Senegal",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
@@ -628,7 +203,7 @@
     "hora_utc": "2026-06-23T03:00Z",
     "hora_fin_utc": "2026-06-23T05:20:00Z",
     "liga": "Soccer",
-    "equipos": "jordan vs algeria",
+    "equipos": "Argelia vs Jordania",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
