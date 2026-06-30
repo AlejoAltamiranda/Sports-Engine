@@ -85,15 +85,10 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
         git pull --rebase origin main
-        
         git add scraper_output.json matches.json
-        
         git commit -m "Actualizar datos de partidos [skip ci]"
-        
         git push origin main
-        
         echo "Cambios subidos al repositorio"
     
     - name: Mostrar estadisticas
@@ -106,32 +101,7 @@ jobs:
           ls -lh *.json 2>/dev/null || echo "No hay JSONs"
           echo ""
           echo "Resumen de partidos:"
-          python << 'EOF'
-import json
-from collections import Counter
-
-try:
-    with open('matches.json') as f:
-        data = json.load(f)
-    
-    print(f'Total partidos: {len(data)}')
-    
-    total_canales = sum(len(m.get('canales', [])) for m in data)
-    print(f'Total canales: {total_canales}')
-    
-    deportes = Counter(m.get('sport', 'soccer') for m in data)
-    for sport, count in deportes.most_common():
-        print(f'  {sport}: {count} partidos')
-    
-    estados = Counter(m.get('status', 'unknown') for m in data)
-    if estados:
-        print('Estados:')
-        for status, count in estados.most_common():
-            print(f'  {status}: {count}')
-            
-except Exception as e:
-    print(f'Error al leer matches.json: {e}')
-EOF
+          python -c "import json; from collections import Counter; data = json.load(open('matches.json')); print(f'Total partidos: {len(data)}'); total_canales = sum(len(m.get('canales', [])) for m in data); print(f'Total canales: {total_canales}'); deportes = Counter(m.get('sport', 'soccer') for m in data); [print(f'  {sport}: {count} partidos') for sport, count in deportes.most_common()]; estados = Counter(m.get('status', 'unknown') for m in data); [print(f'  {status}: {count}') for status, count in estados.most_common()] if estados else None"
         else
           echo "matches.json no disponible"
         fi
