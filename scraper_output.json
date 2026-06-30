@@ -1,285 +1,5 @@
 [
   {
-    "hora_utc": "2026-06-29T22:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "baltimore orioles vs chicago white sox",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23510/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Baltimore Orioles vs Chicago White Sox"
-  },
-  {
-    "hora_utc": "2026-06-29T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "philadelphia phillies vs pittsburgh pirates",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23516/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Philadelphia Phillies vs Pittsburgh Pirates"
-  },
-  {
-    "hora_utc": "2026-06-29T23:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "new york yankees vs detroit tigers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23512/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Yankees vs Detroit Tigers"
-  },
-  {
-    "hora_utc": "2026-06-29T23:07Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "toronto blue jays vs new york mets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23515/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Toronto Blue Jays vs New York Mets"
-  },
-  {
-    "hora_utc": "2026-06-29T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "boston red sox vs washington nationals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23513/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Boston Red Sox vs Washington Nationals"
-  },
-  {
-    "hora_utc": "2026-06-29T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cleveland guardians vs texas rangers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23511/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cleveland Guardians vs Texas Rangers"
-  },
-  {
-    "hora_utc": "2026-06-29T23:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "milwaukee brewers vs cincinnati reds",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23493/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Milwaukee Brewers vs Cincinnati Reds"
-  },
-  {
-    "hora_utc": "2026-06-30T00:00Z",
-    "logo": "img/wwe.png",
-    "liga": "WWE",
-    "equipos": "raw 1727",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "RAW #1727"
-  },
-  {
-    "hora_utc": "2026-06-30T00:00Z",
-    "logo": "img/wwe.png",
-    "liga": "WWE",
-    "equipos": "nxt 844",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "NXT #844"
-  },
-  {
-    "hora_utc": "2026-06-30T00:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "chicago cubs vs san diego padres",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23514/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Chicago Cubs vs San Diego Padres"
-  },
-  {
-    "hora_utc": "2026-06-30T00:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "houston astros vs minnesota twins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-houston-astros/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23496/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Houston Astros vs Minnesota Twins"
-  },
-  {
-    "hora_utc": "2026-06-30T00:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "colorado rockies vs miami marlins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23497/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Colorado Rockies vs Miami Marlins"
-  },
-  {
-    "hora_utc": "2026-06-30T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "seattle mariners vs los angeles angels",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23498/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Seattle Mariners vs Los Angeles Angels"
-  },
-  {
-    "hora_utc": "2026-06-30T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "athletics vs los angeles dodgers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23499/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Athletics vs Los Angeles Dodgers"
-  },
-  {
-    "hora_utc": "2026-06-30T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "arizona diamondbacks vs san francisco giants",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23500/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Arizona Diamondbacks vs San Francisco Giants"
-  },
-  {
     "hora_utc": "2026-06-30T17:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -535,6 +255,54 @@
     "equipos_original": "France vs Sweden"
   },
   {
+    "hora_utc": "2026-06-30T22:35Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "baltimore orioles vs chicago white sox",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23510/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Baltimore Orioles vs Chicago White Sox"
+  },
+  {
+    "hora_utc": "2026-06-30T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "philadelphia phillies vs pittsburgh pirates",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23516/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Philadelphia Phillies vs Pittsburgh Pirates"
+  },
+  {
+    "hora_utc": "2026-06-30T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "cleveland guardians vs texas rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23511/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Cleveland Guardians vs Texas Rangers"
+  },
+  {
     "hora_utc": "2026-06-30T23:00Z",
     "logo": "img/nba.png",
     "liga": "WNBA",
@@ -551,6 +319,54 @@
     "equipos_original": "New York Liberty vs Las Vegas Aces"
   },
   {
+    "hora_utc": "2026-06-30T23:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "new york yankees vs detroit tigers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23512/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "New York Yankees vs Detroit Tigers"
+  },
+  {
+    "hora_utc": "2026-06-30T23:07Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "toronto blue jays vs new york mets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23515/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Toronto Blue Jays vs New York Mets"
+  },
+  {
+    "hora_utc": "2026-06-30T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "boston red sox vs washington nationals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23513/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Boston Red Sox vs Washington Nationals"
+  },
+  {
     "hora_utc": "2026-06-30T23:15Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -565,6 +381,122 @@
     ],
     "fuente": "github",
     "equipos_original": "Atlanta Braves vs St. Louis Cardinals"
+  },
+  {
+    "hora_utc": "2026-06-30T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "milwaukee brewers vs cincinnati reds",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23493/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Milwaukee Brewers vs Cincinnati Reds"
+  },
+  {
+    "hora_utc": "2026-06-30T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "kansas city royals vs tampa bay rays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23518/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Kansas City Royals vs Tampa Bay Rays"
+  },
+  {
+    "hora_utc": "2026-06-31T00:00Z",
+    "logo": "img/wwe.png",
+    "liga": "WWE",
+    "equipos": "nxt 844",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "NXT #844"
+  },
+  {
+    "hora_utc": "2026-06-31T00:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "chicago cubs vs san diego padres",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23514/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Chicago Cubs vs San Diego Padres"
+  },
+  {
+    "hora_utc": "2026-06-31T00:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "houston astros vs minnesota twins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-houston-astros/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23496/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Houston Astros vs Minnesota Twins"
+  },
+  {
+    "hora_utc": "2026-06-31T00:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "colorado rockies vs miami marlins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23497/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Colorado Rockies vs Miami Marlins"
   },
   {
     "hora_utc": "2026-06-31T01:00Z",
@@ -651,6 +583,69 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "México vs Ecuador"
+  },
+  {
+    "hora_utc": "2026-06-31T01:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "seattle mariners vs los angeles angels",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-seattle-mariners/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23498/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Seattle Mariners vs Los Angeles Angels"
+  },
+  {
+    "hora_utc": "2026-06-31T01:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "athletics vs los angeles dodgers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-athletics/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23499/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Athletics vs Los Angeles Dodgers"
+  },
+  {
+    "hora_utc": "2026-06-31T01:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "arizona diamondbacks vs san francisco giants",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23500/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Arizona Diamondbacks vs San Francisco Giants"
   },
   {
     "hora_utc": "2026-07-01T00:00:00Z",
