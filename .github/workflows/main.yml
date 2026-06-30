@@ -1,0 +1,285 @@
+name: Sports Engine
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  test-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout codigo
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then
+          pip install -r requirements.txt
+        fi
+    
+    - name: Verificar archivos necesarios
+      id: check_files
+      run: |
+        echo "Verificando archivos..."
+        files=("teams.json" "nba_teams.json" "mlb_teams.json" "scraper.py" "engine.py")
+        missing=0
+        for file in "${files[@]}"; do
+          if [ -f "$file" ]; then
+            echo "OK: $file"
+          else
+            echo "FALTA: $file"
+            missing=$((missing+1))
+          fi
+        done
+        if [ $missing -gt 0 ]; then
+          echo "Faltan $missing archivos, continuando de todas formas..."
+        fi
+        echo "has_missing=$missing" >> $GITHUB_OUTPUT
+    
+    - name: Ejecutar scraper
+      id: scraper
+      run: |
+        echo "Ejecutando scraper..."
+        python scraper.py || echo "Scraper termino con errores"
+        if [ -f scraper_output.json ]; then
+          echo "scraper_output.json generado"
+          count=$(python -c "import json; print(len(json.load(open('scraper_output.json'))))" 2>/dev/null || echo "0")
+          echo "Partidos crudos: $count"
+          echo "count=$count" >> $GITHUB_OUTPUT
+        else
+          echo "scraper_output.json no generado"
+          echo "count=0" >> $GITHUB_OUTPUT
+          exit 1
+        fi
+    
+    - name: Ejecutar engine (batch)
+      id: engine
+      run: |
+        echo "Normalizando partidos..."
+        python engine.py batch || echo "Engine termino con errores"
+        if [ -f matches.json ]; then
+          echo "matches.json generado"
+          count=$(python -c "import json; print(len(json.load(open('matches.json'))))" 2>/dev/null || echo "0")
+          echo "Partidos unificados: $count"
+          echo "count=$count" >> $GITHUB_OUTPUT
+        else
+          echo "matches.json no generado"
+          echo "count=0" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Verificar cambios antes de commit
+      id: changes
+      run: |
+        if [ -f matches.json ] && [ -f scraper_output.json ]; then
+          if [ -f matches.json.bak ]; then
+            cp matches.json.bak matches_old.json
+          else
+            cp matches.json matches_old.json
+          fi
+          
+          git pull origin main --rebase || true
+          
+          if ! cmp -s matches.json matches_old.json 2>/dev/null; then
+            echo "Hay cambios en matches.json"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "No hay cambios en matches.json"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+          rm -f matches_old.json
+        else
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Subir archivos al repositorio (solo si hay cambios)
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add scraper_output.json matches.json
+        git commit -m "Actualizar datos de partidos [skip ci] 
+        
+        - Scraper ejecutado: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        - Partidos crudos: ${{ steps.scraper.outputs.count }}
+        - Partidos unificados: ${{ steps.engine.outputs.count }}"
+        git push origin main
+        echo "Cambios subidos al repositorio"
+    
+    - name: Mostrar estadisticas detalladas
+      if: always()
+      run: |
+        echo "ESTADISTICAS DE DATOS"
+        echo "========================"
+        if [ -f matches.json ]; then
+          echo "Archivos generados:"
+          ls -lh *.json 2>/dev/null || echo "   No hay JSONs"
+          echo ""
+          echo "Resumen de partidos:"
+          python -c "
+import json
+import sys
+from collections import Counter
+
+try:
+    with open('matches.json') as f:
+        data = json.load(f)
+    
+    print(f'   Total partidos: {len(data)}')
+    
+    total_canales = sum(len(m.get('canales', [])) for m in data)
+    print(f'   Total canales: {total_canales}')
+    
+    deportes = Counter(m.get('sport', 'soccer') for m in data)
+    for sport, count in deportes.most_common():
+        print(f'   - {sport}: {count} partidos')
+    
+    estados = Counter(m.get('status', 'unknown') for m in data)
+    if estados:
+        print('   Estados:')
+        for status, count in estados.most_common():
+            print(f'     - {status}: {count}')
+            
+except Exception as e:
+    print(f'   Error al leer matches.json: {e}')
+    sys.exit(1)
+"
+        else
+          echo "matches.json no disponible"
+        fi
+
+  deploy:
+    needs: test-and-update
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout codigo
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Preparar archivos para deploy
+      run: |
+        echo "Preparando archivos..."
+        mkdir -p deploy
+        cp matches.json deploy/ 2>/dev/null || echo "No hay matches.json"
+        cp scraper_output.json deploy/ 2>/dev/null || echo "No hay scraper_output.json"
+        
+        cat > deploy/api.py << 'EOF'
+import json
+import os
+from http.server import HTTPServer, BaseHTTPRequestHandler
+from datetime import datetime
+
+class Handler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        if self.path == '/partidos':
+            self.serve_json('matches.json')
+        elif self.path == '/scraper':
+            self.serve_json('scraper_output.json')
+        elif self.path == '/stats':
+            self.send_response(200)
+            self.send_header('Content-type', 'application/json')
+            self.end_headers()
+            stats = {
+                'status': 'ok',
+                'timestamp': datetime.utcnow().isoformat(),
+                'archivos': os.listdir('.')
+            }
+            self.wfile.write(json.dumps(stats).encode())
+        elif self.path == '/':
+            self.send_response(200)
+            self.send_header('Content-type', 'text/html')
+            self.end_headers()
+            html = '''
+            <html>
+              <head><title>Sports Engine API</title></head>
+              <body>
+                <h1>Sports Engine API</h1>
+                <ul>
+                  <li><a href="/partidos">/partidos</a> - Datos de partidos</li>
+                  <li><a href="/scraper">/scraper</a> - Datos crudos del scraper</li>
+                  <li><a href="/stats">/stats</a> - Estadisticas</li>
+                </ul>
+              </body>
+            </html>
+            '''
+            self.wfile.write(html.encode())
+        else:
+            self.send_response(404)
+            self.end_headers()
+            self.wfile.write(b'Not Found')
+    
+    def serve_json(self, filename):
+        try:
+            with open(filename, 'r') as f:
+                data = json.load(f)
+            self.send_response(200)
+            self.send_header('Content-type', 'application/json')
+            self.send_header('Access-Control-Allow-Origin', '*')
+            self.end_headers()
+            self.wfile.write(json.dumps(data).encode())
+        except FileNotFoundError:
+            self.send_response(404)
+            self.end_headers()
+            self.wfile.write(json.dumps({'error': 'Archivo no encontrado'}).encode())
+
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 8080))
+    print(f'API iniciada en puerto {port}')
+    HTTPServer(('0.0.0.0', port), Handler).serve_forever()
+EOF
+        
+        echo "Archivos preparados en directorio deploy/"
+    
+    - name: Subir archivos de deploy al repositorio
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin main --rebase || true
+        
+        cp deploy/api.py ./api.py 2>/dev/null || echo "No se pudo copiar api.py"
+        
+        git add api.py deploy/ matches.json scraper_output.json 2>/dev/null || true
+        git commit -m "Actualizar deploy [skip ci]" || echo "No hay cambios"
+        git push origin main
+    
+    - name: Desplegar informacion
+      run: |
+        echo "DEPLOY COMPLETADO"
+        echo "===================="
+        echo "Archivos disponibles en deploy/"
+        echo ""
+        echo "Para desplegar:"
+        echo "   - Cloudflare Workers: usar wrangler"
+        echo "   - Vercel: usar vercel CLI" 
+        echo "   - Railway: conectar repositorio"
+        echo "   - Servidor propio: ejecutar python deploy/api.py"
+        echo ""
+        echo "Endpoints disponibles:"
+        echo "   - GET /partidos  -> Datos unificados"
+        echo "   - GET /scraper   -> Datos crudos"
+        echo "   - GET /stats     -> Estadisticas"
