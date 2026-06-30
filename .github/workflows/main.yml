@@ -39,69 +39,37 @@ jobs:
     - name: Ejecutar scraper
       id: scraper
       run: |
-        echo "Ejecutando scraper..."
-        python scraper.py || echo "Scraper termino con errores"
-        if [ -f scraper_output.json ]; then
-          echo "scraper_output.json generado"
-          count=$(python -c "import json; print(len(json.load(open('scraper_output.json'))))" 2>/dev/null || echo "0")
-          echo "Partidos crudos: $count"
-          echo "count=$count" >> $GITHUB_OUTPUT
-        else
-          echo "scraper_output.json no generado"
-          echo "count=0" >> $GITHUB_OUTPUT
-          exit 1
-        fi
+        python scraper.py
+        echo "count=$(python -c 'import json; print(len(json.load(open("scraper_output.json"))))')" >> $GITHUB_OUTPUT
     
     - name: Ejecutar engine
       id: engine
       run: |
-        echo "Normalizando partidos..."
-        python engine.py batch || echo "Engine termino con errores"
-        if [ -f matches.json ]; then
-          echo "matches.json generado"
-          count=$(python -c "import json; print(len(json.load(open('matches.json'))))" 2>/dev/null || echo "0")
-          echo "Partidos unificados: $count"
-          echo "count=$count" >> $GITHUB_OUTPUT
-        else
-          echo "matches.json no generado"
-          echo "count=0" >> $GITHUB_OUTPUT
-        fi
+        python engine.py batch
+        echo "count=$(python -c 'import json; print(len(json.load(open("matches.json"))))')" >> $GITHUB_OUTPUT
     
     - name: Verificar cambios
       id: changes
       run: |
-        git add scraper_output.json matches.json 2>/dev/null || true
-        if git diff --cached --quiet; then
-          echo "No hay cambios en los archivos"
-          echo "has_changes=false" >> $GITHUB_OUTPUT
+        if [ -f scraper_output.json ] && [ -f matches.json ]; then
+          git add scraper_output.json matches.json
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
         else
-          echo "Hay cambios detectados"
-          echo "has_changes=true" >> $GITHUB_OUTPUT
-          git diff --cached --stat
+          echo "has_changes=false" >> $GITHUB_OUTPUT
         fi
     
-    - name: Commit y push si hay cambios
+    - name: Commit y push
       if: github.event_name != 'pull_request' && steps.changes.outputs.has_changes == 'true'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git stash
         git pull --rebase origin main
+        git stash pop
         git add scraper_output.json matches.json
         git commit -m "Actualizar datos de partidos [skip ci]"
         git push origin main
-        echo "Cambios subidos al repositorio"
-    
-    - name: Mostrar estadisticas
-      if: always()
-      run: |
-        echo "ESTADISTICAS DE DATOS"
-        echo "========================"
-        if [ -f matches.json ]; then
-          echo "Archivos generados:"
-          ls -lh *.json 2>/dev/null || echo "No hay JSONs"
-          echo ""
-          echo "Resumen de partidos:"
-          python -c "import json; from collections import Counter; data = json.load(open('matches.json')); print(f'Total partidos: {len(data)}'); total_canales = sum(len(m.get('canales', [])) for m in data); print(f'Total canales: {total_canales}'); deportes = Counter(m.get('sport', 'soccer') for m in data); [print(f'  {sport}: {count} partidos') for sport, count in deportes.most_common()]; estados = Counter(m.get('status', 'unknown') for m in data); [print(f'  {status}: {count}') for status, count in estados.most_common()] if estados else None"
-        else
-          echo "matches.json no disponible"
-        fi
