@@ -90,11 +90,7 @@ jobs:
         
         git add scraper_output.json matches.json
         
-        git commit -m "Actualizar datos de partidos [skip ci]
-        
-        - Scraper ejecutado: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
-        - Partidos crudos: ${{ steps.scraper.outputs.count }}
-        - Partidos unificados: ${{ steps.engine.outputs.count }}"
+        git commit -m "Actualizar datos de partidos [skip ci]"
         
         git push origin main
         
