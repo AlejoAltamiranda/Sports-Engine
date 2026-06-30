@@ -1,20 +1,5 @@
 [
   {
-    "hora_utc": "2026-06-30T17:00Z",
-    "hora_fin_utc": "2026-06-30T19:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Costa de Marfil vs Noruega",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-ivory-coast-vs-norway/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-06-30T21:00:00Z",
     "hora_fin_utc": "2026-06-30T23:20:00Z",
     "liga": "Copa del Mundo",
@@ -33,6 +18,16 @@
         "calidad": "HD"
       },
       {
+        "nombre": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Tigo Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TYC Sports",
         "url": "https://tvhd2.com/canales.php?stream=tycsports",
         "calidad": "HD"
@@ -43,18 +38,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telemundo HD",
         "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
         "calidad": "HD"
       },
       {
@@ -346,21 +331,6 @@
         "nombre": "ESPN 2",
         "url": "https://tvhd2.com/online/canal.php?stream=even4",
         "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv",
-        "calidad": "HD"
       }
     ]
   },
@@ -453,16 +423,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Win Sports ┃OP3",
         "url": "https://tvhd2.com/vivo/canales.php?stream=winsports",
         "calidad": "HD"
@@ -473,8 +433,48 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Canal 5 MX",
         "url": "https://tvhd2.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports +",
+        "url": "https://tvhd2.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + I OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
       },
       {
