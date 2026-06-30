@@ -1,202 +1,37 @@
 [
   {
-    "hora_utc": "2026-06-22T17:00:00Z",
-    "hora_fin_utc": "2026-06-22T19:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "Argentina vs Austria",
-    "logo": "img/world_cup.png",
-    "sport": "football",
+    "hora_utc": "2026-06-29T22:35Z",
+    "hora_fin_utc": "2026-06-30T01:50:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Chicago White Sox",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://bgvnzw5k.fubo18.com:443/dsports/mono.m3u8?token=2e1e660d6adb2bdcef97cb18f0910db54a256826-bb-1782176108-1782158108",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://b2ZmaWNpYWw.fubo18.com:443/telemundo/mono.m3u8?token=e3da64debfee84d298d371c0cfbb676feebaab35-f3-1782176107-1782158107",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://rm8zcvk3.fubo18.com:443/tycsports/mono.m3u8?token=d737d1aa0bc9fea5d339e93c911aa05ff878d9ff-2b-1782176110-1782158110",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://cxm5.futbolonlinehd.com:443/telemundo/mono.m3u8?token=6c7b4e1635e8cdf03d26c9dd31f756b4a0a1005d-3a-1782176106-1782158106",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://cxm8.futbolonlinehd.com:443/dsports/mono.m3u8?token=f32a2010b96304fcab356c2d32a87aa49e55f765-f2-1782176106-1782158106",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports HD",
-        "url": "https://cxm8.futbolonlinehd.com:443/tycsports/mono.m3u8?token=279ad1da5b7237f7af3de45e43bb37c8d483c139-86-1782176106-1782158106",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://bGFuZQ.fubo18.com:443/dsports/mono.m3u8?token=0cf79144276ce1bdc0e07c5c268f3f054381127d-63-1782176108-1782158108",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://dglvz29s.fubo18.com:443/dsports/mono.m3u8?token=26ea0bb3bb0f47d47431330d7b778c786c75e97c-44-1782176108-1782158108",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe",
-        "url": "https://tvtvhd.com/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV",
-        "url": "https://c2f2zq.fubo18.com:443/caracol/mono.m3u8?token=72b917387206955a4cacedb53204a0237e9f3787-a7-1782176111-1782158111",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://YXdlc29tZQ.fubo18.com:443/sportv/mono.m3u8?token=34e9bbb0700500e0a8ff7e25372dfec72974fdc3-12-1782176111-1782158111",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://cxm4.futbolonlinehd.com:443/sportv/mono.m3u8?token=1b34ccff93977d60710b2b41ad7c55b8364ca99c-a0-1782176110-1782158110",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://dglvz29s.fubo18.com:443/universo/mono.m3u8?token=095f85d3ba8b9052cc9239006a082899ff550ed3-d0-1782176112-1782158112",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://YXdlc29tZQ.fubo18.com:443/goltv/mono.m3u8?token=4beddd23592507f6c863f951cbe3ef45e24c773f-9b-1782176112-1782158112",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-argentina-vs-austria/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23301/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/delta/live_world-championship-gr-j_argentina-austria-live-streaming-1243775979/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/argentina-vs-austria-football-1489399/1",
+        "url": "https://embed.st/embed/golf/23510/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-22T21:00:00Z",
-    "hora_fin_utc": "2026-06-22T23:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "Francia vs Irak",
-    "logo": "img/world_cup.png",
-    "sport": "football",
+    "hora_utc": "2026-06-29T22:40Z",
+    "hora_fin_utc": "2026-06-30T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Philadelphia Phillies vs Pittsburgh Pirates",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
     "canales": [
       {
-        "nombre": "Telemundo",
-        "url": "https://x4bnd7lq.fubo18.com:443/telemundo/mono.m3u8?token=e530df49ce7b45e5edb9e1f8291409b181db784b-3b-1782176125-1782158125",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://cxm9.futbolonlinehd.com:443/dsports/mono.m3u8?token=a526d4029ee8d31e4df7325a6899b5b61787527b-86-1782176124-1782158124",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://cxm6.futbolonlinehd.com:443/telemundo/mono.m3u8?token=2e231e38e91279fc389a8d6802979f98e6f91a0f-9d-1782176123-1782158123",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://eWVz.fubo18.com:443/dsports/mono.m3u8?token=a3cfd0305bd01ef882d7f79a6df059ab52a6a98f-75-1782176125-1782158125",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://bGFuZQ.fubo18.com:443/dsports/mono.m3u8?token=dd2d93ece40e3baa971a41660ae4dc80cb4a13ef-72-1782176125-1782158125",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://eWVz.fubo18.com:443/dsports/mono.m3u8?token=2c83497875dff784c2134067f03529bab632f440-a3-1782176125-1782158125",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://am91cm5leQ.fubo18.com:443/goltv/mono.m3u8?token=e6d2003470ca4c0b012621a6a4347c62bb03c822-1d-1782176125-1782158125",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=6f721a95362ecfbe300ad4b18b66f3763ab9e0a1-99-1782200336-1782146336",
-        "calidad": "480p"
-      },
-      {
-        "nombre": "VIX+",
-        "url": "https://st.streamtpday1.xyz:443/global/vix1/index.m3u8?token=cce316280b05b3ca438886e7f79719c97a3c286f-77-1782200336-1782146336",
-        "calidad": "480p"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://sa.streamtpday1.xyz:443/global/telemundousa/index.m3u8?token=b343a8f6935cd9b0562618c63e40fe2d34f3830a-3b-1782200337-1782146337",
-        "calidad": "480p"
-      },
-      {
-        "nombre": "Trece PY HD",
-        "url": "https://sudamericaplay2.com/canal_41/trecepy.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Dsports FHD OP2 | Latam",
-        "url": "https://sudamericaplay2.com/canal_8112/dsports4541.html",
-        "calidad": "1080p"
-      },
-      {
-        "nombre": "Dsports  FHD",
-        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "calidad": "1080p"
-      },
-      {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-france-vs-iraq/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23302/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/france-vs-iraq-football-1539017/1",
+        "url": "https://embed.st/embed/golf/23516/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-22T22:10Z",
-    "hora_fin_utc": "2026-06-23T01:25:00Z",
+    "hora_utc": "2026-06-29T23:05Z",
+    "hora_fin_utc": "2026-06-30T02:20:00Z",
     "liga": "MLB",
     "equipos": "Detroit Tigers vs New York Yankees",
     "logo": "img/mlb.png",
@@ -204,457 +39,562 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23350/1",
+        "url": "https://embed.st/embed/golf/23512/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-22T22:40Z",
-    "hora_fin_utc": "2026-06-23T01:55:00Z",
+    "hora_utc": "2026-06-29T23:07Z",
+    "hora_fin_utc": "2026-06-30T02:22:00Z",
     "liga": "MLB",
-    "equipos": "Kansas City Royals vs Tampa Bay Rays",
+    "equipos": "New York Mets vs Toronto Blue Jays",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23349/1",
+        "url": "https://embed.st/embed/golf/23515/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-22T22:40Z",
-    "hora_fin_utc": "2026-06-23T01:55:00Z",
+    "hora_utc": "2026-06-29T23:10Z",
+    "hora_fin_utc": "2026-06-30T02:25:00Z",
     "liga": "MLB",
-    "equipos": "Miami Marlins vs Texas Rangers",
+    "equipos": "Boston Red Sox vs Washington Nationals",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23352/1",
+        "url": "https://embed.st/embed/golf/23513/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-22T22:45Z",
-    "hora_fin_utc": "2026-06-23T02:00:00Z",
+    "hora_utc": "2026-06-29T23:10Z",
+    "hora_fin_utc": "2026-06-30T02:25:00Z",
     "liga": "MLB",
-    "equipos": "Philadelphia Phillies vs Washington Nationals",
+    "equipos": "Cleveland Guardians vs Texas Rangers",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23353/1",
+        "url": "https://embed.st/embed/golf/23511/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-22T23:00:00Z",
-    "hora_fin_utc": "2026-06-23T02:15:00Z",
+    "hora_utc": "2026-06-29T23:40Z",
+    "hora_fin_utc": "2026-06-30T02:55:00Z",
     "liga": "MLB",
-    "equipos": "Houston Astros vs Toronto Blue Jays",
+    "equipos": "Cincinnati Reds vs Milwaukee Brewers",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
-        "nombre": "ESPN 5",
-        "url": "https://agvyby.fubo18.com:443/espn5/mono.m3u8?token=675d9f120b319c03dded01f314f613877b64d4d0-b6-1782176092-1782158092",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://eWVz.fubo18.com:443/espn5/mono.m3u8?token=11c1f00612485046f32636a38f0a141d4ad58d29-9e-1782176092-1782158092",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://bmf0aw9u.fubo18.com:443/espn5/mono.m3u8?token=7dca5fa7eadd8718e33570d85e53f84f37f0a550-21-1782176092-1782158092",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23348/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-22T23:00Z",
-    "hora_fin_utc": "2026-06-23T02:15:00Z",
-    "liga": "WNBA",
-    "equipos": "connecticut sun vs chicago sky",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-sky-vs-connecticut-sun/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-22T23:30Z",
-    "hora_fin_utc": "2026-06-23T02:45:00Z",
-    "liga": "WNBA",
-    "equipos": "atlanta dream vs toronto tempo",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-atlanta-dream/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-23T00:00:00Z",
-    "hora_fin_utc": "2026-06-23T02:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "Noruega vs Senegal",
-    "logo": "img/world_cup.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports HD",
-        "url": "https://cxm7.futbolonlinehd.com:443/dsports/mono.m3u8?token=7339ca21afafb57e6ba959817c19b006be07bf33-ea-1782176095-1782158095",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://YXdlc29tZQ.fubo18.com:443/telemundo/mono.m3u8?token=b4e27f979a12c80e5e20d822b387281b0df0d28e-3f-1782176097-1782158097",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://cxm3.futbolonlinehd.com:443/telemundo/mono.m3u8?token=0fe62b786e6748599efa4d7294409df294f764f9-85-1782176095-1782158095",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://a2vlca.fubo18.com:443/dsports/mono.m3u8?token=40be04931b495978fc4724b238105e46970292ec-8f-1782176096-1782158096",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://c2nvdxq.fubo18.com:443/dsports/mono.m3u8?token=faa651bc226f3c93adf89403ade01befdb184e63-36-1782176097-1782158097",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://agvyby.fubo18.com:443/dsports/mono.m3u8?token=12b69ded9d573b0a979026a3826bfe32893fe4d1-11-1782176097-1782158097",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://b2ZmaWNpYWw.fubo18.com:443/tycsports/mono.m3u8?token=211e560a7829ec0b0487bbd61849916f626d424f-83-1782176098-1782158098",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports HD",
-        "url": "https://cxm4.futbolonlinehd.com:443/tycsports/mono.m3u8?token=a9e5c5ed5366a3a99833ddd4aedeee0d5329b796-a6-1782176096-1782158096",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://b2ZmaWNpYWw.fubo18.com:443/sportv/mono.m3u8?token=4ae7efaa093597fd799067f64a4a04a1e58b3696-51-1782176099-1782158099",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://cxm5.futbolonlinehd.com:443/sportv/mono.m3u8?token=285fb7d517442a5685056ffaa426447c27dc830b-f1-1782176099-1782158099",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://b2ZmaWNpYWw.fubo18.com:443/winsports/mono.m3u8?token=39c63e420de453cf51c1826b4873a7d510f27e1e-e0-1782176101-1782158101",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "url": "https://bgvnzw5k.fubo18.com:443/winsports/mono.m3u8?token=6e563c1d91ad5c91ef87659318aa7ce3ac92c9d6-24-1782176101-1782158101",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports HD",
-        "url": "https://cxm4.futbolonlinehd.com:443/winsports/mono.m3u8?token=3f5e3e1b83aa8f19e1cbc545fe4be464523b3b1d-5-1782176100-1782158100",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://wp9xqedt.fubo18.com:443/canal5/mono.m3u8?token=b7481e6690894774442dbc27778bc333461046cd-30-1782176102-1782158102",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7",
-        "url": "https://qzv4jmsc.fubo18.com:443/azteca7/mono.m3u8?token=8f697e5ad000e199f30bc57676252140158b47b0-f7-1782176102-1782158102",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7 | OP2",
-        "url": "https://x4bnd7lq.fubo18.com:443/azteca7/mono.m3u8?token=7d4710df3452134318a37e61d9c05494640c55d9-0-1782176102-1782158102",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7 | OP3",
-        "url": "https://x4bnd7lq.fubo18.com:443/azteca7/mono.m3u8?token=0325b80e6b6da1ef1be21a0ff54690a823925679-15-1782176102-1782158102",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7 HD",
-        "url": "https://cxm7.futbolonlinehd.com:443/azteca7/mono.m3u8?token=2233d9df347e9918d6d51bc6d336114e78e8efae-42-1782176102-1782158102",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America Television",
-        "url": "https://rm8zcvk3.fubo18.com:443/americatv/mono.m3u8?token=227e578b996426007bcf8e68e83e7f4131295016-1e-1782176103-1782158103",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://cxm4.futbolonlinehd.com:443/americatv/mono.m3u8?token=3bf9ccec9bb3144d825d30c948d19f4b0b35e50c-cb-1782176103-1782158103",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports  FHD",
-        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "calidad": "1080p"
-      },
-      {
-        "nombre": "Canal 5 MX  FHD",
-        "url": "https://sudamericaplay2.com/canal_8112/21canalfive.html",
-        "calidad": "1080p"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://st.streamtpday1.xyz:443/global/dsports/index.m3u8?token=ddf9dc03f9a70852a329ebef65a4a8a2d68c8be4-e5-1782200339-1782146339",
-        "calidad": "480p"
-      },
-      {
-        "nombre": "VIX+",
-        "url": "https://sa.streamtpday1.xyz:443/global/vix1/index.m3u8?token=5cd35b036da67de0359b8fafcd0b2e0cf91bf809-61-1782200339-1782146339",
-        "calidad": "480p"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://sa.streamtpday1.xyz:443/global/telemundousa/index.m3u8?token=e701e86cfa988aee835d85359335df96dc0a79ba-01-1782200340-1782146340",
-        "calidad": "480p"
-      },
-      {
-        "nombre": "Unicanal HD",
-        "url": "...",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Dsports FHD OP2 | Latam",
-        "url": "https://sudamericaplay2.com/canal_8112/dsports4541.html",
-        "calidad": "1080p"
-      },
-      {
-        "nombre": "America TV FHD",
-        "url": "https://sudamericaplay2.com/canal_41/1america.php",
-        "calidad": "1080p"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-norway-vs-senegal/1",
+        "url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23303/1",
+        "url": "https://embed.st/embed/golf/23493/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-23T00:00Z",
-    "hora_fin_utc": "2026-06-23T03:15:00Z",
-    "liga": "WNBA",
-    "equipos": "indiana fever vs phoenix mercury",
-    "logo": "img/nba.png",
-    "sport": "nba",
+    "hora_utc": "2026-06-30T00:00Z",
+    "hora_fin_utc": "2026-06-30T03:00:00Z",
+    "liga": "WWE",
+    "equipos": "raw 1727",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-phoenix-mercury-vs-indiana-fever/1",
+        "url": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-23T02:00:00Z",
-    "hora_fin_utc": "2026-06-23T05:15:00Z",
+    "hora_utc": "2026-06-30T00:00Z",
+    "hora_fin_utc": "2026-06-30T03:00:00Z",
+    "liga": "WWE",
+    "equipos": "nxt 844",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T00:05Z",
+    "hora_fin_utc": "2026-06-30T03:20:00Z",
     "liga": "MLB",
-    "equipos": "Atlanta Braves vs San Diego Padres",
+    "equipos": "Chicago Cubs vs San Diego Padres",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23514/1",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn2",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-23T02:00Z",
-    "hora_fin_utc": "2026-06-23T05:15:00Z",
+    "hora_utc": "2026-06-30T00:10Z",
+    "hora_fin_utc": "2026-06-30T03:25:00Z",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Minnesota Twins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-houston-astros/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23496/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T00:40Z",
+    "hora_fin_utc": "2026-06-30T03:55:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs Miami Marlins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23497/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T01:40Z",
+    "hora_fin_utc": "2026-06-30T04:55:00Z",
+    "liga": "MLB",
+    "equipos": "Los Angeles Angels vs Seattle Mariners",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-seattle-mariners/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23498/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T01:40Z",
+    "hora_fin_utc": "2026-06-30T04:55:00Z",
+    "liga": "MLB",
+    "equipos": "Los Angeles Dodgers vs Oakland Athletics",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-athletics/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23499/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T01:40Z",
+    "hora_fin_utc": "2026-06-30T04:55:00Z",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23500/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T12:00:00Z",
+    "hora_fin_utc": "2026-06-30T14:20:00Z",
+    "liga": "Deportes",
+    "equipos": "tenis wimbledon dia 2 primera ronda",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T17:00:00Z",
+    "hora_fin_utc": "2026-06-30T19:20:00Z",
+    "liga": "Copa del Mundo",
+    "equipos": "Costa de Marfil vs Noruega",
+    "logo": "img/world_cup.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-ivory-coast-vs-norway/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23465/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/ivory-coast-vs-norway-football-1564789/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T21:00:00Z",
+    "hora_fin_utc": "2026-06-30T23:20:00Z",
+    "liga": "Copa del Mundo",
+    "equipos": "Francia vs Suecia",
+    "logo": "img/world_cup.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports",
+        "url": "https://tvhd2.com/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-france-vs-sweden/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23466/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/france-vs-sweden-football-1565177/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T23:00Z",
+    "hora_fin_utc": "2026-07-01T02:15:00Z",
     "liga": "WNBA",
-    "equipos": "seattle storm vs dallas wings",
+    "equipos": "new york liberty vs las vegas aces",
     "logo": "img/nba.png",
     "sport": "nba",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-dallas-wings-vs-seattle-storm/1",
+        "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-new-york-liberty/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-23T03:00:00Z",
-    "hora_fin_utc": "2026-06-23T05:20:00Z",
+    "hora_utc": "2026-06-30T23:15Z",
+    "hora_fin_utc": "2026-07-01T02:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23517/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-31T01:00Z",
+    "hora_fin_utc": null,
     "liga": "Copa del Mundo",
-    "equipos": "Argelia vs Jordania",
+    "equipos": "Ecuador vs México",
     "logo": "img/world_cup.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Telemundo",
-        "url": "https://YXdlc29tZQ.fubo18.com:443/telemundo/mono.m3u8?token=37ef5dccdf102fdc5954e06a2d4ecbb58ad065ff-cb-1782176120-1782158120",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://cxm5.futbolonlinehd.com:443/dsports/mono.m3u8?token=8ca3598a5c4b61f36735106d50ec6f36c3c155d9-82-1782176119-1782158119",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://cxm1.futbolonlinehd.com:443/telemundo/mono.m3u8?token=cfe8c30487d13f927521bf2b8e8f83e56e1deece-2-1782176119-1782158119",
-        "calidad": "HD"
-      },
-      {
         "nombre": "DSports",
-        "url": "https://c2f2zq.fubo18.com:443/dsports/mono.m3u8?token=e675cc1778f4fb8c554de1eddcb6d643043c8e8c-37-1782176120-1782158120",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
         "nombre": "DSports | OP2",
-        "url": "https://a2vlca.fubo18.com:443/dsports/mono.m3u8?token=fb1a887418cfa59df2ea83ef7ee6a500802317e9-73-1782176120-1782158120",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
         "calidad": "HD"
       },
       {
         "nombre": "DSports | OP3",
-        "url": "https://anvtcax.fubo18.com:443/dsports/mono.m3u8?token=5f96b26b6a423cbb5930d3183f32300aac3992be-da-1782176121-1782158121",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
         "nombre": "Sportv BR",
-        "url": "https://rm8zcvk3.fubo18.com:443/sportv/mono.m3u8?token=4d5454f782037e714474610908d47848b55adc37-12-1782176121-1782158121",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
       },
       {
         "nombre": "Sportv BR HD",
-        "url": "https://cxm8.futbolonlinehd.com:443/sportv/mono.m3u8?token=279621ab6dcc23336c7c909d38f754ea4b51708e-c7-1782176119-1782158119",
+        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
         "calidad": "HD"
       },
       {
-        "nombre": "FOX Sports 1 USA",
-        "url": "https://Y2FzdGxl.fubo18.com:443/foxsports1_usa/mono.m3u8?token=a5a4b908f2847963952ce68416ae5fd219952d75-ef-1782176120-1782158120",
+        "nombre": "Win Sports",
+        "url": "https://tvhd2.com/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports ┃OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://tvhd2.com/canales.php?stream=canal5",
         "calidad": "HD"
       },
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-jordan-vs-algeria/1",
+        "url": "https://embed.st/embed/admin/ppv-mexico-vs-ecuador/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23304/1",
+        "url": "https://embed.st/embed/golf/23481/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-23T17:00Z",
-    "hora_fin_utc": "2026-06-23T19:20:00Z",
+    "hora_utc": "2026-07-01T16:00Z",
+    "hora_fin_utc": "2026-07-01T18:20:00Z",
     "liga": "Soccer",
-    "equipos": "Portugal vs Uzbekistán",
+    "equipos": "Inglaterra vs RD Congo",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-portugal-vs-uzbekistan/1",
+        "url": "https://embed.st/embed/admin/ppv-england-vs-congo-dr/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23322/1",
+        "url": "https://embed.st/embed/golf/23482/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-23T20:00Z",
-    "hora_fin_utc": "2026-06-23T22:20:00Z",
+    "hora_utc": "2026-07-01T20:00Z",
+    "hora_fin_utc": "2026-07-01T22:20:00Z",
     "liga": "Soccer",
-    "equipos": "Ghana vs Inglaterra",
+    "equipos": "Bélgica vs Senegal",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-england-vs-ghana/1",
+        "url": "https://embed.st/embed/admin/ppv-belgium-vs-senegal/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23323/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-06-23T23:00Z",
-    "hora_fin_utc": "2026-06-24T01:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Croacia vs Panamá",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-panama-vs-croatia/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23324/1",
+        "url": "https://embed.st/embed/golf/23483/1",
         "calidad": "HD"
       }
     ]
