@@ -1,75 +1,230 @@
 [
   {
-    "hora_utc": "2026-06-31T00:00Z",
-    "hora_fin_utc": null,
-    "liga": "WWE",
-    "equipos": "nxt 844",
-    "logo": "img/wwe.png",
-    "sport": "wwe",
+    "hora_utc": "2026-06-30T22:35Z",
+    "hora_fin_utc": "2026-07-01T01:50:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Chicago White Sox",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/1",
+        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-baltimore-orioles/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/2",
+        "url": "https://embed.st/embed/golf/23510/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-06-31T01:00Z",
-    "hora_fin_utc": null,
-    "liga": "Soccer",
-    "equipos": "Ecuador vs México",
-    "logo": "img/default.png",
-    "sport": "football",
+    "hora_utc": "2026-06-30T22:40Z",
+    "hora_fin_utc": "2026-07-01T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Philadelphia Phillies vs Pittsburgh Pirates",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedindia.st/embed/wc/2026-06-30/mex-ecu/fox",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedindia.st/embed/wc/2026-06-30/mex-ecu/fox-4k",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedindia.st/embed/wc/2026-06-30/mex-ecu",
+        "url": "https://embed.st/embed/golf/23527/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-07-01T10:00:00Z",
-    "hora_fin_utc": "2026-07-01T12:20:00Z",
+    "hora_utc": "2026-06-30T22:40Z",
+    "hora_fin_utc": "2026-07-01T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Texas Rangers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-texas-rangers-vs-cleveland-guardians/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23511/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T23:05Z",
+    "hora_fin_utc": "2026-07-01T02:20:00Z",
+    "liga": "MLB",
+    "equipos": "Detroit Tigers vs New York Yankees",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-new-york-yankees/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23512/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T23:07Z",
+    "hora_fin_utc": "2026-07-01T02:22:00Z",
+    "liga": "MLB",
+    "equipos": "New York Mets vs Toronto Blue Jays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-toronto-blue-jays/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23515/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T23:10Z",
+    "hora_fin_utc": "2026-07-01T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Washington Nationals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-boston-red-sox/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23513/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-30T23:15Z",
+    "hora_fin_utc": "2026-07-01T02:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23517/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-31T00:40Z",
+    "hora_fin_utc": null,
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs Miami Marlins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-colorado-rockies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23521/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-31T01:40Z",
+    "hora_fin_utc": null,
+    "liga": "MLB",
+    "equipos": "Los Angeles Dodgers vs Oakland Athletics",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-athletics/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23522/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-06-31T01:40Z",
+    "hora_fin_utc": null,
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23523/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-01T12:00:00Z",
+    "hora_fin_utc": "2026-07-01T14:20:00Z",
     "liga": "Deportes",
     "equipos": "tenis wimbledon dia 3 segunda ronda",
     "logo": "img/default.png",
     "sport": "deportes",
     "canales": [
       {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn3",
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
         "calidad": "HD"
       }
     ]
@@ -120,46 +275,41 @@
     ]
   },
   {
-    "hora_utc": "2026-07-01T17:10Z",
-    "hora_fin_utc": "2026-07-01T20:25:00Z",
-    "liga": "MLB",
-    "equipos": "Cleveland Guardians vs Texas Rangers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
+    "hora_utc": "2026-07-01T16:00Z",
+    "hora_fin_utc": "2026-07-01T18:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Inglaterra vs RD Congo",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23511/1",
+        "url": "https://embed.st/embed/admin/ppv-england-vs-congo-dr/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23482/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-07-01T19:00:00Z",
-    "hora_fin_utc": "2026-07-01T22:15:00Z",
+    "hora_utc": "2026-07-01T18:20Z",
+    "hora_fin_utc": "2026-07-01T21:35:00Z",
     "liga": "MLB",
-    "equipos": "New York Mets vs Toronto Blue Jays",
+    "equipos": "Chicago Cubs vs San Diego Padres",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-chicago-cubs/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23514/1",
         "calidad": "HD"
       }
     ]
@@ -246,6 +396,16 @@
         "nombre": "FOX Sports 1 USA",
         "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-belgium-vs-senegal/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23483/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -270,6 +430,21 @@
       {
         "nombre": "TNT Sports Premiun CL HD",
         "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-01T22:00:00Z",
+    "hora_fin_utc": "2026-07-02T01:15:00Z",
+    "liga": "MLB",
+    "equipos": "Cincinnati Reds vs Milwaukee Brewers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
         "calidad": "HD"
       }
     ]
@@ -360,26 +535,21 @@
     ]
   },
   {
-    "hora_utc": "2026-07-02T00:00:00Z",
-    "hora_fin_utc": "2026-07-02T03:15:00Z",
-    "liga": "MLB",
-    "equipos": "Cincinnati Reds vs Milwaukee Brewers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
+    "hora_utc": "2026-07-02T00:00Z",
+    "hora_fin_utc": "2026-07-02T02:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Bosnia y Herzegovina vs Estados Unidos",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/canales.php?stream=espn4",
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-united-states-vs-bosnia-herzegovina/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn4",
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23484/1",
         "calidad": "HD"
       }
     ]
@@ -405,6 +575,36 @@
       {
         "nombre": "TNT Sports Premiun CL HD",
         "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-02T19:00Z",
+    "hora_fin_utc": "2026-07-02T21:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Austria vs España",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-austria/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-02T23:00Z",
+    "hora_fin_utc": "2026-07-03T01:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Croacia vs Portugal",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-portugal-vs-croatia/1",
         "calidad": "HD"
       }
     ]
