@@ -8,11 +8,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23510/1",
         "calidad": "HD"
       }
@@ -36,11 +31,6 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23511/1",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/cleveland-guardians-vs-texas-rangers-baseball-179310/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github",
@@ -61,11 +51,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23512/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/new-york-yankees-vs-detroit-tigers-baseball-179305/1",
         "calidad": "HD"
       }
     ],
@@ -125,37 +110,6 @@
     "equipos_original": "Chicago Cubs vs San Diego Padres"
   },
   {
-    "hora_utc": "2026-07-01T19:00:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "mlb toronto blue jays vs new york mets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "MLB – Toronto Blue Jays vs New York Mets"
-  },
-  {
     "hora_utc": "2026-07-01T19:07Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -171,11 +125,6 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23515/1",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/toronto-blue-jays-vs-new-york-mets-baseball-179303/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github",
@@ -189,7 +138,7 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Dsports Mundial",
+        "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
         "calidad": "HD"
       },
@@ -421,6 +370,16 @@
     "equipos": "ee uu vs bosnia-herzegovina",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even3",
+        "calidad": "HD"
+      },
       {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
