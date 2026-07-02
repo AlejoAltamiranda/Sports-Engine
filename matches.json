@@ -16,11 +16,6 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23527/1",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/philadelphia-phillies-vs-pittsburgh-pirates-baseball-179319/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -50,78 +45,13 @@
     ]
   },
   {
-    "hora_utc": "2026-07-02T19:00:00Z",
+    "hora_utc": "2026-07-02T19:00Z",
     "hora_fin_utc": "2026-07-02T21:20:00Z",
-    "liga": "Copa del Mundo",
+    "liga": "Soccer",
     "equipos": "Austria vs España",
-    "logo": "img/world_cup.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX ONE HD1",
-        "url": "https://tvhd1.com/canales/foxone.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSPORTS TV",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-spain-vs-austria/1",
@@ -174,22 +104,12 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 3 | OP2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=espn3",
         "calidad": "HD"
       }
     ]
@@ -203,18 +123,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
+        "nombre": "TNT Sports Chile HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       }
     ]
@@ -243,18 +153,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
         "calidad": "HD"
       },
       {
@@ -278,6 +178,16 @@
         "calidad": "HD"
       },
       {
+        "nombre": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
@@ -293,11 +203,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo",
         "calidad": "HD"
@@ -308,13 +213,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "nombre": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
       },
       {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv",
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
         "calidad": "HD"
       },
       {
@@ -325,6 +235,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23502/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/portugal-vs-croatia-football-1567309/1",
         "calidad": "HD"
       }
     ]
@@ -425,6 +340,21 @@
     ]
   },
   {
+    "hora_utc": "2026-07-03T00:00:00Z",
+    "hora_fin_utc": "2026-07-03T02:20:00Z",
+    "liga": "Copa Chile",
+    "equipos": "colo-colo vs O'Higgins",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-03T00:00Z",
     "hora_fin_utc": "2026-07-03T03:15:00Z",
     "liga": "WNBA",
@@ -455,31 +385,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-03T00:30:00Z",
-    "hora_fin_utc": "2026-07-03T02:50:00Z",
-    "liga": "Copa Chile",
-    "equipos": "colo-colo vs O'Higgins",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
