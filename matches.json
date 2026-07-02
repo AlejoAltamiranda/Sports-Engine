@@ -1,55 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-01T18:20Z",
-    "hora_fin_utc": "2026-07-01T21:35:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs San Diego Padres",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23514/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-01T19:07Z",
-    "hora_fin_utc": "2026-07-01T22:22:00Z",
-    "liga": "MLB",
-    "equipos": "New York Mets vs Toronto Blue Jays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23515/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-01T20:00Z",
-    "hora_fin_utc": "2026-07-01T22:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Bélgica vs Senegal",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-belgium-vs-senegal/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/belgium-vs-senegal-football-1567308/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-01T22:40Z",
     "hora_fin_utc": "2026-07-02T01:55:00Z",
     "liga": "MLB",
@@ -95,101 +45,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-02T00:00:00Z",
-    "hora_fin_utc": "2026-07-02T02:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "Bosnia y Herzegovina vs ee uu",
-    "logo": "img/world_cup.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX ONE USA",
-        "url": "https://tvhd1.com/canales/foxone.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSPORTS TV",
-        "url": "https://tvhd2.com/online/canales.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-02T00:00Z",
     "hora_fin_utc": "2026-07-02T02:20:00Z",
     "liga": "Soccer",
@@ -199,12 +54,17 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-united-states-vs-bosnia-herzegovina/1",
+        "url": "https://embedindia.st/embed/wc/2026-07-01/usa-bih/fox-4k",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23484/1",
+        "url": "https://embedindia.st/embed/wc/2026-07-01/usa-bih",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedindia.st/embed/wc/2026-07-01/usa-bih/uk",
         "calidad": "HD"
       }
     ]
@@ -226,6 +86,11 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23520/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/houston-astros-vs-minnesota-twins-baseball-179302/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -240,31 +105,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/golf/23528/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-02T00:30:00Z",
-    "hora_fin_utc": "2026-07-02T02:50:00Z",
-    "liga": "Copa Chile",
-    "equipos": "universidad chile vs Unión La Calera",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
@@ -301,6 +141,11 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23522/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/athletics-vs-los-angeles-dodgers-baseball-179314/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -320,6 +165,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23523/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/arizona-diamondbacks-vs-san-francisco-giants-baseball-179315/1",
         "calidad": "HD"
       }
     ]
@@ -395,6 +245,36 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23503/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-03T18:00Z",
+    "hora_fin_utc": "2026-07-03T20:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Australia vs Egipto",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23524/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-03T22:00Z",
+    "hora_fin_utc": "2026-07-04T00:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Argentina vs Cabo Verde",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23525/1",
         "calidad": "HD"
       }
     ]
