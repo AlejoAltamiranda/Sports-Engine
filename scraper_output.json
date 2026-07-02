@@ -1,89 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-01T16:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "baltimore orioles vs chicago white sox",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23510/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Baltimore Orioles vs Chicago White Sox"
-  },
-  {
-    "hora_utc": "2026-07-01T17:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cleveland guardians vs texas rangers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-texas-rangers-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23511/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cleveland Guardians vs Texas Rangers"
-  },
-  {
-    "hora_utc": "2026-07-01T17:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "new york yankees vs detroit tigers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-new-york-yankees/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23512/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Yankees vs Detroit Tigers"
-  },
-  {
-    "hora_utc": "2026-07-01T17:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "boston red sox vs washington nationals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-boston-red-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23513/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/boston-red-sox-vs-washington-nationals-baseball-179308/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Boston Red Sox vs Washington Nationals"
-  },
-  {
     "hora_utc": "2026-07-01T18:20Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -92,17 +8,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-chicago-cubs/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23514/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/chicago-cubs-vs-san-diego-padres-baseball-179311/1",
         "calidad": "HD"
       }
     ],
@@ -118,113 +24,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-toronto-blue-jays/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23515/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Toronto Blue Jays vs New York Mets"
-  },
-  {
-    "hora_utc": "2026-07-01T20:00:00Z",
-    "logo": "img/world_cup.png",
-    "liga": "Copa del Mundo",
-    "equipos": "belgica vs senegal",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSPORTS TV",
-        "url": "https://tvhd2.com/online/canales.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://tvhd2.com/canales.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Sports 1 USA",
-        "url": "https://tvhd2.com/canales.php?stream=foxsports1_usa",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Bélgica vs Senegal"
   },
   {
     "hora_utc": "2026-07-01T20:00Z",
@@ -240,80 +45,12 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23483/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/echo/belgium-vs-senegal-football-1567308/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Belgium vs Senegal"
-  },
-  {
-    "hora_utc": "2026-07-01T22:00:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "deportes limache vs coquimbo unido",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportes Limache vs Coquimbo Unido"
-  },
-  {
-    "hora_utc": "2026-07-01T22:00:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "mlb milwaukee brewers vs cincinnati reds",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "MLB – Milwaukee Brewers vs Cincinnati Reds"
-  },
-  {
-    "hora_utc": "2026-07-01T22:00:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "ldu quito vs orense",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "LDU Quito vs Orense"
   },
   {
     "hora_utc": "2026-07-01T22:40Z",
@@ -376,6 +113,36 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX ONE USA",
+        "url": "https://tvhd1.com/canales/foxone.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Tigo Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSPORTS TV",
         "url": "https://tvhd2.com/online/canales.php?stream=even3",
         "calidad": "HD"
@@ -423,16 +190,6 @@
       {
         "nombre": "Canal 5 MX",
         "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
