@@ -20,6 +20,46 @@
     ]
   },
   {
+    "hora_utc": "2026-07-01T23:15Z",
+    "hora_fin_utc": "2026-07-02T02:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23531/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-01T23:40Z",
+    "hora_fin_utc": "2026-07-02T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Kansas City Royals vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-kansas-city-royals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23532/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-02T00:00Z",
     "hora_fin_utc": "2026-07-02T02:20:00Z",
     "liga": "Soccer",
@@ -85,23 +125,23 @@
     ]
   },
   {
-    "hora_utc": "2026-07-02T01:40Z",
-    "hora_fin_utc": "2026-07-02T04:55:00Z",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs San Francisco Giants",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
+    "hora_utc": "2026-07-02T10:30:00Z",
+    "hora_fin_utc": "2026-07-02T12:50:00Z",
+    "liga": "Deportes",
+    "equipos": "de minaur alex vs mannarino adrian",
+    "logo": "img/default.png",
+    "sport": "deportes",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23523/1",
+        "nombre": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-07-02T10:00:00Z",
-    "hora_fin_utc": "2026-07-02T12:20:00Z",
+    "hora_utc": "2026-07-02T13:00:00Z",
+    "hora_fin_utc": "2026-07-02T15:20:00Z",
     "liga": "Deportes",
     "equipos": "tenis wimbledon dia 4 segunda ronda",
     "logo": "img/default.png",
@@ -115,21 +155,6 @@
       {
         "nombre": "ESPN 2",
         "url": "https://tvhd2.com/online/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-02T10:30:00Z",
-    "hora_fin_utc": "2026-07-02T12:50:00Z",
-    "liga": "Deportes",
-    "equipos": "de minaur alex vs mannarino adrian",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
         "calidad": "HD"
       }
     ]
@@ -279,12 +304,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23530/1",
+        "url": "https://embed.st/embed/golf/23542/1",
         "calidad": "HD"
       }
     ]
@@ -365,26 +385,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-02T23:15Z",
-    "hora_fin_utc": "2026-07-03T02:30:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs St. Louis Cardinals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23531/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-02T23:30Z",
     "hora_fin_utc": "2026-07-03T02:45:00Z",
     "liga": "WNBA",
@@ -395,26 +395,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-washington-mystics/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-02T23:40Z",
-    "hora_fin_utc": "2026-07-03T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Kansas City Royals vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-kansas-city-royals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23532/1",
         "calidad": "HD"
       }
     ]

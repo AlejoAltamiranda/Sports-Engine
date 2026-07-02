@@ -21,6 +21,48 @@
     "equipos_original": "Philadelphia Phillies vs Pittsburgh Pirates"
   },
   {
+    "hora_utc": "2026-07-01T23:15Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "atlanta braves vs st louis cardinals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23531/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Atlanta Braves vs St. Louis Cardinals"
+  },
+  {
+    "hora_utc": "2026-07-01T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "kansas city royals vs tampa bay rays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-kansas-city-royals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23532/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Kansas City Royals vs Tampa Bay Rays"
+  },
+  {
     "hora_utc": "2026-07-02T00:00Z",
     "logo": "img/default.png",
     "liga": "Soccer",
@@ -89,23 +131,23 @@
     "equipos_original": "Colorado Rockies vs Miami Marlins"
   },
   {
-    "hora_utc": "2026-07-02T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "arizona diamondbacks vs san francisco giants",
+    "hora_utc": "2026-07-02T10:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "de minaur alex vs mannarino adrian",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23523/1",
+        "nombre": "ESPN 3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3",
         "calidad": "HD"
       }
     ],
-    "fuente": "github",
-    "equipos_original": "Arizona Diamondbacks vs San Francisco Giants"
+    "fuente": "pltvhd",
+    "equipos_original": "De Minaur Alex vs Mannarino Adrian"
   },
   {
-    "hora_utc": "2026-07-02T10:00:00Z",
+    "hora_utc": "2026-07-02T13:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
     "equipos": "tenis wimbledon dia 4 segunda ronda",
@@ -129,22 +171,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Tenis – Wimbledon – Dia #4 – Segunda Ronda"
-  },
-  {
-    "hora_utc": "2026-07-02T10:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "de minaur alex vs mannarino adrian",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "De Minaur Alex vs Mannarino Adrian"
   },
   {
     "hora_utc": "2026-07-02T19:00:00Z",
@@ -304,12 +330,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23530/1",
+        "url": "https://embed.st/embed/golf/23542/1",
         "calidad": "HD"
       }
     ],
@@ -404,27 +425,6 @@
     "equipos_original": "Portugal vs Croatia"
   },
   {
-    "hora_utc": "2026-07-02T23:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "atlanta braves vs st louis cardinals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-atlanta-braves/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23531/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Atlanta Braves vs St. Louis Cardinals"
-  },
-  {
     "hora_utc": "2026-07-02T23:30Z",
     "logo": "img/nba.png",
     "liga": "WNBA",
@@ -439,27 +439,6 @@
     ],
     "fuente": "github",
     "equipos_original": "Washington Mystics vs Atlanta Dream"
-  },
-  {
-    "hora_utc": "2026-07-02T23:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "kansas city royals vs tampa bay rays",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-kansas-city-royals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23532/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Kansas City Royals vs Tampa Bay Rays"
   },
   {
     "hora_utc": "2026-07-03T00:00:00Z",
