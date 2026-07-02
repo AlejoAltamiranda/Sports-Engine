@@ -125,21 +125,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-02T10:30:00Z",
-    "hora_fin_utc": "2026-07-02T12:50:00Z",
-    "liga": "Deportes",
-    "equipos": "de minaur alex vs mannarino adrian",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-02T13:00:00Z",
     "hora_fin_utc": "2026-07-02T15:20:00Z",
     "liga": "Deportes",
@@ -153,8 +138,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=espn3",
         "calidad": "HD"
       }
     ]
@@ -445,6 +440,26 @@
     ]
   },
   {
+    "hora_utc": "2026-07-03T00:00Z",
+    "hora_fin_utc": "2026-07-03T03:00:00Z",
+    "liga": "WWE",
+    "equipos": "smackdown 1402",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-03T00:30:00Z",
     "hora_fin_utc": "2026-07-03T02:50:00Z",
     "liga": "Copa Chile",
@@ -545,6 +560,31 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23503/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-03T11:30Z",
+    "hora_fin_utc": "2026-07-03T13:50:00Z",
+    "liga": "Formula 1",
+    "equipos": "f1 british - practice 1",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/3",
         "calidad": "HD"
       }
     ]
