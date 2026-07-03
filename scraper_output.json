@@ -69,33 +69,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSPORTS TV",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
         "calidad": "HD"
       },
       {
@@ -104,8 +79,28 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Sportv BR HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2",
         "calidad": "HD"
       },
       {
@@ -134,18 +129,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Deportes TV. C",
         "url": "https://tvhd2.com/canales.php?stream=goltv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
         "calidad": "HD"
       }
     ],
@@ -168,6 +158,11 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23524/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/australia-vs-egypt-football-1565178/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github",
@@ -188,6 +183,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23538/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/chicago-cubs-vs-stlouis-cardinals-baseball-179334/1",
         "calidad": "HD"
       }
     ],
@@ -243,6 +243,46 @@
         "calidad": "HD"
       },
       {
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSPORTS TV",
+        "url": "https://tvhd2.com/online/canales.php?stream=even2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
@@ -255,11 +295,6 @@
       {
         "nombre": "DSports | OP3",
         "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -278,13 +313,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "TYC Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
+        "nombre": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe",
         "calidad": "HD"
       },
       {
-        "nombre": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe",
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv",
         "calidad": "HD"
       },
       {
@@ -303,33 +343,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Canal 5 MX",
         "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       }
     ],
@@ -463,6 +478,11 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23543/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/atlanta-braves-vs-new-york-mets-baseball-179335/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github",
@@ -591,7 +611,7 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports HD",
+        "nombre": "DSports | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
@@ -626,7 +646,7 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Telemundo HD",
+        "nombre": "Telemundo | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
