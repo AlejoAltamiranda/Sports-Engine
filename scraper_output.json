@@ -1,26 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-02T16:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "philadelphia phillies vs pittsburgh pirates",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-philadelphia-phillies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23527/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Philadelphia Phillies vs Pittsburgh Pirates"
-  },
-  {
     "hora_utc": "2026-07-02T18:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -29,48 +8,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-milwaukee-brewers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23528/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/milwaukee-brewers-vs-cincinnati-reds-baseball-179316/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Milwaukee Brewers vs Cincinnati Reds"
-  },
-  {
-    "hora_utc": "2026-07-02T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "spain vs austria",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-spain-vs-austria/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23501/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/spain-vs-austria-football-1567311/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Spain vs Austria"
   },
   {
     "hora_utc": "2026-07-02T19:10Z",
@@ -97,53 +40,6 @@
     ],
     "fuente": "github",
     "equipos_original": "Colorado Rockies vs Miami Marlins"
-  },
-  {
-    "hora_utc": "2026-07-02T21:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "golf us senior open golf championship primera vuelta",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Golf – U.S. Senior Open Golf Championship – Primera Vuelta"
-  },
-  {
-    "hora_utc": "2026-07-02T22:00:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "huachipato vs deportes concepcion",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Huachipato vs Deportes Concepción"
   },
   {
     "hora_utc": "2026-07-02T22:40Z",
@@ -179,11 +75,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSPORTS TV",
-        "url": "https://tvhd2.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
         "nombre": "DSports HD",
         "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
@@ -196,6 +87,11 @@
       {
         "nombre": "America TV | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
         "calidad": "HD"
       },
       {
@@ -224,11 +120,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Deportes TV. C",
         "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
@@ -241,6 +132,11 @@
       {
         "nombre": "Canal 5 MX HD1",
         "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://tvhd2.com/canales.php?stream=americatv",
         "calidad": "HD"
       }
     ],
@@ -326,10 +222,36 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23532/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/kansas-city-royals-vs-tampa-bay-rays-baseball-179324/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Kansas City Royals vs Tampa Bay Rays"
+  },
+  {
+    "hora_utc": "2026-07-03T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Chile",
+    "equipos": "ohiggins vs colo-colo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Chile HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "O'Higgins vs Colo-Colo"
   },
   {
     "hora_utc": "2026-07-03T00:00:00Z",
@@ -361,22 +283,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "MLB – Texas Rangers vs. Detroit Tigers"
-  },
-  {
-    "hora_utc": "2026-07-03T00:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Chile",
-    "equipos": "ohiggins vs colo-colo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Chile HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "O'Higgins vs Colo-Colo"
   },
   {
     "hora_utc": "2026-07-03T00:00Z",
