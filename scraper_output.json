@@ -1,167 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-02T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cleveland guardians vs chicago white sox",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23558/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cleveland Guardians vs Chicago White Sox"
-  },
-  {
-    "hora_utc": "2026-07-03T00:00Z",
-    "logo": "img/wwe.png",
-    "liga": "WWE",
-    "equipos": "smackdown 1402",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "SmackDown #1402"
-  },
-  {
-    "hora_utc": "2026-07-03T00:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "texas rangers vs detroit tigers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23555/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Texas Rangers vs Detroit Tigers"
-  },
-  {
-    "hora_utc": "2026-07-03T02:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "los angeles dodgers vs san diego padres",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23549/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Los Angeles Dodgers vs San Diego Padres"
-  },
-  {
-    "hora_utc": "2026-07-03T11:30Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "f1 british - practice 1",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "F1 British - Practice 1"
-  },
-  {
-    "hora_utc": "2026-07-03T12:55:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "f3 silverstone clasificacion",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F3 Silverstone – Clasificación"
-  },
-  {
-    "hora_utc": "2026-07-03T13:40:00Z",
-    "logo": "img/default.png",
-    "liga": "Formula 2",
-    "equipos": "f2 great britain - qualifying",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F2 Great Britain - Qualifying"
-  },
-  {
     "hora_utc": "2026-07-03T15:30Z",
     "logo": "img/formula1.png",
     "liga": "Formula 1",
@@ -206,6 +44,22 @@
     ],
     "fuente": "github",
     "equipos_original": "F1 British - Qualifying"
+  },
+  {
+    "hora_utc": "2026-07-03T16:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "tenis wimbledon dia 5 tercera ronda",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Tenis – Wimbledon – Dia #5 – Tercera Ronda"
   },
   {
     "hora_utc": "2026-07-03T18:00:00Z",
@@ -565,6 +419,22 @@
     "hora_utc": "2026-07-03T23:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
+    "equipos": "cleveland guardians vs chicago white sox",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23558/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Cleveland Guardians vs Chicago White Sox"
+  },
+  {
+    "hora_utc": "2026-07-03T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
     "equipos": "cincinnati reds vs baltimore orioles",
     "status": "pronto",
     "canales": [
@@ -629,6 +499,27 @@
     ],
     "fuente": "github",
     "equipos_original": "Ottawa Redblacks vs Saskatchewan Roughriders"
+  },
+  {
+    "hora_utc": "2026-07-04T00:00Z",
+    "logo": "img/wwe.png",
+    "liga": "WWE",
+    "equipos": "smackdown 1402",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "SmackDown #1402"
   },
   {
     "hora_utc": "2026-07-04T00:10Z",
@@ -833,6 +724,43 @@
     "equipos_original": "Las Vegas Aces vs Chicago Sky"
   },
   {
+    "hora_utc": "2026-07-04T02:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "seattle mariners vs toronto blue jays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23556/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Seattle Mariners vs Toronto Blue Jays"
+  },
+  {
+    "hora_utc": "2026-07-04T02:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "los angeles dodgers vs san diego padres",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23549/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Los Angeles Dodgers vs San Diego Padres"
+  },
+  {
     "hora_utc": "2026-07-04T17:00Z",
     "logo": "img/default.png",
     "liga": "Soccer",
@@ -852,6 +780,22 @@
     ],
     "fuente": "github",
     "equipos_original": "Canada vs Morocco"
+  },
+  {
+    "hora_utc": "2026-07-04T20:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "texas rangers vs detroit tigers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23555/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Texas Rangers vs Detroit Tigers"
   },
   {
     "hora_utc": "2026-07-04T21:00Z",
@@ -889,5 +833,52 @@
     ],
     "fuente": "github",
     "equipos_original": "BC Lions vs Edmonton Elks"
+  },
+  {
+    "hora_utc": "2026-07-05T14:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "f1 british - grand prix",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "F1 British - Grand Prix"
+  },
+  {
+    "hora_utc": "2026-07-05T23:00Z",
+    "logo": "img/default.png",
+    "liga": "CFL",
+    "equipos": "hamilton tiger-cats vs winnipeg blue bombers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Hamilton Tiger-Cats vs Winnipeg Blue Bombers"
   }
 ]
