@@ -16,6 +16,11 @@
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23542/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23558/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -35,26 +40,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-03T01:40Z",
-    "hora_fin_utc": "2026-07-03T04:55:00Z",
-    "liga": "MLB",
-    "equipos": "Los Angeles Angels vs Seattle Mariners",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23534/1",
         "calidad": "HD"
       }
     ]
@@ -80,71 +65,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-03T07:45:00Z",
-    "hora_fin_utc": "2026-07-03T10:05:00Z",
-    "liga": "Deportes",
-    "equipos": "f3 silverstone practicas",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-03T08:45:00Z",
-    "hora_fin_utc": "2026-07-03T11:05:00Z",
-    "liga": "Formula 2",
-    "equipos": "f2 great britain - practice 2",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-03T10:00:00Z",
-    "hora_fin_utc": "2026-07-03T12:20:00Z",
-    "liga": "Deportes",
-    "equipos": "tenis wimbledon dia 5 tercera ronda",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-03T11:30Z",
     "hora_fin_utc": "2026-07-03T13:50:00Z",
     "liga": "Formula 1",
@@ -165,6 +85,21 @@
       {
         "nombre": "Server 3",
         "url": "https://embed.st/embed/admin/ppv-british-grand-prix-practice-1/3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-03T12:30:00Z",
+    "hora_fin_utc": "2026-07-03T14:50:00Z",
+    "liga": "Deportes",
+    "equipos": "tenis wimbledon dia 5 tercera ronda",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1",
         "calidad": "HD"
       }
     ]
@@ -464,12 +399,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-washington-nationals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23539/1",
+        "url": "https://embed.st/embed/golf/23553/1",
         "calidad": "HD"
       }
     ]
@@ -519,12 +449,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23540/1",
+        "url": "https://embed.st/embed/golf/23554/1",
         "calidad": "HD"
       }
     ]
@@ -539,12 +464,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23541/1",
+        "url": "https://embed.st/embed/golf/23557/1",
         "calidad": "HD"
       }
     ]
@@ -594,12 +514,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23545/1",
+        "url": "https://embed.st/embed/golf/23559/1",
         "calidad": "HD"
       }
     ]
