@@ -1,57 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-04T14:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 1",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #1"
-  },
-  {
-    "hora_utc": "2026-07-04T14:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "giron vs zverev",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "GIRON vs ZVEREV"
-  },
-  {
     "hora_utc": "2026-07-04T15:00Z",
     "logo": "img/formula1.png",
     "liga": "Formula 1",
@@ -256,6 +204,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23536/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/canada-vs-morocco-football-1567824/1",
         "calidad": "HD"
       }
     ],

@@ -1,35 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-04T14:30:00Z",
-    "hora_fin_utc": "2026-07-04T16:50:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 1",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-04T14:45:00Z",
-    "hora_fin_utc": "2026-07-04T17:05:00Z",
-    "liga": "Deportes",
-    "equipos": "giron vs zverev",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-04T15:00Z",
     "hora_fin_utc": "2026-07-04T17:20:00Z",
     "liga": "Formula 1",
@@ -190,6 +160,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23536/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/canada-vs-morocco-football-1567824/1",
         "calidad": "HD"
       }
     ]
