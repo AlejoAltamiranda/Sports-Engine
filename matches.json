@@ -1,50 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-03T15:30Z",
-    "hora_fin_utc": "2026-07-03T17:50:00Z",
-    "liga": "Formula 1",
-    "equipos": "f1 british - qualifying",
-    "logo": "img/formula1.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedindia.st/embed/f1/2026/great-britain/sprint-q",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedindia.st/embed/f1/2026/great-britain/sprint-q/f1tv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedindia.st/embed/f1/2026/great-britain/sprint-q/sky-sport-f1-de",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://dlstreams.top/stream/stream-60.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1\"",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-03T20:05Z",
     "hora_fin_utc": "2026-07-03T23:20:00Z",
     "liga": "MLB",
@@ -54,42 +9,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-chicago-cubs/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23538/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/chicago-cubs-vs-stlouis-cardinals-baseball-179334/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-03T22:00Z",
-    "hora_fin_utc": "2026-07-04T00:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Argentina vs Cabo Verde",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-argentina-vs-cape-verde/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23525/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/argentina-vs-cape-verde-islands-football-1565179/1",
+        "url": "https://embed.st/embed/golf/23561/1",
         "calidad": "HD"
       }
     ]
@@ -105,46 +25,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/golf/23553/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-03T23:00:00Z",
-    "hora_fin_utc": "2026-07-04T02:15:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-atlanta-braves/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23543/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/atlanta-braves-vs-new-york-mets-baseball-179335/1",
         "calidad": "HD"
       }
     ]
@@ -195,6 +75,21 @@
     ]
   },
   {
+    "hora_utc": "2026-07-03T23:15Z",
+    "hora_fin_utc": "2026-07-04T02:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs New York Mets",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23560/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-03T23:30Z",
     "hora_fin_utc": "2026-07-04T02:45:00Z",
     "liga": "WNBA",
@@ -239,12 +134,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-colorado-rockies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23544/1",
+        "url": "https://embed.st/embed/golf/23563/1",
         "calidad": "HD"
       }
     ]
@@ -265,93 +155,13 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T01:30:00Z",
+    "hora_utc": "2026-07-04T01:30Z",
     "hora_fin_utc": "2026-07-04T03:50:00Z",
-    "liga": "Copa del Mundo",
+    "liga": "Soccer",
     "equipos": "Colombia vs Ghana",
-    "logo": "img/world_cup.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSPORTS TV HD1",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America Television",
-        "url": "https://tvhd2.com/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-colombia-vs-ghana/1",
@@ -360,6 +170,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23526/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/colombia-vs-ghana-football-1567310/1",
         "calidad": "HD"
       }
     ]
@@ -374,12 +189,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-angels/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23546/1",
+        "url": "https://embed.st/embed/golf/23564/1",
         "calidad": "HD"
       }
     ]
@@ -394,12 +204,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23547/1",
+        "url": "https://embed.st/embed/golf/23565/1",
         "calidad": "HD"
       }
     ]
@@ -414,12 +219,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-arizona-diamondbacks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23548/1",
+        "url": "https://embed.st/embed/golf/23566/1",
         "calidad": "HD"
       }
     ]
@@ -464,12 +264,257 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1",
+        "url": "https://embed.st/embed/golf/23567/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T08:30:00Z",
+    "hora_fin_utc": "2026-07-04T10:50:00Z",
+    "liga": "Formula 1",
+    "equipos": "f1 great britain - sprint",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T10:00:00Z",
+    "hora_fin_utc": "2026-07-04T12:20:00Z",
+    "liga": "Deportes",
+    "equipos": "tenis wimbledon dia 6 tercera ronda",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvhd2.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T11:00Z",
+    "hora_fin_utc": "2026-07-04T13:20:00Z",
+    "liga": "Formula 1",
+    "equipos": "f1 british - sprint",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedindia.st/embed/f1/2026/great-britain/sprint",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23549/1",
+        "url": "https://embedindia.st/embed/f1/2026/great-britain/sprint/f1tv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedindia.st/embed/f1/2026/great-britain/sprint/sky-sport-f1-de",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://dlstreams.top/stream/stream-60.php",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T12:35:00Z",
+    "hora_fin_utc": "2026-07-04T14:55:00Z",
+    "liga": "Formula 2",
+    "equipos": "f2 great britain - sprint",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T14:30:00Z",
+    "hora_fin_utc": "2026-07-04T16:50:00Z",
+    "liga": "Deportes",
+    "equipos": "ciclismo tour de france etapa 1",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T15:00Z",
+    "hora_fin_utc": "2026-07-04T17:20:00Z",
+    "liga": "Formula 1",
+    "equipos": "f1 british - qualifying",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1\"",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T16:00:00Z",
+    "hora_fin_utc": "2026-07-04T18:20:00Z",
+    "liga": "Deportes",
+    "equipos": "golf us senior open golf championship tercera vuelta",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T17:00:00Z",
+    "hora_fin_utc": "2026-07-04T19:20:00Z",
+    "liga": "Copa del Mundo",
+    "equipos": "Canadá vs Marruecos",
+    "logo": "img/world_cup.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-canada-vs-morocco/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23536/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T17:00:00Z",
+    "hora_fin_utc": "2026-07-04T19:20:00Z",
+    "liga": "Formula 1",
+    "equipos": "f1 great britain - grand prix",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
         "calidad": "HD"
       }
     ]
@@ -485,6 +530,106 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/golf/23555/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T21:00:00Z",
+    "hora_fin_utc": "2026-07-04T23:20:00Z",
+    "liga": "Copa del Mundo",
+    "equipos": "Francia vs Paraguay",
+    "logo": "img/world_cup.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-paraguay-vs-france/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23537/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T22:00:00Z",
+    "hora_fin_utc": "2026-07-05T00:20:00Z",
+    "liga": "Copa Chile",
+    "equipos": "Coquimbo Unido vs deportes iquique",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-05T00:30:00Z",
+    "hora_fin_utc": "2026-07-05T02:50:00Z",
+    "liga": "Copa Chile",
+    "equipos": "copiapo vs Universidad Católica",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL OP2",
+        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
