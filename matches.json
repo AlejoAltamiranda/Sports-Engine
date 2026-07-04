@@ -220,36 +220,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T10:00:00Z",
-    "hora_fin_utc": "2026-07-04T12:20:00Z",
-    "liga": "Deportes",
-    "equipos": "tenis wimbledon dia 6 tercera ronda",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-04T11:00Z",
     "hora_fin_utc": "2026-07-04T13:20:00Z",
     "liga": "Formula 1",
@@ -289,12 +259,7 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3",
         "calidad": "HD"
       }
     ]
@@ -309,17 +274,22 @@
     "canales": [
       {
         "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-04T14:45:00Z",
+    "hora_fin_utc": "2026-07-04T17:05:00Z",
+    "liga": "Deportes",
+    "equipos": "giron vs zverev",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
       {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
+        "nombre": "ESPN 4",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
         "calidad": "HD"
       }
     ]
@@ -359,7 +329,7 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
         "calidad": "HD"
       },
       {
@@ -383,8 +353,33 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSPORTS TV HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -398,18 +393,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -434,12 +419,7 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn3",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3",
         "calidad": "HD"
       }
     ]
@@ -630,6 +610,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-brazil-vs-norway/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23551/1",
         "calidad": "HD"
       }
     ]
