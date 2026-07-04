@@ -220,31 +220,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T08:30:00Z",
-    "hora_fin_utc": "2026-07-04T10:50:00Z",
-    "liga": "Formula 1",
-    "equipos": "f1 great britain - sprint",
-    "logo": "img/formula1.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-04T10:00:00Z",
     "hora_fin_utc": "2026-07-04T12:20:00Z",
     "liga": "Deportes",
