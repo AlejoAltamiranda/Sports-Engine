@@ -8,124 +8,17 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-chicago-cubs/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23561/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Chicago Cubs vs St. Louis Cardinals"
-  },
-  {
-    "hora_utc": "2026-07-03T22:45Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "washington nationals vs pittsburgh pirates",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23553/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Washington Nationals vs Pittsburgh Pirates"
-  },
-  {
-    "hora_utc": "2026-07-03T23:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "new york yankees vs minnesota twins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23554/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Yankees vs Minnesota Twins"
-  },
-  {
-    "hora_utc": "2026-07-03T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cleveland guardians vs chicago white sox",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23558/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cleveland Guardians vs Chicago White Sox"
-  },
-  {
-    "hora_utc": "2026-07-03T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cincinnati reds vs baltimore orioles",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23557/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cincinnati Reds vs Baltimore Orioles"
-  },
-  {
-    "hora_utc": "2026-07-03T23:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "atlanta braves vs new york mets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23560/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Atlanta Braves vs New York Mets"
-  },
-  {
-    "hora_utc": "2026-07-03T23:30Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "new york liberty vs minnesota lynx",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-minnesota-lynx-vs-new-york-liberty/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Liberty vs Minnesota Lynx"
-  },
-  {
-    "hora_utc": "2026-07-03T23:30Z",
-    "logo": "img/default.png",
-    "liga": "CFL",
-    "equipos": "ottawa redblacks vs saskatchewan roughriders",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-ottawa-red-blacks/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Ottawa Redblacks vs Saskatchewan Roughriders"
   },
   {
     "hora_utc": "2026-07-04T00:00Z",
@@ -157,6 +50,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-colorado-rockies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23563/1",
         "calidad": "HD"
       }
@@ -173,38 +71,17 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23559/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Houston Astros vs Tampa Bay Rays"
-  },
-  {
-    "hora_utc": "2026-07-04T01:30Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "colombia vs ghana",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-colombia-vs-ghana/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23526/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/colombia-vs-ghana-football-1567310/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Colombia vs Ghana"
   },
   {
     "hora_utc": "2026-07-04T01:38Z",
@@ -215,6 +92,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-angels/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23564/1",
         "calidad": "HD"
       }
@@ -231,6 +113,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-athletics/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23565/1",
         "calidad": "HD"
       }
@@ -247,28 +134,17 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-arizona-diamondbacks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23566/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Arizona Diamondbacks vs Milwaukee Brewers"
-  },
-  {
-    "hora_utc": "2026-07-04T02:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "las vegas aces vs chicago sky",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-sky-vs-las-vegas-aces/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Las Vegas Aces vs Chicago Sky"
   },
   {
     "hora_utc": "2026-07-04T02:10Z",
@@ -279,6 +155,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-seattle-mariners/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23556/1",
         "calidad": "HD"
       }
@@ -295,6 +176,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-los-angeles-dodgers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23567/1",
         "calidad": "HD"
       }
@@ -484,6 +370,27 @@
     "equipos_original": "F1 British - Qualifying"
   },
   {
+    "hora_utc": "2026-07-04T15:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "washington nationals vs pittsburgh pirates",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-washington-nationals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23553/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Washington Nationals vs Pittsburgh Pirates"
+  },
+  {
     "hora_utc": "2026-07-04T16:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -603,6 +510,43 @@
     "equipos_original": "Canada vs Morocco"
   },
   {
+    "hora_utc": "2026-07-04T17:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "atlanta dream vs golden state valkyries",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-atlanta-dream/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Atlanta Dream vs Golden State Valkyries"
+  },
+  {
+    "hora_utc": "2026-07-04T17:35Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "new york yankees vs minnesota twins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23554/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "New York Yankees vs Minnesota Twins"
+  },
+  {
     "hora_utc": "2026-07-04T20:05Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -611,6 +555,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23555/1",
         "calidad": "HD"
       }
@@ -723,6 +672,48 @@
     "equipos_original": "BC Lions vs Edmonton Elks"
   },
   {
+    "hora_utc": "2026-07-04T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "cleveland guardians vs chicago white sox",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23558/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Cleveland Guardians vs Chicago White Sox"
+  },
+  {
+    "hora_utc": "2026-07-04T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "cincinnati reds vs baltimore orioles",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-cincinnati-reds/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23557/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Cincinnati Reds vs Baltimore Orioles"
+  },
+  {
     "hora_utc": "2026-07-05T00:30:00Z",
     "logo": "img/default.png",
     "liga": "Copa Chile",
@@ -747,6 +738,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Universidad Católica vs Copiapó"
+  },
+  {
+    "hora_utc": "2026-07-05T01:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "seattle storm vs portland fire",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-portland-fire-vs-seattle-storm/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Seattle Storm vs Portland Fire"
   },
   {
     "hora_utc": "2026-07-05T14:00Z",
@@ -778,6 +785,22 @@
     ],
     "fuente": "github",
     "equipos_original": "F1 British - Grand Prix"
+  },
+  {
+    "hora_utc": "2026-07-05T20:00Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "brazil vs norway",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-brazil-vs-norway/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Brazil vs Norway"
   },
   {
     "hora_utc": "2026-07-05T23:00Z",
