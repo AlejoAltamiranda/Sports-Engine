@@ -25,61 +25,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T15:05Z",
-    "hora_fin_utc": "2026-07-04T18:20:00Z",
-    "liga": "MLB",
-    "equipos": "Pittsburgh Pirates vs Washington Nationals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23571/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-04T17:00Z",
-    "hora_fin_utc": "2026-07-04T19:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Canadá vs Marruecos",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-canada-vs-morocco/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23536/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/canada-vs-morocco-football-1567824/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-04T17:00Z",
-    "hora_fin_utc": "2026-07-04T20:15:00Z",
-    "liga": "WNBA",
-    "equipos": "atlanta dream vs golden state valkyries",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-atlanta-dream/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-04T17:35Z",
     "hora_fin_utc": "2026-07-04T20:50:00Z",
     "liga": "MLB",
@@ -178,13 +123,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
         "calidad": "HD"
       },
       {
-        "nombre": "DSPORTS TV HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
         "calidad": "HD"
       },
       {
@@ -200,11 +150,6 @@
       {
         "nombre": "TYC Sports | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -248,11 +193,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telefe",
         "url": "https://tvhd2.com/canales.php?stream=telefe",
         "calidad": "HD"
@@ -270,6 +210,11 @@
       {
         "nombre": "Deportes TV. C",
         "url": "https://tvhd2.com/canales.php?stream=goltv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports TV HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       },
       {
@@ -595,6 +540,21 @@
       {
         "nombre": "Server 4",
         "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-05T17:00Z",
+    "hora_fin_utc": "2026-07-05T20:15:00Z",
+    "liga": "MLB",
+    "equipos": "Pittsburgh Pirates vs Washington Nationals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23571/1",
         "calidad": "HD"
       }
     ]
