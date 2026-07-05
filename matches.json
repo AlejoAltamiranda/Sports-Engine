@@ -110,131 +110,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T21:00:00Z",
-    "hora_fin_utc": "2026-07-04T23:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "Francia vs Paraguay",
-    "logo": "img/world_cup.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports TV HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-paraguay-vs-france/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23537/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/paraguay-vs-france-football-1569870/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-04T21:00Z",
     "hora_fin_utc": "2026-07-05T00:15:00Z",
     "liga": "NBA",
@@ -275,26 +150,26 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T22:00:00Z",
-    "hora_fin_utc": "2026-07-05T00:20:00Z",
-    "liga": "Copa Chile",
-    "equipos": "Coquimbo Unido vs deportes iquique",
+    "hora_utc": "2026-07-04T21:00Z",
+    "hora_fin_utc": "2026-07-04T23:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Francia vs Paraguay",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-paraguay-vs-france/1",
         "calidad": "HD"
       },
       {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23537/1",
         "calidad": "HD"
       },
       {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/paraguay-vs-france-football-1569870/1",
         "calidad": "HD"
       }
     ]
@@ -413,6 +288,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "TNT Sports Chile HD",
+        "url": "https://tvhd2.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TNT Sports Premiun CL",
         "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
         "calidad": "HD"
@@ -425,11 +305,6 @@
       {
         "nombre": "TNT Sports Premiun CL HD",
         "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports2",
         "calidad": "HD"
       }
     ]
