@@ -1,156 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-04T17:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "new york yankees vs minnesota twins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23573/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Yankees vs Minnesota Twins"
-  },
-  {
-    "hora_utc": "2026-07-04T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "houston astros vs tampa bay rays",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23578/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Houston Astros vs Tampa Bay Rays"
-  },
-  {
-    "hora_utc": "2026-07-04T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cleveland guardians vs chicago white sox",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23574/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cleveland Guardians vs Chicago White Sox"
-  },
-  {
-    "hora_utc": "2026-07-05T16:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Chile",
-    "equipos": "santiago wanderers vs universidad chile",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Santiago Wanderers vs Universidad Chile"
-  },
-  {
-    "hora_utc": "2026-07-05T17:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "boca juniors vs river plate",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Boca Juniors vs River Plate"
-  },
-  {
-    "hora_utc": "2026-07-05T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "golf us senior open golf championship ultima vuelta",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Golf – U.S. Senior Open Golf Championship – Última Vuelta"
-  },
-  {
     "hora_utc": "2026-07-05T18:00:00Z",
     "logo": "img/ec.png",
     "liga": "Liga Pro",
@@ -183,22 +32,6 @@
     "equipos_original": "Ñublense vs Curicó Unido"
   },
   {
-    "hora_utc": "2026-07-05T19:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "toronto tempo vs dallas wings",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-dallas-wings-vs-toronto-tempo/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Toronto Tempo vs Dallas Wings"
-  },
-  {
     "hora_utc": "2026-07-05T20:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",
@@ -211,18 +44,33 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Dsports LATAM HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TV LA 1 España HD1",
         "url": "https://tvhd1.com/canales/tvla1es.php",
         "calidad": "HD"
       },
       {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "nombre": "Sportv Brasil HD1",
+        "url": "https://tvhd1.com/canales/sportv1.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php",
         "calidad": "HD"
       },
       {
         "nombre": "TYC Sports TV HD",
         "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -423,38 +271,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "WNBA – Las Vegas vs Indiana"
-  },
-  {
-    "hora_utc": "2026-07-05T23:00Z",
-    "logo": "img/nba.png",
-    "liga": "WNBA",
-    "equipos": "las vegas aces vs indiana fever",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Las Vegas Aces vs Indiana Fever"
-  },
-  {
-    "hora_utc": "2026-07-05T23:00Z",
-    "logo": "img/default.png",
-    "liga": "CFL",
-    "equipos": "hamilton tiger-cats vs winnipeg blue bombers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Hamilton Tiger-Cats vs Winnipeg Blue Bombers"
   },
   {
     "hora_utc": "2026-07-05T23:30:00Z",
