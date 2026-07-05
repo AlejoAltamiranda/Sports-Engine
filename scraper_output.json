@@ -1,37 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-05T18:00:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "macara vs ldu quito",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Macará vs LDU Quito"
-  },
-  {
-    "hora_utc": "2026-07-05T19:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Chile",
-    "equipos": "nublense vs curico unido",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ñublense vs Curicó Unido"
-  },
-  {
     "hora_utc": "2026-07-05T20:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",

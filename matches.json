@@ -1,35 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-05T18:00:00Z",
-    "hora_fin_utc": "2026-07-05T20:20:00Z",
-    "liga": "Liga Pro",
-    "equipos": "LDU Quito vs Macará",
-    "logo": "img/ec.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-05T19:00:00Z",
-    "hora_fin_utc": "2026-07-05T21:20:00Z",
-    "liga": "Copa Chile",
-    "equipos": "curico unido vs Ñublense",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-05T20:00:00Z",
     "hora_fin_utc": "2026-07-05T22:20:00Z",
     "liga": "Copa del Mundo",
