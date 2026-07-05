@@ -1,26 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-04T15:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "washington nationals vs pittsburgh pirates",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-washington-nationals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23571/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Washington Nationals vs Pittsburgh Pirates"
-  },
-  {
     "hora_utc": "2026-07-04T17:35Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -40,48 +19,6 @@
     ],
     "fuente": "github",
     "equipos_original": "New York Yankees vs Minnesota Twins"
-  },
-  {
-    "hora_utc": "2026-07-04T20:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "texas rangers vs detroit tigers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23577/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Texas Rangers vs Detroit Tigers"
-  },
-  {
-    "hora_utc": "2026-07-04T20:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "seattle mariners vs toronto blue jays",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23582/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Seattle Mariners vs Toronto Blue Jays"
   },
   {
     "hora_utc": "2026-07-04T23:10Z",
@@ -124,48 +61,6 @@
     ],
     "fuente": "github",
     "equipos_original": "Cleveland Guardians vs Chicago White Sox"
-  },
-  {
-    "hora_utc": "2026-07-04T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cincinnati reds vs baltimore orioles",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23572/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Cincinnati Reds vs Baltimore Orioles"
-  },
-  {
-    "hora_utc": "2026-07-05T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "arizona diamondbacks vs milwaukee brewers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-arizona-diamondbacks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23602/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Arizona Diamondbacks vs Milwaukee Brewers"
   },
   {
     "hora_utc": "2026-07-05T16:30:00Z",
@@ -279,44 +174,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
         "nombre": "TNT Sports Premiun CL OP2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "Ñublense vs Curicó Unido"
-  },
-  {
-    "hora_utc": "2026-07-05T19:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "milwaukee bucks vs brooklyn nets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-milwaukee-bucks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23592/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Milwaukee Bucks vs Brooklyn Nets"
   },
   {
     "hora_utc": "2026-07-05T19:00Z",
@@ -357,6 +221,16 @@
         "calidad": "HD"
       },
       {
+        "nombre": "TYC Sports TV HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports | OP2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
         "calidad": "HD"
@@ -369,6 +243,21 @@
       {
         "nombre": "DSports | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -387,18 +276,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "TYC Sports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Caracol TV",
         "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
         "calidad": "HD"
       },
       {
@@ -407,18 +286,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telemundo",
         "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -616,16 +485,6 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
         "nombre": "TNT Sports Premiun CL HD",
         "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
@@ -642,11 +501,6 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
         "calidad": "HD"
@@ -654,6 +508,16 @@
       {
         "nombre": "Canal 5 MX HD1",
         "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports",
+        "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -667,28 +531,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
         "nombre": "DSports | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -697,33 +541,32 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Telefe",
+        "url": "https://tvhd2.com/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvhd2.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Universo",
         "url": "https://tvhd2.com/canales.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "México vs Inglaterra"
-  },
-  {
-    "hora_utc": "2026-07-06T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "portugal vs spain",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-portugal-vs-spain/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23568/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Portugal vs Spain"
   }
 ]
