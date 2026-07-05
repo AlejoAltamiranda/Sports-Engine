@@ -25,86 +25,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-04T17:35Z",
-    "hora_fin_utc": "2026-07-04T20:50:00Z",
-    "liga": "MLB",
-    "equipos": "Minnesota Twins vs New York Yankees",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23573/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-04T20:05Z",
-    "hora_fin_utc": "2026-07-04T23:20:00Z",
-    "liga": "MLB",
-    "equipos": "Detroit Tigers vs Texas Rangers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23577/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-04T23:10Z",
-    "hora_fin_utc": "2026-07-05T02:25:00Z",
-    "liga": "MLB",
-    "equipos": "Houston Astros vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23578/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-04T23:10Z",
-    "hora_fin_utc": "2026-07-05T02:25:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Cleveland Guardians",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23574/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-04T23:10Z",
     "hora_fin_utc": "2026-07-05T02:25:00Z",
     "liga": "MLB",
@@ -120,36 +40,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23572/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-05T00:08Z",
-    "hora_fin_utc": "2026-07-05T03:23:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23606/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-05T00:10Z",
-    "hora_fin_utc": "2026-07-05T03:25:00Z",
-    "liga": "MLB",
-    "equipos": "Kansas City Royals vs Philadelphia Phillies",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23603/1",
         "calidad": "HD"
       }
     ]
@@ -175,8 +65,8 @@
     ]
   },
   {
-    "hora_utc": "2026-07-05T10:00:00Z",
-    "hora_fin_utc": "2026-07-05T12:20:00Z",
+    "hora_utc": "2026-07-05T12:00:00Z",
+    "hora_fin_utc": "2026-07-05T14:20:00Z",
     "liga": "Deportes",
     "equipos": "tenis wimbledon dia 7 octavos de final",
     "logo": "img/default.png",
@@ -195,71 +85,6 @@
       {
         "nombre": "ESPN 4 | OP3",
         "url": "https://tvhd2.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-05T10:05:00Z",
-    "hora_fin_utc": "2026-07-05T12:25:00Z",
-    "liga": "Formula 2",
-    "equipos": "f2 great britain - grand prix",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-05T11:30:00Z",
-    "hora_fin_utc": "2026-07-05T13:50:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 2",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
         "calidad": "HD"
       }
     ]
@@ -280,31 +105,16 @@
     ]
   },
   {
-    "hora_utc": "2026-07-05T14:00Z",
-    "hora_fin_utc": "2026-07-05T16:20:00Z",
-    "liga": "Formula 1",
-    "equipos": "f1 british - grand prix",
-    "logo": "img/formula1.png",
-    "sport": "football",
+    "hora_utc": "2026-07-05T13:30:00Z",
+    "hora_fin_utc": "2026-07-05T15:50:00Z",
+    "liga": "Deportes",
+    "equipos": "tennis",
+    "logo": "img/default.png",
+    "sport": "deportes",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-race/4",
+        "nombre": "ESPN 2",
+        "url": "https://tvhd2.com/online/canal.php?stream=even2",
         "calidad": "HD"
       }
     ]
@@ -413,6 +223,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
@@ -450,16 +265,6 @@
       {
         "nombre": "TYC Sports | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
         "calidad": "HD"
       },
       {
@@ -648,6 +453,16 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports | OP2",
         "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
         "calidad": "HD"
@@ -658,18 +473,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telefe",
         "url": "https://tvhd2.com/canales.php?stream=telefe",
         "calidad": "HD"
       },
       {
-        "nombre": "Telefe | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -678,8 +488,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
+        "nombre": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
         "calidad": "HD"
       },
       {
