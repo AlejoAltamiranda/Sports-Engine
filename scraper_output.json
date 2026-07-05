@@ -1,29 +1,129 @@
 [
   {
-    "hora_utc": "2026-07-04T15:00Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "f1 british - qualifying",
+    "hora_utc": "2026-07-04T15:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "washington nationals vs pittsburgh pirates",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1\"",
+        "url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-washington-nationals/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/3",
+        "url": "https://embed.st/embed/golf/23571/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
-    "equipos_original": "F1 British - Qualifying"
+    "equipos_original": "Washington Nationals vs Pittsburgh Pirates"
+  },
+  {
+    "hora_utc": "2026-07-04T17:35Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "new york yankees vs minnesota twins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-new-york-yankees/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23573/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "New York Yankees vs Minnesota Twins"
+  },
+  {
+    "hora_utc": "2026-07-04T20:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "texas rangers vs detroit tigers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-texas-rangers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23577/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Texas Rangers vs Detroit Tigers"
+  },
+  {
+    "hora_utc": "2026-07-04T20:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "seattle mariners vs toronto blue jays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-seattle-mariners/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23582/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Seattle Mariners vs Toronto Blue Jays"
+  },
+  {
+    "hora_utc": "2026-07-04T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "houston astros vs tampa bay rays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-houston-astros/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23578/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Houston Astros vs Tampa Bay Rays"
+  },
+  {
+    "hora_utc": "2026-07-04T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "cleveland guardians vs chicago white sox",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-cleveland-guardians/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23574/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Cleveland Guardians vs Chicago White Sox"
   },
   {
     "hora_utc": "2026-07-04T23:10Z",
@@ -66,79 +166,6 @@
     ],
     "fuente": "github",
     "equipos_original": "Arizona Diamondbacks vs Milwaukee Brewers"
-  },
-  {
-    "hora_utc": "2026-07-05T12:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "tenis wimbledon dia 7 octavos de final",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Tenis – Wimbledon – Dia #7 – Octavos de Final"
-  },
-  {
-    "hora_utc": "2026-07-05T12:30:00Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "f1 gran - grand prix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F1 Gran - Grand Prix"
-  },
-  {
-    "hora_utc": "2026-07-05T13:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "tennis",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "tennis"
   },
   {
     "hora_utc": "2026-07-05T16:30:00Z",
@@ -271,6 +298,43 @@
     "equipos_original": "Ñublense vs Curicó Unido"
   },
   {
+    "hora_utc": "2026-07-05T19:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "milwaukee bucks vs brooklyn nets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-milwaukee-bucks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23592/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Milwaukee Bucks vs Brooklyn Nets"
+  },
+  {
+    "hora_utc": "2026-07-05T19:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "toronto tempo vs dallas wings",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-dallas-wings-vs-toronto-tempo/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Toronto Tempo vs Dallas Wings"
+  },
+  {
     "hora_utc": "2026-07-05T20:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",
@@ -280,6 +344,11 @@
       {
         "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
         "calidad": "HD"
       },
       {
@@ -350,6 +419,11 @@
       {
         "nombre": "Telemundo | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ],
@@ -482,6 +556,38 @@
     "equipos_original": "WNBA – Las Vegas vs Indiana"
   },
   {
+    "hora_utc": "2026-07-05T23:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "las vegas aces vs indiana fever",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Las Vegas Aces vs Indiana Fever"
+  },
+  {
+    "hora_utc": "2026-07-05T23:00Z",
+    "logo": "img/default.png",
+    "liga": "CFL",
+    "equipos": "hamilton tiger-cats vs winnipeg blue bombers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Hamilton Tiger-Cats vs Winnipeg Blue Bombers"
+  },
+  {
     "hora_utc": "2026-07-05T23:30:00Z",
     "logo": "img/br.png",
     "liga": "Brasileirao Serie B",
@@ -598,5 +704,26 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "México vs Inglaterra"
+  },
+  {
+    "hora_utc": "2026-07-06T19:00Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "portugal vs spain",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-portugal-vs-spain/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23568/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Portugal vs Spain"
   }
 ]
