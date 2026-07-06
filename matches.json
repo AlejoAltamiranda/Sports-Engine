@@ -53,6 +53,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "TUDN Mexico HD1",
+        "url": "https://tvhd1.com/canales/tudnmx.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
@@ -110,6 +115,21 @@
       {
         "nombre": "Deportes TV. C",
         "url": "https://tvhd2.com/canales.php?stream=goltv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-06T21:00:00Z",
+    "hora_fin_utc": "2026-07-06T23:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "atenas vs miramar misiones",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ]

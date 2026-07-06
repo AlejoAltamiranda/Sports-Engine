@@ -53,6 +53,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "TUDN Mexico HD1",
+        "url": "https://tvhd1.com/canales/tudnmx.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
         "calidad": "HD"
@@ -115,6 +120,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Portugal vs España"
+  },
+  {
+    "hora_utc": "2026-07-06T21:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "miramar misiones vs atenas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Miramar Misiones vs Atenas"
   },
   {
     "hora_utc": "2026-07-06T21:30:00Z",
