@@ -8,106 +8,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-kansas-city-royals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/kansas-city-royals-vs-philadelphia-phillies-baseball-179374/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23603/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Kansas City Royals vs Philadelphia Phillies"
-  },
-  {
-    "hora_utc": "2026-07-06T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "portugal vs spain",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-portugal-vs-spain/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/portugal-vs-spain-football-1576756/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/golf/23568/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Portugal vs Spain"
-  },
-  {
-    "hora_utc": "2026-07-06T21:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "miramar misiones vs atenas",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Miramar Misiones vs Atenas"
-  },
-  {
-    "hora_utc": "2026-07-06T21:30:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "universidad catolica vs mushuc runa",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Universidad Católica vs Mushuc Runa"
-  },
-  {
-    "hora_utc": "2026-07-06T22:30:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "mlb new york yankees vs tampa bar rays",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvhd2.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "MLB – New York Yankees vs Tampa Bar Rays"
   },
   {
     "hora_utc": "2026-07-06T22:40Z",
@@ -192,6 +98,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Colo-Colo vs Recoleta"
+  },
+  {
+    "hora_utc": "2026-07-06T23:30Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "washington mystics vs golden state valkyries",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-washington-mystics/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Washington Mystics vs Golden State Valkyries"
   },
   {
     "hora_utc": "2026-07-06T23:45Z",
@@ -325,6 +247,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/usa-vs-belgium-football-1570715/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23569/1",
         "calidad": "HD"
       }
@@ -388,6 +315,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-toronto-blue-jays-baseball-179372/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23609/1",
         "calidad": "HD"
       }
@@ -425,6 +357,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/los-angeles-dodgers-vs-colorado-rockies-baseball-179373/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23610/1",
         "calidad": "HD"
       }
@@ -441,6 +378,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-argentina-vs-egypt/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23585/1",
         "calidad": "HD"
       }
