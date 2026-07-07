@@ -74,8 +74,23 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -89,13 +104,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
+        "nombre": "TYC Sports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
         "calidad": "HD"
       },
       {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "nombre": "Telefe | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -114,18 +134,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "TYC Sports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Telefe",
         "url": "https://tvhd2.com/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
         "calidad": "HD"
       },
       {
@@ -139,13 +149,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
+        "nombre": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
         "calidad": "HD"
       },
       {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
+        "nombre": "Caracol TV",
+        "url": "https://tvhd2.com/canales.php?stream=caracol",
         "calidad": "HD"
       },
       {
@@ -154,8 +164,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "nombre": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ],
