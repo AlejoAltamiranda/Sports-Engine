@@ -1,55 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-07T11:00:00Z",
-    "hora_fin_utc": "2026-07-07T13:20:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 4",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-07T12:00:00Z",
-    "hora_fin_utc": "2026-07-07T14:20:00Z",
-    "liga": "Deportes",
-    "equipos": "tenis wimbledon dia 9 cuartos de final",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvhd2.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-07T16:00:00Z",
     "hora_fin_utc": "2026-07-07T18:20:00Z",
     "liga": "Copa del Mundo",
@@ -58,6 +8,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TV LA 1 España HD1",
         "url": "https://tvhd1.com/canales/tvla1es.php",
         "calidad": "HD"
@@ -65,11 +20,6 @@
       {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
         "calidad": "HD"
       },
       {
@@ -199,12 +149,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-st-louis-cardinals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23620/1",
+        "url": "https://embed.st/embed/golf/23652/1",
         "calidad": "HD"
       }
     ]
@@ -218,8 +163,28 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -233,13 +198,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "nombre": "Sportv BR HD",
+        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
         "calidad": "HD"
       },
       {
@@ -248,8 +208,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Sportv BR HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
+        "nombre": "America TV | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -263,18 +228,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
         "nombre": "America Television",
         "url": "https://tvhd2.com/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=americatv",
         "calidad": "HD"
       },
       {
@@ -283,13 +238,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "nombre": "Universo",
+        "url": "https://tvhd2.com/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
-        "nombre": "Universo",
-        "url": "https://tvhd2.com/canales.php?stream=universo",
+        "nombre": "Deportes TV. C",
+        "url": "https://tvhd2.com/canales.php?stream=goltv",
         "calidad": "HD"
       },
       {
@@ -329,12 +284,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23624/1",
+        "url": "https://embed.st/embed/golf/23645/1",
         "calidad": "HD"
       }
     ]
@@ -349,12 +299,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23621/1",
+        "url": "https://embed.st/embed/golf/23642/1",
         "calidad": "HD"
       }
     ]
@@ -369,12 +314,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-pittsburgh-pirates/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23623/1",
+        "url": "https://embed.st/embed/golf/23644/1",
         "calidad": "HD"
       }
     ]
@@ -389,12 +329,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-miami-marlins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23625/1",
+        "url": "https://embed.st/embed/golf/23646/1",
         "calidad": "HD"
       }
     ]
@@ -409,12 +344,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-athletics-vs-detroit-tigers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23622/1",
+        "url": "https://embed.st/embed/golf/23643/1",
         "calidad": "HD"
       }
     ]
@@ -429,12 +359,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-houston-astros-vs-washington-nationals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23626/1",
+        "url": "https://embed.st/embed/golf/23647/1",
         "calidad": "HD"
       }
     ]
@@ -474,12 +399,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-new-york-mets/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23627/1",
+        "url": "https://embed.st/embed/golf/23649/1",
         "calidad": "HD"
       }
     ]
@@ -494,12 +414,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23628/1",
+        "url": "https://embed.st/embed/golf/23648/1",
         "calidad": "HD"
       }
     ]
@@ -514,12 +429,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-chicago-white-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23629/1",
+        "url": "https://embed.st/embed/golf/23650/1",
         "calidad": "HD"
       }
     ]
@@ -534,12 +444,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23630/1",
+        "url": "https://embed.st/embed/golf/23651/1",
         "calidad": "HD"
       }
     ]
@@ -639,12 +544,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-san-francisco-giants/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23634/1",
+        "url": "https://embed.st/embed/golf/23641/1",
         "calidad": "HD"
       }
     ]
