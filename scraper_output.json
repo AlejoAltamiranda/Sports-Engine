@@ -26,70 +26,6 @@
     "equipos_original": "Argentina vs Egypt"
   },
   {
-    "hora_utc": "2026-07-07T17:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "vardar vs kups",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/vardar-skopje-vs-kups-football-1554373/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Vardar vs KuPS"
-  },
-  {
-    "hora_utc": "2026-07-07T17:15Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "una strassen vs la fiorita",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/una-strassen-vs-la-fiorita-football-1554410/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "UNA Strassen vs La Fiorita"
-  },
-  {
-    "hora_utc": "2026-07-07T17:30Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "floriana vs shamrock rovers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/floriana-vs-shamrock-rovers-football-1554364/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Floriana vs Shamrock Rovers"
-  },
-  {
-    "hora_utc": "2026-07-07T18:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "elbasani vs bate borisov",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/af-elbasani-vs-bate-borisov-football-1554389/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Elbasani vs BATE Borisov"
-  },
-  {
     "hora_utc": "2026-07-07T18:15Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -176,13 +112,23 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports LATAM HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
         "calidad": "HD"
       },
       {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
         "calidad": "HD"
       },
       {
@@ -213,6 +159,11 @@
       {
         "nombre": "Telemundo | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
@@ -534,6 +485,27 @@
     "equipos_original": "Gualberto Villarroel SJ vs Real Tomayapo"
   },
   {
+    "hora_utc": "2026-07-07T23:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "memphis grizzlies vs atlanta hawks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-memphis-grizzlies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23639/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Memphis Grizzlies vs Atlanta Hawks"
+  },
+  {
     "hora_utc": "2026-07-07T23:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -701,6 +673,27 @@
     "equipos_original": "New York Liberty vs Dallas Wings"
   },
   {
+    "hora_utc": "2026-07-08T00:00Z",
+    "logo": "img/wwe.png",
+    "liga": "WWE",
+    "equipos": "nxt 845",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "NXT #845"
+  },
+  {
     "hora_utc": "2026-07-08T00:05Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -725,6 +718,27 @@
     ],
     "fuente": "github",
     "equipos_original": "Texas Rangers vs Los Angeles Angels"
+  },
+  {
+    "hora_utc": "2026-07-08T01:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "utah jazz vs oklahoma city thunder",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-utah-jazz/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23640/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Utah Jazz vs Oklahoma City Thunder"
   },
   {
     "hora_utc": "2026-07-08T01:40Z",
@@ -899,5 +913,21 @@
     ],
     "fuente": "github",
     "equipos_original": "Differdange 03 vs Ilves"
+  },
+  {
+    "hora_utc": "2026-07-09T20:00Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "france vs morocco",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23636/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "France vs Morocco"
   }
 ]

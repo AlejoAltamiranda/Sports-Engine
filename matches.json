@@ -25,66 +25,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-07T17:00Z",
-    "hora_fin_utc": "2026-07-07T19:20:00Z",
-    "liga": "Soccer",
-    "equipos": "kups vs vardar",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/vardar-skopje-vs-kups-football-1554373/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-07T17:15Z",
-    "hora_fin_utc": "2026-07-07T19:35:00Z",
-    "liga": "Soccer",
-    "equipos": "la fiorita vs una strassen",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/una-strassen-vs-la-fiorita-football-1554410/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-07T17:30Z",
-    "hora_fin_utc": "2026-07-07T19:50:00Z",
-    "liga": "Soccer",
-    "equipos": "floriana vs shamrock rovers",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/floriana-vs-shamrock-rovers-football-1554364/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-07T18:00Z",
-    "hora_fin_utc": "2026-07-07T20:20:00Z",
-    "liga": "Soccer",
-    "equipos": "bate borisov vs elbasani",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/af-elbasani-vs-bate-borisov-football-1554389/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-07T18:15Z",
     "hora_fin_utc": "2026-07-07T21:30:00Z",
     "liga": "MLB",
@@ -168,13 +108,23 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports LATAM HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
         "calidad": "HD"
       },
       {
         "nombre": "DSports",
         "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
         "calidad": "HD"
       },
       {
@@ -205,6 +155,11 @@
       {
         "nombre": "Telemundo | HD",
         "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo | HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
@@ -480,6 +435,26 @@
     ]
   },
   {
+    "hora_utc": "2026-07-07T23:00Z",
+    "hora_fin_utc": "2026-07-08T02:15:00Z",
+    "liga": "NBA",
+    "equipos": "Atlanta Hawks vs Memphis Grizzlies",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-memphis-grizzlies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23639/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-07T23:10Z",
     "hora_fin_utc": "2026-07-08T02:25:00Z",
     "liga": "MLB",
@@ -625,6 +600,26 @@
     ]
   },
   {
+    "hora_utc": "2026-07-08T00:00Z",
+    "hora_fin_utc": "2026-07-08T03:00:00Z",
+    "liga": "WWE",
+    "equipos": "nxt 845",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-wwe-nxt/2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-08T00:05Z",
     "hora_fin_utc": "2026-07-08T03:20:00Z",
     "liga": "MLB",
@@ -645,6 +640,26 @@
       {
         "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23653/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-08T01:00Z",
+    "hora_fin_utc": "2026-07-08T04:15:00Z",
+    "liga": "NBA",
+    "equipos": "Oklahoma City Thunder vs Utah Jazz",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-utah-jazz/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23640/1",
         "calidad": "HD"
       }
     ]
@@ -810,6 +825,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/echo/fc-differdange-03-vs-ilves-football-1554395/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-09T20:00Z",
+    "hora_fin_utc": "2026-07-09T22:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Francia vs Marruecos",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/golf/23636/1",
         "calidad": "HD"
       }
     ]
