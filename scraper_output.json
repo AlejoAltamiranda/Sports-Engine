@@ -52,6 +52,209 @@
     "equipos_original": "St. Louis Cardinals vs Milwaukee Brewers"
   },
   {
+    "hora_utc": "2026-07-07T22:35Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "baltimore orioles vs chicago cubs",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-baltimore-orioles/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23642/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/baltimore-orioles-vs-chicago-cubs-baseball-179418/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Baltimore Orioles vs Chicago Cubs"
+  },
+  {
+    "hora_utc": "2026-07-07T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "pittsburgh pirates vs atlanta braves",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-pittsburgh-pirates/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23644/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/pittsburgh-pirates-vs-atlanta-braves-baseball-179411/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Pittsburgh Pirates vs Atlanta Braves"
+  },
+  {
+    "hora_utc": "2026-07-07T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "tampa bay rays vs new york yankees",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23645/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/tampa-bay-rays-vs-new-york-yankees-baseball-179407/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Tampa Bay Rays vs New York Yankees"
+  },
+  {
+    "hora_utc": "2026-07-07T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "miami marlins vs seattle mariners",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-miami-marlins/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23646/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/miami-marlins-vs-seattle-mariners-baseball-179414/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Miami Marlins vs Seattle Mariners"
+  },
+  {
+    "hora_utc": "2026-07-07T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "detroit tigers vs athletics",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-athletics-vs-detroit-tigers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23643/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/detroit-tigers-vs-athletics-baseball-179415/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Detroit Tigers vs Athletics"
+  },
+  {
+    "hora_utc": "2026-07-07T22:45Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "washington nationals vs houston astros",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-houston-astros-vs-washington-nationals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23647/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Washington Nationals vs Houston Astros"
+  },
+  {
+    "hora_utc": "2026-07-07T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "new york mets vs kansas city royals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-new-york-mets/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23649/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/new-york-mets-vs-kansas-city-royals-baseball-179412/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "New York Mets vs Kansas City Royals"
+  },
+  {
+    "hora_utc": "2026-07-07T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "cincinnati reds vs philadelphia phillies",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-cincinnati-reds/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23648/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/cincinnati-reds-vs-philadelphia-phillies-baseball-179416/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Cincinnati Reds vs Philadelphia Phillies"
+  },
+  {
     "hora_utc": "2026-07-07T23:40Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -60,21 +263,16 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23629/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-chicago-white-sox/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 3",
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23650/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 4",
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/echo/chicago-white-sox-vs-boston-red-sox-baseball-179417/1",
         "calidad": "HD"
       }
@@ -164,11 +362,6 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23633/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
         "url": "https://embed.st/embed/golf/23654/1",
         "calidad": "HD"
       }
@@ -190,11 +383,6 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23634/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
         "url": "https://embed.st/embed/golf/23641/1",
         "calidad": "HD"
       }
@@ -211,16 +399,11 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23635/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-los-angeles-dodgers/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 3",
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23655/1",
         "calidad": "HD"
       }
@@ -432,84 +615,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Santo Domingo vs Independiente del Valle"
-  },
-  {
-    "hora_utc": "2026-07-08T22:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "baltimore orioles vs chicago cubs",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23642/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/baltimore-orioles-vs-chicago-cubs-baseball-179418/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Baltimore Orioles vs Chicago Cubs"
-  },
-  {
-    "hora_utc": "2026-07-08T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "pittsburgh pirates vs atlanta braves",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-pittsburgh-pirates/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23644/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/pittsburgh-pirates-vs-atlanta-braves-baseball-179411/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Pittsburgh Pirates vs Atlanta Braves"
-  },
-  {
-    "hora_utc": "2026-07-08T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "tampa bay rays vs new york yankees",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23645/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/echo/tampa-bay-rays-vs-new-york-yankees-baseball-179407/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Tampa Bay Rays vs New York Yankees"
   },
   {
     "hora_utc": "2026-07-08T23:00:00Z",
