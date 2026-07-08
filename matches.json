@@ -695,6 +695,21 @@
     ]
   },
   {
+    "hora_utc": "2026-07-09T00:00:00Z",
+    "hora_fin_utc": "2026-07-09T02:20:00Z",
+    "liga": "Amistoso Internacional",
+    "equipos": "Athletico Paranaense vs Boca Juniors",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "url": "https://tvhd2.com/canales.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-09T01:00:00Z",
     "hora_fin_utc": "2026-07-09T03:20:00Z",
     "liga": "Copa Ecuador",

@@ -731,6 +731,22 @@
     "equipos_original": "Real Potosí vs ABB"
   },
   {
+    "hora_utc": "2026-07-09T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso Internacional",
+    "equipos": "boca juniors vs athletico-pr",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "url": "https://tvhd2.com/canales.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Boca Juniors vs Athletico-PR"
+  },
+  {
     "hora_utc": "2026-07-09T01:00:00Z",
     "logo": "img/default.png",
     "liga": "Copa Ecuador",
