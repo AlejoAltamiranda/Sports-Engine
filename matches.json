@@ -125,6 +125,106 @@
     ]
   },
   {
+    "hora_utc": "2026-07-08T23:10Z",
+    "hora_fin_utc": "2026-07-09T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Kansas City Royals vs New York Mets",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-new-york-mets/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23665/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-08T23:10Z",
+    "hora_fin_utc": "2026-07-09T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Cincinnati Reds vs Philadelphia Phillies",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-cincinnati-reds/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23672/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-08T23:40Z",
+    "hora_fin_utc": "2026-07-09T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Minnesota Twins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23667/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-08T23:40Z",
+    "hora_fin_utc": "2026-07-09T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Chicago White Sox",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-chicago-white-sox/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23668/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-08T23:45Z",
+    "hora_fin_utc": "2026-07-09T03:00:00Z",
+    "liga": "MLB",
+    "equipos": "Milwaukee Brewers vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-st-louis-cardinals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23673/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-09T00:05Z",
     "hora_fin_utc": "2026-07-09T03:20:00Z",
     "liga": "MLB",
@@ -160,51 +260,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23675/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T02:10Z",
-    "hora_fin_utc": "2026-07-09T05:25:00Z",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs Los Angeles Dodgers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23655/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T10:00:00Z",
-    "hora_fin_utc": "2026-07-09T12:20:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 6",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
         "calidad": "HD"
       }
     ]
@@ -400,26 +455,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-09T17:10Z",
-    "hora_fin_utc": "2026-07-09T20:25:00Z",
-    "liga": "MLB",
-    "equipos": "Kansas City Royals vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-new-york-mets/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23665/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-09T17:15Z",
     "hora_fin_utc": "2026-07-09T19:35:00Z",
     "liga": "Soccer",
@@ -445,26 +480,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/echo/caernarfon-town-vs-fc-levadia-tallinn-football-1554392/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:40Z",
-    "hora_fin_utc": "2026-07-09T20:55:00Z",
-    "liga": "MLB",
-    "equipos": "Cleveland Guardians vs Minnesota Twins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23667/1",
         "calidad": "HD"
       }
     ]
@@ -510,26 +525,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/echo/vllaznia-shkoder-vs-malisheva-football-1554413/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:10Z",
-    "hora_fin_utc": "2026-07-09T21:25:00Z",
-    "liga": "MLB",
-    "equipos": "Boston Red Sox vs Chicago White Sox",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-chicago-white-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23668/1",
         "calidad": "HD"
       }
     ]
