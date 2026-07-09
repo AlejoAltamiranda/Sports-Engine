@@ -13,80 +13,12 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-toronto-blue-jays-baseball-179395/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23641/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "San Francisco Giants vs Toronto Blue Jays"
-  },
-  {
-    "hora_utc": "2026-07-08T20:00:00Z",
-    "logo": "img/br.png",
-    "liga": "Serie B",
-    "equipos": "el nacional vs cumbaya",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "El Nacional vs Cumbayá"
-  },
-  {
-    "hora_utc": "2026-07-08T22:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "real oruro vs universitario de vinto",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=even4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Real Oruro vs Universitario de Vinto"
-  },
-  {
-    "hora_utc": "2026-07-08T22:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Ecuador",
-    "equipos": "santo domingo vs independiente del valle",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Santo Domingo vs Independiente del Valle"
   },
   {
     "hora_utc": "2026-07-08T22:35Z",
@@ -304,7 +236,7 @@
     "canales": [
       {
         "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
+        "url": "https://tvhd2.com/online/canales.php?stream=even4",
         "calidad": "HD"
       },
       {
@@ -492,17 +424,17 @@
     "canales": [
       {
         "nombre": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       },
       {
         "nombre": "Futbol Canal | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       },
       {
         "nombre": "Futbol Canal | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=even4",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       }
     ],
@@ -519,6 +451,11 @@
       {
         "nombre": "ESPN 3 MX",
         "url": "https://tvhd2.com/canales.php?stream=espn3mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ],
@@ -559,8 +496,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "nombre": "ECDF LigaPro",
+        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
         "calidad": "HD"
       }
     ],
@@ -916,6 +853,22 @@
     ],
     "fuente": "github",
     "equipos_original": "NSÍ Runavík vs Ħamrun Spartans"
+  },
+  {
+    "hora_utc": "2026-07-09T18:45Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "pen-y-bont vs fc santa coloma",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/penybont-vs-fc-santa-coloma-football-1554408/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Pen-y-Bont vs FC Santa Coloma"
   },
   {
     "hora_utc": "2026-07-09T19:30Z",

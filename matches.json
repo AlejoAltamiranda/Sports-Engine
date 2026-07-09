@@ -14,72 +14,7 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-toronto-blue-jays-baseball-179395/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23641/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-08T20:00:00Z",
-    "hora_fin_utc": "2026-07-08T22:20:00Z",
-    "liga": "Serie B",
-    "equipos": "cumbaya vs el nacional",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-08T22:00:00Z",
-    "hora_fin_utc": "2026-07-09T00:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Real Oruro vs Universitario de Vinto",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=even4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-08T22:30:00Z",
-    "hora_fin_utc": "2026-07-09T00:50:00Z",
-    "liga": "Copa Ecuador",
-    "equipos": "Independiente del Valle vs santo domingo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
         "calidad": "HD"
       }
     ]
@@ -309,7 +244,7 @@
     "canales": [
       {
         "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/canales.php?stream=tntsportschile",
+        "url": "https://tvhd2.com/online/canales.php?stream=even4",
         "calidad": "HD"
       },
       {
@@ -464,17 +399,7 @@
     "canales": [
       {
         "nombre": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=even4",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       }
     ]
@@ -490,6 +415,11 @@
       {
         "nombre": "ESPN 3 MX",
         "url": "https://tvhd2.com/canales.php?stream=espn3mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ]
@@ -528,8 +458,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
+        "nombre": "ECDF LigaPro",
+        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
         "calidad": "HD"
       }
     ]
@@ -835,6 +765,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/echo/nsi-runavik-vs-hamrun-spartans-football-1554407/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-09T18:45Z",
+    "hora_fin_utc": "2026-07-09T21:05:00Z",
+    "liga": "Soccer",
+    "equipos": "fc santa coloma vs pen-y-bont",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/penybont-vs-fc-santa-coloma-football-1554408/1",
         "calidad": "HD"
       }
     ]
