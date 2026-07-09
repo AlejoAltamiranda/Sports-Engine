@@ -9,47 +9,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-pittsburgh-pirates/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/pittsburgh-pirates-vs-atlanta-braves-baseball-179411/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23664/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:00Z",
-    "hora_fin_utc": "2026-07-09T19:20:00Z",
-    "liga": "Soccer",
-    "equipos": "aluminij vs sheriff tiraspol",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/sheriff-tiraspol-vs-aluminij-football-1554445/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:00Z",
-    "hora_fin_utc": "2026-07-09T19:20:00Z",
-    "liga": "Soccer",
-    "equipos": "dynamo kyiv vs universitatea cluj",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/dynamo-kyiv-vs-universitatea-cluj-football-1554442/1",
         "calidad": "HD"
       }
     ]
@@ -64,16 +24,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-tampa-bay-rays/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/tampa-bay-rays-vs-new-york-yankees-baseball-179407/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23666/1",
         "calidad": "HD"
       }
@@ -89,32 +39,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-new-york-mets/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/new-york-mets-vs-kansas-city-royals-baseball-179412/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23665/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:15Z",
-    "hora_fin_utc": "2026-07-09T19:35:00Z",
-    "liga": "Soccer",
-    "equipos": "dinamo tbilisi vs mondorf-les-bains",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/us-mondorf-les-bains-vs-dinamo-tbilisi-football-1554405/1",
         "calidad": "HD"
       }
     ]
@@ -134,11 +59,6 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/baltimore-orioles-vs-chicago-cubs-baseball-179418/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23687/1",
         "calidad": "HD"
       },
@@ -193,21 +113,6 @@
     "hora_utc": "2026-07-09T18:00Z",
     "hora_fin_utc": "2026-07-09T20:20:00Z",
     "liga": "Soccer",
-    "equipos": "hajduk split vs ilina",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/hnk-hajduk-split-vs-zilina-football-1554443/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:00Z",
-    "hora_fin_utc": "2026-07-09T20:20:00Z",
-    "liga": "Soccer",
     "equipos": "cska sofia vs derry city",
     "logo": "img/default.png",
     "sport": "football",
@@ -249,11 +154,6 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/chicago-white-sox-vs-boston-red-sox-baseball-179417/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23668/1",
         "calidad": "HD"
       }
@@ -315,21 +215,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/echo/fk-sarajevo-vs-inter-turku-football-1554400/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T19:00Z",
-    "hora_fin_utc": "2026-07-09T21:20:00Z",
-    "liga": "Soccer",
-    "equipos": "astana vs dinamo city",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/dinamo-tirana-vs-fc-astana-football-1554397/1",
         "calidad": "HD"
       }
     ]
@@ -589,16 +474,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-athletics-vs-detroit-tigers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/detroit-tigers-vs-athletics-baseball-179415/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23670/1",
         "calidad": "HD"
       }
@@ -665,26 +540,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-09T23:30Z",
-    "hora_fin_utc": "2026-07-10T02:45:00Z",
-    "liga": "NBA",
-    "equipos": "Charlotte Hornets vs Orlando Magic",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23661/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-09T23:45Z",
     "hora_fin_utc": "2026-07-10T03:00:00Z",
     "liga": "MLB",
@@ -694,11 +549,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-st-louis-cardinals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23673/1",
         "calidad": "HD"
       }
@@ -764,11 +614,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-utah-jazz-vs-washington-wizards/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23662/1",
         "calidad": "HD"
       }
@@ -784,11 +629,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-diego-padres/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23675/1",
         "calidad": "HD"
       }
@@ -831,6 +671,16 @@
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/5",
+        "calidad": "HD"
       }
     ]
   },
@@ -846,6 +696,16 @@
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/5",
+        "calidad": "HD"
       }
     ]
   },
@@ -859,42 +719,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/1",
+        "url": "https://embed.st/embed/echo/los-angeles-clippers-vs-sacramento-kings-basketball-502069/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23663/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T19:00Z",
-    "hora_fin_utc": "2026-07-10T21:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Bélgica vs España",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/golf/23656/1",
         "calidad": "HD"
       }
     ]
@@ -909,11 +739,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-miami-heat/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23679/1",
         "calidad": "HD"
       }
@@ -930,11 +755,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-indiana-pacers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23680/1",
         "calidad": "HD"
       }
     ]
@@ -969,11 +789,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-houston-rockets-vs-denver-nuggets/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23682/1",
         "calidad": "HD"
       }
@@ -1004,6 +819,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/detroit-tigers-vs-philadelphia-phillies-baseball-179431/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23689/1",
         "calidad": "HD"
       }
@@ -1094,11 +914,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-los-angeles-lakers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23685/1",
         "calidad": "HD"
       }
@@ -1114,11 +929,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-phoenix-suns/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23686/1",
         "calidad": "HD"
       }
