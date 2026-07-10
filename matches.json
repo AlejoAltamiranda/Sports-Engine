@@ -1,30 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-10T01:45Z",
-    "hora_fin_utc": "2026-07-10T05:00:00Z",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs San Francisco Giants",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23702/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/golf/23715/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-10T19:00:00Z",
     "hora_fin_utc": "2026-07-10T21:20:00Z",
     "liga": "Copa del Mundo",
@@ -44,42 +19,22 @@
       },
       {
         "nombre": "FOX Español HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
+        "url": "https://fltvhd.com/online/canales.php?stream=even4",
         "calidad": "HD"
       },
       {
         "nombre": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe",
-        "url": "https://tvhd2.com/canales.php?stream=telefe",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
         "calidad": "HD"
       },
       {
         "nombre": "Telefe | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telefe",
+        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -149,6 +104,11 @@
       },
       {
         "nombre": "Server 4",
+        "url": "https://embed.st/embed/echo/spain-vs-belgium-football-1581821/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 5",
         "url": "https://embed.st/embed/golf/23656/1",
         "calidad": "HD"
       }
@@ -219,7 +179,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn",
+        "url": "https://tvhd2.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ]
@@ -350,31 +310,6 @@
       {
         "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23714/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T23:05Z",
-    "hora_fin_utc": "2026-07-11T02:20:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Kansas City Royals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23691/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/golf/23720/1",
         "calidad": "HD"
       }
     ]
@@ -560,41 +495,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-11T02:00Z",
-    "hora_fin_utc": "2026-07-11T05:15:00Z",
-    "liga": "WNBA",
-    "equipos": "los angeles sparks vs chicago sky",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-sky-vs-los-angeles-sparks/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-11T03:00Z",
-    "hora_fin_utc": "2026-07-11T06:15:00Z",
-    "liga": "NBA",
-    "equipos": "Phoenix Suns vs Portland Trail Blazers",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-phoenix-suns/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23686/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-11T08:00Z",
     "hora_fin_utc": "2026-07-11T10:20:00Z",
     "liga": "Soccer",
@@ -735,26 +635,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23705/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-11T22:00Z",
-    "hora_fin_utc": "2026-07-12T01:15:00Z",
-    "liga": "NBA",
-    "equipos": "New York Knicks vs San Antonio Spurs",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23706/1",
         "calidad": "HD"
       }
     ]
