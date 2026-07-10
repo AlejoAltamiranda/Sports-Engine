@@ -26,32 +26,6 @@
     "equipos_original": "San Francisco Giants vs Colorado Rockies"
   },
   {
-    "hora_utc": "2026-07-10T15:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "river plate vs racing club",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://tvhd2.com/canales.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=tntsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "River Plate vs Racing Club"
-  },
-  {
     "hora_utc": "2026-07-10T19:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",
@@ -61,6 +35,26 @@
       {
         "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Español HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Tigo Sports HD",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Tigo Sports",
+        "url": "https://tvhd2.com/online/canales.php?stream=even1",
         "calidad": "HD"
       },
       {
