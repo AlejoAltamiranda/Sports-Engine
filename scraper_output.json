@@ -1,21 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-10T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "san diego padres vs arizona diamondbacks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23675/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "San Diego Padres vs Arizona Diamondbacks"
-  },
-  {
     "hora_utc": "2026-07-10T01:45Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -24,48 +8,22 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23676/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 3",
+        "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23702/1",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 4",
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179438/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "San Francisco Giants vs Colorado Rockies"
-  },
-  {
-    "hora_utc": "2026-07-10T03:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "los angeles clippers vs sacramento kings",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23663/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Los Angeles Clippers vs Sacramento Kings"
   },
   {
     "hora_utc": "2026-07-10T11:00:00Z",
