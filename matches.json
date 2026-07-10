@@ -1,120 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-09T17:35Z",
-    "hora_fin_utc": "2026-07-09T20:50:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Chicago Cubs",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23669/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:10Z",
-    "hora_fin_utc": "2026-07-09T21:25:00Z",
-    "liga": "MLB",
-    "equipos": "Boston Red Sox vs Chicago White Sox",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-chicago-white-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23668/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T19:30Z",
-    "hora_fin_utc": "2026-07-09T22:45:00Z",
-    "liga": "NBA",
-    "equipos": "Minnesota Timberwolves vs New Orleans Pelicans",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-new-orleans-pelicans/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23657/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T20:00Z",
-    "hora_fin_utc": "2026-07-09T22:20:00Z",
-    "liga": "Soccer",
-    "equipos": "Francia vs Marruecos",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-france-vs-morocco/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-france-vs-morocco/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-france-vs-morocco/5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/france-vs-morocco-football-1578539/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 5",
-        "url": "https://embed.st/embed/golf/23636/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T21:30Z",
-    "hora_fin_utc": "2026-07-10T00:45:00Z",
-    "liga": "NBA",
-    "equipos": "Detroit Pistons vs Philadelphia 76ers",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/golf/23659/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-09T22:40Z",
     "hora_fin_utc": "2026-07-10T01:55:00Z",
     "liga": "MLB",
@@ -129,52 +14,7 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/miami-marlins-vs-seattle-mariners-baseball-179414/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23671/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T22:40Z",
-    "hora_fin_utc": "2026-07-10T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Detroit Tigers vs Oakland Athletics",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23670/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T23:00:00Z",
-    "hora_fin_utc": "2026-07-10T01:20:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "O'Higgins vs Ñublense",
-    "logo": "img/cl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Chile HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
@@ -194,32 +34,7 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23660/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T23:10Z",
-    "hora_fin_utc": "2026-07-10T02:25:00Z",
-    "liga": "MLB",
-    "equipos": "Cincinnati Reds vs Philadelphia Phillies",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23672/1",
         "calidad": "HD"
       }
     ]
@@ -254,22 +69,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23673/1",
+        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-st-louis-cardinals/1",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T00:00:00Z",
-    "hora_fin_utc": "2026-07-10T02:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Aurora vs Nacional Potosí",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
+      },
       {
-        "nombre": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23673/1",
         "calidad": "HD"
       }
     ]
@@ -290,26 +95,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-10T00:05Z",
-    "hora_fin_utc": "2026-07-10T03:20:00Z",
-    "liga": "MLB",
-    "equipos": "Los Angeles Angels vs Texas Rangers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-texas-rangers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23674/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-10T01:00Z",
     "hora_fin_utc": "2026-07-10T04:15:00Z",
     "liga": "NBA",
@@ -319,22 +104,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23662/1",
+        "url": "https://embed.st/embed/admin/ppv-utah-jazz-vs-washington-wizards/1",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T01:40Z",
-    "hora_fin_utc": "2026-07-10T04:55:00Z",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs San Diego Padres",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
+      },
       {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23675/1",
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23662/1",
         "calidad": "HD"
       }
     ]
@@ -376,16 +151,6 @@
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/1",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/5",
-        "calidad": "HD"
       }
     ]
   },
@@ -400,36 +165,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T03:00Z",
-    "hora_fin_utc": "2026-07-10T06:15:00Z",
-    "liga": "NBA",
-    "equipos": "LA Clippers vs Sacramento Kings",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/los-angeles-clippers-vs-sacramento-kings-basketball-502069/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23663/1",
         "calidad": "HD"
       }
     ]
@@ -460,211 +195,6 @@
       {
         "nombre": "Server 4",
         "url": "https://embed.st/embed/golf/23656/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T20:00Z",
-    "hora_fin_utc": "2026-07-10T23:15:00Z",
-    "liga": "NBA",
-    "equipos": "Miami Heat vs Milwaukee Bucks",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23679/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T20:30Z",
-    "hora_fin_utc": "2026-07-10T23:45:00Z",
-    "liga": "NBA",
-    "equipos": "Cleveland Cavaliers vs Indiana Pacers",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-indiana-pacers/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T22:00Z",
-    "hora_fin_utc": "2026-07-11T01:15:00Z",
-    "liga": "NBA",
-    "equipos": "Brooklyn Nets vs New York Knicks",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-brooklyn-nets-vs-new-york-knicks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23681/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T22:30Z",
-    "hora_fin_utc": "2026-07-11T01:45:00Z",
-    "liga": "NBA",
-    "equipos": "Denver Nuggets vs Houston Rockets",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23682/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T22:40Z",
-    "hora_fin_utc": "2026-07-11T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Milwaukee Brewers vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23688/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T22:40Z",
-    "hora_fin_utc": "2026-07-11T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Detroit Tigers vs Philadelphia Phillies",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/detroit-tigers-vs-philadelphia-phillies-baseball-179431/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23689/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T22:45Z",
-    "hora_fin_utc": "2026-07-11T02:00:00Z",
-    "liga": "MLB",
-    "equipos": "New York Yankees vs Washington Nationals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23690/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T23:05Z",
-    "hora_fin_utc": "2026-07-11T02:20:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Kansas City Royals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23691/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T23:10Z",
-    "hora_fin_utc": "2026-07-11T02:25:00Z",
-    "liga": "MLB",
-    "equipos": "Seattle Mariners vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23694/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T23:10Z",
-    "hora_fin_utc": "2026-07-11T02:25:00Z",
-    "liga": "MLB",
-    "equipos": "Cleveland Guardians vs Miami Marlins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23693/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-10T23:10Z",
-    "hora_fin_utc": "2026-07-11T02:25:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Cincinnati Reds",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23692/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-11T02:00Z",
-    "hora_fin_utc": "2026-07-11T05:15:00Z",
-    "liga": "NBA",
-    "equipos": "LA Lakers vs Oklahoma City Thunder",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23685/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-11T03:00Z",
-    "hora_fin_utc": "2026-07-11T06:15:00Z",
-    "liga": "NBA",
-    "equipos": "Phoenix Suns vs Portland Trail Blazers",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23686/1",
         "calidad": "HD"
       }
     ]
