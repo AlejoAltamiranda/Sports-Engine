@@ -1,50 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-09T16:35Z",
-    "hora_fin_utc": "2026-07-09T19:50:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23664/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:10Z",
-    "hora_fin_utc": "2026-07-09T20:25:00Z",
-    "liga": "MLB",
-    "equipos": "New York Yankees vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23666/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:10Z",
-    "hora_fin_utc": "2026-07-09T20:25:00Z",
-    "liga": "MLB",
-    "equipos": "Kansas City Royals vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23665/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-09T17:35Z",
     "hora_fin_utc": "2026-07-09T20:50:00Z",
     "liga": "MLB",
@@ -54,87 +9,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23687/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T17:40Z",
-    "hora_fin_utc": "2026-07-09T20:55:00Z",
-    "liga": "MLB",
-    "equipos": "Cleveland Guardians vs Minnesota Twins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/minnesota-twins-vs-cleveland-guardians-baseball-179413/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/golf/23667/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:00Z",
-    "hora_fin_utc": "2026-07-09T20:20:00Z",
-    "liga": "Soccer",
-    "equipos": "cska sofia vs derry city",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/cska-sofia-vs-derry-city-football-1554441/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:00Z",
-    "hora_fin_utc": "2026-07-09T20:20:00Z",
-    "liga": "Soccer",
-    "equipos": "malisheva vs vllaznia shkoder",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/vllaznia-shkoder-vs-malisheva-football-1554413/1",
+        "url": "https://embed.st/embed/golf/23669/1",
         "calidad": "HD"
       }
     ]
@@ -160,81 +35,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-09T18:45Z",
-    "hora_fin_utc": "2026-07-09T21:05:00Z",
-    "liga": "Soccer",
-    "equipos": "amrun spartans vs nsi runavik",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/nsi-runavik-vs-hamrun-spartans-football-1554407/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:45Z",
-    "hora_fin_utc": "2026-07-09T21:05:00Z",
-    "liga": "Soccer",
-    "equipos": "fc santa coloma vs pen-y-bont",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/penybont-vs-fc-santa-coloma-football-1554408/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T18:45Z",
-    "hora_fin_utc": "2026-07-09T21:05:00Z",
-    "liga": "Soccer",
-    "equipos": "algiris vilnius vs petrovac",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/petrovac-vs-fk-zalgiris-vilnius-football-1554409/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T19:00Z",
-    "hora_fin_utc": "2026-07-09T21:20:00Z",
-    "liga": "Soccer",
-    "equipos": "fk sarajevo vs inter turku",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/fk-sarajevo-vs-inter-turku-football-1554400/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T19:00Z",
-    "hora_fin_utc": "2026-07-09T21:20:00Z",
-    "liga": "Soccer",
-    "equipos": "stjarnan vs vikingur gta",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/stjarnan-vs-vikingur-gota-football-1554412/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-09T19:30Z",
     "hora_fin_utc": "2026-07-09T22:45:00Z",
     "liga": "NBA",
@@ -255,108 +55,13 @@
     ]
   },
   {
-    "hora_utc": "2026-07-09T20:00:00Z",
+    "hora_utc": "2026-07-09T20:00Z",
     "hora_fin_utc": "2026-07-09T22:20:00Z",
-    "liga": "Copa del Mundo",
+    "liga": "Soccer",
     "equipos": "Francia vs Marruecos",
-    "logo": "img/world_cup.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports (AR/PE/CO/EC/CL/UY)",
-        "url": "https://tvhd1.com/canales/dsportslatam.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN Mexico HD1",
-        "url": "https://tvhd1.com/canales/tudnmx.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-france-vs-morocco/1",
@@ -385,41 +90,6 @@
     ]
   },
   {
-    "hora_utc": "2026-07-09T20:30:00Z",
-    "hora_fin_utc": "2026-07-09T22:50:00Z",
-    "liga": "Serie B",
-    "equipos": "deportivo cuenca juniors vs ldu portoviejo",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-09T20:30Z",
-    "hora_fin_utc": "2026-07-09T23:45:00Z",
-    "liga": "NBA",
-    "equipos": "Atlanta Hawks vs San Antonio Spurs",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-atlanta-hawks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23658/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-09T21:30Z",
     "hora_fin_utc": "2026-07-10T00:45:00Z",
     "liga": "NBA",
@@ -434,6 +104,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23659/1",
         "calidad": "HD"
       }
@@ -488,6 +163,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Futbol Chile HD",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TNT Sports Premiun CL",
         "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
@@ -514,6 +194,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23660/1",
         "calidad": "HD"
       }
@@ -535,6 +220,26 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23672/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-09T23:30Z",
+    "hora_fin_utc": "2026-07-10T02:45:00Z",
+    "liga": "NBA",
+    "equipos": "Charlotte Hornets vs Orlando Magic",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23661/1",
         "calidad": "HD"
       }
     ]
@@ -725,6 +430,36 @@
       {
         "nombre": "Server 2",
         "url": "https://embed.st/embed/golf/23663/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-10T19:00Z",
+    "hora_fin_utc": "2026-07-10T21:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Bélgica vs España",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/golf/23656/1",
         "calidad": "HD"
       }
     ]

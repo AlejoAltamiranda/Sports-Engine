@@ -1,53 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-09T16:35Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "pittsburgh pirates vs atlanta braves",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23664/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Pittsburgh Pirates vs Atlanta Braves"
-  },
-  {
-    "hora_utc": "2026-07-09T17:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "tampa bay rays vs new york yankees",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23666/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Tampa Bay Rays vs New York Yankees"
-  },
-  {
-    "hora_utc": "2026-07-09T17:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "new york mets vs kansas city royals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/golf/23665/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "New York Mets vs Kansas City Royals"
-  },
-  {
     "hora_utc": "2026-07-09T17:35Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -56,75 +8,12 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23687/1",
+        "url": "https://embed.st/embed/golf/23669/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Baltimore Orioles vs Chicago Cubs"
-  },
-  {
-    "hora_utc": "2026-07-09T17:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "minnesota twins vs cleveland guardians",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/minnesota-twins-vs-cleveland-guardians-baseball-179413/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/golf/23667/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Minnesota Twins vs Cleveland Guardians"
-  },
-  {
-    "hora_utc": "2026-07-09T18:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "cska sofia vs derry city",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/cska-sofia-vs-derry-city-football-1554441/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "CSKA Sofia vs Derry City"
-  },
-  {
-    "hora_utc": "2026-07-09T18:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "vllaznia shkoder vs malisheva",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/vllaznia-shkoder-vs-malisheva-football-1554413/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Vllaznia Shkodër vs Malisheva"
   },
   {
     "hora_utc": "2026-07-09T18:10Z",
@@ -148,86 +37,6 @@
     "equipos_original": "Chicago White Sox vs Boston Red Sox"
   },
   {
-    "hora_utc": "2026-07-09T18:45Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "nsi runavik vs amrun spartans",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/nsi-runavik-vs-hamrun-spartans-football-1554407/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "NSÍ Runavík vs Ħamrun Spartans"
-  },
-  {
-    "hora_utc": "2026-07-09T18:45Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "pen-y-bont vs fc santa coloma",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/penybont-vs-fc-santa-coloma-football-1554408/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Pen-y-Bont vs FC Santa Coloma"
-  },
-  {
-    "hora_utc": "2026-07-09T18:45Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "petrovac vs algiris vilnius",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/petrovac-vs-fk-zalgiris-vilnius-football-1554409/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Petrovac vs Žalgiris Vilnius"
-  },
-  {
-    "hora_utc": "2026-07-09T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "fk sarajevo vs inter turku",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/fk-sarajevo-vs-inter-turku-football-1554400/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "FK Sarajevo vs Inter Turku"
-  },
-  {
-    "hora_utc": "2026-07-09T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "stjarnan vs vikingur gta",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/stjarnan-vs-vikingur-gota-football-1554412/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Stjarnan vs Víkingur Gøta"
-  },
-  {
     "hora_utc": "2026-07-09T19:30Z",
     "logo": "img/nba.png",
     "liga": "NBA",
@@ -247,117 +56,6 @@
     ],
     "fuente": "github",
     "equipos_original": "New Orleans Pelicans vs Minnesota Timberwolves"
-  },
-  {
-    "hora_utc": "2026-07-09T20:00:00Z",
-    "logo": "img/world_cup.png",
-    "liga": "Copa del Mundo",
-    "equipos": "francia vs marruecos",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports (AR/PE/CO/EC/CL/UY)",
-        "url": "https://tvhd1.com/canales/dsportslatam.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Tigo Sports HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports",
-        "url": "https://tvhd2.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://tvhd2.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV",
-        "url": "https://tvhd2.com/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://tvhd2.com/online/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN Mexico HD1",
-        "url": "https://tvhd1.com/canales/tudnmx.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TV LA 1 España HD1",
-        "url": "https://tvhd1.com/canales/tvla1es.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX HD1",
-        "url": "https://tvhd1.com/canales/canal5.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Tigo Sports",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://tvtvhd.com/online/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvhd2.com/canales.php?stream=goltv",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Francia vs Marruecos"
   },
   {
     "hora_utc": "2026-07-09T20:00Z",
@@ -396,43 +94,6 @@
     "equipos_original": "France vs Morocco"
   },
   {
-    "hora_utc": "2026-07-09T20:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Serie B",
-    "equipos": "deportivo cuenca juniors vs ldu portoviejo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Cuenca Juniors vs LDU Portoviejo"
-  },
-  {
-    "hora_utc": "2026-07-09T20:30Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "atlanta hawks vs san antonio spurs",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-atlanta-hawks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/golf/23658/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Atlanta Hawks vs San Antonio Spurs"
-  },
-  {
     "hora_utc": "2026-07-09T21:30Z",
     "logo": "img/nba.png",
     "liga": "NBA",
@@ -446,43 +107,17 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23659/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
     "equipos_original": "Philadelphia 76ers vs Detroit Pistons"
-  },
-  {
-    "hora_utc": "2026-07-09T22:30:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "mlb baltimore orioles vs chicago cubs",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvhd2.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvhd2.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvhd2.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://tvhd2.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "MLB – Baltimore Orioles vs Chicago Cubs"
   },
   {
     "hora_utc": "2026-07-09T22:40Z",
@@ -534,6 +169,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Futbol Chile HD",
+        "url": "https://tvhd2.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TNT Sports Premiun CL",
         "url": "https://tvhd2.com/online/canales.php?stream=tntsportschile",
         "calidad": "HD"
@@ -566,6 +206,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embed.st/embed/golf/23660/1",
         "calidad": "HD"
       }
@@ -593,6 +238,27 @@
     ],
     "fuente": "github",
     "equipos_original": "Cincinnati Reds vs Philadelphia Phillies"
+  },
+  {
+    "hora_utc": "2026-07-09T23:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "orlando magic vs charlotte hornets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/golf/23661/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Orlando Magic vs Charlotte Hornets"
   },
   {
     "hora_utc": "2026-07-09T23:45Z",
@@ -829,6 +495,37 @@
     ],
     "fuente": "github",
     "equipos_original": "Los Angeles Clippers vs Sacramento Kings"
+  },
+  {
+    "hora_utc": "2026-07-10T19:00Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "spain vs belgium",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-spain-vs-belgium/5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/golf/23656/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Spain vs Belgium"
   },
   {
     "hora_utc": "2026-07-10T20:00Z",
