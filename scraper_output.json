@@ -1,18 +1,397 @@
 [
   {
-    "hora_utc": "2026-07-11T00:15:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "tecnico universitario vs macara",
+    "hora_utc": "2026-07-11T08:00Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "tanzania u17 vs australia u17",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/tanzania-u17-vs-australia-u17-football-1583649/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
-    "equipos_original": "Técnico Universitario vs Macará"
+    "fuente": "github",
+    "equipos_original": "Tanzania U17 vs Australia U17"
+  },
+  {
+    "hora_utc": "2026-07-11T11:35Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "china u17 vs nigeria u17",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/china-pr-u17-vs-nigeria-u17-football-1583650/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "China U17 vs Nigeria U17"
+  },
+  {
+    "hora_utc": "2026-07-11T18:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "minnesota twins vs los angeles angels",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-minnesota-twins/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179428/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179442/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/echo/minnesota-twins-vs-los-angeles-angels-baseball-179460/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Minnesota Twins vs Los Angeles Angels"
+  },
+  {
+    "hora_utc": "2026-07-11T18:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "chicago white sox vs athletics",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-athletics-vs-chicago-white-sox/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179433/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179447/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/echo/chicago-white-sox-vs-athletics-baseball-179456/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Chicago White Sox vs Athletics"
+  },
+  {
+    "hora_utc": "2026-07-11T20:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "charlotte hornets vs new orleans pelicans",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-charlotte-hornets/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Charlotte Hornets vs New Orleans Pelicans"
+  },
+  {
+    "hora_utc": "2026-07-11T20:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "washington nationals vs new york yankees",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-washington-nationals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/washington-nationals-vs-new-york-yankees-baseball-179434/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/washington-nationals-vs-new-york-yankees-baseball-179449/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Washington Nationals vs New York Yankees"
+  },
+  {
+    "hora_utc": "2026-07-11T20:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "san francisco giants vs colorado rockies",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179424/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179438/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "San Francisco Giants vs Colorado Rockies"
+  },
+  {
+    "hora_utc": "2026-07-11T20:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "pittsburgh pirates vs milwaukee brewers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-pittsburgh-pirates/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/pittsburgh-pirates-vs-milwaukee-brewers-baseball-179440/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/echo/pittsburgh-pirates-vs-milwaukee-brewers-baseball-179450/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Pittsburgh Pirates vs Milwaukee Brewers"
+  },
+  {
+    "hora_utc": "2026-07-11T21:00Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "norway vs england",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-norway-vs-england/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/admin/ppv-norway-vs-england/3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embed.st/embed/admin/ppv-norway-vs-england/5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Norway vs England"
+  },
+  {
+    "hora_utc": "2026-07-11T21:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "philadelphia 76ers vs indiana pacers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-philadelphia-76-ers/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Philadelphia 76ers vs Indiana Pacers"
+  },
+  {
+    "hora_utc": "2026-07-11T22:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "san antonio spurs vs new york knicks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "San Antonio Spurs vs New York Knicks"
+  },
+  {
+    "hora_utc": "2026-07-11T23:00Z",
+    "logo": "img/default.png",
+    "liga": "CFL",
+    "equipos": "montreal alouettes vs calgary stampeders",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-montreal-alouettes/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Montreal Alouettes vs Calgary Stampeders"
+  },
+  {
+    "hora_utc": "2026-07-11T23:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "minnesota timberwolves vs denver nuggets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-denver-nuggets-vs-minnesota-timberwolves/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Minnesota Timberwolves vs Denver Nuggets"
+  },
+  {
+    "hora_utc": "2026-07-12T00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "brooklyn nets vs atlanta hawks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-brooklyn-nets/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Brooklyn Nets vs Atlanta Hawks"
+  },
+  {
+    "hora_utc": "2026-07-12T01:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "toronto raptors vs houston rockets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-houston-rockets-vs-toronto-raptors/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Toronto Raptors vs Houston Rockets"
+  },
+  {
+    "hora_utc": "2026-07-12T19:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "new orleans pelicans vs phoenix suns",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/new-orleans-pelicans-vs-phoenix-suns-basketball-502086/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "New Orleans Pelicans vs Phoenix Suns"
+  },
+  {
+    "hora_utc": "2026-07-12T20:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "detroit pistons vs cleveland cavaliers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/detroit-pistons-vs-cleveland-cavaliers-basketball-502087/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Detroit Pistons vs Cleveland Cavaliers"
+  },
+  {
+    "hora_utc": "2026-07-12T21:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "boston celtics vs charlotte hornets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/boston-celtics-vs-charlotte-hornets-basketball-502088/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Boston Celtics vs Charlotte Hornets"
+  },
+  {
+    "hora_utc": "2026-07-12T22:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "golden state warriors vs oklahoma city thunder",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/golden-state-warriors-vs-oklahoma-city-thunder-basketball-502089/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Golden State Warriors vs Oklahoma City Thunder"
+  },
+  {
+    "hora_utc": "2026-07-12T23:00Z",
+    "logo": "img/default.png",
+    "liga": "CFL",
+    "equipos": "saskatchewan roughriders vs hamilton tiger-cats",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-hamilton-tiger-cats-vs-saskatchewan-roughriders/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "Saskatchewan Roughriders vs Hamilton Tiger-Cats"
   }
 ]
