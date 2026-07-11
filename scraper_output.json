@@ -1,63 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-11T11:35Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "china u17 vs nigeria u17",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/echo/china-pr-u17-vs-nigeria-u17-football-1583650/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "China U17 vs Nigeria U17"
-  },
-  {
-    "hora_utc": "2026-07-11T14:25:00Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "f1 gp - grand prix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 7",
-        "url": "https://fltvhd.com/canales.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=espn7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F1 GP - Grand Prix"
-  },
-  {
-    "hora_utc": "2026-07-11T15:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "tenis wimbledon dia 13 final femenina",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Tenis – Wimbledon – Día #13 – Final Femenina"
-  },
-  {
     "hora_utc": "2026-07-11T16:30:00Z",
     "logo": "img/default.png",
     "liga": "Segunda División",
@@ -124,7 +66,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       }
     ],
@@ -165,18 +107,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Futbol Canal",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP2",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP3",
-        "url": "https://tvhd2.com/online/canales.php?stream=even1",
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
         "calidad": "HD"
       }
     ],
@@ -249,6 +181,26 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports (AR/PE/CO/EC/CL/UY)",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
         "nombre": "DSports",
         "url": "https://fltvhd.com/canales.php?stream=dsports",
         "calidad": "HD"
@@ -264,11 +216,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Canal 5 MX",
         "url": "https://fltvhd.com/canales.php?stream=canal5",
         "calidad": "HD"
@@ -276,11 +223,6 @@
       {
         "nombre": "Telemundo",
         "url": "https://fltvhd.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -322,63 +264,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Wanderers vs Progreso"
-  },
-  {
-    "hora_utc": "2026-07-11T21:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "norway vs england",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-norway-vs-england/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-norway-vs-england/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-norway-vs-england/5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embed.st/embed/echo/england-vs-india-fifth-t20-international-game-19993637/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "Norway vs England"
-  },
-  {
-    "hora_utc": "2026-07-11T21:00Z",
-    "logo": "img/ufc.png",
-    "liga": "UFC",
-    "equipos": "ufc 329 mcgregor vs holloway 2",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-ufc-329-mc-gregor-vs-holloway-2/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embed.st/embed/admin/ppv-ufc-329-mc-gregor-vs-holloway-2/3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embed.st/embed/admin/ppv-ufc-329-mc-gregor-vs-holloway-2/5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github",
-    "equipos_original": "UFC 329 McGregor vs Holloway 2"
   },
   {
     "hora_utc": "2026-07-11T21:30:00Z",
