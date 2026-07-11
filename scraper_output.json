@@ -273,51 +273,25 @@
     "equipos_original": "San Diego Padres vs Toronto Blue Jays"
   },
   {
-    "hora_utc": "2026-07-11T02:15Z",
+    "hora_utc": "2026-07-11T02:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
-    "equipos": "san francisco giants vs colorado rockies",
+    "equipos": "los angeles dodgers vs arizona diamondbacks",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
+        "url": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-los-angeles-dodgers/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1",
+        "url": "https://embed.st/embed/echo/los-angeles-dodgers-vs-arizona-diamondbacks-baseball-179462/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github",
-    "equipos_original": "San Francisco Giants vs Colorado Rockies"
-  },
-  {
-    "hora_utc": "2026-07-11T08:45:00Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "f1 de - qualifying",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/canales.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F1 De - Qualifying"
+    "equipos_original": "Los Angeles Dodgers vs Arizona Diamondbacks"
   },
   {
     "hora_utc": "2026-07-11T11:00:00Z",
@@ -344,6 +318,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Ciclismo – Tour de France – Etapa #8"
+  },
+  {
+    "hora_utc": "2026-07-11T11:35Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "china u17 vs nigeria u17",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/china-pr-u17-vs-nigeria-u17-football-1583650/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "China U17 vs Nigeria U17"
   },
   {
     "hora_utc": "2026-07-11T12:30:00Z",
@@ -396,17 +386,7 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canales.php?stream=even4",
         "calidad": "HD"
       }
     ],
@@ -698,6 +678,27 @@
     "equipos_original": "Atlanta Dream vs Portland Fire"
   },
   {
+    "hora_utc": "2026-07-11T20:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "san francisco giants vs colorado rockies",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github",
+    "equipos_original": "San Francisco Giants vs Colorado Rockies"
+  },
+  {
     "hora_utc": "2026-07-11T21:00:00Z",
     "logo": "img/default.png",
     "liga": "Segunda División",
@@ -712,52 +713,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Huracán vs Deportivo Colonia"
-  },
-  {
-    "hora_utc": "2026-07-11T21:00:00Z",
-    "logo": "img/world_cup.png",
-    "liga": "Copa del Mundo",
-    "equipos": "noruega vs inglaterra",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://fltvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://fltvhd.com/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://fltvhd.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Noruega vs Inglaterra"
   },
   {
     "hora_utc": "2026-07-11T21:00:00Z",
@@ -878,7 +833,7 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/canales.php?stream=even3",
+        "url": "https://fltvhd.com/online/canales.php?stream=even3",
         "calidad": "HD"
       },
       {

@@ -260,46 +260,21 @@
     ]
   },
   {
-    "hora_utc": "2026-07-11T02:15Z",
-    "hora_fin_utc": "2026-07-11T05:30:00Z",
+    "hora_utc": "2026-07-11T02:10Z",
+    "hora_fin_utc": "2026-07-11T05:25:00Z",
     "liga": "MLB",
-    "equipos": "Colorado Rockies vs San Francisco Giants",
+    "equipos": "Arizona Diamondbacks vs Los Angeles Dodgers",
     "logo": "img/mlb.png",
     "sport": "mlb",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
+        "url": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-los-angeles-dodgers/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-11T08:45:00Z",
-    "hora_fin_utc": "2026-07-11T11:05:00Z",
-    "liga": "Formula 1",
-    "equipos": "f1 de - qualifying",
-    "logo": "img/formula1.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/canales.php?stream=even3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=espn3",
+        "url": "https://embed.st/embed/echo/los-angeles-dodgers-vs-arizona-diamondbacks-baseball-179462/1",
         "calidad": "HD"
       }
     ]
@@ -325,6 +300,21 @@
       {
         "nombre": "ESPN 5 | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-11T11:35Z",
+    "hora_fin_utc": "2026-07-11T13:55:00Z",
+    "liga": "Soccer",
+    "equipos": "china u17 vs nigeria u17",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/echo/china-pr-u17-vs-nigeria-u17-football-1583650/1",
         "calidad": "HD"
       }
     ]
@@ -379,17 +369,7 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canales.php?stream=even4",
         "calidad": "HD"
       }
     ]
@@ -655,6 +635,26 @@
     ]
   },
   {
+    "hora_utc": "2026-07-11T20:05Z",
+    "hora_fin_utc": "2026-07-11T23:20:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embed.st/embed/echo/san-francisco-giants-vs-colorado-rockies-baseball-179454/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-07-11T21:00:00Z",
     "hora_fin_utc": "2026-07-11T23:20:00Z",
     "liga": "Segunda División",
@@ -672,46 +672,26 @@
   {
     "hora_utc": "2026-07-11T21:00:00Z",
     "hora_fin_utc": "2026-07-11T23:20:00Z",
-    "liga": "Copa del Mundo",
-    "equipos": "Inglaterra vs Noruega",
-    "logo": "img/world_cup.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "CA Progreso vs Montevideo Wanderers",
+    "logo": "img/uy.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://fltvhd.com/canales.php?stream=dsports",
+        "nombre": "Disney+",
+        "url": "https://tvhd2.com/canales.php?stream=espn",
         "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://fltvhd.com/canales.php?stream=canal5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://fltvhd.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-11T21:00Z",
+    "hora_fin_utc": "2026-07-11T23:20:00Z",
+    "liga": "Soccer",
+    "equipos": "Inglaterra vs Noruega",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
       {
         "nombre": "Main Server",
         "url": "https://embed.st/embed/admin/ppv-norway-vs-england/1",
@@ -725,21 +705,6 @@
       {
         "nombre": "Server 3",
         "url": "https://embed.st/embed/admin/ppv-norway-vs-england/5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-11T21:00:00Z",
-    "hora_fin_utc": "2026-07-11T23:20:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "CA Progreso vs Montevideo Wanderers",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvhd2.com/canales.php?stream=espn",
         "calidad": "HD"
       }
     ]
@@ -819,7 +784,7 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/canales.php?stream=even3",
+        "url": "https://fltvhd.com/online/canales.php?stream=even3",
         "calidad": "HD"
       },
       {
