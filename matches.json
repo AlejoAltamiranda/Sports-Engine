@@ -1,50 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-12T15:00:00Z",
-    "hora_fin_utc": "2026-07-12T17:20:00Z",
-    "liga": "Deportes",
-    "equipos": "tenis wimbledon dia 14 final masculina",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-12T15:00:00Z",
-    "hora_fin_utc": "2026-07-12T17:20:00Z",
-    "liga": "Primera División",
-    "equipos": "CA Cerro vs Liverpool",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-12T15:00:00Z",
-    "hora_fin_utc": "2026-07-12T17:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "atenas vs rentistas",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-12T16:00:00Z",
     "hora_fin_utc": "2026-07-12T19:15:00Z",
     "liga": "MLB",
@@ -163,6 +118,21 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "TUDN México | Señal HD",
+        "url": "https://tvhd1.com/canales/tudnmx.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://fltvhd.com/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TUDN USA",
         "url": "https://fltvhd.com/canales.php?stream=tudn",
         "calidad": "HD"
@@ -178,21 +148,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "America Television",
-        "url": "https://fltvhd.com/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "America TV | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=americatv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://fltvhd.com/canales.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Win Sports | OP2",
         "url": "https://fltvhd.com/vivo/canal.php?stream=winsports",
         "calidad": "HD"
@@ -203,23 +158,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Win Sports HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Win Sports +",
-        "url": "https://fltvhd.com/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=winsportsplus",
+        "url": "https://fltvhd.com/online/canal.php?stream=winsports2",
         "calidad": "HD"
       }
     ]
