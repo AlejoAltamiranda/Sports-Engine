@@ -1,36 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-12T11:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 9",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://fltvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #9"
-  },
-  {
     "hora_utc": "2026-07-12T12:00:00Z",
     "logo": "img/default.png",
     "liga": "Segunda División",
@@ -107,7 +76,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ],
@@ -123,7 +92,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       }
     ],
@@ -223,7 +192,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ],
@@ -239,7 +208,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney5",
         "calidad": "HD"
       }
     ],
@@ -267,6 +236,51 @@
         "nombre": "TUDN USA | OP3",
         "url": "https://tvhd2.com/vivo/canales.php?stream=tudn",
         "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://fltvhd.com/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://fltvhd.com/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports ┃OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports +",
+        "url": "https://fltvhd.com/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
@@ -287,48 +301,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Real Potosí vs Nacional Potosí"
-  },
-  {
-    "hora_utc": "2026-07-12T19:00:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "fluminense vs bahia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Sportv 2 BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Fluminense vs Bahia"
-  },
-  {
-    "hora_utc": "2026-07-12T19:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Amistoso Internacional",
-    "equipos": "cascavel vs corinthians",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Sportv BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=sportv",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Cascavel vs Corinthians"
   },
   {
     "hora_utc": "2026-07-12T19:00:00Z",
@@ -360,6 +332,53 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "NBA Summer League – New Orleans Pelicans vs Phoenix Suns"
+  },
+  {
+    "hora_utc": "2026-07-12T19:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "fluminense vs bahia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Sportv 2 BR",
+        "url": "https://fltvhd.com/canales.php?stream=sportv2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Fluminense vs Bahia"
+  },
+  {
+    "hora_utc": "2026-07-12T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso Internacional",
+    "equipos": "cascavel vs corinthians",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://fltvhd.com/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere 2 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cascavel vs Corinthians"
   },
   {
     "hora_utc": "2026-07-12T19:00:00Z",

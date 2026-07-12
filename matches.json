@@ -1,35 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-12T11:00:00Z",
-    "hora_fin_utc": "2026-07-12T13:20:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 9",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://fltvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-12T12:00:00Z",
     "hora_fin_utc": "2026-07-12T14:20:00Z",
     "liga": "Segunda División",
@@ -84,7 +54,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ]
@@ -99,7 +69,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       }
     ]
@@ -194,7 +164,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ]
@@ -209,7 +179,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney5",
         "calidad": "HD"
       }
     ]
@@ -236,6 +206,51 @@
         "nombre": "TUDN USA | OP3",
         "url": "https://tvhd2.com/vivo/canales.php?stream=tudn",
         "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://fltvhd.com/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://fltvhd.com/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports ┃OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports +",
+        "url": "https://fltvhd.com/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
       }
     ]
   },
@@ -250,46 +265,6 @@
       {
         "nombre": "Entel TV PLUS+",
         "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-12T19:00:00Z",
-    "hora_fin_utc": "2026-07-12T21:20:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Bahia vs Fluminense",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Sportv 2 BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-12T19:00:00Z",
-    "hora_fin_utc": "2026-07-12T21:20:00Z",
-    "liga": "Amistoso Internacional",
-    "equipos": "cascavel vs Corinthians",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Sportv BR",
-        "url": "https://fltvhd.com/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv BR HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=sportv",
         "calidad": "HD"
       }
     ]
@@ -320,6 +295,51 @@
       {
         "nombre": "ESPN 5 | HD",
         "url": "https://fltvhd.com/online/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-12T19:00:00Z",
+    "hora_fin_utc": "2026-07-12T21:20:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Bahia vs Fluminense",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Sportv 2 BR",
+        "url": "https://fltvhd.com/canales.php?stream=sportv2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-12T19:00:00Z",
+    "hora_fin_utc": "2026-07-12T21:20:00Z",
+    "liga": "Amistoso Internacional",
+    "equipos": "cascavel vs Corinthians",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://fltvhd.com/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere 2 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=sportv",
         "calidad": "HD"
       }
     ]
