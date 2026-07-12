@@ -1,31 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-12T08:45:00Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "f1 de - grand prix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F1 De - Grand Prix"
-  },
-  {
     "hora_utc": "2026-07-12T11:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -81,17 +55,17 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canales.php?stream=even4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 4 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
         "calidad": "HD"
       }
     ],
@@ -107,17 +81,17 @@
     "canales": [
       {
         "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
         "calidad": "HD"
       }
     ],
@@ -181,6 +155,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "MLB Future Games"
+  },
+  {
+    "hora_utc": "2026-07-12T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "jannik sinner vs alexander zverev final",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2 HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Jannik Sinner VS Alexander Zverev | FINAL"
   },
   {
     "hora_utc": "2026-07-12T16:30:00Z",
@@ -443,22 +433,22 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canales.php?stream=even3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=espn3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 3 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=espn3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 3 | HD",
-        "url": "https://tvhd2.com/online/canal.php?stream=even3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
         "calidad": "HD"
       }
     ],
@@ -532,17 +522,17 @@
     "canales": [
       {
         "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=even2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
         "calidad": "HD"
       }
     ],
