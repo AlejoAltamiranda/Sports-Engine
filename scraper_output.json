@@ -1,47 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-12T12:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "uruguay montevideo vs oriental",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Uruguay Montevideo vs Oriental"
-  },
-  {
-    "hora_utc": "2026-07-12T13:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "golf genesis scottish open ultima vuelta",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Golf – Genesis Scottish Open – Última Vuelta"
-  },
-  {
     "hora_utc": "2026-07-12T15:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
