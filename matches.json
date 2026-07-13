@@ -1,20 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-13T18:00:00Z",
-    "hora_fin_utc": "2026-07-13T20:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "la luz vs tacuarembo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-13T20:30:00Z",
     "hora_fin_utc": "2026-07-13T23:45:00Z",
     "liga": "NBA",

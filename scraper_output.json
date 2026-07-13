@@ -1,21 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-13T18:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "la luz vs tacuarembo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "La Luz vs Tacuarembó"
-  },
-  {
     "hora_utc": "2026-07-13T20:30:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
