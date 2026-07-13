@@ -1,20 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-13T13:00:00Z",
-    "hora_fin_utc": "2026-07-13T15:20:00Z",
-    "liga": "Torneo de Reserva",
-    "equipos": "Defensa y Justicia vs t estudiantes rio cuarto 2",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-13T18:00:00Z",
     "hora_fin_utc": "2026-07-13T20:20:00Z",
     "liga": "Segunda División",
@@ -54,7 +39,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ]
@@ -69,7 +54,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=espn",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       }
     ]
