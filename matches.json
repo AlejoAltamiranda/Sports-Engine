@@ -1,50 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-13T20:30:00Z",
-    "hora_fin_utc": "2026-07-13T23:45:00Z",
-    "liga": "NBA",
-    "equipos": "Indiana Pacers vs Toronto Raptors",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-13T22:00:00Z",
-    "hora_fin_utc": "2026-07-14T00:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Cerro Largo FC vs Defensor Sporting",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-13T22:00:00Z",
-    "hora_fin_utc": "2026-07-14T00:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "fenix vs paysandu",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-13T23:00:00Z",
     "hora_fin_utc": "2026-07-14T02:15:00Z",
     "liga": "NBA",
