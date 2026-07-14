@@ -1,1 +1,237 @@
-[]
+[
+  {
+    "hora_utc": "2026-07-14T11:00:00Z",
+    "hora_fin_utc": "2026-07-14T13:20:00Z",
+    "liga": "Deportes",
+    "equipos": "ciclismo tour de france etapa 10",
+    "logo": "img/default.png",
+    "sport": "deportes",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-14T11:00:00Z",
+    "hora_fin_utc": "2026-07-14T13:20:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Rosario Central vs San Lorenzo",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=tntsports",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-14T19:00:00Z",
+    "hora_fin_utc": "2026-07-14T21:20:00Z",
+    "liga": "Copa del Mundo",
+    "equipos": "España vs Francia",
+    "logo": "img/world_cup.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://fltvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV",
+        "url": "https://fltvhd.com/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://fltvhd.com/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports ┃OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://fltvhd.com/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://fltvhd.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-14T21:30:00Z",
+    "hora_fin_utc": "2026-07-14T23:50:00Z",
+    "liga": "Liga Pro",
+    "equipos": "Macará vs Mushuc Runa",
+    "logo": "img/ec.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-14T22:00:00Z",
+    "hora_fin_utc": "2026-07-15T00:20:00Z",
+    "liga": "Primera División",
+    "equipos": "Always Ready vs Real Oruro",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-14T23:00:00Z",
+    "hora_fin_utc": "2026-07-15T02:15:00Z",
+    "liga": "NBA",
+    "equipos": "Golden State Warriors vs Memphis Grizzlies",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-15T00:00:00Z",
+    "hora_fin_utc": "2026-07-15T02:20:00Z",
+    "liga": "Liga Pro",
+    "equipos": "Delfín vs Manta FC",
+    "logo": "img/ec.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-15T00:00:00Z",
+    "hora_fin_utc": "2026-07-15T03:15:00Z",
+    "liga": "MLB",
+    "equipos": "American League vs Mlb All Star Game National League",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-15T00:00:00Z",
+    "hora_fin_utc": "2026-07-15T02:20:00Z",
+    "liga": "Primera División",
+    "equipos": "Blooming vs GV San Jose",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-15T01:00:00Z",
+    "hora_fin_utc": "2026-07-15T04:15:00Z",
+    "liga": "NBA",
+    "equipos": "Denver Nuggets vs Oklahoma City Thunder",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      }
+    ]
+  }
+]
