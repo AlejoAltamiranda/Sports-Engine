@@ -1,63 +1,26 @@
 [
   {
-    "hora_utc": "2026-07-14T11:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 10",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #10"
-  },
-  {
-    "hora_utc": "2026-07-14T11:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "rosario central vs san lorenzo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=tntsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Rosario Central vs San Lorenzo"
-  },
-  {
     "hora_utc": "2026-07-14T19:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",
     "equipos": "francia vs espana",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Argentina HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "DSports",
         "url": "https://fltvhd.com/canales.php?stream=dsports",

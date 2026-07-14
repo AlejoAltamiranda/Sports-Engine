@@ -1,45 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-14T11:00:00Z",
-    "hora_fin_utc": "2026-07-14T13:20:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 10",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-14T11:00:00Z",
-    "hora_fin_utc": "2026-07-14T13:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Rosario Central vs San Lorenzo",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=tntsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-14T19:00:00Z",
     "hora_fin_utc": "2026-07-14T21:20:00Z",
     "liga": "Copa del Mundo",
@@ -47,6 +7,21 @@
     "logo": "img/world_cup.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Argentina HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "DSports",
         "url": "https://fltvhd.com/canales.php?stream=dsports",
