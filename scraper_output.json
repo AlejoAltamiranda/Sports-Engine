@@ -1,1 +1,296 @@
-[]
+[
+  {
+    "hora_utc": "2026-07-15T11:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "ciclismo tour de france etapa 11",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ciclismo – Tour de France – Etapa #11"
+  },
+  {
+    "hora_utc": "2026-07-15T17:00:00Z",
+    "logo": "img/it.png",
+    "liga": "Serie A",
+    "equipos": "libertad vs tecnico universitario",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Libertad vs Técnico Universitario"
+  },
+  {
+    "hora_utc": "2026-07-15T19:00:00Z",
+    "logo": "img/world_cup.png",
+    "liga": "Copa del Mundo",
+    "equipos": "inglaterra vs argentina",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Argentina HD1",
+        "url": "https://tvhd1.com/canales/dsportslatam.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telefe",
+        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telefe | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR",
+        "url": "https://fltvhd.com/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV",
+        "url": "https://fltvhd.com/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://fltvhd.com/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports ┃OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America Television",
+        "url": "https://fltvhd.com/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://fltvhd.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Inglaterra vs Argentina"
+  },
+  {
+    "hora_utc": "2026-07-15T22:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "real potosi vs san antonio bulo bulo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Real Potosí vs San Antonio Bulo Bulo"
+  },
+  {
+    "hora_utc": "2026-07-15T22:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "nba summer league equipos a confirmar",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NBA Summer League – Equipos a Confirmar"
+  },
+  {
+    "hora_utc": "2026-07-15T22:00:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "universidad catolica vs ldu quito",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Universidad Católica vs LDU Quito"
+  },
+  {
+    "hora_utc": "2026-07-16T00:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "the strongest vs oriente petrolero",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "The Strongest vs Oriente Petrolero"
+  },
+  {
+    "hora_utc": "2026-07-16T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "espys 2026",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ESPYS 2026"
+  },
+  {
+    "hora_utc": "2026-07-16T00:30:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "barcelona vs guayaquil city",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Barcelona vs Guayaquil City"
+  }
+]
