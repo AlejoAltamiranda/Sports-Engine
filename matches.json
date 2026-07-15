@@ -23,6 +23,16 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Telefe | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Dsports HD1",
         "url": "https://tvhd1.com/canales/dsportsar.php",
         "calidad": "HD"
@@ -33,8 +43,28 @@
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "nombre": "TUDN México | Señal HD",
+        "url": "https://tvhd1.com/canales/tudnmx.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX ONE HD1",
+        "url": "https://tvhd1.com/canales/foxone.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD1",
+        "url": "https://tvhd1.com/canales/canal5.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV LA 1 España HD1",
+        "url": "https://tvhd1.com/canales/tvla1es.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "CTV HD1",
+        "url": "https://tvhd1.com/canales/ctv.php",
         "calidad": "HD"
       },
       {
@@ -45,6 +75,11 @@
       {
         "nombre": "DSports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
         "calidad": "HD"
       },
       {
@@ -60,16 +95,6 @@
       {
         "nombre": "TYC Sports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telefe",
-        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
         "calidad": "HD"
       },
       {
@@ -115,6 +140,11 @@
       {
         "nombre": "Canal 5 MX",
         "url": "https://fltvhd.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TeleAmazonas",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
         "calidad": "HD"
       },
       {
