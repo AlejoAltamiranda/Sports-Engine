@@ -1,37 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-14T21:30:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "macara vs mushuc runa",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Macará vs Mushuc Runa"
-  },
-  {
-    "hora_utc": "2026-07-14T22:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "real oruro vs always ready",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Real Oruro vs Always Ready"
-  },
-  {
     "hora_utc": "2026-07-14T23:00:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",

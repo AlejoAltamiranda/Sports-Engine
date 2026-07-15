@@ -1,35 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-14T21:30:00Z",
-    "hora_fin_utc": "2026-07-14T23:50:00Z",
-    "liga": "Liga Pro",
-    "equipos": "Macará vs Mushuc Runa",
-    "logo": "img/ec.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-14T22:00:00Z",
-    "hora_fin_utc": "2026-07-15T00:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Always Ready vs Real Oruro",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-14T23:00:00Z",
     "hora_fin_utc": "2026-07-15T02:15:00Z",
     "liga": "NBA",
