@@ -1,31 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-15T11:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 11",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #11"
-  },
-  {
     "hora_utc": "2026-07-15T17:00:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
