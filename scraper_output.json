@@ -1,27 +1,16 @@
 [
   {
-    "hora_utc": "2026-07-15T17:00:00Z",
-    "logo": "img/it.png",
-    "liga": "Serie A",
-    "equipos": "libertad vs tecnico universitario",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Libertad vs Técnico Universitario"
-  },
-  {
     "hora_utc": "2026-07-15T19:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",
     "equipos": "inglaterra vs argentina",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN HD - Narración destacada de Mariano Closs",
         "url": "https://fltvhd.com/online/canales.php?stream=disney1",
@@ -30,11 +19,6 @@
       {
         "nombre": "Telefe | HD",
         "url": "https://fltvhd.com/online/canales.php?stream=telefe",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports HD1",
-        "url": "https://tvhd1.com/canales/dsportsar.php",
         "calidad": "HD"
       },
       {
