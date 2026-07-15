@@ -23,13 +23,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Telefe | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
+        "nombre": "ESPN HD - Narración destacada de Mariano Closs",
+        "url": "https://fltvhd.com/online/canales.php?stream=disney1",
         "calidad": "HD"
       },
       {
-        "nombre": "DSports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "nombre": "Telefe | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telefe",
         "calidad": "HD"
       },
       {
@@ -65,6 +65,21 @@
       {
         "nombre": "CTV HD1",
         "url": "https://tvhd1.com/canales/ctv.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
@@ -118,11 +133,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Caracol TV  | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=caracol",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Win Sports",
         "url": "https://fltvhd.com/canales.php?stream=winsports",
         "calidad": "HD"
@@ -165,11 +175,6 @@
       {
         "nombre": "Telemundo",
         "url": "https://fltvhd.com/canales.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
