@@ -1,21 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-16T19:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "abb vs independiente petrolero",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "ABB vs Independiente Petrolero"
-  },
-  {
     "hora_utc": "2026-07-16T20:30:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
