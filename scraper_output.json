@@ -1,9 +1,182 @@
 [
   {
-    "hora_utc": "2026-07-16T02:30:00Z",
+    "hora_utc": "2026-07-16T11:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "ciclismo tour de france etapa 12",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ciclismo – Tour de France – Etapa #12"
+  },
+  {
+    "hora_utc": "2026-07-16T16:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "golf the open championship primera vuelta",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Golf – The Open Championship – Primera Vuelta"
+  },
+  {
+    "hora_utc": "2026-07-16T19:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "abb vs independiente petrolero",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ABB vs Independiente Petrolero"
+  },
+  {
+    "hora_utc": "2026-07-16T20:30:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "nba summer league equipos a confirmar",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NBA Summer League – Equipos a Confirmar"
+  },
+  {
+    "hora_utc": "2026-07-16T21:30:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "aucas vs independiente del valle",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Aucas vs Independiente del Valle"
+  },
+  {
+    "hora_utc": "2026-07-16T21:45:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "racing club vs defensa y justicia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Racing Club vs Defensa y Justicia"
+  },
+  {
+    "hora_utc": "2026-07-16T22:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "vitoria vs vasco da gama",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vitória vs Vasco da Gama"
+  },
+  {
+    "hora_utc": "2026-07-16T22:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "botafogo vs santos",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Botafogo vs Santos"
+  },
+  {
+    "hora_utc": "2026-07-16T23:00:00Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "mlb philadelphia phillies vs new york mets",
     "status": "pronto",
     "canales": [
       {
@@ -20,9 +193,113 @@
         "nombre": "ESPN 3 | OP3",
         "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "NBA Summer League – Equipos a Confirmar"
+    "equipos_original": "MLB – Philadelphia Phillies vs New York Mets"
+  },
+  {
+    "hora_utc": "2026-07-17T00:00:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "orense vs emelec",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Orense vs Emelec"
+  },
+  {
+    "hora_utc": "2026-07-17T00:45:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "sarmiento vs boca juniors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Sarmiento vs Boca Juniors"
+  },
+  {
+    "hora_utc": "2026-07-17T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "necaxa vs atlante",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Necaxa vs Atlante"
+  },
+  {
+    "hora_utc": "2026-07-17T03:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "tijuana vs tigres uanl",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://fltvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Tijuana vs Tigres UANL"
   }
 ]
