@@ -1,22 +1,6 @@
 [
   {
-    "hora_utc": "2026-07-15T22:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "real potosi vs san antonio bulo bulo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Real Potosí vs San Antonio Bulo Bulo"
-  },
-  {
-    "hora_utc": "2026-07-15T22:00:00Z",
+    "hora_utc": "2026-07-16T00:00:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "nba summer league equipos a confirmar",
@@ -40,22 +24,6 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "NBA Summer League – Equipos a Confirmar"
-  },
-  {
-    "hora_utc": "2026-07-15T22:00:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "universidad catolica vs ldu quito",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Universidad Católica vs LDU Quito"
   },
   {
     "hora_utc": "2026-07-16T00:00:00Z",
@@ -106,6 +74,11 @@
     "equipos": "barcelona vs guayaquil city",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Zapping TV Sports",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
       {
         "nombre": "ECDF LigaPro",
         "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
