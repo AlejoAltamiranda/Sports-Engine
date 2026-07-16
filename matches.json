@@ -1,20 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-16T16:30:00Z",
-    "hora_fin_utc": "2026-07-16T18:50:00Z",
-    "liga": "Deportes",
-    "equipos": "golf the open championship primera vuelta",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-16T19:00:00Z",
     "hora_fin_utc": "2026-07-16T21:20:00Z",
     "liga": "Primera División",
@@ -39,7 +24,12 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even8",
         "calidad": "HD"
       }
     ]
@@ -68,6 +58,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TYC Sports",
         "url": "https://fltvhd.com/canales.php?stream=tycsports",
         "calidad": "HD"
@@ -80,11 +75,6 @@
       {
         "nombre": "TYC Sports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
         "calidad": "HD"
       }
     ]
@@ -129,7 +119,12 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even8",
         "calidad": "HD"
       }
     ]
@@ -143,7 +138,7 @@
     "sport": "mlb",
     "canales": [
       {
-        "nombre": "ESPN 3",
+        "nombre": "ESPN 3 | HD",
         "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       }
@@ -173,6 +168,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TYC Sports",
         "url": "https://fltvhd.com/canales.php?stream=tycsports",
         "calidad": "HD"
@@ -186,11 +186,6 @@
         "nombre": "TYC Sports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
         "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
       }
     ]
   },
@@ -202,6 +197,11 @@
     "logo": "img/mx.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "FOX Deportes | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
       {
         "nombre": "FOX Deportes",
         "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
@@ -229,7 +229,7 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even8",
         "calidad": "HD"
       }
     ]
@@ -257,6 +257,11 @@
     "logo": "img/mx.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "TUDN USA | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
       {
         "nombre": "TUDN USA",
         "url": "https://fltvhd.com/canales.php?stream=tudn",
