@@ -33,7 +33,7 @@
     "hora_utc": "2026-07-16T20:30:00Z",
     "hora_fin_utc": "2026-07-16T23:45:00Z",
     "liga": "NBA",
-    "equipos": "nba summer league equipos a confirmar",
+    "equipos": "Brooklyn Nets vs Houston Rockets",
     "logo": "img/nba.png",
     "sport": "nba",
     "canales": [
@@ -122,6 +122,21 @@
   {
     "hora_utc": "2026-07-16T23:00:00Z",
     "hora_fin_utc": "2026-07-17T02:15:00Z",
+    "liga": "NBA",
+    "equipos": "Golden State Warriors vs New York Knicks",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-16T23:00:00Z",
+    "hora_fin_utc": "2026-07-17T02:15:00Z",
     "liga": "MLB",
     "equipos": "New York Mets vs Philadelphia Phillies",
     "logo": "img/mlb.png",
@@ -200,6 +215,36 @@
       {
         "nombre": "FOX Deportes | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-17T01:00:00Z",
+    "hora_fin_utc": "2026-07-17T04:15:00Z",
+    "liga": "NBA",
+    "equipos": "Miami Heat vs Toronto Raptors",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-17T02:00:00Z",
+    "hora_fin_utc": "2026-07-17T05:15:00Z",
+    "liga": "NBA",
+    "equipos": "Denver Nuggets vs Portland Trail Blazers",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       }
     ]

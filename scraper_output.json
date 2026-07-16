@@ -20,6 +20,11 @@
         "nombre": "ESPN 2 | OP3",
         "url": "https://fltvhd.com/online/canal.php?stream=even6",
         "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
@@ -45,7 +50,7 @@
     "hora_utc": "2026-07-16T20:30:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
-    "equipos": "nba summer league equipos a confirmar",
+    "equipos": "nba summer league houston rockets vs brooklyn nets",
     "status": "pronto",
     "canales": [
       {
@@ -65,7 +70,7 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "NBA Summer League – Equipos a Confirmar"
+    "equipos_original": "NBA Summer League – Houston Rockets vs Brooklyn Nets"
   },
   {
     "hora_utc": "2026-07-16T21:30:00Z",
@@ -145,6 +150,32 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Botafogo vs Santos"
+  },
+  {
+    "hora_utc": "2026-07-16T23:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "nba summer league new york knicks vs golden state warriors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NBA Summer League – New York Knicks vs Golden State Warriors"
   },
   {
     "hora_utc": "2026-07-16T23:00:00Z",
@@ -249,6 +280,58 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Necaxa vs Atlante"
+  },
+  {
+    "hora_utc": "2026-07-17T01:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "nba summer league miami heat vs toronto raptors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NBA Summer League – Miami Heat vs Toronto Raptors"
+  },
+  {
+    "hora_utc": "2026-07-17T02:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "nba summer league denver nuggets vs portland trail blazers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NBA Summer League – Denver Nuggets vs Portland Trail Blazers"
   },
   {
     "hora_utc": "2026-07-17T03:00:00Z",
