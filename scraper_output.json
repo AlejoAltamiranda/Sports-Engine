@@ -1,6 +1,6 @@
 [
   {
-    "hora_utc": "2026-07-16T00:00:00Z",
+    "hora_utc": "2026-07-16T02:30:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "nba summer league equipos a confirmar",
@@ -8,84 +8,21 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 3 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "NBA Summer League – Equipos a Confirmar"
-  },
-  {
-    "hora_utc": "2026-07-16T00:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "the strongest vs oriente petrolero",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "The Strongest vs Oriente Petrolero"
-  },
-  {
-    "hora_utc": "2026-07-16T00:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "espys 2026",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "ESPYS 2026"
-  },
-  {
-    "hora_utc": "2026-07-16T00:30:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "barcelona vs guayaquil city",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Zapping TV Sports",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Barcelona vs Guayaquil City"
   }
 ]

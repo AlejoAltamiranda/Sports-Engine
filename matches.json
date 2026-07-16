@@ -1,7 +1,7 @@
 [
   {
-    "hora_utc": "2026-07-16T00:00:00Z",
-    "hora_fin_utc": "2026-07-16T03:15:00Z",
+    "hora_utc": "2026-07-16T02:30:00Z",
+    "hora_fin_utc": "2026-07-16T05:45:00Z",
     "liga": "NBA",
     "equipos": "nba summer league equipos a confirmar",
     "logo": "img/nba.png",
@@ -9,57 +9,7 @@
     "canales": [
       {
         "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T00:00:00Z",
-    "hora_fin_utc": "2026-07-16T02:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Oriente Petrolero vs The Strongest",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Entel TV PLUS+",
-        "url": "https://fltvhd.com/online/canales.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T00:00:00Z",
-    "hora_fin_utc": "2026-07-16T02:20:00Z",
-    "liga": "Deportes",
-    "equipos": "espys 2026",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T00:30:00Z",
-    "hora_fin_utc": "2026-07-16T02:50:00Z",
-    "liga": "Liga Pro",
-    "equipos": "Barcelona SC vs Guayaquil City",
-    "logo": "img/ec.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Zapping TV Sports",
-        "url": "https://fltvhd.com/online/canal.php?stream=even4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       }
     ]
