@@ -1,31 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-16T11:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 12",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #12"
-  },
-  {
     "hora_utc": "2026-07-16T16:30:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -148,8 +122,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "nombre": "Premiere 2 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere2",
         "calidad": "HD"
       }
     ],

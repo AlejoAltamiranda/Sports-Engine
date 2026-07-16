@@ -1,20 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-16T11:00:00Z",
-    "hora_fin_utc": "2026-07-16T13:20:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 12",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-16T16:30:00Z",
     "hora_fin_utc": "2026-07-16T18:50:00Z",
     "liga": "Deportes",
@@ -113,8 +98,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "nombre": "Premiere 2 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere2",
         "calidad": "HD"
       }
     ]
