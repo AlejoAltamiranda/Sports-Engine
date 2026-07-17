@@ -1,31 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T07:50:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "f3 spa-francorchamps practica",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F3 Spa-Francorchamps – Práctica"
-  },
-  {
     "hora_utc": "2026-07-17T08:50:00Z",
     "logo": "img/default.png",
     "liga": "Formula 2",
