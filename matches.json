@@ -1,100 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-16T20:30:00Z",
-    "hora_fin_utc": "2026-07-16T23:45:00Z",
-    "liga": "NBA",
-    "equipos": "Brooklyn Nets vs Houston Rockets",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=even8",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T21:30:00Z",
-    "hora_fin_utc": "2026-07-16T23:50:00Z",
-    "liga": "Liga Pro",
-    "equipos": "Aucas vs Independiente del Valle",
-    "logo": "img/ec.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T21:45:00Z",
-    "hora_fin_utc": "2026-07-17T00:05:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Defensa y Justicia vs Racing Club",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T22:30:00Z",
-    "hora_fin_utc": "2026-07-17T00:50:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Vasco da Gama vs Vitória",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-16T22:30:00Z",
-    "hora_fin_utc": "2026-07-17T00:50:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Botafogo vs Santos",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-16T23:00:00Z",
     "hora_fin_utc": "2026-07-17T02:15:00Z",
     "liga": "NBA",
@@ -137,6 +42,11 @@
     "logo": "img/ec.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
       {
         "nombre": "ECDF LigaPro",
         "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
@@ -182,6 +92,11 @@
     "logo": "img/mx.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "FOX HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even5",
+        "calidad": "HD"
+      },
       {
         "nombre": "FOX Deportes | HD",
         "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",

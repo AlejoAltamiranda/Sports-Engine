@@ -1,115 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-16T20:30:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "nba summer league houston rockets vs brooklyn nets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=even8",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "NBA Summer League – Houston Rockets vs Brooklyn Nets"
-  },
-  {
-    "hora_utc": "2026-07-16T21:30:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "aucas vs independiente del valle",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Aucas vs Independiente del Valle"
-  },
-  {
-    "hora_utc": "2026-07-16T21:45:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "racing club vs defensa y justicia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Racing Club vs Defensa y Justicia"
-  },
-  {
-    "hora_utc": "2026-07-16T22:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "vitoria vs vasco da gama",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Vitória vs Vasco da Gama"
-  },
-  {
-    "hora_utc": "2026-07-16T22:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "botafogo vs santos",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Botafogo vs Santos"
-  },
-  {
     "hora_utc": "2026-07-16T23:00:00Z",
     "logo": "img/nba.png",
     "liga": "NBA",
@@ -179,6 +69,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ECDF LigaPro",
         "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
         "calidad": "HD"
@@ -225,6 +120,11 @@
     "equipos": "necaxa vs atlante",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "FOX HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even5",
+        "calidad": "HD"
+      },
       {
         "nombre": "FOX Deportes | HD",
         "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
