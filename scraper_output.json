@@ -1,52 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T18:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "albion vs juventud",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Albion vs Juventud"
-  },
-  {
-    "hora_utc": "2026-07-17T18:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga 1",
-    "equipos": "fc cajamarca vs juan pablo ii college",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://fltvhd.com/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "FC Cajamarca vs Juan Pablo II College"
-  },
-  {
     "hora_utc": "2026-07-17T20:15:00Z",
     "logo": "img/pe.png",
     "liga": "Liga1",

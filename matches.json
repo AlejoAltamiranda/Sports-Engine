@@ -1,50 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T18:00:00Z",
-    "hora_fin_utc": "2026-07-17T20:20:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Albion FC vs Juventud de Las Piedras",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T18:00:00Z",
-    "hora_fin_utc": "2026-07-17T20:20:00Z",
-    "liga": "Liga 1",
-    "equipos": "FC Cajamarca vs juan pablo ii college",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://fltvhd.com/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-17T20:15:00Z",
     "hora_fin_utc": "2026-07-17T22:35:00Z",
     "liga": "Liga1",
