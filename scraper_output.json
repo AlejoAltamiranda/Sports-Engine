@@ -1,9 +1,87 @@
 [
   {
-    "hora_utc": "2026-07-17T02:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "nba summer league denver nuggets vs portland trail blazers",
+    "hora_utc": "2026-07-17T07:50:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "f3 spa-francorchamps practica",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "F3 Spa-Francorchamps – Práctica"
+  },
+  {
+    "hora_utc": "2026-07-17T08:50:00Z",
+    "logo": "img/default.png",
+    "liga": "Formula 2",
+    "equipos": "f2 belgium - practice 2",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "F2 Belgium - Practice 2"
+  },
+  {
+    "hora_utc": "2026-07-17T10:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "ciclismo tour de france etapa 13",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ciclismo – Tour de France – Etapa #13"
+  },
+  {
+    "hora_utc": "2026-07-17T12:55:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "f3 spa-francorchamps clasificacion",
     "status": "pronto",
     "canales": [
       {
@@ -23,20 +101,465 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "NBA Summer League – Denver Nuggets vs Portland Trail Blazers"
+    "equipos_original": "F3 Spa-Francorchamps – Clasificación"
   },
   {
-    "hora_utc": "2026-07-17T03:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "tijuana vs tigres uanl",
+    "hora_utc": "2026-07-17T13:40:00Z",
+    "logo": "img/default.png",
+    "liga": "Formula 2",
+    "equipos": "f2 belgium - qualifying",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "TUDN USA | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tudn",
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
         "calidad": "HD"
       },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "F2 Belgium - Qualifying"
+  },
+  {
+    "hora_utc": "2026-07-17T16:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "golf the open championship segunda vuelta",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Golf – The Open Championship – Segunda Vuelta"
+  },
+  {
+    "hora_utc": "2026-07-17T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga 1",
+    "equipos": "fc cajamarca vs juan pablo ii college",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "FC Cajamarca vs Juan Pablo II College"
+  },
+  {
+    "hora_utc": "2026-07-17T18:00:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "albion vs juventud",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Albion vs Juventud"
+  },
+  {
+    "hora_utc": "2026-07-17T20:15:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "sporting cristal vs deportivo garcilaso",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Sporting Cristal vs Deportivo Garcilaso"
+  },
+  {
+    "hora_utc": "2026-07-17T21:45:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "san lorenzo vs deportivo riestra",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "San Lorenzo vs Deportivo Riestra"
+  },
+  {
+    "hora_utc": "2026-07-17T22:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasileirao Serie B",
+    "equipos": "sao bernardo vs avai",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "São Bernardo vs Avaí"
+  },
+  {
+    "hora_utc": "2026-07-17T22:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Serie B",
+    "equipos": "america mineiro vs ceara",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "América Mineiro vs Ceará"
+  },
+  {
+    "hora_utc": "2026-07-17T22:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "bahia vs chapecoense",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Bahia vs Chapecoense"
+  },
+  {
+    "hora_utc": "2026-07-17T22:30:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "nacional vs wanderers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Nacional vs Wanderers"
+  },
+  {
+    "hora_utc": "2026-07-17T23:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "fluminense vs rb bragantino",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://fltvhd.com/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Fluminense vs RB Bragantino"
+  },
+  {
+    "hora_utc": "2026-07-17T23:00:00Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "mlb atlanta braves vs texas rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://fltvhd.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "MLB – Atlanta Braves vs Texas Rangers"
+  },
+  {
+    "hora_utc": "2026-07-17T23:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "mirassol vs gremio",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Mirassol vs Grêmio"
+  },
+  {
+    "hora_utc": "2026-07-18T00:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "bolivar vs guabira",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Bolívar vs Guabirá"
+  },
+  {
+    "hora_utc": "2026-07-18T00:00:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "delfin vs macara",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Delfin vs Macará"
+  },
+  {
+    "hora_utc": "2026-07-18T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "espn knockout a confirmar",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ESPN Knockout – A Confirmar"
+  },
+  {
+    "hora_utc": "2026-07-18T00:10:00Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "nashville sc vs atlanta united",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Nashville SC vs Atlanta United"
+  },
+  {
+    "hora_utc": "2026-07-18T00:45:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "river plate vs aldosivi",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "River Plate vs Aldosivi"
+  },
+  {
+    "hora_utc": "2026-07-18T01:00:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "cienciano vs melgar",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cienciano vs Melgar"
+  },
+  {
+    "hora_utc": "2026-07-18T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "atletico san luis vs cruz azul",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN MX",
+        "url": "https://fltvhd.com/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=espnmx",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético San Luis vs Cruz Azul"
+  },
+  {
+    "hora_utc": "2026-07-18T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "leon vs atlas",
+    "status": "pronto",
+    "canales": [
       {
         "nombre": "TUDN USA",
         "url": "https://fltvhd.com/canales.php?stream=tudn",
@@ -54,6 +577,73 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Tijuana vs Tigres UANL"
+    "equipos_original": "León vs Atlas"
+  },
+  {
+    "hora_utc": "2026-07-18T02:25:00Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "la galaxy vs los angeles fc",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "LA Galaxy vs Los Angeles FC"
+  },
+  {
+    "hora_utc": "2026-07-18T03:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "juarez vs puebla",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Azteca 7",
+        "url": "https://fltvhd.com/canales.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7 | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7 | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://fltvhd.com/canales.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Juárez vs Puebla"
   }
 ]
