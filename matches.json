@@ -1,30 +1,15 @@
 [
   {
-    "hora_utc": "2026-07-17T12:55:00Z",
-    "hora_fin_utc": "2026-07-17T15:15:00Z",
+    "hora_utc": "2026-07-17T14:30:00Z",
+    "hora_fin_utc": "2026-07-17T16:50:00Z",
     "liga": "Deportes",
-    "equipos": "f3 spa-francorchamps clasificacion",
+    "equipos": "ciclismo tour de france etapa 13",
     "logo": "img/default.png",
     "sport": "deportes",
     "canales": [
       {
-        "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T13:40:00Z",
-    "hora_fin_utc": "2026-07-17T16:00:00Z",
-    "liga": "Formula 2",
-    "equipos": "f2 belgium - qualifying",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 3 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "nombre": "ESPN 2 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
         "calidad": "HD"
       }
     ]

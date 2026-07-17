@@ -1,60 +1,34 @@
 [
   {
-    "hora_utc": "2026-07-17T12:55:00Z",
+    "hora_utc": "2026-07-17T14:30:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
-    "equipos": "f3 spa-francorchamps clasificacion",
+    "equipos": "ciclismo tour de france etapa 13",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "nombre": "ESPN 2 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "F3 Spa-Francorchamps – Clasificación"
-  },
-  {
-    "hora_utc": "2026-07-17T13:40:00Z",
-    "logo": "img/default.png",
-    "liga": "Formula 2",
-    "equipos": "f2 belgium - qualifying",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F2 Belgium - Qualifying"
+    "equipos_original": "Ciclismo – Tour de France – Etapa #13"
   },
   {
     "hora_utc": "2026-07-17T16:30:00Z",
