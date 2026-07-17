@@ -1,31 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T10:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 13",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #13"
-  },
-  {
     "hora_utc": "2026-07-17T12:55:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -58,6 +32,11 @@
     "equipos": "f2 belgium - qualifying",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "ESPN 3 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN 3",
         "url": "https://fltvhd.com/online/canal.php?stream=even7",
@@ -110,11 +89,32 @@
   },
   {
     "hora_utc": "2026-07-17T18:00:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "albion vs juventud",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Albion vs Juventud"
+  },
+  {
+    "hora_utc": "2026-07-17T18:00:00Z",
     "logo": "img/default.png",
     "liga": "Liga 1",
     "equipos": "fc cajamarca vs juan pablo ii college",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
       {
         "nombre": "Liga1MAX",
         "url": "https://fltvhd.com/canales.php?stream=liga1max",
@@ -135,28 +135,17 @@
     "equipos_original": "FC Cajamarca vs Juan Pablo II College"
   },
   {
-    "hora_utc": "2026-07-17T18:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "albion vs juventud",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Albion vs Juventud"
-  },
-  {
     "hora_utc": "2026-07-17T20:15:00Z",
     "logo": "img/pe.png",
     "liga": "Liga1",
     "equipos": "sporting cristal vs deportivo garcilaso",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
       {
         "nombre": "Liga1MAX",
         "url": "https://fltvhd.com/canales.php?stream=liga1max",
@@ -184,13 +173,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "TYC Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tycsports",
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
         "calidad": "HD"
       },
       {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "nombre": "TYC Sports",
+        "url": "https://fltvhd.com/canales.php?stream=tycsports",
         "calidad": "HD"
       },
       {
@@ -215,8 +204,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "nombre": "Premiere 4 BR | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=premiere4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere 4 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere4",
         "calidad": "HD"
       }
     ],
@@ -247,8 +241,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "nombre": "Premiere 2 BR | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=premiere2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere 2 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere2",
         "calidad": "HD"
       }
     ],
@@ -300,6 +299,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN 5 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN 5",
         "url": "https://fltvhd.com/canales.php?stream=espn5",
         "calidad": "HD"
@@ -312,11 +316,6 @@
       {
         "nombre": "ESPN 5 | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=espn5",
         "calidad": "HD"
       }
     ],
@@ -331,13 +330,39 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "nombre": "Premiere 3 BR | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=premiere3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere 3 BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere3",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "Mirassol vs Grêmio"
+  },
+  {
+    "hora_utc": "2026-07-18T00:00:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "delfin vs macara",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Delfin vs Macará"
   },
   {
     "hora_utc": "2026-07-18T00:00:00Z",
@@ -357,27 +382,16 @@
   },
   {
     "hora_utc": "2026-07-18T00:00:00Z",
-    "logo": "img/ec.png",
-    "liga": "Liga Pro",
-    "equipos": "delfin vs macara",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Delfin vs Macará"
-  },
-  {
-    "hora_utc": "2026-07-18T00:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
     "equipos": "espn knockout a confirmar",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "ESPN 2 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN 2",
         "url": "https://fltvhd.com/online/canal.php?stream=even6",
@@ -405,6 +419,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "FOX Deportes | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "FOX Deportes",
         "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
         "calidad": "HD"
@@ -431,6 +450,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TYC Sports",
         "url": "https://fltvhd.com/canales.php?stream=tycsports",
         "calidad": "HD"
@@ -444,11 +468,6 @@
         "nombre": "TYC Sports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
         "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
@@ -461,6 +480,11 @@
     "equipos": "cienciano vs melgar",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
       {
         "nombre": "Liga1MAX",
         "url": "https://fltvhd.com/canales.php?stream=liga1max",
@@ -488,6 +512,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN MX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN MX",
         "url": "https://fltvhd.com/canales.php?stream=espnmx",
         "calidad": "HD"
@@ -513,6 +542,11 @@
     "equipos": "leon vs atlas",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "TUDN USA | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
       {
         "nombre": "TUDN USA",
         "url": "https://fltvhd.com/canales.php?stream=tudn",
@@ -540,6 +574,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "FOX Deportes | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "FOX Deportes",
         "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
         "calidad": "HD"
@@ -566,6 +605,16 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Azteca 7 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Azteca 7",
         "url": "https://fltvhd.com/canales.php?stream=azteca7",
         "calidad": "HD"
@@ -581,18 +630,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Azteca 7 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Universo",
         "url": "https://fltvhd.com/canales.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=universo",
         "calidad": "HD"
       }
     ],
