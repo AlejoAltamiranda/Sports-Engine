@@ -1,20 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T08:50:00Z",
-    "hora_fin_utc": "2026-07-17T11:10:00Z",
-    "liga": "Formula 2",
-    "equipos": "f2 belgium - practice 2",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-17T10:30:00Z",
     "hora_fin_utc": "2026-07-17T12:50:00Z",
     "liga": "Deportes",
@@ -68,7 +53,7 @@
     "sport": "deportes",
     "canales": [
       {
-        "nombre": "ESPN 2",
+        "nombre": "ESPN 2 | HD",
         "url": "https://fltvhd.com/online/canal.php?stream=even6",
         "calidad": "HD"
       }
@@ -153,6 +138,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "TYC Sports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "TyC Sports | OP2",
         "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
         "calidad": "HD"
@@ -160,11 +150,6 @@
       {
         "nombre": "TYC Sports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
         "calidad": "HD"
       }
     ]
