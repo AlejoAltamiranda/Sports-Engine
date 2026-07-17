@@ -1,36 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T14:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclismo tour de france etapa 13",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ciclismo – Tour de France – Etapa #13"
-  },
-  {
     "hora_utc": "2026-07-17T16:30:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -237,7 +206,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "url": "https://fltvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ],
