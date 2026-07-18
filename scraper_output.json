@@ -1,141 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T20:15:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "sporting cristal vs deportivo garcilaso",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://fltvhd.com/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Sporting Cristal vs Deportivo Garcilaso"
-  },
-  {
-    "hora_utc": "2026-07-17T21:45:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "san lorenzo vs deportivo riestra",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "San Lorenzo vs Deportivo Riestra"
-  },
-  {
-    "hora_utc": "2026-07-17T22:00:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasileirao Serie B",
-    "equipos": "sao bernardo vs avai",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere 4 BR | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=premiere4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere 4 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "São Bernardo vs Avaí"
-  },
-  {
-    "hora_utc": "2026-07-17T22:00:00Z",
-    "logo": "img/br.png",
-    "liga": "Serie B",
-    "equipos": "america mineiro vs ceara",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "América Mineiro vs Ceará"
-  },
-  {
-    "hora_utc": "2026-07-17T22:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "bahia vs chapecoense",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=premiere2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Bahia vs Chapecoense"
-  },
-  {
-    "hora_utc": "2026-07-17T22:30:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "nacional vs wanderers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Nacional vs Wanderers"
-  },
-  {
     "hora_utc": "2026-07-17T23:00:00Z",
     "logo": "img/br.png",
     "liga": "Brasilerao",
@@ -207,6 +71,27 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Mirassol vs Grêmio"
+  },
+  {
+    "hora_utc": "2026-07-17T23:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Partido Amistoso Internacional",
+    "equipos": "flamengo vs olimpia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=premiere1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Flamengo vs Olimpia"
   },
   {
     "hora_utc": "2026-07-18T00:00:00Z",
@@ -395,6 +280,11 @@
         "nombre": "ESPN MX | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=espnmx",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
@@ -470,13 +360,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Azteca 7 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
+        "nombre": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
-        "nombre": "Universo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=universo",
+        "nombre": "Universo",
+        "url": "https://fltvhd.com/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
@@ -490,13 +380,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Azteca 7 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=azteca7",
+        "nombre": "Azteca 7 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
         "calidad": "HD"
       },
       {
-        "nombre": "Universo",
-        "url": "https://fltvhd.com/canales.php?stream=universo",
+        "nombre": "Azteca 7 | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=azteca7",
         "calidad": "HD"
       }
     ],

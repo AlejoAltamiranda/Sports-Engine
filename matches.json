@@ -1,135 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-17T20:15:00Z",
-    "hora_fin_utc": "2026-07-17T22:35:00Z",
-    "liga": "Liga1",
-    "equipos": "Deportivo Garcilaso vs Sporting Cristal",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1MAX | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://fltvhd.com/canales.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T21:45:00Z",
-    "hora_fin_utc": "2026-07-18T00:05:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Deportivo Riestra vs San Lorenzo",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TYC Sports | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports",
-        "url": "https://fltvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=tycsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T22:00:00Z",
-    "hora_fin_utc": "2026-07-18T00:20:00Z",
-    "liga": "Brasileirao Serie B",
-    "equipos": "Avaí vs Sao Bernardo",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere 4 BR | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=premiere4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere 4 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T22:00:00Z",
-    "hora_fin_utc": "2026-07-18T00:20:00Z",
-    "liga": "Serie B",
-    "equipos": "america mineiro vs Ceará",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T22:30:00Z",
-    "hora_fin_utc": "2026-07-18T00:50:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Bahia vs Chapecoense",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=premiere2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://fltvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-17T22:30:00Z",
-    "hora_fin_utc": "2026-07-18T00:50:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Montevideo Wanderers vs Nacional",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-17T23:00:00Z",
     "hora_fin_utc": "2026-07-18T01:20:00Z",
     "liga": "Brasilerao",
@@ -195,6 +65,26 @@
       {
         "nombre": "Premiere 3 BR ",
         "url": "https://fltvhd.com/canales.php?stream=premiere3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-07-17T23:00:00Z",
+    "hora_fin_utc": "2026-07-18T01:20:00Z",
+    "liga": "Partido Amistoso Internacional",
+    "equipos": "Club Olimpia vs Flamengo",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere BR | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=premiere1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://fltvhd.com/canales.php?stream=premiere1",
         "calidad": "HD"
       }
     ]
@@ -366,6 +256,11 @@
         "nombre": "ESPN MX | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=espnmx",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
+        "calidad": "HD"
       }
     ]
   },
@@ -438,13 +333,13 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Azteca 7 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
+        "nombre": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
-        "nombre": "Universo | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=universo",
+        "nombre": "Universo",
+        "url": "https://fltvhd.com/canales.php?stream=universo",
         "calidad": "HD"
       },
       {
@@ -458,13 +353,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Azteca 7 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=azteca7",
+        "nombre": "Azteca 7 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
         "calidad": "HD"
       },
       {
-        "nombre": "Universo",
-        "url": "https://fltvhd.com/canales.php?stream=universo",
+        "nombre": "Azteca 7 | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=azteca7",
         "calidad": "HD"
       }
     ]
