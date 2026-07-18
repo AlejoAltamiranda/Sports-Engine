@@ -1,5 +1,67 @@
 [
   {
+    "hora_utc": "2026-07-18T12:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Formula 2",
+    "equipos": "f2 belgium - sprint",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://fltvhd.com/online/canal.php?stream=even8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=even8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "F2 Belgium - Sprint"
+  },
+  {
+    "hora_utc": "2026-07-18T14:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "premier padel malaga semifinales masculinas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Premier Padel Málaga – Semifinales Masculinas"
+  },
+  {
     "hora_utc": "2026-07-18T14:00:00Z",
     "logo": "img/default.png",
     "liga": "Segunda División",
@@ -24,7 +86,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "url": "https://fltvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ],
@@ -71,7 +133,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "url": "https://fltvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       }
     ],
@@ -111,6 +173,37 @@
   },
   {
     "hora_utc": "2026-07-18T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "espn knockout harlem eubank vs david papot",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ESPN Knockout – Harlem Eubank vs David Papot"
+  },
+  {
+    "hora_utc": "2026-07-18T19:00:00Z",
     "logo": "img/uy.png",
     "liga": "Liga AUF Uruguaya",
     "equipos": "penarol vs boston river",
@@ -118,7 +211,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "url": "https://fltvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ],
@@ -171,7 +264,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "url": "https://fltvhd.com/canales.php?stream=disney5",
         "calidad": "HD"
       }
     ],
@@ -213,7 +306,7 @@
     "hora_utc": "2026-07-18T21:00:00Z",
     "logo": "img/world_cup.png",
     "liga": "Copa del Mundo",
-    "equipos": "francia vs inglaterra",
+    "equipos": "francia vs inglaterra 3er puesto",
     "status": "pronto",
     "canales": [
       {
@@ -239,6 +332,11 @@
       {
         "nombre": "DSports | OP3",
         "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney6",
         "calidad": "HD"
       },
       {
@@ -278,7 +376,7 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Francia vs Inglaterra"
+    "equipos_original": "Francia vs Inglaterra | 3er. Puesto"
   },
   {
     "hora_utc": "2026-07-18T21:30:00Z",
@@ -412,6 +510,37 @@
     "equipos_original": "Barcelona vs Libertad"
   },
   {
+    "hora_utc": "2026-07-19T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "espn knockout bryan flores vs jonathan navarro",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ESPN Knockout – Bryan Flores vs Jonathan Navarro"
+  },
+  {
     "hora_utc": "2026-07-19T00:30:00Z",
     "logo": "img/bo.png",
     "liga": "Primera División",
@@ -467,6 +596,37 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Monterrey vs Santos Laguna"
+  },
+  {
+    "hora_utc": "2026-07-19T01:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "nba summer league new orleans pelicans vs indiana pacers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3 | HD",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://fltvhd.com/online/canal.php?stream=even7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NBA Summer League – New Orleans Pelicans vs Indiana Pacers"
   },
   {
     "hora_utc": "2026-07-19T01:07:00Z",
