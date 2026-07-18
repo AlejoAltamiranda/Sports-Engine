@@ -1,45 +1,269 @@
 [
   {
-    "hora_utc": "2026-07-18T02:25:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "la galaxy vs los angeles fc",
+    "hora_utc": "2026-07-18T14:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "uruguay montevideo vs river plate",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "FOX Deportes | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://fltvhd.com/canales.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=foxdeportes",
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "LA Galaxy vs Los Angeles FC"
+    "equipos_original": "Uruguay Montevideo vs River Plate"
   },
   {
-    "hora_utc": "2026-07-18T03:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "juarez vs puebla",
+    "hora_utc": "2026-07-18T15:30:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "progreso vs deportivo maldonado",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Progreso vs Deportivo Maldonado"
+  },
+  {
+    "hora_utc": "2026-07-18T16:00:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "deportivo moquegua vs comerciantes unidos",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportivo Moquegua vs Comerciantes Unidos"
+  },
+  {
+    "hora_utc": "2026-07-18T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "rentistas vs cerrito",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Rentistas vs Cerrito"
+  },
+  {
+    "hora_utc": "2026-07-18T18:15:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "adt vs universitario",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ADT vs Universitario"
+  },
+  {
+    "hora_utc": "2026-07-18T19:00:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "penarol vs boston river",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Peñarol vs Boston River"
+  },
+  {
+    "hora_utc": "2026-07-18T19:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "always ready vs universitario de vinto",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Always Ready vs Universitario de Vinto"
+  },
+  {
+    "hora_utc": "2026-07-18T19:00:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "deportivo cuenca vs universidad catolica",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportivo Cuenca vs Universidad Católica"
+  },
+  {
+    "hora_utc": "2026-07-18T20:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso Internacional",
+    "equipos": "millonarios vs colo-colo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Millonarios vs Colo-Colo"
+  },
+  {
+    "hora_utc": "2026-07-18T20:30:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "atletico grau vs utc cajamarca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Grau vs UTC Cajamarca"
+  },
+  {
+    "hora_utc": "2026-07-18T21:00:00Z",
+    "logo": "img/world_cup.png",
+    "liga": "Copa del Mundo",
+    "equipos": "francia vs inglaterra",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports HD1",
+        "url": "https://tvhd1.com/canales/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports",
+        "url": "https://fltvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV",
+        "url": "https://fltvhd.com/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Caracol TV  | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=caracol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Universo | HD",
         "url": "https://fltvhd.com/online/canales.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://fltvhd.com/canales.php?stream=telemundo",
         "calidad": "HD"
       },
       {
@@ -48,27 +272,267 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Azteca 7",
-        "url": "https://fltvhd.com/canales.php?stream=azteca7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7 | OP2",
-        "url": "https://fltvhd.com/vivo/canal.php?stream=azteca7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=azteca7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Azteca 7 | OP3",
-        "url": "https://fltvhd.com/vivo/canales.php?stream=azteca7",
+        "nombre": "Deportes TV. C",
+        "url": "https://fltvhd.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Juárez vs Puebla"
+    "equipos_original": "Francia vs Inglaterra"
+  },
+  {
+    "hora_utc": "2026-07-18T21:30:00Z",
+    "logo": "img/ec.png",
+    "liga": "Liga Pro",
+    "equipos": "ldu quito vs leones del norte",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "LDU Quito vs Leones del Norte"
+  },
+  {
+    "hora_utc": "2026-07-18T22:00:00Z",
+    "logo": "🏆",
+    "liga": "Evento Deportivo",
+    "equipos": "copa de la liga",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://fltvhd.com/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premiun CL OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Copa de la Liga:"
+  },
+  {
+    "hora_utc": "2026-07-18T22:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "oriental vs huracan",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://fltvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Oriental vs Huracán"
+  },
+  {
+    "hora_utc": "2026-07-18T23:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "pumas unam vs pachuca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Pumas UNAM vs Pachuca"
+  },
+  {
+    "hora_utc": "2026-07-18T23:30:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "cusco vs alianza atletico",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://fltvhd.com/canales.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://fltvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cusco vs Alianza Atlético"
+  },
+  {
+    "hora_utc": "2026-07-19T00:00:00Z",
+    "logo": "img/it.png",
+    "liga": "Serie A",
+    "equipos": "barcelona vs libertad",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ECDF LigaPRO | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ECDF LigaPro",
+        "url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Barcelona vs Libertad"
+  },
+  {
+    "hora_utc": "2026-07-19T00:30:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "aurora vs oriente petrolero",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Entel TV PLUS+",
+        "url": "https://fltvhd.com/online/canales.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Aurora vs Oriente Petrolero"
+  },
+  {
+    "hora_utc": "2026-07-19T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "monterrey vs santos laguna",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TUDN USA | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://fltvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://fltvhd.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision",
+        "url": "https://fltvhd.com/canales.php?stream=univision",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Monterrey vs Santos Laguna"
+  },
+  {
+    "hora_utc": "2026-07-19T01:07:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "guadalajara vs toluca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Telemundo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://fltvhd.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://fltvhd.com/canales.php?stream=universo",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Guadalajara vs Toluca"
+  },
+  {
+    "hora_utc": "2026-07-19T03:10:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "queretaro vs america",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TUDN USA | HD",
+        "url": "https://fltvhd.com/online/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://fltvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://fltvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvhd2.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision",
+        "url": "https://fltvhd.com/canales.php?stream=univision",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Querétaro vs América"
   }
 ]
