@@ -1,50 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-18T14:00:00Z",
-    "hora_fin_utc": "2026-07-18T16:20:00Z",
-    "liga": "Deportes",
-    "equipos": "premier padel malaga semifinales masculinas",
-    "logo": "img/default.png",
-    "sport": "deportes",
-    "canales": [
-      {
-        "nombre": "ESPN 3 | HD",
-        "url": "https://fltvhd.com/online/canal.php?stream=even7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-18T14:00:00Z",
-    "hora_fin_utc": "2026-07-18T16:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "River Plate vs uruguay montevideo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-07-18T15:30:00Z",
-    "hora_fin_utc": "2026-07-18T17:50:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "CA Progreso vs Deportivo Maldonado",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://fltvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-07-18T16:00:00Z",
     "hora_fin_utc": "2026-07-18T18:20:00Z",
     "liga": "Liga1",
