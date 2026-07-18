@@ -1,36 +1,5 @@
 [
   {
-    "hora_utc": "2026-07-18T12:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Formula 2",
-    "equipos": "f2 belgium - sprint",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://fltvhd.com/online/canal.php?stream=even8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | HD",
-        "url": "https://fltvhd.com/online/canales.php?stream=even8",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "F2 Belgium - Sprint"
-  },
-  {
     "hora_utc": "2026-07-18T14:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
