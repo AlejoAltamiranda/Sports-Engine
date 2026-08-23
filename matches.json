@@ -285,6 +285,36 @@
     ]
   },
   {
+    "hora_utc": "2026-08-22T15:00:00Z",
+    "hora_fin_utc": "2026-08-22T17:20:00Z",
+    "liga": "LaLiga",
+    "equipos": "Athletic Club vs Sevilla",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/athletic-bilbao-vs-sevilla-2506180",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-22T15:15:00Z",
+    "hora_fin_utc": "2026-08-22T17:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "AJ Auxerre vs RC Lens",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/lens-vs-auxerre-2489469",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-08-22T15:45:00Z",
     "hora_fin_utc": "2026-08-22T18:05:00Z",
     "liga": "Saudi Pro League",
@@ -810,21 +840,6 @@
     ]
   },
   {
-    "hora_utc": "2026-08-22T23:00:00Z",
-    "hora_fin_utc": "2026-08-23T02:15:00Z",
-    "liga": "WNBA",
-    "equipos": "indiana fever vs new york liberty",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-york-liberty-vs-indiana-fever-2449184",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-08-22T23:05:00Z",
     "hora_fin_utc": "2026-08-23T02:20:00Z",
     "liga": "MLB",
@@ -855,51 +870,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/baltimore-orioles-vs-tampa-bay-rays-2388842",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:07:00Z",
-    "hora_fin_utc": "2026-08-23T01:27:00Z",
-    "liga": "Liga MX",
-    "equipos": "Chivas Guadalajara vs Club Tijuana",
-    "logo": "img/mx.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:10:00Z",
-    "hora_fin_utc": "2026-08-23T01:30:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "América de Cali vs Independiente Santa Fe",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
         "calidad": "HD"
       }
     ]
