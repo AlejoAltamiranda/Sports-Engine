@@ -51,74 +51,6 @@
     "hora_utc": "2026-08-23T13:00:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
-    "equipos": "manchester city vs afc bournemouth",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Manchester City vs AFC Bournemouth"
-  },
-  {
-    "hora_utc": "2026-08-23T13:00:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
-    "equipos": "brighton amp hove albion vs aston villa",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Brighton &amp; Hove Albion vs Aston Villa"
-  },
-  {
-    "hora_utc": "2026-08-23T13:00:00Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
-    "equipos": "angers sco vs lille",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Angers SCO vs Lille"
-  },
-  {
-    "hora_utc": "2026-08-23T13:00:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
     "equipos": "bournemouth vs manchester city",
     "status": "8 minutes from now",
     "canales": [
@@ -180,38 +112,6 @@
     "equipos_original": "Dutch Grand Prix"
   },
   {
-    "hora_utc": "2026-08-23T14:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "danubio vs racing",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Danubio vs Racing"
-  },
-  {
-    "hora_utc": "2026-08-23T14:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "la luz vs oriental",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "La Luz vs Oriental"
-  },
-  {
     "hora_utc": "2026-08-23T14:30:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
@@ -229,80 +129,34 @@
   },
   {
     "hora_utc": "2026-08-23T14:45:00Z",
-    "logo": "img/nl.png",
-    "liga": "Eredivisie",
+    "logo": "img/default.png",
+    "liga": "Fútbol",
     "equipos": "cambuur vs feyenoord",
-    "status": "pronto",
+    "status": "1 hour from now",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/cambuur-vs-feyenoord-2489090",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "github_all",
     "equipos_original": "Cambuur vs Feyenoord"
-  },
-  {
-    "hora_utc": "2026-08-23T15:00:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga 2",
-    "equipos": "eibar vs real valladolid",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Eibar vs Real Valladolid"
   },
   {
     "hora_utc": "2026-08-23T15:00:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "atletico madrid vs villarreal",
-    "status": "pronto",
+    "status": "2 hours from now",
     "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnplus1",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/atletico-madrid-vs-villarreal-2506179",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "github_all",
     "equipos_original": "Atlético Madrid vs Villarreal"
   },
   {
@@ -310,35 +164,15 @@
     "logo": "img/fr.png",
     "liga": "Ligue 1",
     "equipos": "le havre vs monaco",
-    "status": "pronto",
+    "status": "2 hours from now",
     "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/le-havre-vs-monaco-2489468",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "github_all",
     "equipos_original": "Le Havre vs Monaco"
   },
   {
@@ -413,7 +247,7 @@
     "canales": [
       {
         "nombre": "MAX",
-        "url": "https://la18hd.com/vivo/canal.php?stream=max2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=max2",
         "calidad": "HD"
       }
     ],
@@ -773,27 +607,6 @@
     "equipos_original": "Torque vs Wanderers"
   },
   {
-    "hora_utc": "2026-08-23T18:00:00Z",
-    "logo": "img/tr.png",
-    "liga": "Süper Lig",
-    "equipos": "alanyaspor vs beikta",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Alanyaspor vs Beşiktaş"
-  },
-  {
     "hora_utc": "2026-08-23T18:10:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -842,6 +655,27 @@
     "equipos_original": "Chicago White Sox vs New York Mets"
   },
   {
+    "hora_utc": "2026-08-23T18:30:00Z",
+    "logo": "img/tr.png",
+    "liga": "Süper Lig",
+    "equipos": "alanyaspor vs beikta",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Alanyaspor vs Beşiktaş"
+  },
+  {
     "hora_utc": "2026-08-23T18:35:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -856,32 +690,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Los Angeles Angels vs Texas Rangers"
-  },
-  {
-    "hora_utc": "2026-08-23T18:45:00Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
-    "equipos": "rennes vs psg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Rennes vs PSG"
   },
   {
     "hora_utc": "2026-08-23T18:45:00Z",
@@ -944,6 +752,37 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Torino vs Milan"
+  },
+  {
+    "hora_utc": "2026-08-23T18:45:00Z",
+    "logo": "img/fr.png",
+    "liga": "Ligue 1",
+    "equipos": "rennes vs psg",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN4",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Rennes vs PSG"
   },
   {
     "hora_utc": "2026-08-23T18:45:00Z",
