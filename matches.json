@@ -971,136 +971,6 @@
   },
   {
     "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "Inter Miami vs Toronto FC",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS01ES",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/inter-miami-vs-toronto-fc-2407008",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Cruzeiro vs Flamengo",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Amazon Prime",
-        "url": "https://la18hd.su/vivo/canal.php?stream=amazon_prime1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "CF Montreal vs LA Galaxy",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS02EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls2en",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/cf-montreal-vs-la-galaxy-2407010",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "Charlotte FC vs DC United",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS03EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls3en",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/charlotte-fc-vs-dc-united-2407013",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "FC Cincinnati vs seattle sounders fc",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS04EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls4en",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "Chicago Fire vs new york rb",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS05EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls5en",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
-    "hora_fin_utc": "2026-08-23T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "orlando city sc vs Real Salt Lake",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS06EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls6en",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-22T23:30:00Z",
     "hora_fin_utc": "2026-08-23T02:45:00Z",
     "liga": "NFL",
     "equipos": "kansas city chiefs vs tampa bay buccaneers",
@@ -1118,6 +988,21 @@
     "hora_utc": "2026-08-22T23:30:00Z",
     "hora_fin_utc": "2026-08-23T01:50:00Z",
     "liga": "MLS",
+    "equipos": "Inter Miami vs Toronto FC",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/inter-miami-vs-toronto-fc-2407008",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-22T23:30:00Z",
+    "hora_fin_utc": "2026-08-23T01:50:00Z",
+    "liga": "MLS",
     "equipos": "FC Cincinnati vs Seattle Sounders",
     "logo": "img/usa.png",
     "sport": "football",
@@ -1125,6 +1010,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/fc-cincinnati-vs-seattle-sounders-2407009",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-22T23:30:00Z",
+    "hora_fin_utc": "2026-08-23T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "CF Montreal vs LA Galaxy",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/cf-montreal-vs-la-galaxy-2407010",
         "calidad": "HD"
       }
     ]
@@ -1160,91 +1060,16 @@
     ]
   },
   {
-    "hora_utc": "2026-08-23T00:00:00Z",
-    "hora_fin_utc": "2026-08-23T02:20:00Z",
-    "liga": "Liga1",
-    "equipos": "Cusco FC vs Deportivo Garcilaso",
-    "logo": "img/pe.png",
+    "hora_utc": "2026-08-22T23:30:00Z",
+    "hora_fin_utc": "2026-08-23T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "Charlotte FC vs DC United",
+    "logo": "img/usa.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T00:00:00Z",
-    "hora_fin_utc": "2026-08-23T02:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Banfield vs Newell's Old Boys",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T00:00:00Z",
-    "hora_fin_utc": "2026-08-23T02:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Deportivo Riestra vs Huracán",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T00:00:00Z",
-    "hora_fin_utc": "2026-08-23T02:20:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "Universidad Católica vs Ñublense",
-    "logo": "img/cl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/charlotte-fc-vs-dc-united-2407013",
         "calidad": "HD"
       }
     ]
@@ -1283,35 +1108,10 @@
     "hora_utc": "2026-08-23T00:30:00Z",
     "hora_fin_utc": "2026-08-23T02:50:00Z",
     "liga": "MLS",
-    "equipos": "Austin FC vs Philadelphia Union",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "MLS07EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls7en",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/austin-fc-vs-philadelphia-union-2407015",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T00:30:00Z",
-    "hora_fin_utc": "2026-08-23T02:50:00Z",
-    "liga": "MLS",
     "equipos": "Columbus Crew vs Nashville SC",
     "logo": "img/usa.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "MLS08EN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls8en",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/nashville-sc-vs-columbus-crew-2407014",
@@ -1375,6 +1175,21 @@
       {
         "nombre": "ESPN MX MOVIL",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-23T01:00:00Z",
+    "hora_fin_utc": "2026-08-23T03:20:00Z",
+    "liga": "MLS",
+    "equipos": "Austin FC vs Philadelphia Union",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/austin-fc-vs-philadelphia-union-2407015",
         "calidad": "HD"
       }
     ]
@@ -1550,6 +1365,26 @@
       {
         "nombre": "Canal 5 MX",
         "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-23T04:00:00Z",
+    "hora_fin_utc": "2026-08-23T09:00:00Z",
+    "liga": "UFC",
+    "equipos": "anthony hernandez vs gregory rodriguez",
+    "logo": "img/ufc.png",
+    "sport": "ufc",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
         "calidad": "HD"
       }
     ]
