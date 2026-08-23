@@ -17,16 +17,11 @@
   {
     "hora_utc": "2026-08-23T11:00:00Z",
     "hora_fin_utc": "2026-08-23T13:20:00Z",
-    "liga": "Championship",
+    "liga": "Fútbol",
     "equipos": "Burnley vs West Bromwich Albion",
-    "logo": "img/en.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/west-bromwich-albion-vs-burnley-2501266",
@@ -42,26 +37,6 @@
     "logo": "img/nl.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/psv-eindhoven-vs-groningen-2489089",
@@ -242,6 +217,21 @@
   {
     "hora_utc": "2026-08-23T15:00:00Z",
     "hora_fin_utc": "2026-08-23T17:20:00Z",
+    "liga": "LaLiga 2",
+    "equipos": "eibar vs real valladolid",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-23T15:00:00Z",
+    "hora_fin_utc": "2026-08-23T17:20:00Z",
     "liga": "LaLiga",
     "equipos": "Atlético de Madrid vs Villarreal",
     "logo": "img/es.png",
@@ -268,11 +258,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Espn+",
         "url": "https://la18hd.su/vivo/canal.php?stream=espnplus1",
         "calidad": "HD"
@@ -280,21 +265,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/atletico-madrid-vs-villarreal-2506179",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T15:00:00Z",
-    "hora_fin_utc": "2026-08-23T17:20:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "eibar vs real valladolid",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
         "calidad": "HD"
       }
     ]
@@ -350,6 +320,11 @@
       {
         "nombre": "Telemundo",
         "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "MAX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
         "calidad": "HD"
       },
       {
