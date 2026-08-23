@@ -775,21 +775,6 @@
     ]
   },
   {
-    "hora_utc": "2026-08-22T21:30:00Z",
-    "hora_fin_utc": "2026-08-23T02:30:00Z",
-    "liga": "UFC",
-    "equipos": "pfl tampa cyborg vs vieira",
-    "logo": "img/ufc.png",
-    "sport": "ufc",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/pfl-tampa-cyborg-vs-vieira-2514738",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-08-22T22:05:00Z",
     "hora_fin_utc": "2026-08-23T01:20:00Z",
     "liga": "MLB",
@@ -835,6 +820,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/new-england-patriots-vs-philadelphia-eagles-2475360",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-22T23:00:00Z",
+    "hora_fin_utc": "2026-08-23T02:15:00Z",
+    "liga": "WNBA",
+    "equipos": "indiana fever vs new york liberty",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-york-liberty-vs-indiana-fever-2449184",
         "calidad": "HD"
       }
     ]
@@ -1205,21 +1205,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/vancouver-whitecaps-vs-fc-dallas-2407017",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T02:00:00Z",
-    "hora_fin_utc": "2026-08-23T05:15:00Z",
-    "liga": "NFL",
-    "equipos": "arizona cardinals vs dallas cowboys",
-    "logo": "img/nfl.png",
-    "sport": "nfl",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/arizona-cardinals-vs-dallas-cowboys-2480390",
         "calidad": "HD"
       }
     ]
