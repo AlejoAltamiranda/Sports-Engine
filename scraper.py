@@ -9,10 +9,8 @@ from collections import defaultdict
 # CONFIGURACIÓN GLOBAL
 # ============================================
 SOURCES = {
-    'pltvhd':  'https://pltvhd.com/diaries.json',
-    'github':  'https://raw.githubusercontent.com/AlejoAltamiranda/stream/refs/heads/main/events.json',
-    'github2': 'https://raw.githubusercontent.com/AlejoAltamiranda/sports-stream-finder/refs/heads/main/events_clean.json',
-    'eventos': 'https://streamtpday1.xyz/eventos.json'
+    'pltvhd': 'https://agenda18.com/agenda.json?v=1.1',
+    'github_all': 'https://raw.githubusercontent.com/AlejoAltamiranda/sports-stream-finder/refs/heads/main/all_events.json'
 }
 OUTPUT_FILE = 'scraper_output.json'
 
@@ -510,133 +508,46 @@ def get_logo(liga, country_from_source=None):
 
 def fetch_json(url):
     try:
-        with urllib.request.urlopen(url, timeout=15) as response:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'application/json, text/plain, */*',
+        }
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as response:
             return json.loads(response.read().decode('utf-8'))
     except Exception as e:
         print(f"  ⚠️ Error en {url}: {e}")
         return None
 
 # ============================================
-# PROCESADORES DE CADA FUENTE
+# PROCESADOR DE AGENDA18
 # ============================================
 
-def process_github_source(data):
-    matches = []
-    if not data:
-        return matches
-    
-    if isinstance(data, list):
-        for event in data:
-            if 'title' not in event:
-                continue
-            equipos = event['title']
-            liga = event.get('category', 'MLB')
-            
-            equipos = limpiar_saltos_linea(equipos)
-            liga = limpiar_saltos_linea(liga)
-            
-            liga_nueva, sport, nombre_normalizado = detectar_evento_motor(equipos, liga)
-            if nombre_normalizado:
-                equipos = nombre_normalizado
-                liga = liga_nueva
-            else:
-                liga_detectada = detectar_liga_por_equipo(equipos, liga)
-                if liga_detectada != liga:
-                    print(f"  🔍 Liga corregida: {liga} → {liga_detectada} ({equipos[:50]})")
-                    liga = liga_detectada
-            
-            hora_raw = event.get('time', '')
-            if hora_raw:
-                hora_utc = hora_raw.replace(' UTC', 'Z').replace(' ', 'T')
-            else:
-                hora_utc = ''
-            
-            logo = get_logo(liga)
-            matches.append({
-                'hora_utc': hora_utc,
-                'logo': logo,
-                'liga': liga,
-                'equipos': equipos,
-                'status': 'pronto',
-                'canales': [{'nombre': event.get('channel', 'Canal'), 'url': event.get('link', ''), 'calidad': 'HD'}],
-                'fuente': 'github'
-            })
-        return matches
-    
-    if 'events' in data:
-        for event in data['events']:
-            if 'title' not in event:
-                continue
-            equipos = event['title']
-            liga = event.get('category', 'MLB')
-            
-            equipos = limpiar_saltos_linea(equipos)
-            liga = limpiar_saltos_linea(liga)
-            
-            liga_nueva, sport, nombre_normalizado = detectar_evento_motor(equipos, liga)
-            if nombre_normalizado:
-                equipos = nombre_normalizado
-                liga = liga_nueva
-            else:
-                liga_detectada = detectar_liga_por_equipo(equipos, liga)
-                if liga_detectada != liga:
-                    print(f"  🔍 Liga corregida: {liga} → {liga_detectada} ({equipos[:50]})")
-                    liga = liga_detectada
-            
-            hora_raw = event.get('time_utc', '')
-            hora_utc = procesar_hora_segun_fuente(hora_raw, 'github')
-            logo = get_logo(liga)
-            matches.append({
-                'hora_utc': hora_utc,
-                'logo': logo,
-                'liga': liga,
-                'equipos': equipos,
-                'status': 'pronto',
-                'canales': [{'nombre': event.get('channel', 'Canal'), 'url': event.get('link', ''), 'calidad': 'HD'}],
-                'fuente': 'github'
-            })
-    
-    return matches
-
 def process_pltvhd_source(data):
-    """Procesador para PLTVHD con filtro de Rugby y decodificación de URLs"""
+    """Procesador para agenda18.com con decodificación de URLs"""
     matches = []
     if not data:
         return matches
     
-    PALABRAS_RUGBY = [
-        'rugby', 'rugbi', 'six nations', 'seis naciones', 'super rugby',
-        'top 14', 'premiership rugby', 'champions cup', 'challenge cup',
-        'uruguay rugby', 'chile rugby', 'argentina rugby', 'brasil rugby',
-        'rugby championship', 'the rugby championship', 'CFL', 'test match'
-    ]
-    
-    today = datetime.now()
     events_list = data.get('data', []) if isinstance(data, dict) else []
-    eventos_filtrados = 0
     
     for item in events_list:
         attrs = item.get('attributes', {})
         diary_description = attrs.get('diary_description', '')
+        date_diary = attrs.get('date_diary', '')
+        diary_hour = attrs.get('diary_hour', '')
         
+        # Limpiar saltos de línea
         diary_description = limpiar_saltos_linea(diary_description)
         
-        desc_lower = diary_description.lower()
-        es_rugby = False
-        for palabra in PALABRAS_RUGBY:
-            if palabra in desc_lower:
-                es_rugby = True
-                eventos_filtrados += 1
-                print(f"  🏉 Filtrado Rugby: {diary_description[:60]}...")
-                break
-        if es_rugby:
-            continue
-        
+        # --- Extraer Liga y Equipos ---
         liga = ''
         equipos = ''
         
         if ': ' in diary_description:
             liga, equipos = diary_description.split(': ', 1)
+            liga = liga.strip()
+            equipos = equipos.strip()
         else:
             equipos = diary_description
             texto_inferior = diary_description.lower()
@@ -665,26 +576,29 @@ def process_pltvhd_source(data):
         liga = limpiar_saltos_linea(liga)
         equipos = limpiar_saltos_linea(equipos)
         
+        # 🔥 DETECTAR Y NORMALIZAR F1
         liga_nueva, sport, nombre_normalizado = detectar_evento_motor(equipos, liga)
         if nombre_normalizado:
             equipos = nombre_normalizado
             liga = liga_nueva
-            print(f"  🏎️ F1 normalizado: {nombre_normalizado}")
         else:
             if liga not in ['NBA', 'WNBA', 'MLB', 'NFL', 'NHL', 'WWE', 'UFC', 'Boxeo', 'Formula 1', 'F1', 'Formula 2', 'F2']:
                 liga_detectada = detectar_liga_por_equipo(equipos, liga)
                 if liga_detectada != liga:
-                    print(f"  🔍 Liga corregida: {liga} → {liga_detectada} ({equipos[:50]})")
                     liga = liga_detectada
         
-        date_diary = attrs.get('date_diary', '')
-        diary_hour = attrs.get('diary_hour', '')
+        # --- Procesar Hora ---
+        hora_utc = None
         if date_diary and diary_hour:
-            hora_local = f"{date_diary} {diary_hour[:5]}"
-        else:
-            hora_local = ''
-        hora_utc = procesar_hora_segun_fuente(hora_local, 'pltvhd', today)
+            try:
+                hora_local = f"{date_diary} {diary_hour[:5]}"
+                dt = datetime.strptime(hora_local, '%Y-%m-%d %H:%M')
+                utc_dt = dt + timedelta(hours=5)
+                hora_utc = utc_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+            except:
+                hora_utc = None
         
+        # --- Procesar Canales ---
         canales = []
         embeds = attrs.get('embeds', {})
         embeds_data = embeds.get('data', []) if isinstance(embeds, dict) else []
@@ -696,7 +610,7 @@ def process_pltvhd_source(data):
             
             if embed_iframe:
                 if embed_iframe.startswith('/'):
-                    full_url = f"https://pltvhd.com{embed_iframe}"
+                    full_url = f"https://agenda18.com{embed_iframe}"
                 else:
                     full_url = embed_iframe
                 real_url = decodificar_url_embed(full_url)
@@ -706,19 +620,6 @@ def process_pltvhd_source(data):
                         'url': real_url,
                         'calidad': 'HD'
                     })
-        
-        if not canales:
-            channels = attrs.get('channels', {})
-            channels_data = channels.get('data', []) if isinstance(channels, dict) else []
-            for channel in channels_data:
-                channel_attrs = channel.get('attributes', {})
-                channel_name = channel_attrs.get('channel_name', 'Canal')
-                channel_url = channel_attrs.get('channel_url', '')
-                canales.append({
-                    'nombre': channel_name,
-                    'url': channel_url,
-                    'calidad': 'HD'
-                })
         
         if not canales:
             canales = [{'nombre': 'Canal 1', 'url': '#', 'calidad': 'HD'}]
@@ -735,58 +636,57 @@ def process_pltvhd_source(data):
             'fuente': 'pltvhd'
         })
     
-    if eventos_filtrados > 0:
-        print(f"  🏉 TOTAL: {eventos_filtrados} eventos de Rugby filtrados y descartados")
-    
     return matches
 
-def process_eventos_source(data):
-    """Procesador para la nueva fuente de eventos (lista de eventos)"""
+# ============================================
+# PROCESADOR DE GITHUB ALL_EVENTS
+# ============================================
+
+def process_github_all_source(data):
+    """Procesador para all_events.json de GitHub"""
     matches = []
     if not data:
         return matches
     
-    # La nueva estructura es una lista directamente
-    if not isinstance(data, list):
-        print("  ⚠️ Formato de datos no esperado (se esperaba lista)")
-        return matches
+    events = data.get('events', [])
     
-    for event in data:
+    for event in events:
         title = event.get('title', '')
-        time_str = event.get('time', '')
-        category = event.get('category', 'Deportes')
+        datetime_str = event.get('datetime', '')
+        league = event.get('league', 'Deportes')
         status = event.get('status', 'pronto')
-        link = event.get('link', '')
-        language = event.get('language', '')
+        event_url = event.get('event_url', '')
         
-        if not title or not link:
+        if not title or not event_url:
             continue
         
         # Limpiar título
         title = limpiar_saltos_linea(title)
-        category = limpiar_saltos_linea(category)
+        league = limpiar_saltos_linea(league)
         
-        # Intentar extraer liga y equipos del título
-        # Ejemplo: "Copa Mundial de la FIFA: Noruega vs Senegal"
-        liga = ''
+        # Extraer equipos del título (asumiendo formato "Equipo1 vs Equipo2")
         equipos = title
+        liga = league
         
-        if ': ' in title:
-            liga, equipos = title.split(': ', 1)
-            liga = liga.strip()
-            equipos = equipos.strip()
-        else:
-            # Si no tiene ":", intentar detectar liga por palabras clave
-            liga = category if category and category != 'Other' else 'Evento Deportivo'
-        
-        # Si la liga es "Other", usar un nombre genérico
-        if liga == 'Other' or not liga:
-            liga = 'Evento Deportivo'
+        # Si la liga es "Soccer", "Formula 1", etc. se mantiene
+        if liga == 'Soccer':
+            liga = 'Fútbol'
         
         # Procesar hora
         hora_utc = None
-        if time_str:
-            hora_utc = procesar_hora_eventos(time_str)
+        if datetime_str:
+            try:
+                # Parsear formato: "Saturday, Aug 22, 2026, 7:30 AM ET"
+                # Quitar día de semana y ET
+                hora_limpia = re.sub(r'^[A-Za-z]+, ', '', datetime_str)
+                hora_limpia = re.sub(r'\s*ET$', '', hora_limpia)
+                # Parsear
+                dt = datetime.strptime(hora_limpia, '%b %d, %Y, %I:%M %p')
+                # Asumir ET (UTC-4) y convertir a UTC
+                utc_dt = dt + timedelta(hours=4)
+                hora_utc = utc_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+            except:
+                hora_utc = None
         
         # Normalizar equipos (si hay "vs")
         if ' vs ' in equipos:
@@ -794,15 +694,17 @@ def process_eventos_source(data):
             if len(partes) == 2:
                 eq1 = partes[0].strip()
                 eq2 = partes[1].strip()
-                # Intentar detectar liga por equipos (solo para fútbol)
-                liga_detectada = detectar_liga_por_equipo(equipos, liga)
-                if liga_detectada != liga:
-                    liga = liga_detectada
                 # Ordenar alfabéticamente
                 if eq1.lower() > eq2.lower():
                     equipos = f"{eq2} vs {eq1}"
                 else:
                     equipos = f"{eq1} vs {eq2}"
+        
+        # Detectar liga por equipos si es necesario
+        if liga == 'Fútbol':
+            liga_detectada = detectar_liga_por_equipo(equipos, liga)
+            if liga_detectada != liga:
+                liga = liga_detectada
         
         logo = get_logo(liga)
         
@@ -814,27 +716,13 @@ def process_eventos_source(data):
             'status': status,
             'canales': [{
                 'nombre': 'Stream',
-                'url': link,
+                'url': event_url,
                 'calidad': 'HD'
             }],
-            'fuente': 'eventos'
+            'fuente': 'github_all'
         })
     
     return matches
-
-def procesar_hora_eventos(hora_str):
-    if not hora_str:
-        return None
-    
-    try:
-        hoy = datetime.now()
-        horas, minutos = map(int, hora_str.split(':'))
-        local_dt = hoy.replace(hour=horas, minute=minutos, second=0, microsecond=0)
-        utc_dt = local_dt + timedelta(hours=5)
-        return utc_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
-    except Exception as e:
-        print(f"  ⚠️ Error procesando hora {hora_str}: {e}")
-        return None
 
 def unificar_por_equipos(all_matches):
     unificados = {}
@@ -877,13 +765,11 @@ def unificar_por_equipos(all_matches):
 # ============================================
 
 def run_scraper():
-    print('\n🏆 SCRAPER MULTIFUENTE (TODO a UTC con detección)\n')
+    print('\n🏆 SCRAPER MULTIFUENTE\n')
     all_matches = []
     processors = [
-        ('PLTVHD', SOURCES['pltvhd'], process_pltvhd_source),
-        ('GitHub (MLB)', SOURCES['github'], process_github_source),
-        ('GitHub2 (Clean)', SOURCES['github2'], process_github_source),
-        ('GitLab Eventos', SOURCES['eventos'], process_eventos_source)
+        ('PLTVHD (agenda18)', SOURCES['pltvhd'], process_pltvhd_source),
+        ('GitHub All Events', SOURCES['github_all'], process_github_all_source)
     ]
     
     for name, url, processor in processors:
