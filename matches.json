@@ -406,26 +406,6 @@
   },
   {
     "hora_utc": "2026-08-23T20:00:00Z",
-    "hora_fin_utc": "2026-08-23T22:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Belgrano vs Defensa y Justicia",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T20:00:00Z",
     "hora_fin_utc": "2026-08-23T23:15:00Z",
     "liga": "WNBA",
     "equipos": "dallas wings vs seattle storm",
@@ -502,64 +482,14 @@
   {
     "hora_utc": "2026-08-23T20:30:00Z",
     "hora_fin_utc": "2026-08-23T22:50:00Z",
-    "liga": "Liga1",
-    "equipos": "Alianza Lima vs Melgar",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T20:30:00Z",
-    "hora_fin_utc": "2026-08-23T22:50:00Z",
     "liga": "MLS",
     "equipos": "New England Revolution vs New York City FC",
     "logo": "img/usa.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "MLS01ES",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/new-england-revolution-vs-new-york-city-fc-2407021",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-23T21:00:00Z",
-    "hora_fin_utc": "2026-08-23T23:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Deportivo Pasto vs Llaneros",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
         "calidad": "HD"
       }
     ]
