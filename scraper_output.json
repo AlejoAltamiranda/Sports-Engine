@@ -596,7 +596,7 @@
     "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "atlanta united vs sporting kansas city",
-    "status": "LIVE",
+    "status": "10 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -609,10 +609,58 @@
   },
   {
     "hora_utc": "2026-08-23T23:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "chicago sky vs indiana fever",
+    "status": "10 hours from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-sky-vs-indiana-fever-2449188",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Chicago Sky vs Indiana Fever"
+  },
+  {
+    "hora_utc": "2026-08-23T23:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "las vegas aces vs toronto tempo",
+    "status": "10 hours from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/toronto-tempo-vs-las-vegas-aces-2449329",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Las Vegas Aces vs Toronto Tempo"
+  },
+  {
+    "hora_utc": "2026-08-23T23:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "portland fire vs washington mystics",
+    "status": "10 hours from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/portland-fire-vs-washington-mystics-2469387",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Portland Fire vs Washington Mystics"
+  },
+  {
+    "hora_utc": "2026-08-23T23:00:00Z",
     "logo": "img/default.png",
     "liga": "CFL",
     "equipos": "bc lions vs saskatchewan roughriders",
-    "status": "LIVE",
+    "status": "10 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -628,7 +676,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "atlanta braves vs milwaukee brewers",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -644,7 +692,7 @@
     "logo": "img/nfl.png",
     "liga": "NFL",
     "equipos": "seattle seahawks vs tennessee titans",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -660,7 +708,7 @@
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "bologna vs lazio",
-    "status": "14 hours from now",
+    "status": "9 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -676,7 +724,7 @@
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "al-qadsiah vs neom",
-    "status": "14 hours from now",
+    "status": "9 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -692,7 +740,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "levante vs osasuna",
-    "status": "15 hours from now",
+    "status": "10 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -708,7 +756,7 @@
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "al-hazem vs al-ittihad",
-    "status": "16 hours from now",
+    "status": "10 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -724,7 +772,7 @@
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "fiorentina vs roma",
-    "status": "17 hours from now",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -740,7 +788,7 @@
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "chelsea vs fulham",
-    "status": "17 hours from now",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -756,7 +804,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "casa pia vs gil vicente",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -772,7 +820,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "deportivo de a coruna vs malaga",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -788,7 +836,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "boston red sox vs miami marlins",
-    "status": "20 hours from now",
+    "status": "15 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -804,7 +852,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "detroit tigers vs tampa bay rays",
-    "status": "20 hours from now",
+    "status": "15 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -820,7 +868,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "colorado rockies vs washington nationals",
-    "status": "21 hours from now",
+    "status": "15 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -836,7 +884,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "chicago white sox vs texas rangers",
-    "status": "21 hours from now",
+    "status": "16 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -852,7 +900,7 @@
     "logo": "img/nba.png",
     "liga": "WNBA",
     "equipos": "golden state valkyries vs minnesota lynx",
-    "status": "22 hours from now",
+    "status": "16 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -868,7 +916,7 @@
     "logo": "img/wwe.png",
     "liga": "WWE",
     "equipos": "raw 1735",
-    "status": "22 hours from now",
+    "status": "16 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -884,7 +932,7 @@
     "logo": "img/wwe.png",
     "liga": "WWE",
     "equipos": "nxt 852",
-    "status": "22 hours from now",
+    "status": "16 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -900,7 +948,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "cleveland guardians vs los angeles angels",
-    "status": "23 hours from now",
+    "status": "18 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -916,7 +964,7 @@
     "logo": "img/nba.png",
     "liga": "WNBA",
     "equipos": "atlanta dream vs los angeles sparks",
-    "status": "1 day from now",
+    "status": "18 hours from now",
     "canales": [
       {
         "nombre": "Stream",
