@@ -180,26 +180,6 @@
     ]
   },
   {
-    "hora_utc": "2026-08-24T23:30:00Z",
-    "hora_fin_utc": "2026-08-25T01:50:00Z",
-    "liga": "Primera División de Chile",
-    "equipos": "Everton vs univ concepcion",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-08-24T23:40:00Z",
     "hora_fin_utc": "2026-08-25T02:55:00Z",
     "liga": "MLB",
@@ -260,56 +240,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/nxt-852-2579118",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-25T00:15:00Z",
-    "hora_fin_utc": "2026-08-25T02:35:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Argentinos Juniors vs Lanús",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-25T00:15:00Z",
-    "hora_fin_utc": "2026-08-25T02:35:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Rosario Central vs Talleres",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
         "calidad": "HD"
       }
     ]
