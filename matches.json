@@ -68,26 +68,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/roma-vs-fiorentina-2482140",
         "calidad": "HD"
@@ -103,43 +83,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/fulham-vs-chelsea-2494009",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-24T19:00:00Z",
-    "hora_fin_utc": "2026-08-24T21:20:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Club Nacional (Asunción) vs Sportivo Luqueño",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
         "calidad": "HD"
       }
     ]
@@ -155,66 +100,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/gil-vicente-vs-casa-pia-2513959",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-24T19:30:00Z",
-    "hora_fin_utc": "2026-08-24T21:50:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "granada vs Mallorca",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-24T19:30:00Z",
-    "hora_fin_utc": "2026-08-24T21:50:00Z",
-    "liga": "LaLiga",
-    "equipos": "deportivo la coruna vs malaga",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
         "calidad": "HD"
       }
     ]
