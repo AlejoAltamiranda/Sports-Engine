@@ -355,13 +355,23 @@
     ]
   },
   {
-    "hora_utc": "2026-08-25T16:05:00Z",
-    "hora_fin_utc": "2026-08-25T18:25:00Z",
-    "liga": "Fútbol",
+    "hora_utc": "2026-08-25T16:00:00Z",
+    "hora_fin_utc": "2026-08-25T18:20:00Z",
+    "liga": "Liga Profesional Saudí",
     "equipos": "abha vs Al Khaleej",
-    "logo": "img/default.png",
+    "logo": "img/ar.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/abha-vs-al-khaleej-2573321",
@@ -387,6 +397,41 @@
   {
     "hora_utc": "2026-08-25T16:45:00Z",
     "hora_fin_utc": "2026-08-25T19:05:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "hapoel beer sheva vs sabah",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "MAX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-25T16:45:00Z",
+    "hora_fin_utc": "2026-08-25T19:05:00Z",
     "liga": "Fútbol",
     "equipos": "hapoel beer sheva vs sabah baku",
     "logo": "img/default.png",
@@ -395,6 +440,26 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/sabah-baku-vs-hapoel-be-er-sheva-2570479",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-25T18:00:00Z",
+    "hora_fin_utc": "2026-08-25T20:20:00Z",
+    "liga": "Liga Profesional Saudí",
+    "equipos": "al ittifaq vs Al Nassr",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
         "calidad": "HD"
       }
     ]

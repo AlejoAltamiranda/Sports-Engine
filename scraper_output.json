@@ -377,6 +377,27 @@
     "equipos_original": "Atlanta Dream vs Los Angeles Sparks"
   },
   {
+    "hora_utc": "2026-08-25T16:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional Saudí",
+    "equipos": "abha vs al khaleej",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Abha vs Al Khaleej"
+  },
+  {
     "hora_utc": "2026-08-25T16:05:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
@@ -410,6 +431,42 @@
   },
   {
     "hora_utc": "2026-08-25T16:45:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "sabah vs hapoel beer sheva",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "MAX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Sabah vs Hapoel Be'er Sheva"
+  },
+  {
+    "hora_utc": "2026-08-25T16:45:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "hapoel beer sheva vs sabah baku",
@@ -423,6 +480,27 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Hapoel Be'er Sheva vs Sabah Baku"
+  },
+  {
+    "hora_utc": "2026-08-25T18:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional Saudí",
+    "equipos": "al ittifaq vs al nassr",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Al Ittifaq vs Al Nassr"
   },
   {
     "hora_utc": "2026-08-25T18:00:00Z",
