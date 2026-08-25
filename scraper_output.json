@@ -440,6 +440,58 @@
   },
   {
     "hora_utc": "2026-08-25T19:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "valencia vs real betis",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnplus1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Valencia vs Real Betis"
+  },
+  {
+    "hora_utc": "2026-08-25T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Paraguay",
+    "equipos": "general caballero jlm vs rubio nu",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fanatiz01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "General Caballero JLM vs Rubio Ñú"
+  },
+  {
+    "hora_utc": "2026-08-25T19:00:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "nottingham forest vs leeds united",
@@ -489,6 +541,52 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Bodø / Glimt vs NEC"
+  },
+  {
+    "hora_utc": "2026-08-25T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "lask linz vs celtic",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "MAX",
+        "url": "https://la18hd.com/vivo/canal.php?stream=max3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "LASK Linz vs Celtic"
   },
   {
     "hora_utc": "2026-08-25T19:00:00Z",
@@ -571,6 +669,22 @@
     "equipos_original": "Leeds United vs Nottingham Forest"
   },
   {
+    "hora_utc": "2026-08-25T21:30:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División de Paraguay",
+    "equipos": "2 de mayo vs guarani",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fanatiz03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "2 de Mayo vs Guaraní"
+  },
+  {
     "hora_utc": "2026-08-25T22:40:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -622,6 +736,32 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Colorado Rockies vs Washington Nationals"
+  },
+  {
+    "hora_utc": "2026-08-25T23:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "atletico bucaramanga vs rionegro aguilas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Bucaramanga vs Rionegro Águilas"
   },
   {
     "hora_utc": "2026-08-25T23:00:00Z",
@@ -704,6 +844,32 @@
     "equipos_original": "Atlanta Braves vs Los Angeles Dodgers"
   },
   {
+    "hora_utc": "2026-08-25T23:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "cruzeiro vs atletico mineiro",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cruzeiro vs Atlético Mineiro"
+  },
+  {
     "hora_utc": "2026-08-25T23:40:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -782,6 +948,110 @@
     ],
     "fuente": "github_all",
     "equipos_original": "NXT #852"
+  },
+  {
+    "hora_utc": "2026-08-26T00:30:00Z",
+    "logo": "img/lib.png",
+    "liga": "Copa Libertadores",
+    "equipos": "independiente del valle vs deportes tolima",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Independiente del Valle vs Deportes Tolima"
+  },
+  {
+    "hora_utc": "2026-08-26T00:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Leagues Cup",
+    "equipos": "monterrey vs chicago fire",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "MLS01ES",
+        "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Monterrey vs Chicago Fire"
+  },
+  {
+    "hora_utc": "2026-08-26T01:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "cucuta deportivo vs alianza",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cúcuta Deportivo vs Alianza"
+  },
+  {
+    "hora_utc": "2026-08-26T01:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "santa fe vs jaguares de cordoba",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Santa Fe vs Jaguares de Córdoba"
   },
   {
     "hora_utc": "2026-08-26T01:38:00Z",
@@ -914,6 +1184,54 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Phoenix Mercury vs Washington Mystics"
+  },
+  {
+    "hora_utc": "2026-08-26T02:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Leagues Cup",
+    "equipos": "leon vs real salt lake",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "MLS02EN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=mls2en",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "León vs Real Salt Lake"
+  },
+  {
+    "hora_utc": "2026-08-26T02:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Centroamericana de CONCACAF",
+    "equipos": "cartagines vs fas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cartaginés vs FAS"
+  },
+  {
+    "hora_utc": "2026-08-26T02:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Centroamericana de CONCACAF",
+    "equipos": "municipal vs motagua",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Municipal vs Motagua"
   },
   {
     "hora_utc": "2026-08-26T16:00:00Z",
