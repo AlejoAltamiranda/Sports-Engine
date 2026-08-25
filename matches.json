@@ -1,22 +1,12 @@
 [
   {
-    "hora_utc": "2026-08-25T16:00:00Z",
-    "hora_fin_utc": "2026-08-25T18:20:00Z",
-    "liga": "Liga Profesional Saudí",
+    "hora_utc": "2026-08-25T16:05:00Z",
+    "hora_fin_utc": "2026-08-25T18:25:00Z",
+    "liga": "Fútbol",
     "equipos": "abha vs Al Khaleej",
-    "logo": "img/ar.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | Móvil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/abha-vs-al-khaleej-2573321",
