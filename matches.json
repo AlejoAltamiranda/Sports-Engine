@@ -425,6 +425,21 @@
     ]
   },
   {
+    "hora_utc": "2026-08-25T23:00:00Z",
+    "hora_fin_utc": "2026-08-26T02:15:00Z",
+    "liga": "WNBA",
+    "equipos": "chicago sky vs connecticut sun",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/connecticut-sun-vs-chicago-sky-2449191",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-08-25T23:05:00Z",
     "hora_fin_utc": "2026-08-26T02:20:00Z",
     "liga": "MLB",

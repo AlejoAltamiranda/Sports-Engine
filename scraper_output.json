@@ -404,7 +404,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "boston red sox vs miami marlins",
-    "status": "LIVE",
+    "status": "10 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -420,7 +420,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "detroit tigers vs tampa bay rays",
-    "status": "LIVE",
+    "status": "10 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -441,7 +441,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "colorado rockies vs washington nationals",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -453,11 +453,27 @@
     "equipos_original": "Colorado Rockies vs Washington Nationals"
   },
   {
+    "hora_utc": "2026-08-25T23:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "chicago sky vs connecticut sun",
+    "status": "11 hours from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/connecticut-sun-vs-chicago-sky-2449191",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Chicago Sky vs Connecticut Sun"
+  },
+  {
     "hora_utc": "2026-08-25T23:05:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "houston astros vs new york yankees",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -473,7 +489,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "kansas city royals vs toronto blue jays",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -489,7 +505,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "milwaukee brewers vs new york mets",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -505,7 +521,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "atlanta braves vs los angeles dodgers",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -521,7 +537,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "chicago white sox vs texas rangers",
-    "status": "LIVE",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -537,7 +553,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "baltimore orioles vs st louis cardinals",
-    "status": "LIVE",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -569,7 +585,7 @@
     "logo": "img/nba.png",
     "liga": "WNBA",
     "equipos": "dallas wings vs portland fire",
-    "status": "LIVE",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -585,7 +601,7 @@
     "logo": "img/wwe.png",
     "liga": "WWE",
     "equipos": "nxt 852",
-    "status": "LIVE",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -601,7 +617,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "cleveland guardians vs los angeles angels",
-    "status": "LIVE",
+    "status": "13 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -622,7 +638,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "pittsburgh pirates vs san diego padres",
-    "status": "LIVE",
+    "status": "13 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -638,7 +654,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "philadelphia phillies vs seattle mariners",
-    "status": "LIVE",
+    "status": "13 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -659,7 +675,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "athletics vs minnesota twins",
-    "status": "LIVE",
+    "status": "13 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -675,7 +691,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "arizona diamondbacks vs chicago cubs",
-    "status": "LIVE",
+    "status": "13 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -696,7 +712,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "cincinnati reds vs san francisco giants",
-    "status": "2 minutes from now",
+    "status": "14 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -717,7 +733,7 @@
     "logo": "img/nba.png",
     "liga": "WNBA",
     "equipos": "phoenix mercury vs washington mystics",
-    "status": "17 minutes from now",
+    "status": "14 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -733,7 +749,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "al-faisaly vs al-fateh",
-    "status": "14 hours from now",
+    "status": "9 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -749,7 +765,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "heart of midlothian vs rapid vienna",
-    "status": "15 hours from now",
+    "status": "9 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -765,7 +781,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "al-diriyah vs al-kholood",
-    "status": "16 hours from now",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -781,7 +797,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "newcastle united vs west bromwich albion",
-    "status": "17 hours from now",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -797,7 +813,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "charlton athletic vs tottenham hotspur",
-    "status": "17 hours from now",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -813,7 +829,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "bradford city vs burnley",
-    "status": "17 hours from now",
+    "status": "11 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -829,7 +845,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "real madrid vs real sociedad",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -845,7 +861,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "celje vs slovan bratislava",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -861,7 +877,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "fenerbahce vs lyon",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -877,7 +893,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "aek athens vs levski sofia",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -893,7 +909,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "dinamo zagreb vs viking",
-    "status": "17 hours from now",
+    "status": "12 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -909,7 +925,7 @@
     "logo": "img/nba.png",
     "liga": "WNBA",
     "equipos": "connecticut sun vs golden state valkyries",
-    "status": "21 hours from now",
+    "status": "16 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -925,7 +941,7 @@
     "logo": "img/nba.png",
     "liga": "WNBA",
     "equipos": "seattle storm vs toronto tempo",
-    "status": "1 day from now",
+    "status": "19 hours from now",
     "canales": [
       {
         "nombre": "Stream",
