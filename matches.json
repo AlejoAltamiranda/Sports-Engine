@@ -747,26 +747,26 @@
   {
     "hora_utc": "2026-08-26T18:45:00Z",
     "hora_fin_utc": "2026-08-26T21:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "Newcastle United vs West Bromwich Albion",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/newcastle-united-vs-west-bromwich-albion-2570485",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-08-26T18:45:00Z",
-    "hora_fin_utc": "2026-08-26T21:05:00Z",
-    "liga": "Fútbol",
+    "liga": "EFL Cup",
     "equipos": "Charlton Athletic vs Tottenham Hotspur",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount1",
+        "calidad": "HD"
+      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/tottenham-hotspur-vs-charlton-athletic-2570488",
@@ -777,14 +777,59 @@
   {
     "hora_utc": "2026-08-26T18:45:00Z",
     "hora_fin_utc": "2026-08-26T21:05:00Z",
-    "liga": "Fútbol",
+    "liga": "EFL Cup",
+    "equipos": "Newcastle United vs West Bromwich Albion",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/newcastle-united-vs-west-bromwich-albion-2570485",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-26T18:45:00Z",
+    "hora_fin_utc": "2026-08-26T21:05:00Z",
+    "liga": "EFL Cup",
     "equipos": "bradford city vs Burnley",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount3",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/bradford-city-vs-burnley-2570492",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-08-26T19:00:00Z",
+    "hora_fin_utc": "2026-08-26T21:20:00Z",
+    "liga": "EFL Cup",
+    "equipos": "Everton vs Preston North End",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount4",
         "calidad": "HD"
       }
     ]
@@ -797,6 +842,31 @@
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sky_sports_laliga",
+        "calidad": "HD"
+      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/real-madrid-vs-real-sociedad-2506175",
