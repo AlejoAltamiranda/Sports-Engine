@@ -1114,43 +1114,6 @@
   },
   {
     "hora_utc": "2026-08-29T20:30:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "utc cajamarca vs universitario",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "UTC Cajamarca vs Universitario"
-  },
-  {
-    "hora_utc": "2026-08-29T20:30:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "seattle sounders fc vs chicago fire",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "MLS01ES",
-        "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Seattle Sounders FC vs Chicago Fire"
-  },
-  {
-    "hora_utc": "2026-08-29T20:30:00Z",
     "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "chicago fire vs seattle sounders",
@@ -1180,90 +1143,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Eastern Washington vs Northern Arizona"
-  },
-  {
-    "hora_utc": "2026-08-29T21:25:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "jaguares de cordoba vs america de cali",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Jaguares de Córdoba vs América de Cali"
-  },
-  {
-    "hora_utc": "2026-08-29T21:30:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División de Paraguay",
-    "equipos": "deportivo recoleta vs olimpia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fanatiz09",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz9",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Recoleta vs Olimpia"
-  },
-  {
-    "hora_utc": "2026-08-29T21:30:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "deportes limache vs everton",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportes Limache vs Everton"
-  },
-  {
-    "hora_utc": "2026-08-29T21:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "atletico mineiro vs vitoria",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz10",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz10",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Atlético Mineiro vs Vitória"
   },
   {
     "hora_utc": "2026-08-29T21:30:00Z",
@@ -1296,43 +1175,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Campbell vs East Tennessee State"
-  },
-  {
-    "hora_utc": "2026-08-29T22:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "huracan vs estudiantes rio cuarto",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Huracán vs Estudiantes Río Cuarto"
-  },
-  {
-    "hora_utc": "2026-08-29T22:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "paysandu vs atenas",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Paysandu vs Atenas"
   },
   {
     "hora_utc": "2026-08-29T22:00:00Z",
@@ -1800,7 +1642,7 @@
     "canales": [
       {
         "nombre": "MLS09EN",
-        "url": "https://la14hd.com/vivo/canal.php?stream=mls9en",
+        "url": "https://la18hd.su/vivo/canal.php?stream=mls9en",
         "calidad": "HD"
       }
     ],
@@ -1915,8 +1757,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
         "calidad": "HD"
       },
       {
@@ -1932,6 +1774,11 @@
       {
         "nombre": "ESPN Premium Movil",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
         "calidad": "HD"
       }
     ],
