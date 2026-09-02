@@ -1,5 +1,20 @@
 [
   {
+    "hora_utc": "2026-09-02T13:00:00Z",
+    "hora_fin_utc": "2026-09-02T15:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "frosinone vs Sassuolo",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/sassuolo-vs-frosinone-2579097",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-02T16:00:00Z",
     "hora_fin_utc": "2026-09-02T18:20:00Z",
     "liga": "Fútbol",
@@ -10,21 +25,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/udinese-vs-venezia-2577930",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-02T16:40:00Z",
-    "hora_fin_utc": "2026-09-02T19:55:00Z",
-    "liga": "MLB",
-    "equipos": "Cincinnati Reds vs San Diego Padres",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/cincinnati-reds-vs-san-diego-padres-2388968",
         "calidad": "HD"
       }
     ]
@@ -45,31 +45,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-02T17:45:00Z",
-    "hora_fin_utc": "2026-09-02T20:05:00Z",
-    "liga": "Copa de Rusia",
-    "equipos": "rodina moskva vs spartak moskva",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsportsplus.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=eventos15",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-02T18:35:00Z",
     "hora_fin_utc": "2026-09-02T21:50:00Z",
     "liga": "MLB",
@@ -80,21 +55,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/texas-rangers-vs-athletics-2388963",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-02T18:45:00Z",
-    "hora_fin_utc": "2026-09-02T21:05:00Z",
-    "liga": "DFB Pokal",
-    "equipos": "Bayern München vs osnabruck",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
         "calidad": "HD"
       }
     ]
@@ -147,59 +107,14 @@
   {
     "hora_utc": "2026-09-02T19:00:00Z",
     "hora_fin_utc": "2026-09-02T21:20:00Z",
-    "liga": "Championship",
+    "liga": "Fútbol",
     "equipos": "Burnley vs Middlesbrough",
-    "logo": "img/en.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/burnley-vs-middlesbrough-2501293",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-02T19:00:00Z",
-    "hora_fin_utc": "2026-09-02T21:20:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Sportivo Ameliano vs Sportivo Trinidense",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-02T19:00:00Z",
-    "hora_fin_utc": "2026-09-02T21:20:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Club Nacional (Asunción) vs Libertad FC",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
         "calidad": "HD"
       }
     ]
