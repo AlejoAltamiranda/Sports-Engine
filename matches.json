@@ -38,11 +38,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/west-ham-united-vs-wolverhampton-wanderers-2501285",
         "calidad": "HD"
@@ -127,94 +122,14 @@
   {
     "hora_utc": "2026-09-01T19:00:00Z",
     "hora_fin_utc": "2026-09-01T21:20:00Z",
-    "liga": "Copa de Italia",
+    "liga": "Fútbol",
     "equipos": "monza vs Torino",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/torino-vs-monza-2577931",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-01T19:00:00Z",
-    "hora_fin_utc": "2026-09-01T21:20:00Z",
-    "liga": "Championship",
-    "equipos": "Norwich City vs Stoke City",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/stoke-city-vs-norwich-city-2501289",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-01T19:00:00Z",
-    "hora_fin_utc": "2026-09-01T21:20:00Z",
-    "liga": "Copa de Primera",
-    "equipos": "Rubio Ñu vs sportivo san lorenzo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
         "calidad": "HD"
       }
     ]
@@ -228,11 +143,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount3",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/birmingham-city-vs-southampton-2501286",
         "calidad": "HD"
@@ -240,16 +150,16 @@
     ]
   },
   {
-    "hora_utc": "2026-09-01T21:30:00Z",
-    "hora_fin_utc": "2026-09-01T23:50:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "2 de Mayo vs Sportivo Luqueño",
-    "logo": "img/bo.png",
+    "hora_utc": "2026-09-01T19:00:00Z",
+    "hora_fin_utc": "2026-09-01T21:20:00Z",
+    "liga": "Championship",
+    "equipos": "Norwich City vs Stoke City",
+    "logo": "img/en.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/stoke-city-vs-norwich-city-2501289",
         "calidad": "HD"
       }
     ]
@@ -525,6 +435,31 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/colorado-rockies-vs-baltimore-orioles-2388971",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-02T01:00:00Z",
+    "hora_fin_utc": "2026-09-02T03:20:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Fortaleza CEIF vs Once Caldas",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
         "calidad": "HD"
       }
     ]

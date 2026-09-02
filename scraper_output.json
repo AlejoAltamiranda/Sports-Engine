@@ -35,22 +35,6 @@
     "hora_utc": "2026-09-01T18:45:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
-    "equipos": "west ham united vs wolverhampton",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "West Ham United vs Wolverhampton"
-  },
-  {
-    "hora_utc": "2026-09-01T18:45:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
     "equipos": "west ham united vs wolverhampton wanderers",
     "status": "LIVE",
     "canales": [
@@ -146,115 +130,6 @@
   {
     "hora_utc": "2026-09-01T19:00:00Z",
     "logo": "img/default.png",
-    "liga": "Copa de Italia",
-    "equipos": "torino vs monza",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Torino vs Monza"
-  },
-  {
-    "hora_utc": "2026-09-01T19:00:00Z",
-    "logo": "img/en.png",
-    "liga": "Championship",
-    "equipos": "stoke city vs norwich city",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Stoke City vs Norwich City"
-  },
-  {
-    "hora_utc": "2026-09-01T19:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa de Primera",
-    "equipos": "rubio nu vs sportivo san lorenzo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Rubio Ñú vs Sportivo San Lorenzo"
-  },
-  {
-    "hora_utc": "2026-09-01T19:00:00Z",
-    "logo": "img/en.png",
-    "liga": "Championship",
-    "equipos": "birmingham city vs southampton",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/birmingham-city-vs-southampton-2501286",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Birmingham City vs Southampton"
-  },
-  {
-    "hora_utc": "2026-09-01T19:00:00Z",
-    "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "monza vs torino",
     "status": "LIVE",
@@ -272,6 +147,22 @@
     "hora_utc": "2026-09-01T19:00:00Z",
     "logo": "img/en.png",
     "liga": "Championship",
+    "equipos": "birmingham city vs southampton",
+    "status": "LIVE",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/birmingham-city-vs-southampton-2501286",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Birmingham City vs Southampton"
+  },
+  {
+    "hora_utc": "2026-09-01T19:00:00Z",
+    "logo": "img/en.png",
+    "liga": "Championship",
     "equipos": "norwich city vs stoke city",
     "status": "LIVE",
     "canales": [
@@ -283,22 +174,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Norwich City vs Stoke City"
-  },
-  {
-    "hora_utc": "2026-09-01T21:30:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División de Paraguay",
-    "equipos": "2 de mayo vs sportivo luqueno",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "2 de Mayo vs Sportivo Luqueño"
   },
   {
     "hora_utc": "2026-09-01T22:40:00Z",
@@ -589,6 +464,32 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Baltimore Orioles vs Colorado Rockies"
+  },
+  {
+    "hora_utc": "2026-09-02T01:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "fortaleza ceif vs once caldas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Fortaleza CEIF vs Once Caldas"
   },
   {
     "hora_utc": "2026-09-02T01:38:00Z",
