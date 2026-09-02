@@ -1,52 +1,12 @@
 [
   {
-    "hora_utc": "2026-09-02T15:30:00Z",
-    "hora_fin_utc": "2026-09-02T17:50:00Z",
-    "liga": "Copa de Rusia",
-    "equipos": "dynamo makhachkala vs zenit",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsportsplus.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=eventos15",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-02T16:00:00Z",
     "hora_fin_utc": "2026-09-02T18:20:00Z",
-    "liga": "Copa de Italia",
+    "liga": "Fútbol",
     "equipos": "Udinese vs venezia",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/udinese-vs-venezia-2577930",
@@ -110,26 +70,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-02T18:30:00Z",
-    "hora_fin_utc": "2026-09-02T20:50:00Z",
-    "liga": "Championship",
-    "equipos": "cardiff city vs Queens Park Rangers",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/queens-park-rangers-vs-cardiff-city-2501296",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-02T18:35:00Z",
     "hora_fin_utc": "2026-09-02T21:50:00Z",
     "liga": "MLB",
@@ -147,16 +87,26 @@
   {
     "hora_utc": "2026-09-02T18:45:00Z",
     "hora_fin_utc": "2026-09-02T21:05:00Z",
+    "liga": "DFB Pokal",
+    "equipos": "Bayern München vs osnabruck",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN4 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-02T18:45:00Z",
+    "hora_fin_utc": "2026-09-02T21:05:00Z",
     "liga": "Championship",
     "equipos": "Millwall vs Wrexham",
     "logo": "img/en.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount5",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/millwall-vs-wrexham-2501294",
@@ -173,13 +123,23 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount3",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/west-bromwich-albion-vs-charlton-athletic-2501295",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-02T18:45:00Z",
+    "hora_fin_utc": "2026-09-02T21:05:00Z",
+    "liga": "Fútbol",
+    "equipos": "cardiff city vs Queens Park Rangers",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/queens-park-rangers-vs-cardiff-city-2501296",
         "calidad": "HD"
       }
     ]
@@ -205,11 +165,6 @@
       {
         "nombre": "ESPN5 Movil",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
         "calidad": "HD"
       },
       {
