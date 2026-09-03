@@ -176,59 +176,6 @@
     "equipos_original": "Boston Red Sox vs Seattle Mariners"
   },
   {
-    "hora_utc": "2026-09-02T21:30:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División de Paraguay",
-    "equipos": "olimpia vs guarani",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fanatiz03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Olimpia vs Guaraní"
-  },
-  {
-    "hora_utc": "2026-09-02T22:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "coquimbo unido vs univ concepcion",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Coquimbo Unido vs Univ. Concepción"
-  },
-  {
-    "hora_utc": "2026-09-02T22:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "flamengo vs mirassol",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Flamengo vs Mirassol"
-  },
-  {
     "hora_utc": "2026-09-02T22:40:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -471,6 +418,32 @@
   },
   {
     "hora_utc": "2026-09-03T01:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "santa fe vs millonarios",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Santa Fe vs Millonarios"
+  },
+  {
+    "hora_utc": "2026-09-03T01:00:00Z",
     "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "toluca vs leon",
@@ -482,8 +455,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "FOX Sports 1 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports1_usa",
+        "nombre": "Eventos",
+        "url": "https://la18hd.su/vivo/canal.php?stream=eventos",
         "calidad": "HD"
       }
     ],
