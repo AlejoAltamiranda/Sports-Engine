@@ -235,6 +235,56 @@
     ]
   },
   {
+    "hora_utc": "2026-09-02T23:40:00Z",
+    "hora_fin_utc": "2026-09-03T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Detroit Tigers vs Minnesota Twins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/minnesota-twins-vs-detroit-tigers-2388966",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-02T23:40:00Z",
+    "hora_fin_utc": "2026-09-03T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Kansas City Royals vs Miami Marlins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/kansas-city-royals-vs-miami-marlins-2388969",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-02T23:40:00Z",
+    "hora_fin_utc": "2026-09-03T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Milwaukee Brewers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-cubs-vs-milwaukee-brewers-2388973",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-cubs-vs-milwaukee-brewers-2458152",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-03T00:10:00Z",
     "hora_fin_utc": "2026-09-03T03:25:00Z",
     "liga": "MLB",
@@ -302,14 +352,49 @@
   {
     "hora_utc": "2026-09-03T16:00:00Z",
     "hora_fin_utc": "2026-09-03T18:20:00Z",
-    "liga": "Fútbol",
+    "liga": "Copa de Italia",
     "equipos": "mantova vs palermo",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
+        "nombre": "Dsports 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports 2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/palermo-vs-mantova-2579100",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-03T16:30:00Z",
+    "hora_fin_utc": "2026-09-03T18:50:00Z",
+    "liga": "Copa de Rusia",
+    "equipos": "akhmat grozny vs dinamo moskva",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Dsports+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports+ Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsportsplus.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports+ | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=eventos15",
         "calidad": "HD"
       }
     ]
@@ -325,6 +410,26 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/neom-vs-al-khaleej-2573338",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-03T18:00:00Z",
+    "hora_fin_utc": "2026-09-03T20:20:00Z",
+    "liga": "Liga Profesional Saudí",
+    "equipos": "al quadisiya vs diriyah",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
         "calidad": "HD"
       }
     ]
@@ -353,6 +458,16 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/toulouse-vs-lille-2489485",
         "calidad": "HD"
@@ -367,6 +482,41 @@
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Dsports HD",
+        "url": "https://la16hd.com/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports ARG",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnplus1",
+        "calidad": "HD"
+      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/real-sociedad-vs-celta-vigo-2506226",
@@ -550,21 +700,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/baltimore-orioles-vs-boston-red-sox-2458151",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:15:00Z",
-    "hora_fin_utc": "2026-09-04T02:30:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Milwaukee Brewers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-cubs-vs-milwaukee-brewers-2458152",
         "calidad": "HD"
       }
     ]
