@@ -1,26 +1,5 @@
 [
   {
-    "hora_utc": "2026-09-04T14:00:00Z",
-    "logo": "img/default.png",
-    "liga": "F1 | GP de Italia",
-    "equipos": "entrenamientos 2",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal 5 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Entrenamientos #2"
-  },
-  {
     "hora_utc": "2026-09-04T16:00:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
