@@ -45,6 +45,21 @@
     ]
   },
   {
+    "hora_utc": "2026-09-03T16:35:00Z",
+    "hora_fin_utc": "2026-09-03T19:50:00Z",
+    "liga": "MLB",
+    "equipos": "Pittsburgh Pirates vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/pittsburgh-pirates-vs-san-francisco-giants-2458149",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-03T17:10:00Z",
     "hora_fin_utc": "2026-09-03T20:25:00Z",
     "liga": "MLB",
@@ -180,216 +195,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Grêmio vs Internacional",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX MOVIL",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Alianza vs América de Cali",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "CFB",
-    "equipos": "bethune-cookman vs ucf",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/ucf-vs-bethune-cookman-2498580",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "CFB",
-    "equipos": "akron vs wake forest",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/wake-forest-vs-akron-2498581",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "CFB",
-    "equipos": "delaware vs merrimack",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/delaware-vs-merrimack-2498582",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "CFB",
-    "equipos": "albany vs buffalo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/buffalo-vs-albany-2498583",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "CFB",
-    "equipos": "lindenwood vs stony brook",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/stony-brook-vs-lindenwood-2593855",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:00:00Z",
-    "hora_fin_utc": "2026-09-04T01:20:00Z",
-    "liga": "CFB",
-    "equipos": "samford vs southern illinois",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/samford-vs-southern-illinois-2593856",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:15:00Z",
-    "hora_fin_utc": "2026-09-04T02:30:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Boston Red Sox",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/baltimore-orioles-vs-boston-red-sox-2458151",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/baltimore-orioles-vs-boston-red-sox-2458160",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:15:00Z",
-    "hora_fin_utc": "2026-09-04T02:30:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Milwaukee Brewers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-cubs-vs-milwaukee-brewers-2458152",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-03T23:40:00Z",
-    "hora_fin_utc": "2026-09-04T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Kansas City Royals vs Miami Marlins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/kansas-city-royals-vs-miami-marlins-2458153",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-04T00:00:00Z",
     "hora_fin_utc": "2026-09-04T02:20:00Z",
     "liga": "CFB",
@@ -450,36 +255,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/texas-rangers-vs-tampa-bay-rays-2468337",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T01:00:00Z",
-    "hora_fin_utc": "2026-09-04T03:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Deportivo Pereira vs Independiente Medellín",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz4",
         "calidad": "HD"
       }
     ]
@@ -945,6 +720,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/marist-vs-franklin-pierce-2598496",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:05:00Z",
+    "hora_fin_utc": "2026-09-05T02:20:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Boston Red Sox",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/baltimore-orioles-vs-boston-red-sox-2458160",
         "calidad": "HD"
       }
     ]
