@@ -1,5 +1,20 @@
 [
   {
+    "hora_utc": "2026-09-04T14:00:00Z",
+    "hora_fin_utc": "2026-09-04T16:20:00Z",
+    "liga": "Formula 1",
+    "equipos": "italian grand prix practice 2",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/italian-grand-prix-practice-2-2408183",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-04T16:00:00Z",
     "hora_fin_utc": "2026-09-04T18:20:00Z",
     "liga": "Fútbol",
@@ -15,106 +30,16 @@
     ]
   },
   {
-    "hora_utc": "2026-09-04T16:30:00Z",
-    "hora_fin_utc": "2026-09-04T18:50:00Z",
-    "liga": "2. Bundesliga",
-    "equipos": "hannover 96 vs karlsruher sc",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T16:30:00Z",
-    "hora_fin_utc": "2026-09-04T18:50:00Z",
-    "liga": "2. Bundesliga",
-    "equipos": "arminia bielefeld vs FC St. Pauli",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T17:00:00Z",
-    "hora_fin_utc": "2026-09-04T19:20:00Z",
-    "liga": "Super Lig",
-    "equipos": "Galatasaray vs istanbul baakehir",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T17:00:00Z",
-    "hora_fin_utc": "2026-09-04T19:20:00Z",
-    "liga": "Ligue 1",
-    "equipos": "AJ Auxerre vs Olympique Lyonnais",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/lyon-vs-auxerre-2489481",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-04T18:00:00Z",
     "hora_fin_utc": "2026-09-04T20:20:00Z",
-    "liga": "Liga1",
-    "equipos": "Cienciano vs FC Cajamarca",
-    "logo": "img/pe.png",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Ahli SC vs Al Riyadh",
+    "logo": "img/sa.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-ahli-vs-al-riyadh-2573341",
         "calidad": "HD"
       }
     ]
@@ -128,33 +53,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "FOX Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | Móvil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/al-shabab-vs-al-hilal-2573342",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T18:00:00Z",
-    "hora_fin_utc": "2026-09-04T20:20:00Z",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Ahli SC vs Al Riyadh",
-    "logo": "img/sa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/al-ahli-vs-al-riyadh-2573341",
         "calidad": "HD"
       }
     ]
@@ -202,46 +102,11 @@
   {
     "hora_utc": "2026-09-04T18:30:00Z",
     "hora_fin_utc": "2026-09-04T20:50:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "las palmas vs leganes",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T18:30:00Z",
-    "hora_fin_utc": "2026-09-04T20:50:00Z",
     "liga": "Bundesliga",
     "equipos": "1. FC Köln vs VfB Stuttgart",
     "logo": "img/de.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/stuttgart-vs-koln-2508347",
@@ -257,16 +122,6 @@
     "logo": "img/it.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/genoa-vs-como-2482160",
@@ -352,21 +207,11 @@
   {
     "hora_utc": "2026-09-04T19:00:00Z",
     "hora_fin_utc": "2026-09-04T21:20:00Z",
-    "liga": "Premier League",
+    "liga": "Fútbol",
     "equipos": "Ipswich Town vs Liverpool",
-    "logo": "img/en.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/ipswich-town-vs-liverpool-2494027",
@@ -383,26 +228,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/real-betis-vs-real-madrid-2506205",
         "calidad": "HD"
@@ -410,53 +235,13 @@
     ]
   },
   {
-    "hora_utc": "2026-09-04T19:00:00Z",
-    "hora_fin_utc": "2026-09-04T21:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "Huracán vs la luz",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T19:00:00Z",
-    "hora_fin_utc": "2026-09-04T21:20:00Z",
+    "hora_utc": "2026-09-04T19:05:00Z",
+    "hora_fin_utc": "2026-09-04T21:25:00Z",
     "liga": "Ligue 1",
     "equipos": "AS Monaco vs Paris Saint-Germain",
     "logo": "img/fr.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/paris-saint-germain-vs-monaco-2489484",
@@ -473,58 +258,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/porto-vs-moreirense-2513970",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T19:45:00Z",
-    "hora_fin_utc": "2026-09-04T22:05:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Estudiantes de Río Cuarto vs Sarmiento",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz5",
         "calidad": "HD"
       }
     ]
@@ -581,11 +316,6 @@
         "nombre": "TNT Sports Movil",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz7",
-        "calidad": "HD"
       }
     ]
   },
@@ -600,11 +330,6 @@
       {
         "nombre": "ESPN Premium",
         "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz8",
         "calidad": "HD"
       },
       {
@@ -788,6 +513,11 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "MLS01ES",
+        "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/new-york-city-fc-vs-nashville-sc-2407038",
         "calidad": "HD"
@@ -915,6 +645,26 @@
     ]
   },
   {
+    "hora_utc": "2026-09-05T00:30:00Z",
+    "hora_fin_utc": "2026-09-05T02:50:00Z",
+    "liga": "Liga de Primera",
+    "equipos": "Audax Italiano vs Deportes Concepción",
+    "logo": "img/cl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premium CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-05T00:40:00Z",
     "hora_fin_utc": "2026-09-05T03:55:00Z",
     "liga": "MLB",
@@ -970,6 +720,41 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/san-diego-padres-vs-new-york-yankees-2458169",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-05T01:45:00Z",
+    "hora_fin_utc": "2026-09-05T04:05:00Z",
+    "liga": "Liga MX",
+    "equipos": "FC Juárez vs Pachuca",
+    "logo": "img/mx.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
         "calidad": "HD"
       }
     ]
