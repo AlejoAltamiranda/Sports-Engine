@@ -617,26 +617,6 @@
   {
     "hora_utc": "2026-09-05T14:30:00Z",
     "hora_fin_utc": "2026-09-05T16:50:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Feyenoord vs nec",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-05T14:30:00Z",
-    "hora_fin_utc": "2026-09-05T16:50:00Z",
     "liga": "Primeira Liga",
     "equipos": "Estrela da Amadora vs FC Famalicão",
     "logo": "img/pt.png",
@@ -666,21 +646,6 @@
   },
   {
     "hora_utc": "2026-09-05T15:00:00Z",
-    "hora_fin_utc": "2026-09-05T20:00:00Z",
-    "liga": "UFC",
-    "equipos": "dan hooker vs salahdine parnasse",
-    "logo": "img/ufc.png",
-    "sport": "ufc",
-    "canales": [
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-05T15:00:00Z",
     "hora_fin_utc": "2026-09-05T17:20:00Z",
     "liga": "CFB",
     "equipos": "stetson vs webber international",
@@ -702,16 +667,6 @@
     "logo": "img/fr.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney20",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/lens-vs-lorient-2489488",
@@ -758,63 +713,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX MOVIL",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/inter-milan-vs-napoli-2482165",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-05T16:00:00Z",
-    "hora_fin_utc": "2026-09-05T18:20:00Z",
-    "liga": "Evento Deportivo",
-    "equipos": "benin sub-20 vs mexico sub-20",
-    "logo": "🏆",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn_mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-05T16:00:00Z",
-    "hora_fin_utc": "2026-09-05T18:20:00Z",
-    "liga": "Superliga de Grecia",
-    "equipos": "olympiakos piraeus vs volos nfc",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Claro Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=clarosports1",
         "calidad": "HD"
       }
     ]
