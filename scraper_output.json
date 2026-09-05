@@ -1040,27 +1040,6 @@
     "equipos_original": "Ajax vs PSV Eindhoven"
   },
   {
-    "hora_utc": "2026-09-05T18:30:00Z",
-    "logo": "img/de.png",
-    "liga": "2. Bundesliga",
-    "equipos": "dynamo dresden vs bochum",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 3",
-        "url": "https://la14hd.com/vivo/canal.php?stream=foxsports3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Dynamo Dresden vs Bochum"
-  },
-  {
     "hora_utc": "2026-09-05T18:45:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
@@ -1155,42 +1134,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Swansea City vs Wrexham"
-  },
-  {
-    "hora_utc": "2026-09-05T19:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "gimnasia mendoza vs boca juniors",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Gimnasia Mendoza vs Boca Juniors"
   },
   {
     "hora_utc": "2026-09-05T19:30:00Z",
