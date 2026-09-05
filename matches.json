@@ -265,26 +265,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-04T20:15:00Z",
-    "hora_fin_utc": "2026-09-04T22:35:00Z",
-    "liga": "Liga1",
-    "equipos": "Alianza Atlético vs UTC",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-04T21:30:00Z",
     "hora_fin_utc": "2026-09-05T02:30:00Z",
     "liga": "Boxing",
@@ -295,61 +275,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/andy-ruiz-jr-vs-damian-knyba-2548269",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T22:00:00Z",
-    "hora_fin_utc": "2026-09-05T00:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Deportivo Riestra vs Platense",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T22:00:00Z",
-    "hora_fin_utc": "2026-09-05T00:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Belgrano vs Huracán",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-04T22:00:00Z",
-    "hora_fin_utc": "2026-09-05T00:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Cerro Largo FC vs Montevideo City Torque",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
         "calidad": "HD"
       }
     ]
