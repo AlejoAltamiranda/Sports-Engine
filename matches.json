@@ -345,6 +345,106 @@
     ]
   },
   {
+    "hora_utc": "2026-09-04T23:00:00Z",
+    "hora_fin_utc": "2026-09-05T01:20:00Z",
+    "liga": "CFB",
+    "equipos": "indiana state vs purdue",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/purdue-vs-indiana-state-2498590",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:00:00Z",
+    "hora_fin_utc": "2026-09-05T01:20:00Z",
+    "liga": "CFB",
+    "equipos": "georgia state vs north carolina a and t",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/georgia-state-vs-north-carolina-a-and-t-2498591",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:00:00Z",
+    "hora_fin_utc": "2026-09-05T01:20:00Z",
+    "liga": "CFB",
+    "equipos": "franklin pierce vs marist",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/marist-vs-franklin-pierce-2598496",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:05:00Z",
+    "hora_fin_utc": "2026-09-05T02:20:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Boston Red Sox",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/baltimore-orioles-vs-boston-red-sox-2458160",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:10:00Z",
+    "hora_fin_utc": "2026-09-05T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Miami Marlins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/miami-marlins-vs-chicago-cubs-2458162",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/miami-marlins-vs-chicago-cubs-2458172",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:10:00Z",
+    "hora_fin_utc": "2026-09-05T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "New York Mets vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-york-mets-vs-san-francisco-giants-2458163",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-york-mets-vs-san-francisco-giants-2458173",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-04T23:30:00Z",
     "hora_fin_utc": "2026-09-05T01:50:00Z",
     "liga": "MLS",
@@ -355,6 +455,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/new-york-city-fc-vs-nashville-sc-2407038",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-04T23:40:00Z",
+    "hora_fin_utc": "2026-09-05T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago White Sox vs Minnesota Twins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-white-sox-vs-minnesota-twins-2458164",
         "calidad": "HD"
       }
     ]
@@ -1760,36 +1875,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/sporting-cp-vs-nacional-de-madeira-2513974",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-05T20:10:00Z",
-    "hora_fin_utc": "2026-09-05T23:25:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Miami Marlins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/miami-marlins-vs-chicago-cubs-2458172",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-05T20:10:00Z",
-    "hora_fin_utc": "2026-09-05T23:25:00Z",
-    "liga": "MLB",
-    "equipos": "New York Mets vs San Francisco Giants",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-york-mets-vs-san-francisco-giants-2458173",
         "calidad": "HD"
       }
     ]
