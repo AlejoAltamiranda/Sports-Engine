@@ -30,6 +30,21 @@
     ]
   },
   {
+    "hora_utc": "2026-09-06T12:00:00Z",
+    "hora_fin_utc": "2026-09-06T14:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "bishop auckland vs emley",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/emley-vs-bishop-auckland-2595528",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-06T12:30:00Z",
     "hora_fin_utc": "2026-09-06T14:50:00Z",
     "liga": "Eredivisie",
@@ -115,6 +130,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/troyes-vs-strasbourg-2489486",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-06T13:00:00Z",
+    "hora_fin_utc": "2026-09-06T15:20:00Z",
+    "liga": "Formula 1",
+    "equipos": "italian grand prix",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/italian-grand-prix-2408186",
         "calidad": "HD"
       }
     ]
@@ -285,171 +315,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-06T16:00:00Z",
-    "hora_fin_utc": "2026-09-06T18:20:00Z",
-    "liga": "CFB",
-    "equipos": "prairie view a and m vs texas southern",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/prairie-view-a-and-m-vs-texas-southern-2593874",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T16:10:00Z",
-    "hora_fin_utc": "2026-09-06T19:25:00Z",
-    "liga": "MLB",
-    "equipos": "Cincinnati Reds vs Milwaukee Brewers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/cincinnati-reds-vs-milwaukee-brewers-2458184",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "hora_fin_utc": "2026-09-06T18:50:00Z",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Osasuna",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/deportivo-alaves-vs-osasuna-2506204",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "hora_fin_utc": "2026-09-06T18:50:00Z",
-    "liga": "LaLiga",
-    "equipos": "Levante vs malaga",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/malaga-vs-levante-2506202",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "hora_fin_utc": "2026-09-06T18:50:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "albacete vs cd castellon",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T17:00:00Z",
-    "hora_fin_utc": "2026-09-06T19:20:00Z",
-    "liga": "Süper Lig",
-    "equipos": "Gençlerbirliği vs Trabzonspor",
-    "logo": "img/tr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fox Sports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T17:00:00Z",
-    "hora_fin_utc": "2026-09-06T19:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "oriental vs tacuarembo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T17:00:00Z",
-    "hora_fin_utc": "2026-09-06T19:20:00Z",
-    "liga": "Primeira Liga",
-    "equipos": "Casa Pia AC vs Vitória Guimarães",
-    "logo": "img/pt.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/vitoria-de-guimaraes-vs-casa-pia-2513972",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-06T17:10:00Z",
     "hora_fin_utc": "2026-09-06T20:25:00Z",
     "liga": "MLB",
@@ -540,51 +405,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/new-york-mets-vs-san-francisco-giants-2458190",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T17:45:00Z",
-    "hora_fin_utc": "2026-09-06T20:05:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Newell's Old Boys vs Rosario Central",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T17:45:00Z",
-    "hora_fin_utc": "2026-09-06T20:05:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "O'Higgins vs Unión La Calera",
-    "logo": "img/cl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
         "calidad": "HD"
       }
     ]

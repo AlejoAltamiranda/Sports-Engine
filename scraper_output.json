@@ -32,11 +32,27 @@
     "equipos_original": "Birmingham City vs Wolverhampton Wanderers"
   },
   {
+    "hora_utc": "2026-09-06T12:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Fútbol",
+    "equipos": "bishop auckland vs emley",
+    "status": "1 minute from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/emley-vs-bishop-auckland-2595528",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Bishop Auckland vs Emley"
+  },
+  {
     "hora_utc": "2026-09-06T12:30:00Z",
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "az alkmaar vs heerenveen",
-    "status": "LIVE",
+    "status": "31 minutes from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -52,7 +68,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "cambuur vs telstar",
-    "status": "LIVE",
+    "status": "31 minutes from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -68,7 +84,7 @@
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "everton vs manchester united",
-    "status": "LIVE",
+    "status": "1 hour from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -84,7 +100,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "frosinone vs venezia",
-    "status": "LIVE",
+    "status": "1 hour from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -100,7 +116,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "monza vs parma",
-    "status": "LIVE",
+    "status": "1 hour from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -116,7 +132,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "strasbourg vs troyes",
-    "status": "LIVE",
+    "status": "1 hour from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -128,11 +144,27 @@
     "equipos_original": "Strasbourg vs Troyes"
   },
   {
+    "hora_utc": "2026-09-06T13:00:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "italian grand prix",
+    "status": "1 hour from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/italian-grand-prix-2408186",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Italian Grand Prix"
+  },
+  {
     "hora_utc": "2026-09-06T13:30:00Z",
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "hamburg vs mainz",
-    "status": "LIVE",
+    "status": "1 hour from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -148,7 +180,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "rushall olympic vs stourbridge",
-    "status": "LIVE",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -164,7 +196,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "ascot united vs pagham",
-    "status": "LIVE",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -180,7 +212,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "cobham vs southall",
-    "status": "LIVE",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -196,7 +228,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "barcelona vs valencia",
-    "status": "LIVE",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -212,7 +244,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "rio ave vs santa clara",
-    "status": "LIVE",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -228,7 +260,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "ado den haag vs fortuna sittard",
-    "status": "LIVE",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -244,7 +276,7 @@
     "logo": "img/fr.png",
     "liga": "Ligue 1",
     "equipos": "angers vs rennes",
-    "status": "LIVE",
+    "status": "3 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -260,7 +292,7 @@
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "arsenal vs chelsea",
-    "status": "12 minutes from now",
+    "status": "3 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -276,7 +308,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "augsburg vs eintracht frankfurt",
-    "status": "12 minutes from now",
+    "status": "3 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -292,7 +324,7 @@
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "bologna vs sassuolo",
-    "status": "42 minutes from now",
+    "status": "4 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -304,195 +336,11 @@
     "equipos_original": "Bologna vs Sassuolo"
   },
   {
-    "hora_utc": "2026-09-06T16:00:00Z",
-    "logo": "img/default.png",
-    "liga": "CFB",
-    "equipos": "prairie view a and m vs texas southern",
-    "status": "42 minutes from now",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/prairie-view-a-and-m-vs-texas-southern-2593874",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github_all",
-    "equipos_original": "Prairie View A and M vs Texas Southern"
-  },
-  {
-    "hora_utc": "2026-09-06T16:10:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "cincinnati reds vs milwaukee brewers",
-    "status": "52 minutes from now",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/cincinnati-reds-vs-milwaukee-brewers-2458184",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github_all",
-    "equipos_original": "Cincinnati Reds vs Milwaukee Brewers"
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "deportivo alaves vs osasuna",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/deportivo-alaves-vs-osasuna-2506204",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Alavés vs Osasuna"
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "malaga vs levante",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Málaga vs Levante"
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga 2",
-    "equipos": "cd castellon vs albacete",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "CD Castellon vs Albacete"
-  },
-  {
-    "hora_utc": "2026-09-06T16:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Fútbol",
-    "equipos": "levante vs malaga",
-    "status": "1 hour from now",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/malaga-vs-levante-2506202",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github_all",
-    "equipos_original": "Levante vs Málaga"
-  },
-  {
-    "hora_utc": "2026-09-06T17:00:00Z",
-    "logo": "img/tr.png",
-    "liga": "Süper Lig",
-    "equipos": "trabzonspor vs genclerbirlii",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fox Sports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Trabzonspor vs Gençlerbirliği"
-  },
-  {
-    "hora_utc": "2026-09-06T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "tacuarembo vs oriental",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Tacuarembó vs Oriental"
-  },
-  {
-    "hora_utc": "2026-09-06T17:00:00Z",
-    "logo": "img/pt.png",
-    "liga": "Primeira Liga",
-    "equipos": "casa pia vs vitoria de guimaraes",
-    "status": "1 hour from now",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/vitoria-de-guimaraes-vs-casa-pia-2513972",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github_all",
-    "equipos_original": "Casa Pia vs Vitória de Guimarães"
-  },
-  {
     "hora_utc": "2026-09-06T17:10:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "atlanta braves vs philadelphia phillies",
-    "status": "1 hour from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -513,7 +361,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "baltimore orioles vs boston red sox",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -529,7 +377,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "los angeles angels vs pittsburgh pirates",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -545,7 +393,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "cleveland guardians vs detroit tigers",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -561,7 +409,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "chicago cubs vs miami marlins",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -577,7 +425,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "new york mets vs san francisco giants",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -589,58 +437,11 @@
     "equipos_original": "New York Mets vs San Francisco Giants"
   },
   {
-    "hora_utc": "2026-09-06T17:45:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "rosario central vs newells old boys",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Rosario Central vs Newell's Old Boys"
-  },
-  {
-    "hora_utc": "2026-09-06T17:45:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "ohiggins vs union la calera",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "O'Higgins vs Unión La Calera"
-  },
-  {
     "hora_utc": "2026-09-06T18:10:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "arizona diamondbacks vs houston astros",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -656,7 +457,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "kansas city royals vs toronto blue jays",
-    "status": "2 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -693,7 +494,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "tampa bay rays vs texas rangers",
-    "status": "3 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -771,7 +572,7 @@
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "ac milan vs juventus",
-    "status": "3 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -787,7 +588,7 @@
     "logo": "img/fr.png",
     "liga": "Ligue 1",
     "equipos": "marseille vs paris fc",
-    "status": "3 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -945,7 +746,7 @@
     "logo": "img/default.png",
     "liga": "CFB",
     "equipos": "florida a and m vs south carolina state",
-    "status": "3 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -961,7 +762,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "colorado rockies vs st louis cardinals",
-    "status": "3 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -977,7 +778,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "academico de viseu vs gil vicente",
-    "status": "4 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -1087,7 +888,7 @@
     "logo": "img/default.png",
     "liga": "CFB",
     "equipos": "washington vs washington state",
-    "status": "4 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -1103,7 +904,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "new york yankees vs san diego padres",
-    "status": "4 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -1119,7 +920,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "athletics vs seattle mariners",
-    "status": "4 hours from now",
+    "status": "LIVE",
     "canales": [
       {
         "nombre": "Stream",
@@ -1240,7 +1041,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "chicago white sox vs minnesota twins",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1366,7 +1167,7 @@
     "logo": "img/default.png",
     "liga": "CFL",
     "equipos": "saskatchewan roughriders vs winnipeg blue bombers",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1424,7 +1225,7 @@
     "logo": "img/default.png",
     "liga": "CFB",
     "equipos": "louisville vs ole miss",
-    "status": "8 hours from now",
+    "status": "3 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1440,7 +1241,7 @@
     "logo": "img/default.png",
     "liga": "CFB",
     "equipos": "notre dame vs wisconsin",
-    "status": "8 hours from now",
+    "status": "3 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1456,7 +1257,7 @@
     "logo": "img/wwe.png",
     "liga": "WWE",
     "equipos": "raw 1737",
-    "status": "8 hours from now",
+    "status": "3 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1472,7 +1273,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "los angeles dodgers vs washington nationals",
-    "status": "10 hours from now",
+    "status": "5 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1488,7 +1289,7 @@
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "al-khaleej vs al-riyadh",
-    "status": "1 day from now",
+    "status": "19 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1504,7 +1305,7 @@
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "cagliari vs lecce",
-    "status": "1 day from now",
+    "status": "20 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1520,7 +1321,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "celta vigo vs getafe",
-    "status": "1 day from now",
+    "status": "20 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1536,7 +1337,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "miami marlins vs new york mets",
-    "status": "1 day from now",
+    "status": "20 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1552,7 +1353,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "baltimore orioles vs cleveland guardians",
-    "status": "1 day from now",
+    "status": "21 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1568,7 +1369,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "boston red sox vs los angeles angels",
-    "status": "1 day from now",
+    "status": "21 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1584,7 +1385,7 @@
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "al-hilal vs neom",
-    "status": "1 day from now",
+    "status": "21 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1600,7 +1401,7 @@
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "arizona diamondbacks vs kansas city royals",
-    "status": "1 day from now",
+    "status": "21 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1616,7 +1417,7 @@
     "logo": "img/default.png",
     "liga": "CFL",
     "equipos": "hamilton tiger-cats vs toronto argonauts",
-    "status": "1 day from now",
+    "status": "22 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1632,7 +1433,7 @@
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "lazio vs udinese",
-    "status": "1 day from now",
+    "status": "22 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1648,7 +1449,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "carshalton athletic vs chertsey town",
-    "status": "1 day from now",
+    "status": "22 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1664,7 +1465,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "malvern town vs redditch united",
-    "status": "1 day from now",
+    "status": "22 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1680,7 +1481,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "swindon supermarine vs winslow united",
-    "status": "1 day from now",
+    "status": "22 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1696,7 +1497,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "arouca vs estoril praia",
-    "status": "1 day from now",
+    "status": "22 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1712,7 +1513,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "elche vs real sociedad",
-    "status": "1 day from now",
+    "status": "23 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1776,7 +1577,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "al-ettifaq vs al-faisaly",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1792,7 +1593,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "al-hazem vs al-taawoun",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1808,7 +1609,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "aston villa vs club brugge",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1824,7 +1625,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "aek athens vs lask",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1840,7 +1641,7 @@
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "excelsior vs nec nijmegen",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1856,7 +1657,7 @@
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "al-ahli vs al-qadsiah",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1872,7 +1673,7 @@
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "al-fayha vs al-ittihad",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1888,7 +1689,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "guiseley vs stockton town",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1904,7 +1705,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "chippenham town vs havant and waterlooville",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1920,7 +1721,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "biggleswade town vs hitchin town",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1936,7 +1737,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "dartford vs westfield surrey",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1952,7 +1753,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "brentwood town vs concord rangers",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1968,7 +1769,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "crowborough athletic vs whyteleafe",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1984,7 +1785,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "felixstowe and walton united vs wingate and finchley",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2000,7 +1801,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "gloucester city vs mangotsfield united",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2016,7 +1817,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "lancaster city vs tadcaster albion",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2032,7 +1833,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "cray wanderers vs lewes",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2048,7 +1849,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "grays athletic vs leiston",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2064,7 +1865,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "needham market vs stanway rovers",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2080,7 +1881,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "shildon afc vs warrington town",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2096,7 +1897,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "bournemouth vs lincoln city",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2112,7 +1913,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "crystal palace vs middlesbrough",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2128,7 +1929,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "hull city vs sunderland",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2144,7 +1945,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "bradford city vs leyton orient",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2160,7 +1961,7 @@
     "logo": "img/en.png",
     "liga": "Championship",
     "equipos": "preston north end vs watford",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2176,7 +1977,7 @@
     "logo": "img/en.png",
     "liga": "Championship",
     "equipos": "southampton vs swansea city",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2192,7 +1993,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "cardiff city vs stoke city",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2208,7 +2009,7 @@
     "logo": "img/en.png",
     "liga": "Championship",
     "equipos": "blackburn rovers vs sheffield united",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2224,7 +2025,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "burnley vs wrexham",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2240,7 +2041,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "lille vs real betis",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2256,7 +2057,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "borussia dortmund vs villarreal",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2272,7 +2073,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "manchester city vs porto",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2288,7 +2089,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "inter milan vs real madrid",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2304,7 +2105,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "millwall vs newcastle united",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -2320,7 +2121,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "bolton wanderers vs west ham united",
-    "status": "2 days from now",
+    "status": "1 day from now",
     "canales": [
       {
         "nombre": "Stream",
