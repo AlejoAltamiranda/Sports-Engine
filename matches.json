@@ -440,26 +440,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-06T18:30:00Z",
-    "hora_fin_utc": "2026-09-06T20:50:00Z",
-    "liga": "Liga1",
-    "equipos": "Atlético Grau vs Deportivo Garcilaso",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-06T18:35:00Z",
     "hora_fin_utc": "2026-09-06T21:50:00Z",
     "liga": "MLB",
@@ -477,61 +457,11 @@
   {
     "hora_utc": "2026-09-06T18:45:00Z",
     "hora_fin_utc": "2026-09-06T21:05:00Z",
-    "liga": "Ligue 1",
-    "equipos": "olympique marseille vs paris",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T18:45:00Z",
-    "hora_fin_utc": "2026-09-06T21:05:00Z",
     "liga": "Serie A",
     "equipos": "AC Milan vs Juventus",
     "logo": "img/it.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX MOVIL",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/juventus-vs-ac-milan-2482161",
@@ -563,128 +493,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/espanyol-vs-sevilla-2506203",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T19:00:00Z",
-    "hora_fin_utc": "2026-09-06T21:20:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Internacional vs Santos",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere 3 BR ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T19:00:00Z",
-    "hora_fin_utc": "2026-09-06T21:20:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "almeria vs cadiz",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T19:00:00Z",
-    "hora_fin_utc": "2026-09-06T21:20:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Libertad FC vs Rubio Ñu",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T19:00:00Z",
-    "hora_fin_utc": "2026-09-06T21:20:00Z",
-    "liga": "Brasileirão",
-    "equipos": "Flamengo vs Remo",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T19:00:00Z",
-    "hora_fin_utc": "2026-09-06T21:20:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Athletico Paranaense vs Cruzeiro",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-06T19:00:00Z",
-    "hora_fin_utc": "2026-09-06T21:20:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Juventud de Las Piedras vs Nacional",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
         "calidad": "HD"
       }
     ]
@@ -1028,13 +838,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Fanatiz08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+        "nombre": "Premiere 3 BR ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere3",
         "calidad": "HD"
       }
     ]
@@ -1170,6 +975,51 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/raw-1737-2599775",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-07T00:30:00Z",
+    "hora_fin_utc": "2026-09-07T02:50:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Atlético Tucumán vs Racing Club",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-07T01:00:00Z",
+    "hora_fin_utc": "2026-09-07T03:20:00Z",
+    "liga": "Leagues Cup",
+    "equipos": "monterrey - final vs Toluca",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "MLS02EN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=mls2en",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
         "calidad": "HD"
       }
     ]
