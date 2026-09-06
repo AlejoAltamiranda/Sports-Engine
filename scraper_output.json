@@ -243,22 +243,6 @@
     "hora_utc": "2026-09-06T15:15:00Z",
     "logo": "img/fr.png",
     "liga": "Ligue 1",
-    "equipos": "angers sco vs rennes",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Angers SCO vs Rennes"
-  },
-  {
-    "hora_utc": "2026-09-06T15:15:00Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
     "equipos": "angers vs rennes",
     "status": "LIVE",
     "canales": [
@@ -276,73 +260,16 @@
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "arsenal vs chelsea",
-    "status": "pronto",
+    "status": "12 minutes from now",
     "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/arsenal-vs-chelsea-2494022",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "github_all",
     "equipos_original": "Arsenal vs Chelsea"
-  },
-  {
-    "hora_utc": "2026-09-06T15:30:00Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "eintracht frankfurt vs augsburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Eintracht Frankfurt vs Augsburg"
-  },
-  {
-    "hora_utc": "2026-09-06T15:30:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "la serena vs nublense",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "La Serena vs Ñublense"
   },
   {
     "hora_utc": "2026-09-06T15:30:00Z",
@@ -362,108 +289,19 @@
   },
   {
     "hora_utc": "2026-09-06T16:00:00Z",
-    "logo": "🏆",
-    "liga": "Evento Deportivo",
-    "equipos": "estados unidos sub-20 vs italia sub-20",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Estados Unidos Sub-20 vs Italia Sub-20"
-  },
-  {
-    "hora_utc": "2026-09-06T16:00:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "bologna vs sassuolo",
-    "status": "pronto",
+    "status": "42 minutes from now",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX MOVIL",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/bologna-vs-sassuolo-2482163",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "github_all",
     "equipos_original": "Bologna vs Sassuolo"
-  },
-  {
-    "hora_utc": "2026-09-06T16:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "sporting cristal vs los chankas",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Sporting Cristal vs Los Chankas"
-  },
-  {
-    "hora_utc": "2026-09-06T16:00:00Z",
-    "logo": "🏆",
-    "liga": "Evento Deportivo",
-    "equipos": "ecuador sub-20 vs ghana sub-20",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ecuador Sub-20 vs Ghana Sub-20"
-  },
-  {
-    "hora_utc": "2026-09-06T16:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "central espanol vs defensor sporting",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Central Español vs Defensor Sporting"
   },
   {
     "hora_utc": "2026-09-06T16:00:00Z",
