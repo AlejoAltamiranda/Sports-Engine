@@ -1196,6 +1196,48 @@
     "equipos_original": "Elche vs Real Sociedad"
   },
   {
+    "hora_utc": "2026-09-07T21:30:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División de Paraguay",
+    "equipos": "cerro porteno vs nacional asuncion",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fanatiz02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cerro Porteño vs Nacional Asunción"
+  },
+  {
+    "hora_utc": "2026-09-07T22:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "barracas central vs argentinos juniors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Barracas Central vs Argentinos Juniors"
+  },
+  {
     "hora_utc": "2026-09-07T22:00:00Z",
     "logo": "img/default.png",
     "liga": "CFL",
@@ -1210,6 +1252,64 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Calgary Stampeders vs Edmonton Elks"
+  },
+  {
+    "hora_utc": "2026-09-07T23:00:00Z",
+    "logo": "img/cl.png",
+    "liga": "Liga de Primera",
+    "equipos": "deportes limache vs cobresal",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premium CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportes Limache vs Cobresal"
+  },
+  {
+    "hora_utc": "2026-09-07T23:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "llaneros vs deportes tolima",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Llaneros vs Deportes Tolima"
+  },
+  {
+    "hora_utc": "2026-09-07T23:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "vitoria vs gremio",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vitória vs Grêmio"
   },
   {
     "hora_utc": "2026-09-07T23:30:00Z",
@@ -1242,6 +1342,53 @@
     ],
     "fuente": "github_all",
     "equipos_original": "NXT #854"
+  },
+  {
+    "hora_utc": "2026-09-08T00:15:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "union santa fe vs instituto",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Unión Santa Fe vs Instituto"
+  },
+  {
+    "hora_utc": "2026-09-08T01:15:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "atletico nacional vs deportivo cali",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Nacional vs Deportivo Cali"
   },
   {
     "hora_utc": "2026-09-08T15:30:00Z",
