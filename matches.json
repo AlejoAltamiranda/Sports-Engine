@@ -90,36 +90,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-08T18:00:00Z",
-    "hora_fin_utc": "2026-09-08T20:20:00Z",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Ahli SC vs Al Qadsiah",
-    "logo": "img/sa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/al-qadsiah-vs-al-ahli-2573350",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T18:00:00Z",
-    "hora_fin_utc": "2026-09-08T20:20:00Z",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Fayha vs Al-Ittihad FC",
-    "logo": "img/sa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/al-ittihad-vs-al-fayha-2573351",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-08T18:30:00Z",
     "hora_fin_utc": "2026-09-08T20:50:00Z",
     "liga": "Fútbol",
@@ -130,66 +100,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/pagham-vs-ascot-united-2600438",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T18:45:00Z",
-    "hora_fin_utc": "2026-09-08T21:05:00Z",
-    "liga": "Carabao Cup",
-    "equipos": "Crystal Palace vs Middlesbrough",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/crystal-palace-vs-middlesbrough-2594457",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T18:45:00Z",
-    "hora_fin_utc": "2026-09-08T21:05:00Z",
-    "liga": "Carabao Cup",
-    "equipos": "AFC Bournemouth vs lincoln city",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/bournemouth-vs-lincoln-city-2594453",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T18:45:00Z",
-    "hora_fin_utc": "2026-09-08T21:05:00Z",
-    "liga": "Carabao Cup",
-    "equipos": "Hull City vs Sunderland",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/sunderland-vs-hull-city-2594461",
         "calidad": "HD"
       }
     ]
@@ -483,6 +393,51 @@
     "hora_utc": "2026-09-08T18:45:00Z",
     "hora_fin_utc": "2026-09-08T21:05:00Z",
     "liga": "Fútbol",
+    "equipos": "AFC Bournemouth vs lincoln city",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/bournemouth-vs-lincoln-city-2594453",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T18:45:00Z",
+    "hora_fin_utc": "2026-09-08T21:05:00Z",
+    "liga": "Fútbol",
+    "equipos": "Crystal Palace vs Middlesbrough",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/crystal-palace-vs-middlesbrough-2594457",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T18:45:00Z",
+    "hora_fin_utc": "2026-09-08T21:05:00Z",
+    "liga": "Fútbol",
+    "equipos": "Hull City vs Sunderland",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/sunderland-vs-hull-city-2594461",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T18:45:00Z",
+    "hora_fin_utc": "2026-09-08T21:05:00Z",
+    "liga": "Fútbol",
     "equipos": "bradford city vs leyton orient",
     "logo": "img/default.png",
     "sport": "football",
@@ -572,111 +527,11 @@
   {
     "hora_utc": "2026-09-08T19:00:00Z",
     "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "FC Porto vs Manchester City",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/porto-vs-manchester-city-2594591",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T19:00:00Z",
-    "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "Inter Milan vs Real Madrid",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "UniMás",
-        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/real-madrid-vs-inter-milan-2594629",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T19:00:00Z",
-    "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "UEFA Champions League",
+    "liga": "Fútbol",
     "equipos": "LOSC Lille vs Real Betis",
-    "logo": "img/champions.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/lille-vs-real-betis-2594556",
@@ -687,16 +542,56 @@
   {
     "hora_utc": "2026-09-08T19:00:00Z",
     "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "Carabao Cup",
-    "equipos": "Millwall vs Newcastle United",
+    "liga": "Fútbol",
+    "equipos": "Borussia Dortmund vs Villarreal",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/borussia-dortmund-vs-villarreal-2594572",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T19:00:00Z",
+    "hora_fin_utc": "2026-09-08T21:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "FC Porto vs Manchester City",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/porto-vs-manchester-city-2594591",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T19:00:00Z",
+    "hora_fin_utc": "2026-09-08T21:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "Inter Milan vs Real Madrid",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/real-madrid-vs-inter-milan-2594629",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T19:00:00Z",
+    "hora_fin_utc": "2026-09-08T21:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "Millwall vs Newcastle United",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/millwall-vs-newcastle-united-2594460",
@@ -707,16 +602,11 @@
   {
     "hora_utc": "2026-09-08T19:00:00Z",
     "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "Championship",
+    "liga": "Fútbol",
     "equipos": "bolton wanderers vs West Ham United",
-    "logo": "img/en.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/bolton-wanderers-vs-west-ham-united-2501315",
@@ -725,31 +615,41 @@
     ]
   },
   {
-    "hora_utc": "2026-09-08T19:00:00Z",
-    "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "Borussia Dortmund vs Villarreal",
-    "logo": "img/champions.png",
+    "hora_utc": "2026-09-08T22:00:00Z",
+    "hora_fin_utc": "2026-09-09T00:20:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Fluminense vs Platense",
+    "logo": "img/lib.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN6",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
         "calidad": "HD"
       },
       {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN6 Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn6tv.html",
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
         "calidad": "HD"
       },
       {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/borussia-dortmund-vs-villarreal-2594572",
+        "nombre": "Fox Sports ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
         "calidad": "HD"
       }
     ]
@@ -783,8 +683,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "nombre": "Fanatiz01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
         "calidad": "HD"
       }
     ]
@@ -970,6 +870,36 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/nxt-854-2599776",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-09T00:30:00Z",
+    "hora_fin_utc": "2026-09-09T02:50:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Boca Juniors vs São Paulo",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fanatiz03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
         "calidad": "HD"
       }
     ]
