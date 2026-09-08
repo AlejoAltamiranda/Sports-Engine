@@ -45,6 +45,41 @@
     ]
   },
   {
+    "hora_utc": "2026-09-07T17:05:00Z",
+    "hora_fin_utc": "2026-09-07T20:20:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Philadelphia Phillies",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/philadelphia-phillies-vs-atlanta-braves-2458196",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-07T17:10:00Z",
+    "hora_fin_utc": "2026-09-07T20:25:00Z",
+    "liga": "MLB",
+    "equipos": "Miami Marlins vs New York Mets",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/miami-marlins-vs-new-york-mets-2458198",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/miami-marlins-vs-new-york-mets-2497348",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-07T17:35:00Z",
     "hora_fin_utc": "2026-09-07T20:50:00Z",
     "liga": "MLB",
@@ -80,6 +115,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/boston-red-sox-vs-los-angeles-angels-2497349",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-07T18:00:00Z",
+    "hora_fin_utc": "2026-09-07T20:20:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al-Hilal vs Neom SC",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-hilal-vs-neom-2573347",
         "calidad": "HD"
       }
     ]
@@ -245,91 +295,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-07T23:00:00Z",
-    "hora_fin_utc": "2026-09-08T01:20:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "Cobresal vs Deportes Limache",
-    "logo": "img/cl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-07T23:00:00Z",
-    "hora_fin_utc": "2026-09-08T01:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Deportes Tolima vs Llaneros",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-07T23:00:00Z",
-    "hora_fin_utc": "2026-09-08T01:20:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Grêmio vs Vitória",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-07T23:30:00Z",
-    "hora_fin_utc": "2026-09-08T01:50:00Z",
-    "liga": "CFB",
-    "equipos": "florida state vs smu",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/florida-state-vs-smu-2498665",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T00:00:00Z",
-    "hora_fin_utc": "2026-09-08T03:00:00Z",
-    "liga": "WWE",
-    "equipos": "raw 1737",
-    "logo": "img/wwe.png",
-    "sport": "wwe",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/raw-1737-2599775",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-08T00:10:00Z",
     "hora_fin_utc": "2026-09-08T03:25:00Z",
     "liga": "MLB",
@@ -345,31 +310,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-08T00:15:00Z",
-    "hora_fin_utc": "2026-09-08T02:35:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Instituto vs Unión Santa Fe",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-08T01:10:00Z",
     "hora_fin_utc": "2026-09-08T04:25:00Z",
     "liga": "MLB",
@@ -380,26 +320,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/los-angeles-dodgers-vs-cincinnati-reds-2497343",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T01:15:00Z",
-    "hora_fin_utc": "2026-09-08T03:35:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Atlético Nacional vs Deportivo Cali",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
         "calidad": "HD"
       }
     ]
@@ -1030,21 +950,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/philadelphia-phillies-vs-houston-astros-2497346",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T22:40:00Z",
-    "hora_fin_utc": "2026-09-09T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Miami Marlins vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/miami-marlins-vs-new-york-mets-2497348",
         "calidad": "HD"
       }
     ]
