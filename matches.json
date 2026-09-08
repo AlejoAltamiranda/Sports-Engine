@@ -45,116 +45,16 @@
     ]
   },
   {
-    "hora_utc": "2026-09-08T16:00:00Z",
-    "hora_fin_utc": "2026-09-08T18:20:00Z",
-    "liga": "Evento Deportivo",
-    "equipos": "inglaterra sub-20 vs tanzania sub-20",
-    "logo": "🏆",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T16:00:00Z",
-    "hora_fin_utc": "2026-09-08T18:20:00Z",
-    "liga": "Evento Deportivo",
-    "equipos": "mexico sub-20 vs polonia sub-20",
-    "logo": "🏆",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn_mx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-08T16:45:00Z",
     "hora_fin_utc": "2026-09-08T19:05:00Z",
-    "liga": "UEFA Champions League",
+    "liga": "Fútbol",
     "equipos": "Aston Villa vs club brugge",
-    "logo": "img/champions.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/club-brugge-vs-aston-villa-2594644",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T16:45:00Z",
-    "hora_fin_utc": "2026-09-08T19:05:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "aek athens vs lask linz",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Paramount+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=paramount1",
         "calidad": "HD"
       }
     ]
@@ -673,6 +573,41 @@
     "hora_utc": "2026-09-08T19:00:00Z",
     "hora_fin_utc": "2026-09-08T21:20:00Z",
     "liga": "UEFA Champions League",
+    "equipos": "FC Porto vs Manchester City",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/porto-vs-manchester-city-2594591",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T19:00:00Z",
+    "hora_fin_utc": "2026-09-08T21:20:00Z",
+    "liga": "UEFA Champions League",
     "equipos": "Inter Milan vs Real Madrid",
     "logo": "img/champions.png",
     "sport": "football",
@@ -715,41 +650,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/real-madrid-vs-inter-milan-2594629",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T19:00:00Z",
-    "hora_fin_utc": "2026-09-08T21:20:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "FC Porto vs Manchester City",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/porto-vs-manchester-city-2594591",
         "calidad": "HD"
       }
     ]
