@@ -180,21 +180,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-07T19:00:00Z",
-    "hora_fin_utc": "2026-09-07T21:20:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Club Guaraní vs Deportivo Recoleta",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-07T19:10:00Z",
     "hora_fin_utc": "2026-09-07T22:25:00Z",
     "liga": "MLB",
@@ -238,26 +223,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/elche-vs-real-sociedad-2506208",
         "calidad": "HD"
@@ -275,46 +240,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/san-diego-padres-vs-washington-nationals-2458203",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-07T21:30:00Z",
-    "hora_fin_utc": "2026-09-07T23:50:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Cerro Porteño vs Club Nacional (Asunción)",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fanatiz02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-07T22:00:00Z",
-    "hora_fin_utc": "2026-09-08T00:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Argentinos Juniors vs Barracas Central",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
         "calidad": "HD"
       }
     ]
