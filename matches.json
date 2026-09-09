@@ -90,6 +90,36 @@
     ]
   },
   {
+    "hora_utc": "2026-09-08T18:00:00Z",
+    "hora_fin_utc": "2026-09-08T20:20:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Ahli SC vs Al Qadsiah",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-qadsiah-vs-al-ahli-2573350",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-08T18:00:00Z",
+    "hora_fin_utc": "2026-09-08T20:20:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Fayha vs Al-Ittihad FC",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-ittihad-vs-al-fayha-2573351",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-08T18:30:00Z",
     "hora_fin_utc": "2026-09-08T20:50:00Z",
     "liga": "Fútbol",
@@ -710,66 +740,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-08T23:15:00Z",
-    "hora_fin_utc": "2026-09-09T02:30:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/atlanta-braves-vs-tampa-bay-rays-2497351",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T23:40:00Z",
-    "hora_fin_utc": "2026-09-09T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-white-sox-vs-pittsburgh-pirates-2497352",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T23:40:00Z",
-    "hora_fin_utc": "2026-09-09T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs Kansas City Royals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/kansas-city-royals-vs-arizona-diamondbacks-2497353",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-08T23:40:00Z",
-    "hora_fin_utc": "2026-09-09T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Milwaukee Brewers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/milwaukee-brewers-vs-chicago-cubs-2497354",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-09T00:00:00Z",
     "hora_fin_utc": "2026-09-09T05:00:00Z",
     "liga": "UFC",
@@ -780,51 +750,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/dana-whites-contender-series-season-10-week-5-2558802",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T00:00:00Z",
-    "hora_fin_utc": "2026-09-09T03:00:00Z",
-    "liga": "WWE",
-    "equipos": "nxt 854",
-    "logo": "img/wwe.png",
-    "sport": "wwe",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/nxt-854-2599776",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T00:30:00Z",
-    "hora_fin_utc": "2026-09-09T02:50:00Z",
-    "liga": "Copa Sudamericana",
-    "equipos": "Boca Juniors vs São Paulo",
-    "logo": "img/sud.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fanatiz03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
         "calidad": "HD"
       }
     ]
