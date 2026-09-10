@@ -1,805 +1,5 @@
 [
   {
-    "hora_utc": "2026-09-09T15:55:00Z",
-    "hora_fin_utc": "2026-09-09T18:15:00Z",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Kholood vs Al Shabab",
-    "logo": "img/sa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/al-kholood-vs-al-shabab-2573352",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T16:45:00Z",
-    "hora_fin_utc": "2026-09-09T19:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "VfB Stuttgart vs viking",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/stuttgart-vs-viking-2594578",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T16:45:00Z",
-    "hora_fin_utc": "2026-09-09T19:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "Barcelona SC vs Feyenoord",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/barcelona-vs-feyenoord-2594617",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T16:45:00Z",
-    "hora_fin_utc": "2026-09-09T19:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "FC Twente vs SC Telstar",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/twente-vs-telstar-2489109",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T17:10:00Z",
-    "hora_fin_utc": "2026-09-09T20:25:00Z",
-    "liga": "MLB",
-    "equipos": "Detroit Tigers vs Minnesota Twins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/detroit-tigers-vs-minnesota-twins-2498305",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:00:00Z",
-    "hora_fin_utc": "2026-09-09T20:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "Al Fateh vs al-diriyah",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/al-fateh-vs-al-diriyah-2573353",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:00:00Z",
-    "hora_fin_utc": "2026-09-09T20:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "abha vs Al Nassr",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/al-nassr-vs-abha-2573354",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:45:00Z",
-    "hora_fin_utc": "2026-09-09T21:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "crowborough athletic vs whyteleafe",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/whyteleafe-vs-crowborough-athletic-2599995",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:45:00Z",
-    "hora_fin_utc": "2026-09-09T21:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "banbury united vs exmouth town",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/exmouth-town-vs-banbury-united-2600008",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:45:00Z",
-    "hora_fin_utc": "2026-09-09T21:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "bishop auckland vs emley",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/bishop-auckland-vs-emley-2600439",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:45:00Z",
-    "hora_fin_utc": "2026-09-09T21:05:00Z",
-    "liga": "Championship",
-    "equipos": "Derby County vs West Bromwich Albion",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/derby-county-vs-west-bromwich-albion-2501317",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T18:45:00Z",
-    "hora_fin_utc": "2026-09-09T21:05:00Z",
-    "liga": "Championship",
-    "equipos": "Birmingham City vs Norwich City",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/norwich-city-vs-birmingham-city-2501318",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:00:00Z",
-    "hora_fin_utc": "2026-09-09T21:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "Atlético de Madrid vs Liverpool",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/liverpool-vs-atletico-madrid-2594541",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:00:00Z",
-    "hora_fin_utc": "2026-09-09T21:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "Paris Saint-Germain vs slovan bratislava",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/paris-saint-germain-vs-slovan-bratislava-2594562",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:00:00Z",
-    "hora_fin_utc": "2026-09-09T21:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "Galatasaray vs Sporting CP",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/sporting-cp-vs-galatasaray-2594597",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:00:00Z",
-    "hora_fin_utc": "2026-09-09T21:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "Arsenal vs Napoli",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/napoli-vs-arsenal-2594603",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:00:00Z",
-    "hora_fin_utc": "2026-09-09T21:20:00Z",
-    "liga": "Premier League",
-    "equipos": "Chelsea vs Leeds United",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chelsea-vs-leeds-united-2595205",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:00:00Z",
-    "hora_fin_utc": "2026-09-09T21:20:00Z",
-    "liga": "Championship",
-    "equipos": "Charlton Athletic vs Queens Park Rangers",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/charlton-athletic-vs-queens-park-rangers-2501319",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:05:00Z",
-    "hora_fin_utc": "2026-09-09T22:20:00Z",
-    "liga": "MLB",
-    "equipos": "Oakland Athletics vs Toronto Blue Jays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/athletics-vs-toronto-blue-jays-2498306",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:45:00Z",
-    "hora_fin_utc": "2026-09-09T23:00:00Z",
-    "liga": "MLB",
-    "equipos": "San Francisco Giants vs St. Louis Cardinals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/san-francisco-giants-vs-st-louis-cardinals-2498307",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T19:45:00Z",
-    "hora_fin_utc": "2026-09-09T22:05:00Z",
-    "liga": "Primeira Liga",
-    "equipos": "Moreirense FC vs SL Benfica",
-    "logo": "img/pt.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/moreirense-vs-benfica-2513954",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T20:10:00Z",
-    "hora_fin_utc": "2026-09-09T23:25:00Z",
-    "liga": "MLB",
-    "equipos": "San Diego Padres vs Washington Nationals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/san-diego-padres-vs-washington-nationals-2498308",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T20:10:00Z",
-    "hora_fin_utc": "2026-09-09T23:25:00Z",
-    "liga": "MLB",
-    "equipos": "Seattle Mariners vs Texas Rangers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/seattle-mariners-vs-texas-rangers-2498309",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/seattle-mariners-vs-texas-rangers-2521127",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T22:35:00Z",
-    "hora_fin_utc": "2026-09-10T01:50:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Cleveland Guardians",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/baltimore-orioles-vs-cleveland-guardians-2498310",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T22:40:00Z",
-    "hora_fin_utc": "2026-09-10T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Miami Marlins vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/miami-marlins-vs-new-york-mets-2498311",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T22:40:00Z",
-    "hora_fin_utc": "2026-09-10T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Houston Astros vs Philadelphia Phillies",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/philadelphia-phillies-vs-houston-astros-2498312",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/philadelphia-phillies-vs-houston-astros-2521126",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T22:45:00Z",
-    "hora_fin_utc": "2026-09-10T02:00:00Z",
-    "liga": "MLB",
-    "equipos": "Boston Red Sox vs Los Angeles Angels",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/boston-red-sox-vs-los-angeles-angels-2498313",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:05:00Z",
-    "hora_fin_utc": "2026-09-10T02:20:00Z",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs New York Yankees",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-york-yankees-vs-colorado-rockies-2498314",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-york-yankees-vs-colorado-rockies-2521128",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:15:00Z",
-    "hora_fin_utc": "2026-09-10T02:30:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/atlanta-braves-vs-tampa-bay-rays-2498315",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/atlanta-braves-vs-tampa-bay-rays-2521125",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:30:00Z",
-    "hora_fin_utc": "2026-09-10T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "Atlanta United vs Orlando City",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/atlanta-united-vs-orlando-city-2407054",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:30:00Z",
-    "hora_fin_utc": "2026-09-10T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "Nashville SC vs Toronto FC",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/toronto-fc-vs-nashville-sc-2407055",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:30:00Z",
-    "hora_fin_utc": "2026-09-10T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "Columbus Crew vs DC United",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/dc-united-vs-columbus-crew-2407056",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:30:00Z",
-    "hora_fin_utc": "2026-09-10T01:50:00Z",
-    "liga": "MLS",
-    "equipos": "CF Montreal vs Charlotte FC",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/cf-montreal-vs-charlotte-fc-2407058",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:40:00Z",
-    "hora_fin_utc": "2026-09-10T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-white-sox-vs-pittsburgh-pirates-2498316",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-white-sox-vs-pittsburgh-pirates-2521129",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:40:00Z",
-    "hora_fin_utc": "2026-09-10T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs Kansas City Royals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/kansas-city-royals-vs-arizona-diamondbacks-2498317",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:40:00Z",
-    "hora_fin_utc": "2026-09-10T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Milwaukee Brewers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/milwaukee-brewers-vs-chicago-cubs-2498318",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-09T23:45:00Z",
-    "hora_fin_utc": "2026-09-10T02:05:00Z",
-    "liga": "MLS",
-    "equipos": "FC Cincinnati vs Philadelphia Union",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/philadelphia-union-vs-fc-cincinnati-2407053",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:00:00Z",
-    "hora_fin_utc": "2026-09-10T02:20:00Z",
-    "liga": "MLS",
-    "equipos": "New England Revolution vs New York City FC",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-york-city-fc-vs-new-england-revolution-2407057",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:00:00Z",
-    "hora_fin_utc": "2026-09-10T05:00:00Z",
-    "liga": "UFC",
-    "equipos": "pfl x rizin",
-    "logo": "img/ufc.png",
-    "sport": "ufc",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/pfl-x-rizin-2546536",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:20:00Z",
-    "hora_fin_utc": "2026-09-10T03:35:00Z",
-    "liga": "NFL",
-    "equipos": "new england patriots vs seattle seahawks",
-    "logo": "img/nfl.png",
-    "sport": "nfl",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/seattle-seahawks-vs-new-england-patriots-2475374",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:30:00Z",
-    "hora_fin_utc": "2026-09-10T02:50:00Z",
-    "liga": "MLS",
-    "equipos": "Chicago Fire vs Inter Miami",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-fire-vs-inter-miami-2407059",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:30:00Z",
-    "hora_fin_utc": "2026-09-10T02:50:00Z",
-    "liga": "MLS",
-    "equipos": "FC Dallas vs Minnesota United",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/minnesota-united-vs-fc-dallas-2407060",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:30:00Z",
-    "hora_fin_utc": "2026-09-10T02:50:00Z",
-    "liga": "MLS",
-    "equipos": "Austin FC vs Colorado Rapids",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/austin-fc-vs-colorado-rapids-2407061",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T00:30:00Z",
-    "hora_fin_utc": "2026-09-10T02:50:00Z",
-    "liga": "MLS",
-    "equipos": "Houston Dynamo vs Real Salt Lake",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/houston-dynamo-vs-real-salt-lake-2407062",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T02:10:00Z",
-    "hora_fin_utc": "2026-09-10T05:25:00Z",
-    "liga": "MLB",
-    "equipos": "Cincinnati Reds vs Los Angeles Dodgers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/los-angeles-dodgers-vs-cincinnati-reds-2521124",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T02:30:00Z",
-    "hora_fin_utc": "2026-09-10T04:50:00Z",
-    "liga": "MLS",
-    "equipos": "Los Angeles FC vs New York Red Bulls",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/los-angeles-fc-vs-new-york-red-bulls-2407063",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T02:30:00Z",
-    "hora_fin_utc": "2026-09-10T04:50:00Z",
-    "liga": "MLS",
-    "equipos": "LA Galaxy vs Vancouver Whitecaps",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/vancouver-whitecaps-vs-la-galaxy-2407064",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T02:30:00Z",
-    "hora_fin_utc": "2026-09-10T04:50:00Z",
-    "liga": "MLS",
-    "equipos": "San Diego FC vs San Jose Earthquakes",
-    "logo": "img/usa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/san-diego-fc-vs-san-jose-earthquakes-2407066",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T02:30:00Z",
-    "hora_fin_utc": "2026-09-10T04:50:00Z",
-    "liga": "Fútbol",
-    "equipos": "Portland Timbers vs st louis city sc",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/portland-timbers-vs-st-louis-city-sc-2407067",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T13:00:00Z",
-    "hora_fin_utc": "2026-09-10T15:20:00Z",
-    "liga": "Evento Deportivo",
-    "equipos": "espana sub-20 vs nueva caledonia sub-20",
-    "logo": "🏆",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TUDN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn_mx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T13:00:00Z",
-    "hora_fin_utc": "2026-09-10T15:20:00Z",
-    "liga": "Evento Deportivo",
-    "equipos": "corea del norte sub-20 vs costa rica sub-20",
-    "logo": "🏆",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-10T14:00:00Z",
     "hora_fin_utc": "2026-09-10T16:20:00Z",
     "liga": "UEFA Youth League",
@@ -835,6 +35,36 @@
       {
         "nombre": "Universo",
         "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T16:00:00Z",
+    "hora_fin_utc": "2026-09-10T18:20:00Z",
+    "liga": "Copa Centroamericana de CONCACAF",
+    "equipos": "Club Olimpia vs firpo",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T16:15:00Z",
+    "hora_fin_utc": "2026-09-10T19:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/atlanta-braves-vs-tampa-bay-rays-2521125",
         "calidad": "HD"
       }
     ]
@@ -920,6 +150,21 @@
     ]
   },
   {
+    "hora_utc": "2026-09-10T17:05:00Z",
+    "hora_fin_utc": "2026-09-10T20:20:00Z",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Philadelphia Phillies",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/philadelphia-phillies-vs-houston-astros-2521126",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-10T19:00:00Z",
     "hora_fin_utc": "2026-09-10T21:20:00Z",
     "liga": "UEFA Champions League",
@@ -945,6 +190,46 @@
       {
         "nombre": "MAX",
         "url": "https://la18hd.su/vivo/canal.php?stream=max2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T19:00:00Z",
+    "hora_fin_utc": "2026-09-10T21:20:00Z",
+    "liga": "League One",
+    "equipos": "luton town vs stevenage",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T19:00:00Z",
+    "hora_fin_utc": "2026-09-10T21:20:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "RC Lens vs slavia praha",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
         "calidad": "HD"
       }
     ]
@@ -985,6 +270,41 @@
       {
         "nombre": "UniMás",
         "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T19:00:00Z",
+    "hora_fin_utc": "2026-09-10T21:20:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "Como 1907 vs RB Leipzig",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/como-vs-rb-leipzig-2594669",
         "calidad": "HD"
       }
     ]
@@ -1035,21 +355,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-10T19:00:00Z",
-    "hora_fin_utc": "2026-09-10T21:20:00Z",
-    "liga": "Fútbol",
-    "equipos": "Como 1907 vs RB Leipzig",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/como-vs-rb-leipzig-2594669",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-10T19:15:00Z",
     "hora_fin_utc": "2026-09-10T21:35:00Z",
     "liga": "Primeira Liga",
@@ -1060,6 +365,51 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/estrela-amadora-vs-braga-2513960",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T20:10:00Z",
+    "hora_fin_utc": "2026-09-10T23:25:00Z",
+    "liga": "MLB",
+    "equipos": "Seattle Mariners vs Texas Rangers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/seattle-mariners-vs-texas-rangers-2521127",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T23:05:00Z",
+    "hora_fin_utc": "2026-09-11T02:20:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Yankees",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-york-yankees-vs-colorado-rockies-2521128",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-10T23:40:00Z",
+    "hora_fin_utc": "2026-09-11T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago White Sox vs Pittsburgh Pirates",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-white-sox-vs-pittsburgh-pirates-2521129",
         "calidad": "HD"
       }
     ]
@@ -1095,6 +445,81 @@
     ]
   },
   {
+    "hora_utc": "2026-09-11T00:30:00Z",
+    "hora_fin_utc": "2026-09-11T02:50:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Flamengo vs Independiente del Valle",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T00:30:00Z",
+    "hora_fin_utc": "2026-09-11T02:50:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Cienciano vs Montevideo City Torque",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Dsports HD",
+        "url": "https://la16hd.com/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports ARG",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-11T00:35:00Z",
     "hora_fin_utc": "2026-09-11T03:50:00Z",
     "liga": "NFL",
@@ -1105,6 +530,66 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/los-angeles-rams-vs-san-francisco-49ers-2475375",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T01:00:00Z",
+    "hora_fin_utc": "2026-09-11T03:20:00Z",
+    "liga": "Copa Centroamericana de CONCACAF",
+    "equipos": "alajuelense vs marathon",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T01:00:00Z",
+    "hora_fin_utc": "2026-09-11T03:20:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Deportivo Cali vs Millonarios",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T03:00:00Z",
+    "hora_fin_utc": "2026-09-11T05:20:00Z",
+    "liga": "Liga MX",
+    "equipos": "León vs Pumas UNAM",
+    "logo": "img/mx.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "UniMás",
+        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
         "calidad": "HD"
       }
     ]
@@ -1230,6 +715,21 @@
     ]
   },
   {
+    "hora_utc": "2026-09-11T18:20:00Z",
+    "hora_fin_utc": "2026-09-11T21:35:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Pittsburgh Pirates",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-cubs-vs-pittsburgh-pirates-2521130",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-11T18:30:00Z",
     "hora_fin_utc": "2026-09-11T20:50:00Z",
     "liga": "Fútbol",
@@ -1305,6 +805,36 @@
     ]
   },
   {
+    "hora_utc": "2026-09-11T22:40:00Z",
+    "hora_fin_utc": "2026-09-12T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs Detroit Tigers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/detroit-tigers-vs-colorado-rockies-2521131",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T22:45:00Z",
+    "hora_fin_utc": "2026-09-12T02:00:00Z",
+    "liga": "MLB",
+    "equipos": "Los Angeles Angels vs Washington Nationals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/washington-nationals-vs-los-angeles-angels-2521132",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-11T23:00:00Z",
     "hora_fin_utc": "2026-09-12T01:20:00Z",
     "liga": "CFB",
@@ -1350,6 +880,96 @@
     ]
   },
   {
+    "hora_utc": "2026-09-11T23:05:00Z",
+    "hora_fin_utc": "2026-09-12T02:20:00Z",
+    "liga": "MLB",
+    "equipos": "New York Mets vs New York Yankees",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-york-yankees-vs-new-york-mets-2521133",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T23:07:00Z",
+    "hora_fin_utc": "2026-09-12T02:22:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Toronto Blue Jays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/toronto-blue-jays-vs-baltimore-orioles-2521134",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T23:10:00Z",
+    "hora_fin_utc": "2026-09-12T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Kansas City Royals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/boston-red-sox-vs-kansas-city-royals-2521135",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T23:10:00Z",
+    "hora_fin_utc": "2026-09-12T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Los Angeles Dodgers vs Miami Marlins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/miami-marlins-vs-los-angeles-dodgers-2521136",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T23:10:00Z",
+    "hora_fin_utc": "2026-09-12T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/tampa-bay-rays-vs-houston-astros-2521137",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T23:15:00Z",
+    "hora_fin_utc": "2026-09-12T02:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Philadelphia Phillies",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/atlanta-braves-vs-philadelphia-phillies-2521138",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-11T23:30:00Z",
     "hora_fin_utc": "2026-09-12T01:50:00Z",
     "liga": "CFB",
@@ -1360,6 +980,1191 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/boston-college-vs-rutgers-2498670",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-11T23:45:00Z",
+    "hora_fin_utc": "2026-09-12T03:00:00Z",
+    "liga": "MLB",
+    "equipos": "Cincinnati Reds vs Milwaukee Brewers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/milwaukee-brewers-vs-cincinnati-reds-2521139",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T00:00:00Z",
+    "hora_fin_utc": "2026-09-12T05:00:00Z",
+    "liga": "UFC",
+    "equipos": "silva vs ufc fight night 288 rodriguez",
+    "logo": "img/ufc.png",
+    "sport": "ufc",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/ufc-fight-night-288-rodriguez-vs-silva-2541769",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T00:00:00Z",
+    "hora_fin_utc": "2026-09-12T02:20:00Z",
+    "liga": "CFB",
+    "equipos": "kansas vs missouri",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/kansas-vs-missouri-2498671",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T00:00:00Z",
+    "hora_fin_utc": "2026-09-12T02:20:00Z",
+    "liga": "CFB",
+    "equipos": "chicago state vs kentucky christian",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chicago-state-vs-kentucky-christian-2598779",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T00:10:00Z",
+    "hora_fin_utc": "2026-09-12T03:25:00Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Minnesota Twins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/minnesota-twins-vs-cleveland-guardians-2521140",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T00:15:00Z",
+    "hora_fin_utc": "2026-09-12T03:30:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago White Sox vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/st-louis-cardinals-vs-chicago-white-sox-2521141",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T01:40:00Z",
+    "hora_fin_utc": "2026-09-12T04:55:00Z",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs Texas Rangers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/arizona-diamondbacks-vs-texas-rangers-2521142",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T01:40:00Z",
+    "hora_fin_utc": "2026-09-12T04:55:00Z",
+    "liga": "MLB",
+    "equipos": "Oakland Athletics vs Seattle Mariners",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/athletics-vs-seattle-mariners-2521143",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T02:15:00Z",
+    "hora_fin_utc": "2026-09-12T05:30:00Z",
+    "liga": "MLB",
+    "equipos": "San Diego Padres vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/san-francisco-giants-vs-san-diego-padres-2521144",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T08:10:00Z",
+    "hora_fin_utc": "2026-09-12T10:30:00Z",
+    "liga": "MotoGP",
+    "equipos": "san marino free practice 2",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/san-marino-free-practice-2-2568474",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T08:50:00Z",
+    "hora_fin_utc": "2026-09-12T11:10:00Z",
+    "liga": "MotoGP",
+    "equipos": "san marino qualifying 1",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/san-marino-qualifying-1-2568415",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T09:15:00Z",
+    "hora_fin_utc": "2026-09-12T11:35:00Z",
+    "liga": "MotoGP",
+    "equipos": "san marino qualifying 2",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/san-marino-qualifying-2-2568416",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T10:30:00Z",
+    "hora_fin_utc": "2026-09-12T12:50:00Z",
+    "liga": "Formula 1",
+    "equipos": "spanish grand prix practice 3",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/spanish-grand-prix-practice-3-2408917",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T11:30:00Z",
+    "hora_fin_utc": "2026-09-12T13:50:00Z",
+    "liga": "Championship",
+    "equipos": "Queens Park Rangers vs West Bromwich Albion",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/west-bromwich-albion-vs-queens-park-rangers-2501325",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T11:30:00Z",
+    "hora_fin_utc": "2026-09-12T13:50:00Z",
+    "liga": "Fútbol",
+    "equipos": "bolton wanderers vs cardiff city",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/bolton-wanderers-vs-cardiff-city-2501328",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T11:30:00Z",
+    "hora_fin_utc": "2026-09-12T13:50:00Z",
+    "liga": "Championship",
+    "equipos": "Birmingham City vs Derby County",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/derby-county-vs-birmingham-city-2501329",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T12:00:00Z",
+    "hora_fin_utc": "2026-09-12T14:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "Deportivo Alavés vs racing de santander",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/racing-de-santander-vs-deportivo-alaves-2506218",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:00:00Z",
+    "hora_fin_utc": "2026-09-12T15:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "frosinone vs Genoa",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/genoa-vs-frosinone-2482171",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:00:00Z",
+    "hora_fin_utc": "2026-09-12T15:20:00Z",
+    "liga": "MotoGP",
+    "equipos": "san marino sprint race",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/san-marino-sprint-race-2368489",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:30:00Z",
+    "hora_fin_utc": "2026-09-12T15:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "Borussia Mönchengladbach vs SC Freiburg",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/freiburg-vs-borussia-monchengladbach-2508351",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:30:00Z",
+    "hora_fin_utc": "2026-09-12T15:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "Eintracht Frankfurt vs Mainz 05",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/mainz-vs-eintracht-frankfurt-2508352",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:30:00Z",
+    "hora_fin_utc": "2026-09-12T15:50:00Z",
+    "liga": "Fútbol",
+    "equipos": "Borussia Dortmund vs paderborn",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/borussia-dortmund-vs-paderborn-2508353",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:30:00Z",
+    "hora_fin_utc": "2026-09-12T15:50:00Z",
+    "liga": "Fútbol",
+    "equipos": "TSG Hoffenheim vs VfB Stuttgart",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/hoffenheim-vs-stuttgart-2508354",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T13:30:00Z",
+    "hora_fin_utc": "2026-09-12T15:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "Bayer Leverkusen vs FC Augsburg",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/augsburg-vs-bayer-leverkusen-2508355",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "AFC Bournemouth vs Brentford",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/bournemouth-vs-brentford-2494031",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Fulham vs Liverpool",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/liverpool-vs-fulham-2494032",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "Chelsea vs Hull City",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/chelsea-vs-hull-city-2494034",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "Crystal Palace vs Ipswich Town",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/crystal-palace-vs-ipswich-town-2494035",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Aston Villa vs Nottingham Forest",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/aston-villa-vs-nottingham-forest-2494037",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Championship",
+    "equipos": "Stoke City vs Watford",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/watford-vs-stoke-city-2501321",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Championship",
+    "equipos": "Bristol City vs Southampton",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/southampton-vs-bristol-city-2501322",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "lincoln city vs Preston North End",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/preston-north-end-vs-lincoln-city-2501324",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Championship",
+    "equipos": "Blackburn Rovers vs Millwall",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/blackburn-rovers-vs-millwall-2501327",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Championship",
+    "equipos": "Middlesbrough vs Norwich City",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/middlesbrough-vs-norwich-city-2501330",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "Burnley vs Swansea City",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/swansea-city-vs-burnley-2501331",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Championship",
+    "equipos": "Charlton Athletic vs Portsmouth",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/charlton-athletic-vs-portsmouth-2501332",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:00:00Z",
+    "hora_fin_utc": "2026-09-12T16:20:00Z",
+    "liga": "Formula 1",
+    "equipos": "spanish grand prix qualifying",
+    "logo": "img/formula1.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/spanish-grand-prix-qualifying-2408918",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:15:00Z",
+    "hora_fin_utc": "2026-09-12T16:35:00Z",
+    "liga": "LaLiga",
+    "equipos": "Espanyol vs Osasuna",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/osasuna-vs-espanyol-2506217",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:30:00Z",
+    "hora_fin_utc": "2026-09-12T16:50:00Z",
+    "liga": "Fútbol",
+    "equipos": "Alverca vs nacional de madeira",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/nacional-de-madeira-vs-alverca-2513982",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T14:30:00Z",
+    "hora_fin_utc": "2026-09-12T16:50:00Z",
+    "liga": "Fútbol",
+    "equipos": "ado den haag vs FC Twente",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/twente-vs-ado-den-haag-2489111",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T15:15:00Z",
+    "hora_fin_utc": "2026-09-12T17:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "AS Monaco vs RC Strasbourg",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/strasbourg-vs-monaco-2489491",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T15:50:00Z",
+    "hora_fin_utc": "2026-09-12T18:10:00Z",
+    "liga": "Fútbol",
+    "equipos": "Al-Hilal vs al-taawoun",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-taawoun-vs-al-hilal-2573359",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "Serie A",
+    "equipos": "AC Milan vs Lazio",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/lazio-vs-ac-milan-2482168",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "michigan vs oklahoma",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/michigan-vs-oklahoma-2498675",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "arizona state vs texas a and m",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/texas-a-and-m-vs-arizona-state-2498676",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "kansas state vs washington state",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/kansas-state-vs-washington-state-2498677",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "oklahoma state vs oregon",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/oklahoma-state-vs-oregon-2498678",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "east tennessee state vs north carolina",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/north-carolina-vs-east-tennessee-state-2498679",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "old dominion vs virginia tech",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/virginia-tech-vs-old-dominion-2498680",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "purdue vs wake forest",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/purdue-vs-wake-forest-2498681",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "howard vs indiana",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/indiana-vs-howard-2498682",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "penn state vs temple",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/temple-vs-penn-state-2498683",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "army vs south florida",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/army-vs-south-florida-2498684",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "appalachian state vs east carolina",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/east-carolina-vs-appalachian-state-2498685",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "kent state vs wofford",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/kent-state-vs-wofford-2498686",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:00:00Z",
+    "hora_fin_utc": "2026-09-12T18:20:00Z",
+    "liga": "CFB",
+    "equipos": "albany vs long island",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/long-island-vs-albany-2593876",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:30:00Z",
+    "hora_fin_utc": "2026-09-12T18:50:00Z",
+    "liga": "Premier League",
+    "equipos": "Everton vs Tottenham Hotspur",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/tottenham-hotspur-vs-everton-2494033",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:30:00Z",
+    "hora_fin_utc": "2026-09-12T18:50:00Z",
+    "liga": "LaLiga",
+    "equipos": "Athletic Club vs Elche",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/athletic-bilbao-vs-elche-2506209",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:30:00Z",
+    "hora_fin_utc": "2026-09-12T18:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "1. FC Köln vs Werder Bremen",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/koln-vs-werder-bremen-2508358",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T16:45:00Z",
+    "hora_fin_utc": "2026-09-12T19:05:00Z",
+    "liga": "Eredivisie",
+    "equipos": "FC Groningen vs Go Ahead Eagles",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/go-ahead-eagles-vs-groningen-2489112",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T17:00:00Z",
+    "hora_fin_utc": "2026-09-12T19:20:00Z",
+    "liga": "Primeira Liga",
+    "equipos": "Casa Pia AC vs FC Porto",
+    "logo": "img/pt.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/casa-pia-vs-porto-2513987",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:00:00Z",
+    "hora_fin_utc": "2026-09-12T20:20:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Khaleej vs Al Nassr",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-khaleej-vs-al-nassr-2573355",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:00:00Z",
+    "hora_fin_utc": "2026-09-12T20:20:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Fayha vs Al Shabab",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/al-shabab-vs-al-fayha-2573360",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:00:00Z",
+    "hora_fin_utc": "2026-09-12T20:20:00Z",
+    "liga": "Eredivisie",
+    "equipos": "Ajax vs Fortuna Sittard",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/fortuna-sittard-vs-ajax-2489113",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:45:00Z",
+    "hora_fin_utc": "2026-09-12T21:05:00Z",
+    "liga": "Serie A",
+    "equipos": "Atalanta vs Cagliari",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/atalanta-vs-cagliari-2482172",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:45:00Z",
+    "hora_fin_utc": "2026-09-12T21:05:00Z",
+    "liga": "Ligue 1",
+    "equipos": "FC Lorient vs Toulouse FC",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/lorient-vs-toulouse-2489492",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:45:00Z",
+    "hora_fin_utc": "2026-09-12T21:05:00Z",
+    "liga": "Ligue 1",
+    "equipos": "AJ Auxerre vs OGC Nice",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/auxerre-vs-nice-2489494",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:45:00Z",
+    "hora_fin_utc": "2026-09-12T21:05:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Angers SCO vs Le Havre AC",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/le-havre-vs-angers-2489495",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T18:45:00Z",
+    "hora_fin_utc": "2026-09-12T21:05:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Olympique Lyonnais vs Paris FC",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/paris-fc-vs-lyon-2489496",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T19:00:00Z",
+    "hora_fin_utc": "2026-09-12T21:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Arsenal vs Sunderland",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/sunderland-vs-arsenal-2494038",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T19:00:00Z",
+    "hora_fin_utc": "2026-09-12T21:20:00Z",
+    "liga": "LaLiga",
+    "equipos": "Rayo Vallecano vs Real Madrid",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/real-madrid-vs-rayo-vallecano-2506214",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T19:00:00Z",
+    "hora_fin_utc": "2026-09-12T21:20:00Z",
+    "liga": "Fútbol",
+    "equipos": "cambuur vs NEC Nijmegen",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/cambuur-vs-nec-nijmegen-2489117",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T19:30:00Z",
+    "hora_fin_utc": "2026-09-12T21:50:00Z",
+    "liga": "Fútbol",
+    "equipos": "academico de viseu vs Vitória Guimarães",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/academico-de-viseu-vs-vitoria-de-guimaraes-2513984",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T21:00:00Z",
+    "hora_fin_utc": "2026-09-13T02:00:00Z",
+    "liga": "Boxing",
+    "equipos": "conor benn vs ryan garcia",
+    "logo": "img/box.png",
+    "sport": "box",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/ryan-garcia-vs-conor-benn-2548270",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T23:30:00Z",
+    "hora_fin_utc": "2026-09-13T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "Inter Miami vs Nashville SC",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/inter-miami-vs-nashville-sc-2407068",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T23:30:00Z",
+    "hora_fin_utc": "2026-09-13T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "Columbus Crew vs New York Red Bulls",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/columbus-crew-vs-new-york-red-bulls-2407069",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T23:30:00Z",
+    "hora_fin_utc": "2026-09-13T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "Charlotte FC vs FC Cincinnati",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/fc-cincinnati-vs-charlotte-fc-2407070",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T23:30:00Z",
+    "hora_fin_utc": "2026-09-13T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "Orlando City vs Toronto FC",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/orlando-city-vs-toronto-fc-2407071",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-12T23:30:00Z",
+    "hora_fin_utc": "2026-09-13T01:50:00Z",
+    "liga": "MLS",
+    "equipos": "Atlanta United vs DC United",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/dc-united-vs-atlanta-united-2407072",
         "calidad": "HD"
       }
     ]
