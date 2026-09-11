@@ -1,5 +1,20 @@
 [
   {
+    "hora_utc": "2026-09-10T16:15:00Z",
+    "hora_fin_utc": "2026-09-10T19:30:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/atlanta-braves-vs-tampa-bay-rays-2521125",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-10T16:45:00Z",
     "hora_fin_utc": "2026-09-10T19:05:00Z",
     "liga": "Fútbol",
@@ -135,136 +150,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-10T23:05:00Z",
-    "hora_fin_utc": "2026-09-11T02:20:00Z",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs New York Yankees",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-york-yankees-vs-colorado-rockies-2521128",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-10T23:40:00Z",
-    "hora_fin_utc": "2026-09-11T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/chicago-white-sox-vs-pittsburgh-pirates-2521129",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T00:00:00Z",
-    "hora_fin_utc": "2026-09-11T02:20:00Z",
-    "liga": "CFB",
-    "equipos": "florida a and m vs miami fl",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/miami-fl-vs-florida-a-and-m-2498666",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T00:00:00Z",
-    "hora_fin_utc": "2026-09-11T03:00:00Z",
-    "liga": "WWE",
-    "equipos": "smackdown 1412",
-    "logo": "img/wwe.png",
-    "sport": "wwe",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/smackdown-1412-2514763",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T00:30:00Z",
-    "hora_fin_utc": "2026-09-11T02:50:00Z",
-    "liga": "Copa Libertadores",
-    "equipos": "Flamengo vs Independiente del Valle",
-    "logo": "img/lib.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T00:30:00Z",
-    "hora_fin_utc": "2026-09-11T02:50:00Z",
-    "liga": "Copa Sudamericana",
-    "equipos": "Cienciano vs Montevideo City Torque",
-    "logo": "img/sud.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-11T00:35:00Z",
     "hora_fin_utc": "2026-09-11T03:50:00Z",
     "liga": "NFL",
@@ -275,81 +160,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/los-angeles-rams-vs-san-francisco-49ers-2475375",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T01:00:00Z",
-    "hora_fin_utc": "2026-09-11T03:20:00Z",
-    "liga": "Copa Centroamericana de CONCACAF",
-    "equipos": "alajuelense vs marathon",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T01:00:00Z",
-    "hora_fin_utc": "2026-09-11T03:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Deportivo Cali vs Millonarios",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T03:00:00Z",
-    "hora_fin_utc": "2026-09-11T05:20:00Z",
-    "liga": "Copa Centroamericana de CONCACAF",
-    "equipos": "Club Olimpia vs firpo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-11T03:00:00Z",
-    "hora_fin_utc": "2026-09-11T05:20:00Z",
-    "liga": "Liga MX",
-    "equipos": "León vs Pumas UNAM",
-    "logo": "img/mx.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "UniMás",
-        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
         "calidad": "HD"
       }
     ]
