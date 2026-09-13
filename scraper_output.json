@@ -1994,58 +1994,6 @@
     "hora_utc": "2026-09-13T14:15:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
-    "equipos": "levante vs barcelona",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Levante vs Barcelona"
-  },
-  {
-    "hora_utc": "2026-09-13T14:15:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga 2",
-    "equipos": "real valladolid vs real oviedo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Real Valladolid vs Real Oviedo"
-  },
-  {
-    "hora_utc": "2026-09-13T14:15:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
     "equipos": "barcelona vs levante",
     "status": "LIVE",
     "canales": [
@@ -2057,27 +2005,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Barcelona vs Levante"
-  },
-  {
-    "hora_utc": "2026-09-13T14:45:00Z",
-    "logo": "img/nl.png",
-    "liga": "Eredivisie",
-    "equipos": "pec zwolle vs feyenoord",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "PEC Zwolle vs Feyenoord"
   },
   {
     "hora_utc": "2026-09-13T14:45:00Z",
@@ -2096,124 +2023,20 @@
     "equipos_original": "Feyenoord vs PEC Zwolle"
   },
   {
-    "hora_utc": "2026-09-13T15:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "deportivo moquegua vs sporting cristal",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Moquegua vs Sporting Cristal"
-  },
-  {
     "hora_utc": "2026-09-13T15:15:00Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
+    "logo": "img/default.png",
+    "liga": "Fútbol",
     "equipos": "le mans vs lens",
-    "status": "pronto",
+    "status": "LIVE",
     "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/le-mans-vs-lens-2489497",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd",
+    "fuente": "github_all",
     "equipos_original": "Le Mans vs Lens"
-  },
-  {
-    "hora_utc": "2026-09-13T15:30:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
-    "equipos": "manchester united vs manchester city",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=max2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Manchester United vs Manchester City"
-  },
-  {
-    "hora_utc": "2026-09-13T15:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "river plate vs fenix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "River Plate vs Fénix"
-  },
-  {
-    "hora_utc": "2026-09-13T15:30:00Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "elversberg vs bayern munchen",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Elversberg vs Bayern München"
   },
   {
     "hora_utc": "2026-09-13T15:30:00Z",
@@ -2246,48 +2069,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Bayern Munich vs Elversberg"
-  },
-  {
-    "hora_utc": "2026-09-13T16:00:00Z",
-    "logo": "img/it.png",
-    "liga": "Serie A",
-    "equipos": "napoli vs bologna",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Napoli vs Bologna"
-  },
-  {
-    "hora_utc": "2026-09-13T16:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "juventud vs danubio",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Juventud vs Danubio"
   },
   {
     "hora_utc": "2026-09-13T16:00:00Z",
