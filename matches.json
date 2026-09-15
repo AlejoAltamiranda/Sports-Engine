@@ -275,86 +275,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-15T18:00:00Z",
-    "hora_fin_utc": "2026-09-15T20:20:00Z",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Valencia CF",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnplus2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/deportivo-alaves-vs-valencia-2506223",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-15T18:00:00Z",
-    "hora_fin_utc": "2026-09-15T20:20:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Ajax vs willem ii",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/ajax-vs-willem-ii-2489119",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-15T18:15:00Z",
-    "hora_fin_utc": "2026-09-15T20:35:00Z",
-    "liga": "AFC Champions League Elite",
-    "equipos": "al gharafa vs Al-Hilal",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-15T18:30:00Z",
     "hora_fin_utc": "2026-09-15T20:50:00Z",
     "liga": "Fútbol",
@@ -372,26 +292,6 @@
   {
     "hora_utc": "2026-09-15T18:45:00Z",
     "hora_fin_utc": "2026-09-15T21:05:00Z",
-    "liga": "Premier League",
-    "equipos": "Fulham vs West Ham United",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/west-ham-united-vs-fulham-2595204",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-15T18:45:00Z",
-    "hora_fin_utc": "2026-09-15T21:05:00Z",
     "liga": "Fútbol",
     "equipos": "burgess hill town vs jersey bulls",
     "logo": "img/default.png",
@@ -400,6 +300,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/jersey-bulls-vs-burgess-hill-town-2600012",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-15T18:45:00Z",
+    "hora_fin_utc": "2026-09-15T21:05:00Z",
+    "liga": "Premier League",
+    "equipos": "Fulham vs West Ham United",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/west-ham-united-vs-fulham-2595204",
         "calidad": "HD"
       }
     ]
@@ -437,31 +352,26 @@
   {
     "hora_utc": "2026-09-15T19:00:00Z",
     "hora_fin_utc": "2026-09-15T21:20:00Z",
+    "liga": "Serie A",
+    "equipos": "Fiorentina vs Pisa",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/fiorentina-vs-pisa-2579099",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-15T19:00:00Z",
+    "hora_fin_utc": "2026-09-15T21:20:00Z",
     "liga": "Premier League",
     "equipos": "Liverpool vs Tottenham Hotspur",
     "logo": "img/en.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/liverpool-vs-tottenham-hotspur-2594454",
@@ -472,16 +382,11 @@
   {
     "hora_utc": "2026-09-15T19:00:00Z",
     "hora_fin_utc": "2026-09-15T21:20:00Z",
-    "liga": "Carabao Cup",
+    "liga": "Fútbol",
     "equipos": "Brentford vs reading",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/reading-vs-brentford-2594458",
@@ -492,49 +397,14 @@
   {
     "hora_utc": "2026-09-15T19:00:00Z",
     "hora_fin_utc": "2026-09-15T21:20:00Z",
-    "liga": "Carabao Cup",
+    "liga": "Fútbol",
     "equipos": "Arsenal vs Ipswich Town",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/ipswich-town-vs-arsenal-2594459",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-15T19:00:00Z",
-    "hora_fin_utc": "2026-09-15T21:20:00Z",
-    "liga": "Serie A",
-    "equipos": "Fiorentina vs Pisa",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Dsports+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsportsplus.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=eventos15",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/fiorentina-vs-pisa-2579099",
         "calidad": "HD"
       }
     ]
@@ -547,41 +417,6 @@
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnplus3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/elche-vs-real-madrid-2506228",
@@ -615,8 +450,8 @@
     ]
   },
   {
-    "hora_utc": "2026-09-15T22:30:00Z",
-    "hora_fin_utc": "2026-09-16T00:50:00Z",
+    "hora_utc": "2026-09-15T22:00:00Z",
+    "hora_fin_utc": "2026-09-16T00:20:00Z",
     "liga": "Copa Libertadores",
     "equipos": "Fluminense vs Platense",
     "logo": "img/lib.png",
