@@ -240,71 +240,16 @@
     ]
   },
   {
-    "hora_utc": "2026-09-14T18:15:00Z",
-    "hora_fin_utc": "2026-09-14T20:35:00Z",
-    "liga": "AFC Champions League Elite",
-    "equipos": "Al Ahli SC vs pakhtakor",
-    "logo": "img/champions.png",
+    "hora_utc": "2026-09-14T19:00:00Z",
+    "hora_fin_utc": "2026-09-14T21:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Leeds United vs Newcastle United",
+    "logo": "img/en.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-14T18:30:00Z",
-    "hora_fin_utc": "2026-09-14T20:50:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "celta de vigo ii vs eibar",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-14T18:45:00Z",
-    "hora_fin_utc": "2026-09-14T21:05:00Z",
-    "liga": "Serie A",
-    "equipos": "Inter Milan vs Udinese",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
-        "url": "https://istreameast.cx/links/inter-milan-vs-udinese-2482174",
+        "url": "https://istreameast.cx/links/leeds-united-vs-newcastle-united-2494036",
         "calidad": "HD"
       }
     ]
@@ -318,53 +263,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN3",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/villarreal-vs-real-betis-2506210",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-14T19:00:00Z",
-    "hora_fin_utc": "2026-09-14T21:20:00Z",
-    "liga": "Premier League",
-    "equipos": "Leeds United vs Newcastle United",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/leeds-united-vs-newcastle-united-2494036",
         "calidad": "HD"
       }
     ]
@@ -395,21 +295,6 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/braga-vs-estoril-praia-2513981",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-14T20:00:00Z",
-    "hora_fin_utc": "2026-09-14T23:15:00Z",
-    "liga": "NFL",
-    "equipos": "nfl redzone",
-    "logo": "img/nfl.png",
-    "sport": "nfl",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/nfl-redzone-999999",
         "calidad": "HD"
       }
     ]
@@ -705,11 +590,6 @@
       {
         "nombre": "ESPN2",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
         "calidad": "HD"
       },
       {
