@@ -313,99 +313,6 @@
     "equipos_original": "Arizona Diamondbacks vs Miami Marlins"
   },
   {
-    "hora_utc": "2026-09-16T13:00:00Z",
-    "logo": "🏆",
-    "liga": "Evento Deportivo",
-    "equipos": "argentina sub-20 vs corea del sur sub-20",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Argentina Sub-20 vs Corea del Sur Sub-20"
-  },
-  {
-    "hora_utc": "2026-09-16T13:00:00Z",
-    "logo": "🏆",
-    "liga": "Evento Deportivo",
-    "equipos": "brasil sub-20 vs estados unidos sub-20",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsportsplus.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports+ | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=eventos15",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn_mx",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Brasil Sub-20 vs Estados Unidos Sub-20"
-  },
-  {
-    "hora_utc": "2026-09-16T15:00:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "sunderland vs az",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN7",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN7 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Cazé TV",
-        "url": "https://la16hd.com/cazetv.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "CazeTV",
-        "url": "https://la18hd.su/cazetv1.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Sunderland vs AZ"
-  },
-  {
     "hora_utc": "2026-09-16T16:00:00Z",
     "logo": "img/champions.png",
     "liga": "AFC Champions League",
@@ -514,7 +421,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "celta vigo vs omonia nicosia",
-    "status": "5 hours from now",
+    "status": "9 minutes from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -530,7 +437,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "ararat-armenia vs sparta prague",
-    "status": "5 hours from now",
+    "status": "9 minutes from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -618,7 +525,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "deportivo de a coruna vs sevilla",
-    "status": "5 hours from now",
+    "status": "24 minutes from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -671,7 +578,7 @@
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "everton vs wolverhampton wanderers",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -872,10 +779,46 @@
   },
   {
     "hora_utc": "2026-09-16T19:00:00Z",
+    "logo": "img/europa_league.png",
+    "liga": "UEFA Europa League",
+    "equipos": "sunderland vs az",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN7 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Cazé TV",
+        "url": "https://la16hd.com/cazetv.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "CazeTV",
+        "url": "https://la18hd.su/cazetv1.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Sunderland vs AZ"
+  },
+  {
+    "hora_utc": "2026-09-16T19:00:00Z",
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "ac milan vs benfica",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -891,7 +834,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "jagiellonia biaystok vs olympiacos",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -907,7 +850,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "anderlecht vs lyon",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -923,7 +866,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "dinamo zagreb vs hapoel beer sheva",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -939,7 +882,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "rennes vs sturm graz",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -955,7 +898,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "az alkmaar vs sunderland",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -971,7 +914,7 @@
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "brighton and hove albion vs manchester united",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -987,7 +930,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "aston villa vs coventry city",
-    "status": "7 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1070,7 +1013,7 @@
     "logo": "img/default.png",
     "liga": "Fútbol",
     "equipos": "barcelona vs racing de santander",
-    "status": "8 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
@@ -1086,7 +1029,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "athletic bilbao vs levante",
-    "status": "8 hours from now",
+    "status": "2 hours from now",
     "canales": [
       {
         "nombre": "Stream",
