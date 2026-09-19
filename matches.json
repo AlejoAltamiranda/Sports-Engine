@@ -108,15 +108,25 @@
     "hora_utc": "2026-09-19T13:30:00Z",
     "hora_fin_utc": "2026-09-19T15:50:00Z",
     "liga": "Bundesliga",
-    "equipos": "Borussia Mönchengladbach vs Mainz 05",
+    "equipos": "FC Augsburg vs Werder Bremen",
     "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/werder-bremen-vs-augsburg-2508361",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T13:30:00Z",
+    "hora_fin_utc": "2026-09-19T15:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "Borussia Mönchengladbach vs Mainz 05",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/borussia-monchengladbach-vs-mainz-2508362",
@@ -133,16 +143,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/eintracht-frankfurt-vs-freiburg-2508364",
         "calidad": "HD"
@@ -158,11 +158,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/hamburg-vs-koln-2508367",
         "calidad": "HD"
@@ -170,88 +165,13 @@
     ]
   },
   {
-    "hora_utc": "2026-09-19T13:30:00Z",
-    "hora_fin_utc": "2026-09-19T15:50:00Z",
-    "liga": "Bundesliga",
-    "equipos": "FC Augsburg vs Werder Bremen",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/werder-bremen-vs-augsburg-2508361",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-19T14:00:00Z",
     "hora_fin_utc": "2026-09-19T16:20:00Z",
-    "liga": "Premier League",
-    "equipos": "Arsenal vs brighton amp hove albion",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-19T14:00:00Z",
-    "hora_fin_utc": "2026-09-19T16:20:00Z",
-    "liga": "Premier League",
+    "liga": "Fútbol",
     "equipos": "Hull City vs Newcastle United",
-    "logo": "img/en.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=max2",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/newcastle-united-vs-hull-city-2494040",
@@ -262,39 +182,14 @@
   {
     "hora_utc": "2026-09-19T14:00:00Z",
     "hora_fin_utc": "2026-09-19T16:20:00Z",
-    "liga": "Premier League",
+    "liga": "Fútbol",
     "equipos": "Everton vs Ipswich Town",
-    "logo": "img/en.png",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
-        "calidad": "HD"
-      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/everton-vs-ipswich-town-2494043",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-19T14:00:00Z",
-    "hora_fin_utc": "2026-09-19T16:20:00Z",
-    "liga": "Championship",
-    "equipos": "Southampton vs Wrexham",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/wrexham-vs-southampton-2501344",
         "calidad": "HD"
       }
     ]
@@ -685,6 +580,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/lincoln-city-vs-swansea-city-2501343",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T14:00:00Z",
+    "hora_fin_utc": "2026-09-19T16:20:00Z",
+    "liga": "Championship",
+    "equipos": "Southampton vs Wrexham",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/wrexham-vs-southampton-2501344",
         "calidad": "HD"
       }
     ]
@@ -1523,58 +1433,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Dsports HD",
-        "url": "https://la16hd.com/dsportsar.php",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports ARG",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports | OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnplus2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/athletic-bilbao-vs-deportivo-alaves-2506230",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-19T14:30:00Z",
-    "hora_fin_utc": "2026-09-19T16:50:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "fc andorra vs sporting gijon",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
         "calidad": "HD"
       }
     ]
@@ -1625,41 +1485,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-19T15:00:00Z",
-    "hora_fin_utc": "2026-09-19T17:20:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Boston River vs CA Progreso",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-19T15:15:00Z",
-    "hora_fin_utc": "2026-09-19T17:35:00Z",
-    "liga": "Ligue 1",
-    "equipos": "paris vs RC Strasbourg",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney20",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-19T15:15:00Z",
     "hora_fin_utc": "2026-09-19T17:35:00Z",
     "liga": "Ligue 1",
@@ -1698,53 +1523,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX MOVIL",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/roma-vs-inter-milan-2482181",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-19T16:00:00Z",
-    "hora_fin_utc": "2026-09-19T18:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "miramar misiones vs uruguay montevideo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
         "calidad": "HD"
       }
     ]
@@ -2348,11 +2128,6 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
         "nombre": "ESPN Premium",
         "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
         "calidad": "HD"
@@ -2375,6 +2150,11 @@
       {
         "nombre": "TNT Sports",
         "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
         "calidad": "HD"
       },
       {
@@ -2507,6 +2287,41 @@
   {
     "hora_utc": "2026-09-19T18:30:00Z",
     "hora_fin_utc": "2026-09-19T20:50:00Z",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "CA Cerro vs Peñarol",
+    "logo": "img/uy.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T18:30:00Z",
+    "hora_fin_utc": "2026-09-19T20:50:00Z",
+    "liga": "Bundesliga 2",
+    "equipos": "dynamo dresden vs hertha bsc",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T18:30:00Z",
+    "hora_fin_utc": "2026-09-19T20:50:00Z",
     "liga": "CFB",
     "equipos": "rhode island vs stony brook",
     "logo": "img/default.png",
@@ -2537,11 +2352,41 @@
   {
     "hora_utc": "2026-09-19T18:45:00Z",
     "hora_fin_utc": "2026-09-19T21:05:00Z",
-    "liga": "Fútbol",
+    "liga": "Serie A",
     "equipos": "Lazio vs venezia",
-    "logo": "img/default.png",
+    "logo": "img/it.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX MOVIL",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
+        "calidad": "HD"
+      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/venezia-vs-lazio-2482185",
@@ -2552,14 +2397,39 @@
   {
     "hora_utc": "2026-09-19T18:45:00Z",
     "hora_fin_utc": "2026-09-19T21:05:00Z",
-    "liga": "Fútbol",
+    "liga": "Ligue 1",
     "equipos": "Angers SCO vs troyes",
-    "logo": "img/default.png",
+    "logo": "img/fr.png",
     "sport": "football",
     "canales": [
       {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/angers-vs-troyes-2489498",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T18:45:00Z",
+    "hora_fin_utc": "2026-09-19T21:05:00Z",
+    "liga": "Ligue 1",
+    "equipos": "FC Lorient vs le mans",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/le-mans-vs-lorient-2489505",
         "calidad": "HD"
       }
     ]
@@ -2572,6 +2442,11 @@
     "logo": "img/fr.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      },
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/lyon-vs-rennes-2489499",
@@ -2588,23 +2463,13 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/toulouse-vs-le-havre-2489502",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-19T18:45:00Z",
-    "hora_fin_utc": "2026-09-19T21:05:00Z",
-    "liga": "Fútbol",
-    "equipos": "FC Lorient vs le mans",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
+      },
       {
         "nombre": "Stream",
-        "url": "https://istreameast.cx/links/le-mans-vs-lorient-2489505",
+        "url": "https://istreameast.cx/links/toulouse-vs-le-havre-2489502",
         "calidad": "HD"
       }
     ]
@@ -2618,8 +2483,88 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Dsports HD",
+        "url": "https://la16hd.com/dsportsar.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports ARG",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/sevilla-vs-barcelona-2506233",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T19:00:00Z",
+    "hora_fin_utc": "2026-09-19T21:20:00Z",
+    "liga": "LaLiga 2",
+    "equipos": "cadiz vs Girona",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T19:00:00Z",
+    "hora_fin_utc": "2026-09-19T21:20:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Boyacá Chicó vs Millonarios",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T19:00:00Z",
+    "hora_fin_utc": "2026-09-19T21:20:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Atlético Mineiro vs Chapecoense",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
         "calidad": "HD"
       }
     ]
@@ -2895,6 +2840,41 @@
     ]
   },
   {
+    "hora_utc": "2026-09-19T19:45:00Z",
+    "hora_fin_utc": "2026-09-19T22:05:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Independiente vs Unión Santa Fe",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T20:00:00Z",
+    "hora_fin_utc": "2026-09-19T22:20:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Botafogo vs Mirassol",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere 3 BR ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-19T20:00:00Z",
     "hora_fin_utc": "2026-09-19T22:20:00Z",
     "liga": "CFB",
@@ -3070,6 +3050,46 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/south-carolina-vs-mississippi-state-2498784",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T20:30:00Z",
+    "hora_fin_utc": "2026-09-20T01:30:00Z",
+    "liga": "UFC",
+    "equipos": "joshua van vs alexandre pantoja",
+    "logo": "img/ufc.png",
+    "sport": "ufc",
+    "canales": [
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Paramount+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-19T20:30:00Z",
+    "hora_fin_utc": "2026-09-19T22:50:00Z",
+    "liga": "Liga1",
+    "equipos": "Atlético Grau vs Sporting Cristal",
+    "logo": "img/pe.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
         "calidad": "HD"
       }
     ]
