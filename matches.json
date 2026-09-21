@@ -378,21 +378,6 @@
     "hora_utc": "2026-09-20T17:00:00Z",
     "hora_fin_utc": "2026-09-20T20:15:00Z",
     "liga": "NFL",
-    "equipos": "nfl redzone",
-    "logo": "img/nfl.png",
-    "sport": "nfl",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/nfl-redzone-999999",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-20T17:00:00Z",
-    "hora_fin_utc": "2026-09-20T20:15:00Z",
-    "liga": "NFL",
     "equipos": "atlanta falcons vs carolina panthers",
     "logo": "img/nfl.png",
     "sport": "nfl",
@@ -1085,6 +1070,121 @@
     ]
   },
   {
+    "hora_utc": "2026-09-21T00:00:00Z",
+    "hora_fin_utc": "2026-09-21T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "calgary flames vs seattle kraken",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/calgary-flames-vs-seattle-kraken-2498522",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-21T00:00:00Z",
+    "hora_fin_utc": "2026-09-21T03:00:00Z",
+    "liga": "WWE",
+    "equipos": "raw 1739",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/raw-1739-2599779",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-21T00:20:00Z",
+    "hora_fin_utc": "2026-09-21T03:35:00Z",
+    "liga": "NFL",
+    "equipos": "indianapolis colts vs kansas city chiefs",
+    "logo": "img/nfl.png",
+    "sport": "nfl",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/kansas-city-chiefs-vs-indianapolis-colts-2475404",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-21T01:00:00Z",
+    "hora_fin_utc": "2026-09-21T04:15:00Z",
+    "liga": "WNBA",
+    "equipos": "las vegas aces vs seattle storm",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/las-vegas-aces-vs-seattle-storm-2449212",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-21T17:00:00Z",
+    "hora_fin_utc": "2026-09-21T19:20:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Aldosivi vs Atlético Tucumán",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-21T22:00:00Z",
+    "hora_fin_utc": "2026-09-22T00:20:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Barracas Central vs Independiente Rivadavia",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-21T22:30:00Z",
+    "hora_fin_utc": "2026-09-22T00:50:00Z",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "Central Español vs Montevideo City Torque",
+    "logo": "img/uy.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-09-21T22:35:00Z",
     "hora_fin_utc": "2026-09-22T01:50:00Z",
     "liga": "MLB",
@@ -1271,6 +1371,36 @@
   },
   {
     "hora_utc": "2026-09-22T00:15:00Z",
+    "hora_fin_utc": "2026-09-22T02:35:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Estudiantes de La Plata vs Lanús",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-22T00:15:00Z",
     "hora_fin_utc": "2026-09-22T03:30:00Z",
     "liga": "NFL",
     "equipos": "los angeles rams vs new york giants",
@@ -1280,6 +1410,21 @@
       {
         "nombre": "Stream",
         "url": "https://istreameast.cx/links/los-angeles-rams-vs-new-york-giants-2475405",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-22T00:30:00Z",
+    "hora_fin_utc": "2026-09-22T02:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Bahia vs Corinthians",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Sportv",
+        "url": "https://la18hd.su/vivo/canales.php?stream=sportv",
         "calidad": "HD"
       }
     ]
