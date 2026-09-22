@@ -1,42 +1,5 @@
 [
   {
-    "hora_utc": "2026-09-21T22:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "barracas central vs independiente rivadavia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Barracas Central vs Independiente Rivadavia"
-  },
-  {
-    "hora_utc": "2026-09-21T22:30:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "central espanol vs torque",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Central Español vs Torque"
-  },
-  {
     "hora_utc": "2026-09-21T22:35:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -261,37 +224,6 @@
   },
   {
     "hora_utc": "2026-09-22T00:15:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "lanus vs estudiantes",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Lanús vs Estudiantes"
-  },
-  {
-    "hora_utc": "2026-09-22T00:15:00Z",
     "logo": "img/nfl.png",
     "liga": "NFL",
     "equipos": "los angeles rams vs new york giants",
@@ -305,22 +237,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Los Angeles Rams vs New York Giants"
-  },
-  {
-    "hora_utc": "2026-09-22T00:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasilerao",
-    "equipos": "corinthians vs bahia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Sportv",
-        "url": "https://la18hd.su/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Corinthians vs Bahia"
   },
   {
     "hora_utc": "2026-09-22T01:45:00Z",
