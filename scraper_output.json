@@ -972,5 +972,354 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
+  },
+  {
+    "hora_utc": "2026-09-24T18:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "newells old boys vs rosario central",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Newell's Old Boys vs Rosario Central"
+  },
+  {
+    "hora_utc": "2026-09-24T18:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "instituto vs estudiantes rio cuarto",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN4",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Instituto vs Estudiantes Rio Cuarto"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "liechtenstein vs lituania",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Liechtenstein vs Lituania"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "austria vs israel",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv2 ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Austria vs Israel"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "kosovo vs republica de irlanda",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Kosovo vs República de Irlanda"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "paises bajos vs alemania",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Países Bajos vs Alemania"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "noruega vs dinamarca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Sports 1 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports1_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Noruega vs Dinamarca"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "portugal vs gales",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Portugal vs Gales"
+  },
+  {
+    "hora_utc": "2026-09-24T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "serbia vs grecia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Serbia vs Grecia"
+  },
+  {
+    "hora_utc": "2026-09-24T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Clasificación para la Copa Africana de Naciones",
+    "equipos": "camerun vs comoras",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Camerún vs Comoras"
+  },
+  {
+    "hora_utc": "2026-09-24T21:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Chile",
+    "equipos": "ohiggins vs deportes santa cruz",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "O'Higgins vs Deportes Santa Cruz"
+  },
+  {
+    "hora_utc": "2026-09-24T22:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "racing club vs independiente",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Racing Club vs Independiente"
+  },
+  {
+    "hora_utc": "2026-09-24T23:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Chile",
+    "equipos": "everton vs universidad chile",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Everton vs Universidad Chile"
+  },
+  {
+    "hora_utc": "2026-09-25T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "republica dominicana vs nicaragua",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "República Dominicana vs Nicaragua"
+  },
+  {
+    "hora_utc": "2026-09-25T00:00:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "nfl green bay packers vs atlanta falcons",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5 ",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NFL – Green Bay Packers vs. Atlanta Falcons"
+  },
+  {
+    "hora_utc": "2026-09-25T00:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "atletico nacional vs millonarios",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Nacional vs Millonarios"
+  },
+  {
+    "hora_utc": "2026-09-25T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga de Expansión MX",
+    "equipos": "alebrijes de oaxaca vs ca la paz",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 12",
+        "url": "https://tvf90.com/1.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Alebrijes de Oaxaca vs CA La Paz"
+  },
+  {
+    "hora_utc": "2026-09-25T02:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "costa rica vs curazao",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn ",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Costa Rica vs Curazao"
+  },
+  {
+    "hora_utc": "2026-09-25T02:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga Nacional",
+    "equipos": "municipal vs suchitepequez",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Municipal vs Suchitepéquez"
   }
 ]
