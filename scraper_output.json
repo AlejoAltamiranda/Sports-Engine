@@ -974,36 +974,82 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-09-26T03:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "tijuana vs atlas",
+    "hora_utc": "2026-09-26T11:00:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "f1 gp - grand prix",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn ",
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       },
       {
-        "nombre": "Unimas",
-        "url": "https://la18hd.su/vivo/canal.php?stream=unimas\n\n",
+        "nombre": "Fox Sports Arg",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Tijuana vs Atlas"
+    "equipos_original": "F1 GP - Grand Prix"
   },
   {
-    "hora_utc": "2026-09-26T03:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones de la CONCACAF",
-    "equipos": "el salvador vs martinica",
+    "hora_utc": "2026-09-26T12:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga 2",
+    "equipos": "ceuta vs real sociedad ii",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Vix plus 03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=vix3",
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ceuta vs Real Sociedad II"
+  },
+  {
+    "hora_utc": "2026-09-26T13:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "eslovenia vs escocia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
         "calidad": "HD"
       },
       {
@@ -1013,6 +1059,482 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "El Salvador vs Martinica"
+    "equipos_original": "Eslovenia vs Escocia"
+  },
+  {
+    "hora_utc": "2026-09-26T13:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Clasificación para la Copa Africana de Naciones",
+    "equipos": "kenia vs eritrea",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Kenia vs Eritrea"
+  },
+  {
+    "hora_utc": "2026-09-26T14:00:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "progreso vs racing",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Progreso vs Racing"
+  },
+  {
+    "hora_utc": "2026-09-26T14:15:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga 2",
+    "equipos": "granada vs fc andorra",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Granada vs FC Andorra"
+  },
+  {
+    "hora_utc": "2026-09-26T15:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Primera B",
+    "equipos": "union san felipe vs copiapo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Unión San Felipe vs Copiapó"
+  },
+  {
+    "hora_utc": "2026-09-26T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Mundial Femenina Sub-20 de la FIFA",
+    "equipos": "italia vs colombia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Caracol TV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=caracol",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Italia vs Colombia"
+  },
+  {
+    "hora_utc": "2026-09-26T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "islas feroe vs kazajstan",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Islas Feroe vs Kazajstán"
+  },
+  {
+    "hora_utc": "2026-09-26T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "bulgaria vs luxemburgo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Bulgaria vs Luxemburgo"
+  },
+  {
+    "hora_utc": "2026-09-26T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "islandia vs estonia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Islandia vs Estonia"
+  },
+  {
+    "hora_utc": "2026-09-26T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "san marino vs finlandia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "San Marino vs Finlandia"
+  },
+  {
+    "hora_utc": "2026-09-26T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "uruguay montevideo vs rentistas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 12",
+        "url": "https://tvf90.com/1.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Uruguay Montevideo vs Rentistas"
+  },
+  {
+    "hora_utc": "2026-09-26T16:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga 2",
+    "equipos": "celta de vigo ii vs sabadell",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Celta de Vigo II vs Sabadell"
+  },
+  {
+    "hora_utc": "2026-09-26T16:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga 2",
+    "equipos": "tenerife vs cadiz",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Tenerife vs Cádiz"
+  },
+  {
+    "hora_utc": "2026-09-26T16:30:00Z",
+    "logo": "img/default.png",
+    "liga": "League Two",
+    "equipos": "oldham athletic vs salford city",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 13",
+        "url": "https://tvf90.com/1.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Oldham Athletic vs Salford City"
+  },
+  {
+    "hora_utc": "2026-09-26T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Primera B",
+    "equipos": "cobreloa vs santiago wanderers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cobreloa vs Santiago Wanderers"
+  },
+  {
+    "hora_utc": "2026-09-26T18:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "cerro largo vs nacional",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 14",
+        "url": "https://tvf90.com/1.php?stream=disney14",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cerro Largo vs Nacional"
+  },
+  {
+    "hora_utc": "2026-09-26T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "espn knockout gerome warburton vs nathan heaney",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 15",
+        "url": "https://tvf90.com/1.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "ESPN Knockout – Gerome Warburton vs. Nathan Heaney"
+  },
+  {
+    "hora_utc": "2026-09-26T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "republica checa vs croacia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 16",
+        "url": "https://tvf90.com/1.php?stream=disney16",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv2 ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "República Checa vs Croacia"
+  },
+  {
+    "hora_utc": "2026-09-26T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "inglaterra vs espana",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 17",
+        "url": "https://tvf90.com/1.php?stream=disney17",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Inglaterra vs España"
+  },
+  {
+    "hora_utc": "2026-09-26T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "eslovaquia vs moldavia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 18",
+        "url": "https://tvf90.com/1.php?stream=disney18",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Eslovaquia vs Moldavia"
+  },
+  {
+    "hora_utc": "2026-09-26T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "macedonia del norte vs suiza",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 19",
+        "url": "https://tvf90.com/1.php?stream=disney19",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Macedonia del Norte vs Suiza"
+  },
+  {
+    "hora_utc": "2026-09-26T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "albania vs bielorrusia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 20",
+        "url": "https://tvf90.com/1.php?stream=disney20",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Albania vs Bielorrusia"
+  },
+  {
+    "hora_utc": "2026-09-26T19:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "estudiantes vs rosario central",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports ARG",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Estudiantes vs Rosario Central"
+  },
+  {
+    "hora_utc": "2026-09-26T19:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "corinthians vs sao paulo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Corinthians vs São Paulo"
+  },
+  {
+    "hora_utc": "2026-09-26T20:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Chile",
+    "equipos": "nublense vs puerto montt",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ñublense vs Puerto Montt"
+  },
+  {
+    "hora_utc": "2026-09-26T20:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso",
+    "equipos": "ee uu vs peru",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "America TV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "EE. UU. vs Perú"
+  },
+  {
+    "hora_utc": "2026-09-26T23:00:00Z",
+    "logo": "img/cl.png",
+    "liga": "Liga de Primera",
+    "equipos": "universidad catolica vs union la calera",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Universidad Católica vs Unión La Calera"
   }
 ]
