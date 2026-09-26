@@ -974,75 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-09-25T23:00:00Z",
-    "logo": "img/col.png",
-    "liga": "Copa Colombia",
-    "equipos": "union magdalena vs santa fe",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Unión Magdalena vs Santa Fe"
-  },
-  {
-    "hora_utc": "2026-09-25T23:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Chile",
-    "equipos": "colo-colo vs audax italiano",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Colo-Colo vs Audax Italiano"
-  },
-  {
-    "hora_utc": "2026-09-25T23:00:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "mlb boston red sox vs chicago cubs",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "MLB – Boston Red Sox vs. Chicago Cubs"
-  },
-  {
-    "hora_utc": "2026-09-25T23:00:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "boyaca chico vs deportivo pasto",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + HD",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Boyacá Chicó vs Deportivo Pasto"
-  },
-  {
     "hora_utc": "2026-09-26T01:00:00Z",
     "logo": "img/mx.png",
     "liga": "Liga MX",
@@ -1071,8 +1002,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ESPN 2 MX",
-        "url": "https://tvf90.com/1.php?stream=espn2mx",
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx ",
         "calidad": "HD"
       },
       {
@@ -1119,7 +1050,7 @@
       },
       {
         "nombre": "Unimas",
-        "url": "https://tvf90.com/1.php?stream=unimas",
+        "url": "https://la18hd.su/vivo/canal.php?stream=unimas\n\n",
         "calidad": "HD"
       }
     ],
