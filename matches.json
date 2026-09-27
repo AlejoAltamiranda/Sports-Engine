@@ -915,116 +915,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-27T11:00:00Z",
-    "hora_fin_utc": "2026-09-27T13:20:00Z",
-    "liga": "Serie A femenina",
-    "equipos": "Fiorentina vs inter milano",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-27T12:00:00Z",
-    "hora_fin_utc": "2026-09-27T14:20:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "cordoba vs real valladolid",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-27T13:00:00Z",
-    "hora_fin_utc": "2026-09-27T15:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "azerbaiyan vs lituania",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sportv2 ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-27T13:00:00Z",
-    "hora_fin_utc": "2026-09-27T15:20:00Z",
-    "liga": "Serie A",
-    "equipos": "AS Roma vs Sassuolo",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-27T14:00:00Z",
-    "hora_fin_utc": "2026-09-27T16:20:00Z",
-    "liga": "Primera División",
-    "equipos": "Central Español vs Liverpool",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-27T14:15:00Z",
-    "hora_fin_utc": "2026-09-27T16:35:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "almeria vs Mallorca",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-27T15:30:00Z",
     "hora_fin_utc": "2026-09-27T17:50:00Z",
     "liga": "Copa Chile",
@@ -1092,6 +982,21 @@
   {
     "hora_utc": "2026-09-27T16:00:00Z",
     "hora_fin_utc": "2026-09-27T18:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "atenas vs plaza colonia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T16:00:00Z",
+    "hora_fin_utc": "2026-09-27T18:20:00Z",
     "liga": "UEFA Nations League",
     "equipos": "Países Bajos vs serbia",
     "logo": "img/default.png",
@@ -1103,8 +1008,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       },
       {
@@ -1120,21 +1025,6 @@
       {
         "nombre": "Fox Sports 2 USA",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-27T16:00:00Z",
-    "hora_fin_utc": "2026-09-27T18:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "atenas vs plaza colonia",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
         "calidad": "HD"
       }
     ]
@@ -1165,6 +1055,21 @@
       {
         "nombre": "LaLiga TV Hypermotion ",
         "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T16:30:00Z",
+    "hora_fin_utc": "2026-09-27T18:50:00Z",
+    "liga": "Amistoso Internacional",
+    "equipos": "liechtenstein vs malta",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
         "calidad": "HD"
       }
     ]
@@ -1203,8 +1108,8 @@
     "sport": "nfl",
     "canales": [
       {
-        "nombre": "ESPN7",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+        "nombre": "ESPN6",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
         "calidad": "HD"
       },
       {
@@ -1213,8 +1118,8 @@
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN7 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn7.html",
+        "nombre": "ESPN6 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn6.html",
         "calidad": "HD"
       }
     ]
@@ -1275,6 +1180,216 @@
       {
         "nombre": "Disney 09",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T18:45:00Z",
+    "hora_fin_utc": "2026-09-27T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "israel vs republica de irlanda",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T18:45:00Z",
+    "hora_fin_utc": "2026-09-27T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "Alemania vs grecia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv2 ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T18:45:00Z",
+    "hora_fin_utc": "2026-09-27T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "Noruega vs Portugal",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TVE la 1 ES ",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE=",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T19:00:00Z",
+    "hora_fin_utc": "2026-09-27T22:15:00Z",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs San Diego Padres",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T19:00:00Z",
+    "hora_fin_utc": "2026-09-27T21:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "cerrito vs la luz",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 13",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T20:00:00Z",
+    "hora_fin_utc": "2026-09-27T22:20:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Boca Juniors vs Racing Club",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tycsports ",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T20:00:00Z",
+    "hora_fin_utc": "2026-09-27T23:15:00Z",
+    "liga": "NFL",
+    "equipos": "nfl san francisco 49ers vs arizona cardinls",
+    "logo": "img/nfl.png",
+    "sport": "nfl",
+    "canales": [
+      {
+        "nombre": "ESPN7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN7 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn7.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T20:00:00Z",
+    "hora_fin_utc": "2026-09-27T23:15:00Z",
+    "liga": "NFL",
+    "equipos": "nfl dalla cowboys vs baltimore ravens",
+    "logo": "img/nfl.png",
+    "sport": "nfl",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn5.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T20:30:00Z",
+    "hora_fin_utc": "2026-09-27T22:50:00Z",
+    "liga": "Amistoso",
+    "equipos": "Bolivia vs Paraguay",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T20:30:00Z",
+    "hora_fin_utc": "2026-09-27T22:50:00Z",
+    "liga": "Copa Chile",
+    "equipos": "Everton vs universidad chile",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-27T21:00:00Z",
+    "hora_fin_utc": "2026-09-27T23:20:00Z",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "Danubio FC vs Defensor Sporting",
+    "logo": "img/uy.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 14",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
         "calidad": "HD"
       }
     ]
