@@ -915,18 +915,28 @@
     ]
   },
   {
-    "hora_utc": "2026-09-28T16:00:00Z",
-    "hora_fin_utc": "2026-09-28T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "armenia vs montenegro",
+    "hora_utc": "2026-09-28T21:00:00Z",
+    "hora_fin_utc": "2026-09-28T23:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "bonaire vs cuba",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-28T22:00:00Z",
+    "hora_fin_utc": "2026-09-29T00:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "martinica vs surinam",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
       {
         "nombre": "Fox Sports 2 USA",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
@@ -935,153 +945,88 @@
     ]
   },
   {
-    "hora_utc": "2026-09-28T16:00:00Z",
-    "hora_fin_utc": "2026-09-28T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "chipre vs letonia",
+    "hora_utc": "2026-09-28T22:00:00Z",
+    "hora_fin_utc": "2026-09-29T00:20:00Z",
+    "liga": "Primera División de Paraguay",
+    "equipos": "Club Olimpia vs Libertad FC",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "fanatiz 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-28T22:00:00Z",
+    "hora_fin_utc": "2026-09-29T00:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "paysandu vs tacuarembo",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-28T23:00:00Z",
+    "hora_fin_utc": "2026-09-29T01:20:00Z",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "Albion FC vs Montevideo Wanderers",
+    "logo": "img/uy.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-29T00:00:00Z",
+    "hora_fin_utc": "2026-09-29T03:15:00Z",
+    "liga": "NFL",
+    "equipos": "nfl chicago bears vs philadelphia eagles",
+    "logo": "img/nfl.png",
+    "sport": "nfl",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
         "calidad": "HD"
       },
       {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T16:00:00Z",
-    "hora_fin_utc": "2026-09-28T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "georgia vs ucrania",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
         "calidad": "HD"
       },
       {
-        "nombre": "Sportv2 ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T16:00:00Z",
-    "hora_fin_utc": "2026-09-28T18:20:00Z",
-    "liga": "Clasificación para la Copa Africana de Naciones",
-    "equipos": "rd del congo vs zimbabue",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T18:30:00Z",
-    "hora_fin_utc": "2026-09-28T20:50:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "cd castellon vs leganes",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T18:45:00Z",
-    "hora_fin_utc": "2026-09-28T21:05:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "hungria vs irlanda del norte",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T18:45:00Z",
-    "hora_fin_utc": "2026-09-28T21:05:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "Bosnia y Herzegovina vs rumania",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T18:45:00Z",
-    "hora_fin_utc": "2026-09-28T21:05:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "italia vs Turquía",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-28T18:45:00Z",
-    "hora_fin_utc": "2026-09-28T21:05:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "polonia vs Suecia",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
         "calidad": "HD"
       },
       {
-        "nombre": "Disney 07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-09-28T18:45:00Z",
-    "hora_fin_utc": "2026-09-28T21:05:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "Bélgica vs Francia",
+    "hora_utc": "2026-09-29T00:00:00Z",
+    "hora_fin_utc": "2026-09-29T02:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "honduras vs jamaica",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
       {
         "nombre": "Fox Sports 2 USA",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
@@ -1090,16 +1035,61 @@
     ]
   },
   {
-    "hora_utc": "2026-09-28T19:00:00Z",
-    "hora_fin_utc": "2026-09-28T21:20:00Z",
-    "liga": "Clasificación para la Copa Africana de Naciones",
-    "equipos": "botsuana vs Túnez",
+    "hora_utc": "2026-09-29T00:00:00Z",
+    "hora_fin_utc": "2026-09-29T02:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "granada vs st kitts and nevis",
     "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-29T01:00:00Z",
+    "hora_fin_utc": "2026-09-29T03:20:00Z",
+    "liga": "Liga MX Femenil",
+    "equipos": "Necaxa vs Toluca",
+    "logo": "img/mx.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/foxdeportes.html\n",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-09-29T02:00:00Z",
+    "hora_fin_utc": "2026-09-29T04:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "el salvador vs guatemala",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tudnusa.html",
         "calidad": "HD"
       }
     ]
