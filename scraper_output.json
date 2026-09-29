@@ -974,90 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-09-29T16:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Africana de Naciones",
-    "equipos": "islas de cabo verde vs ruanda",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Islas de Cabo Verde vs Ruanda"
-  },
-  {
-    "hora_utc": "2026-09-29T16:00:00Z",
-    "logo": "img/default.png",
-    "liga": "UEFA Nations League",
-    "equipos": "finlandia vs bielorrusia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Finlandia vs Bielorrusia"
-  },
-  {
-    "hora_utc": "2026-09-29T16:00:00Z",
-    "logo": "img/default.png",
-    "liga": "UEFA Nations League",
-    "equipos": "moldavia vs islas feroe",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Moldavia vs Islas Feroe"
-  },
-  {
-    "hora_utc": "2026-09-29T18:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Torneo de Reserva",
-    "equipos": "atl rafaela 2 vs ferro carril r",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Atl. Rafaela 2 vs Ferro Carril R"
-  },
-  {
     "hora_utc": "2026-09-29T18:45:00Z",
     "logo": "img/default.png",
     "liga": "UEFA Nations League",
@@ -1087,7 +1003,7 @@
       },
       {
         "nombre": "Sportv 3",
-        "url": "https://tvf90.com/1.php?stream=sportv3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv3\n",
         "calidad": "HD"
       }
     ],
@@ -1277,5 +1193,203 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Puerto Montt vs Colo-Colo"
+  },
+  {
+    "hora_utc": "2026-09-29T20:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "deportivo pereira vs santa fe",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportivo Pereira vs Santa Fe"
+  },
+  {
+    "hora_utc": "2026-09-29T21:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "guayana francesa vs sint maarten",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Guayana Francesa vs Sint Maarten"
+  },
+  {
+    "hora_utc": "2026-09-29T23:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Primera B",
+    "equipos": "union magdalena vs real cartagena",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Unión Magdalena vs Real Cartagena"
+  },
+  {
+    "hora_utc": "2026-09-29T23:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "anguila vs aruba",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Anguila vs Aruba"
+  },
+  {
+    "hora_utc": "2026-09-30T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso",
+    "equipos": "ee uu vs chile",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "EE. UU. vs Chile"
+  },
+  {
+    "hora_utc": "2026-09-30T01:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso",
+    "equipos": "mexico vs peru",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "America TV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=americatv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "America TV Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/americatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tudnusa.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision",
+        "url": "https://la18hd.su/vivo/canal.php?stream=univision",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "México vs Perú"
+  },
+  {
+    "hora_utc": "2026-09-30T01:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "medellin vs millonarios",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Medellín vs Millonarios"
+  },
+  {
+    "hora_utc": "2026-09-30T02:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "belice vs san vicente granadinas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Belice vs San Vicente / Granadinas"
   }
 ]
