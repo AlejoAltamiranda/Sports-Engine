@@ -974,29 +974,308 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-09-29T02:00:00Z",
+    "hora_utc": "2026-09-29T16:00:00Z",
     "logo": "img/default.png",
-    "liga": "Liga de Naciones de la CONCACAF",
-    "equipos": "guatemala vs el salvador",
+    "liga": "Copa Africana de Naciones",
+    "equipos": "islas de cabo verde vs ruanda",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn ",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tudnusa.html",
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Guatemala vs El Salvador"
+    "equipos_original": "Islas de Cabo Verde vs Ruanda"
+  },
+  {
+    "hora_utc": "2026-09-29T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "finlandia vs bielorrusia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Finlandia vs Bielorrusia"
+  },
+  {
+    "hora_utc": "2026-09-29T16:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "moldavia vs islas feroe",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Moldavia vs Islas Feroe"
+  },
+  {
+    "hora_utc": "2026-09-29T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Torneo de Reserva",
+    "equipos": "atl rafaela 2 vs ferro carril r",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atl. Rafaela 2 vs Ferro Carril R"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "escocia vs suiza",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Escocia vs Suiza"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "luxemburgo vs islandia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv 3",
+        "url": "https://tvf90.com/1.php?stream=sportv3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Luxemburgo vs Islandia"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "espana vs croacia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "La1TVE",
+        "url": "https://fubolazo.com/drm/la1tve.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Sports 1 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports1_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "España vs Croacia"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "eslovaquia vs kazajstan",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Eslovaquia vs Kazajstán"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "eslovenia vs macedonia del norte",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Eslovenia vs Macedonia del Norte"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "san marino vs albania",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "San Marino vs Albania"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "bulgaria vs estonia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Bulgaria vs Estonia"
+  },
+  {
+    "hora_utc": "2026-09-29T18:45:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Nations League",
+    "equipos": "republica checa vs inglaterra",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "República Checa vs Inglaterra"
+  },
+  {
+    "hora_utc": "2026-09-29T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Africana de Naciones",
+    "equipos": "somalia vs costa de marfil",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Somalia vs Costa de Marfil"
+  },
+  {
+    "hora_utc": "2026-09-29T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "islas virgenes britanicas vs islas turcas y caicos",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Islas Vírgenes Británicas vs Islas Turcas y Caicos"
+  },
+  {
+    "hora_utc": "2026-09-29T20:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Chile",
+    "equipos": "puerto montt vs colo-colo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Puerto Montt vs Colo-Colo"
   }
 ]
