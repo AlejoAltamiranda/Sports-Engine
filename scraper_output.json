@@ -974,19 +974,286 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-09-30T02:00:00Z",
+    "hora_utc": "2026-09-30T16:00:00Z",
     "logo": "img/default.png",
-    "liga": "Liga de Naciones de la CONCACAF",
-    "equipos": "belice vs san vicente granadinas",
+    "liga": "Amistoso",
+    "equipos": "lituania vs andorra",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Belice vs San Vicente / Granadinas"
+    "equipos_original": "Lituania vs Andorra"
+  },
+  {
+    "hora_utc": "2026-09-30T16:45:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Women's Champions League",
+    "equipos": "roma vs barcelona",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Roma vs Barcelona"
+  },
+  {
+    "hora_utc": "2026-09-30T16:45:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Women's Champions League",
+    "equipos": "hacken vs juventus",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Häcken vs Juventus"
+  },
+  {
+    "hora_utc": "2026-09-30T16:45:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Women's Champions League",
+    "equipos": "paris fc vs arsenal",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Paris FC vs Arsenal"
+  },
+  {
+    "hora_utc": "2026-09-30T18:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "instituto vs racing",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Instituto vs Racing"
+  },
+  {
+    "hora_utc": "2026-09-30T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Women's Champions League",
+    "equipos": "ol lyonnes vs chelsea fc",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "OL Lyonnes vs Chelsea FC"
+  },
+  {
+    "hora_utc": "2026-09-30T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Women's Champions League",
+    "equipos": "sl benfica vs bayern",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "SL Benfica vs Bayern"
+  },
+  {
+    "hora_utc": "2026-09-30T20:00:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "cienciano vs los chankas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/liga1max.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cienciano vs Los Chankas"
+  },
+  {
+    "hora_utc": "2026-09-30T22:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Torneo de Reserva",
+    "equipos": "central cordoba sde vs newells old boys",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Central Córdoba SdE vs Newell's Old Boys"
+  },
+  {
+    "hora_utc": "2026-09-30T22:30:00Z",
+    "logo": "img/cl.png",
+    "liga": "Liga de Primera",
+    "equipos": "deportes concepcion vs ohiggins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportes Concepción vs O'Higgins"
+  },
+  {
+    "hora_utc": "2026-09-30T23:00:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "torque vs penarol",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Torque vs Peñarol"
+  },
+  {
+    "hora_utc": "2026-10-01T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso",
+    "equipos": "argentina vs bolivia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tycsports ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tyc.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Argentina vs Bolivia"
+  },
+  {
+    "hora_utc": "2026-10-01T01:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "atletico nacional vs junior",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + |  opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Nacional vs Junior"
   }
 ]
