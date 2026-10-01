@@ -915,91 +915,6 @@
     ]
   },
   {
-    "hora_utc": "2026-09-30T18:00:00Z",
-    "hora_fin_utc": "2026-09-30T20:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Instituto vs Racing Club",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-30T19:00:00Z",
-    "hora_fin_utc": "2026-09-30T21:20:00Z",
-    "liga": "UEFA Women's Champions League",
-    "equipos": "chelsea fc vs ol lyonnes",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-30T19:00:00Z",
-    "hora_fin_utc": "2026-09-30T21:20:00Z",
-    "liga": "UEFA Women's Champions League",
-    "equipos": "Bayern München vs SL Benfica",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-09-30T20:00:00Z",
-    "hora_fin_utc": "2026-09-30T22:20:00Z",
-    "liga": "Liga1",
-    "equipos": "Cienciano vs Los Chankas",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/liga1max.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-09-30T22:00:00Z",
     "hora_fin_utc": "2026-10-01T00:20:00Z",
     "liga": "Torneo de Reserva",
@@ -1100,6 +1015,26 @@
       {
         "nombre": "Win Sports + |  opc3",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-01T01:00:00Z",
+    "hora_fin_utc": "2026-10-01T03:20:00Z",
+    "liga": "Amistoso internacional",
+    "equipos": "lianza lima vs Palestino",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/liga1max.html",
         "calidad": "HD"
       }
     ]

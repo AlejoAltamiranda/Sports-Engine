@@ -974,95 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-09-30T18:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "instituto vs racing",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Instituto vs Racing"
-  },
-  {
-    "hora_utc": "2026-09-30T19:00:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Women's Champions League",
-    "equipos": "ol lyonnes vs chelsea fc",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "OL Lyonnes vs Chelsea FC"
-  },
-  {
-    "hora_utc": "2026-09-30T19:00:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Women's Champions League",
-    "equipos": "sl benfica vs bayern",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "SL Benfica vs Bayern"
-  },
-  {
-    "hora_utc": "2026-09-30T20:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "cienciano vs los chankas",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/liga1max.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Cienciano vs Los Chankas"
-  },
-  {
     "hora_utc": "2026-09-30T22:00:00Z",
     "logo": "img/default.png",
     "liga": "Torneo de Reserva",
@@ -1171,5 +1082,26 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Atlético Nacional vs Junior"
+  },
+  {
+    "hora_utc": "2026-10-01T01:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso internacional",
+    "equipos": "lianza lima vs palestino",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/liga1max.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "lianza Lima vs Palestino"
   }
 ]
