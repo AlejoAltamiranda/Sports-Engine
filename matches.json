@@ -915,26 +915,306 @@
     ]
   },
   {
-    "hora_utc": "2026-10-02T02:30:00Z",
-    "hora_fin_utc": "2026-10-02T04:50:00Z",
-    "liga": "Liga MX",
-    "equipos": "Club América vs Cruz Azul",
-    "logo": "img/mx.png",
+    "hora_utc": "2026-10-02T14:00:00Z",
+    "hora_fin_utc": "2026-10-02T16:20:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "kazajstan vs moldavia",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn ",
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
         "calidad": "HD"
       },
       {
-        "nombre": "Unimas",
-        "url": "https://la18hd.su/vivo/canal.php?stream=unimas\n\n",
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       },
       {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tudnusa.html",
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T16:00:00Z",
+    "hora_fin_utc": "2026-10-02T18:20:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "armenia vs chipre",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T16:00:00Z",
+    "hora_fin_utc": "2026-10-02T18:20:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "letonia vs montenegro",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:30:00Z",
+    "hora_fin_utc": "2026-10-02T20:50:00Z",
+    "liga": "LaLiga 2",
+    "equipos": "eldense vs Real Oviedo",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "Bosnia y Herzegovina vs Suecia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2 ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "georgia vs hungria",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "polonia vs rumania",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "irlanda del norte vs ucrania",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "Bélgica vs Turquía",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "Francia vs italia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "La1TVE",
+        "url": "https://fubolazo.com/drm/la1tve.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Sports 1 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports1_usa",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T18:45:00Z",
+    "hora_fin_utc": "2026-10-02T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "eslovaquia vs islas feroe",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T21:00:00Z",
+    "hora_fin_utc": "2026-10-02T23:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "cuba vs st kitts and nevis",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T22:00:00Z",
+    "hora_fin_utc": "2026-10-03T00:20:00Z",
+    "liga": "Liga de Naciones de la CONCACAF",
+    "equipos": "guatemala vs surinam",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T22:15:00Z",
+    "hora_fin_utc": "2026-10-03T00:35:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Independiente vs Instituto",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium ",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-02T22:30:00Z",
+    "hora_fin_utc": "2026-10-03T01:30:00Z",
+    "liga": "NHL",
+    "equipos": "nhl detroit red wings vs new york rangers",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn3.html",
         "calidad": "HD"
       }
     ]
