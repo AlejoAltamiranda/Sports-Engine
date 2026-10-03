@@ -915,136 +915,6 @@
     ]
   },
   {
-    "hora_utc": "2026-10-03T16:00:00Z",
-    "hora_fin_utc": "2026-10-03T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "Croacia vs Inglaterra",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T16:00:00Z",
-    "hora_fin_utc": "2026-10-03T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "bielorrusia vs san marino",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T16:00:00Z",
-    "hora_fin_utc": "2026-10-03T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "estonia vs luxemburgo",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T16:00:00Z",
-    "hora_fin_utc": "2026-10-03T18:20:00Z",
-    "liga": "UEFA Nations League",
-    "equipos": "bulgaria vs islandia",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7\n",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T16:00:00Z",
-    "hora_fin_utc": "2026-10-03T18:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "miramar misiones vs paysandu fc",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T16:30:00Z",
-    "hora_fin_utc": "2026-10-03T18:50:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "fc andorra vs sabadell",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T16:30:00Z",
-    "hora_fin_utc": "2026-10-03T18:50:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "cadiz vs leganes",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-10-03T17:45:00Z",
     "hora_fin_utc": "2026-10-03T20:05:00Z",
     "liga": "Liga Profesional",
@@ -1067,21 +937,6 @@
   {
     "hora_utc": "2026-10-03T18:00:00Z",
     "hora_fin_utc": "2026-10-03T20:20:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Albion FC vs Defensor Sporting",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T18:00:00Z",
-    "hora_fin_utc": "2026-10-03T20:20:00Z",
     "liga": "Amistoso",
     "equipos": "Canadá vs Perú",
     "logo": "img/default.png",
@@ -1094,7 +949,22 @@
       },
       {
         "nombre": "America TV Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/americatv.html",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/americatvgo.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-03T18:00:00Z",
+    "hora_fin_utc": "2026-10-03T20:20:00Z",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "Albion FC vs Defensor Sporting",
+    "logo": "img/uy.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
         "calidad": "HD"
       }
     ]
@@ -1151,7 +1021,17 @@
         "nombre": "Fox Soccer Plus",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-03T18:45:00Z",
+    "hora_fin_utc": "2026-10-03T21:05:00Z",
+    "liga": "UEFA Nations League",
+    "equipos": "eslovenia vs Suiza",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
       {
         "nombre": "Disney 12",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
@@ -1174,7 +1054,7 @@
       },
       {
         "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/espn2.html",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
         "calidad": "HD"
       }
     ]
@@ -1209,7 +1089,7 @@
       },
       {
         "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://la18hd.su/vivo/canal.php?stream=winplus ",
         "calidad": "HD"
       }
     ]
@@ -1233,21 +1113,6 @@
     "hora_utc": "2026-10-03T20:00:00Z",
     "hora_fin_utc": "2026-10-03T22:20:00Z",
     "liga": "Liga Profesional",
-    "equipos": "Atlético Tucumán vs Barracas Central",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium ",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-03T20:00:00Z",
-    "hora_fin_utc": "2026-10-03T22:20:00Z",
-    "liga": "Liga Profesional",
     "equipos": "Lanús vs Newell's Old Boys",
     "logo": "img/ar.png",
     "sport": "football",
@@ -1259,7 +1124,7 @@
       },
       {
         "nombre": "TNT Sports Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/tntarg.html",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
         "calidad": "HD"
       }
     ]
@@ -1275,6 +1140,26 @@
       {
         "nombre": "Dsports ARG",
         "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-03T20:00:00Z",
+    "hora_fin_utc": "2026-10-03T22:20:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Atlético Tucumán vs Barracas Central",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium ",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
         "calidad": "HD"
       }
     ]
@@ -1324,7 +1209,7 @@
       },
       {
         "nombre": "Win Sports + |  opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://tarjetarojita.xyz/repro/winplus.html",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://la18hd.su/vivo/canal.php?stream=winplus ",
         "calidad": "HD"
       }
     ]
