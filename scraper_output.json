@@ -974,90 +974,28 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-10-05T16:00:00Z",
+    "hora_utc": "2026-10-05T21:00:00Z",
     "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "chipre vs letonia",
+    "liga": "Liga de Naciones CONCACAF",
+    "equipos": "cuba vs st kitts and nevis",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Chipre vs Letonia"
+    "equipos_original": "Cuba vs St. Kitts and Nevis"
   },
   {
-    "hora_utc": "2026-10-05T18:30:00Z",
+    "hora_utc": "2026-10-05T22:00:00Z",
     "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "cordoba vs tenerife",
+    "liga": "Liga de Naciones CONCACAF",
+    "equipos": "martinique vs el salvador",
     "status": "pronto",
     "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Cordoba vs Tenerife"
-  },
-  {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "rumania vs suecia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Rumania vs Suecia"
-  },
-  {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "italia vs turquia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "SporTV",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
-        "calidad": "HD"
-      },
       {
         "nombre": "Fox Sports 2 USA",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
@@ -1065,13 +1003,13 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Italia vs Turquía"
+    "equipos_original": "Martinique vs El Salvador"
   },
   {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "francia vs belgica",
+    "hora_utc": "2026-10-05T22:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional Argentina",
+    "equipos": "estudiantes lp vs gimnasia m",
     "status": "pronto",
     "canales": [
       {
@@ -1080,88 +1018,34 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Disney 04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN Movil",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Francia vs Bélgica"
-  },
-  {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "irlanda del norte vs georgia",
-    "status": "pronto",
-    "canales": [
+      },
       {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Irlanda del Norte vs Georgia"
+    "equipos_original": "Estudiantes L.P. vs Gimnasia M."
   },
   {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "bosnia-herzegovina vs polonia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Bosnia-Herzegovina vs Polonia"
-  },
-  {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "ucrania vs hungria",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ucrania vs Hungría"
-  },
-  {
-    "hora_utc": "2026-10-05T18:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones UEFA",
-    "equipos": "montenegro vs armenia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Montenegro vs Armenia"
-  },
-  {
-    "hora_utc": "2026-10-05T19:45:00Z",
+    "hora_utc": "2026-10-05T22:00:00Z",
     "logo": "img/ar.png",
-    "liga": "Liga Profesional Argentina",
-    "equipos": "deportivo riestra vs central cordoba de santiago",
+    "liga": "Liga Profesional",
+    "equipos": "velez sarsfield vs platense",
     "status": "pronto",
     "canales": [
       {
@@ -1176,6 +1060,122 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Deportivo Riestra vs Central Cordoba de Santiago"
+    "equipos_original": "Velez Sarsfield vs Platense"
+  },
+  {
+    "hora_utc": "2026-10-05T23:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División de Uruguay",
+    "equipos": "club nacional vs atletico torque",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Club Nacional vs Atletico Torque"
+  },
+  {
+    "hora_utc": "2026-10-06T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones CONCACAF",
+    "equipos": "bermuda vs barbados",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Bermuda vs Barbados"
+  },
+  {
+    "hora_utc": "2026-10-06T00:00:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "nfl new orleans saints vs atlanta falcons",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "NFL – New Orleans Saints vs. Atlanta Falcons"
+  },
+  {
+    "hora_utc": "2026-10-06T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones CONCACAF",
+    "equipos": "guatemala vs suriname",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Guatemala vs Suriname"
+  },
+  {
+    "hora_utc": "2026-10-06T00:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "independiente medellin vs santa fe",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Independiente Medellin vs Santa Fe"
+  },
+  {
+    "hora_utc": "2026-10-06T00:15:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "banfield vs rosario central",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Banfield vs Rosario Central"
   }
 ]
