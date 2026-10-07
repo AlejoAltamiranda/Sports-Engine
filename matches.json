@@ -915,21 +915,16 @@
     ]
   },
   {
-    "hora_utc": "2026-10-07T18:00:00Z",
-    "hora_fin_utc": "2026-10-07T20:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Aldosivi vs Tigre",
-    "logo": "img/ar.png",
+    "hora_utc": "2026-10-07T22:00:00Z",
+    "hora_fin_utc": "2026-10-08T00:20:00Z",
+    "liga": "Copa Chile",
+    "equipos": "antofagasta vs Universidad de Chile",
+    "logo": "img/default.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "nombre": "MAX 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=max1",
         "calidad": "HD"
       }
     ]
@@ -946,6 +941,26 @@
         "nombre": "TNT Sports Premiun CL",
         "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
         "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-07T22:30:00Z",
+    "hora_fin_utc": "2026-10-08T00:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Mirassol vs RB Bragantino",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere 5 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere5",
+        "calidad": "HD"
       }
     ]
   },
@@ -959,7 +974,7 @@
     "canales": [
       {
         "nombre": "Premiere 2 BR",
-        "url": "https://la18hd.su/hd.php?stream=premiere2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere2",
         "calidad": "HD"
       }
     ]
@@ -974,22 +989,7 @@
     "canales": [
       {
         "nombre": "Premiere 4 BR",
-        "url": "https://la18hd.su/hd.php?stream=premiere4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-07T22:30:00Z",
-    "hora_fin_utc": "2026-10-08T00:50:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Mirassol vs RB Bragantino",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Canal 1",
-        "url": "#",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere4",
         "calidad": "HD"
       }
     ]
@@ -1003,8 +1003,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Premiere 3 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere3",
         "calidad": "HD"
       }
     ]
@@ -1018,8 +1018,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Amazon Prime",
+        "url": "https://la18hd.su/vivo/canal.php?stream=amazon_prime1",
         "calidad": "HD"
       }
     ]
@@ -1035,6 +1035,11 @@
       {
         "nombre": "SporTV",
         "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
         "calidad": "HD"
       }
     ]
