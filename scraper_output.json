@@ -972,5 +972,405 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
+  },
+  {
+    "hora_utc": "2026-10-14T12:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Youth League",
+    "equipos": "roma sub-19 vs real madrid sub-19",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Roma Sub-19 vs Real Madrid Sub-19"
+  },
+  {
+    "hora_utc": "2026-10-14T14:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Youth League",
+    "equipos": "manchester city sub-19 vs psg sub-19",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Manchester City Sub-19 vs PSG Sub-19"
+  },
+  {
+    "hora_utc": "2026-10-14T15:30:00Z",
+    "logo": "img/tr.png",
+    "liga": "Cup",
+    "equipos": "akhmat vs dynamo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + I OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus_op2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Akhmat vs Dynamo"
+  },
+  {
+    "hora_utc": "2026-10-14T15:30:00Z",
+    "logo": "img/tr.png",
+    "liga": "Cup",
+    "equipos": "dinamo makhachkala vs zenit",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports 2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Dinamo Makhachkala vs Zenit"
+  },
+  {
+    "hora_utc": "2026-10-14T16:45:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "feyenoord vs como",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Feyenoord vs Como"
+  },
+  {
+    "hora_utc": "2026-10-14T16:45:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "lask linz vs liverpool",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX One 1",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxone1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Unimas",
+        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "LASK Linz vs Liverpool"
+  },
+  {
+    "hora_utc": "2026-10-14T17:45:00Z",
+    "logo": "img/tr.png",
+    "liga": "Cup",
+    "equipos": "cska moscow vs fc rostov",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports 2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "CSKA Moscow vs FC Rostov"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/en.png",
+    "liga": "Championship",
+    "equipos": "lincoln vs west ham",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Lincoln vs West Ham"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "roma vs real madrid",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Unimas",
+        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Roma vs Real Madrid"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "aston villa vs fenerbahce",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Aston Villa vs Fenerbahçe"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "real betis vs oporto",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN7 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Real Betis vs Oporto"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "bodglimt vs borussia dortmund",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Bodø/Glimt vs Borussia Dortmund"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "manchester city vs paris saint-germain",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Manchester City vs París Saint-Germain"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "shakhtar donetsk vs aek athens fc",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN6",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN6 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn6tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Shakhtar Donetsk vs AEK Athens FC"
+  },
+  {
+    "hora_utc": "2026-10-14T19:00:00Z",
+    "logo": "img/champions.png",
+    "liga": "UEFA Champions League",
+    "equipos": "slovan bratislava vs stuttgart",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN4",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Slovan Bratislava vs Stuttgart"
   }
 ]
