@@ -974,80 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-10-14T12:00:00Z",
-    "logo": "img/default.png",
-    "liga": "UEFA Youth League",
-    "equipos": "roma sub-19 vs real madrid sub-19",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Roma Sub-19 vs Real Madrid Sub-19"
-  },
-  {
-    "hora_utc": "2026-10-14T14:00:00Z",
-    "logo": "img/default.png",
-    "liga": "UEFA Youth League",
-    "equipos": "manchester city sub-19 vs psg sub-19",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Manchester City Sub-19 vs PSG Sub-19"
-  },
-  {
-    "hora_utc": "2026-10-14T15:30:00Z",
-    "logo": "img/tr.png",
-    "liga": "Cup",
-    "equipos": "akhmat vs dynamo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports + I OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus_op2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Akhmat vs Dynamo"
-  },
-  {
-    "hora_utc": "2026-10-14T15:30:00Z",
-    "logo": "img/tr.png",
-    "liga": "Cup",
-    "equipos": "dinamo makhachkala vs zenit",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports 2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Dsports 2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Dinamo Makhachkala vs Zenit"
-  },
-  {
     "hora_utc": "2026-10-14T16:45:00Z",
     "logo": "img/champions.png",
     "liga": "UEFA Champions League",
@@ -1101,11 +1027,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "FOX One 1",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxone1",
-        "calidad": "HD"
-      },
-      {
         "nombre": "TUDN USA",
         "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
         "calidad": "HD"
@@ -1118,6 +1039,11 @@
       {
         "nombre": "Unimas",
         "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX One 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxone2",
         "calidad": "HD"
       }
     ],
@@ -1174,6 +1100,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "TNT 4 UK",
+        "url": "https://fubolazo.com/drm/tntsports4uk.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn",
         "calidad": "HD"
@@ -1202,6 +1133,11 @@
         "nombre": "Unimas",
         "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
         "calidad": "HD"
+      },
+      {
+        "nombre": "FOX One 3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxone3",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
@@ -1214,6 +1150,11 @@
     "equipos": "aston villa vs fenerbahce",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "TNT 2 UK",
+        "url": "https://fubolazo.com/drm/tntsports2uk.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN3",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
@@ -1259,6 +1200,11 @@
         "nombre": "Fox Sports 2",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
         "calidad": "HD"
+      },
+      {
+        "nombre": "FOX One 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxone2",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
@@ -1271,6 +1217,11 @@
     "equipos": "bodglimt vs borussia dortmund",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "TNT 3 UK",
+        "url": "https://fubolazo.com/drm/tntsports3uk.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN5",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
@@ -1297,6 +1248,11 @@
     "equipos": "manchester city vs paris saint-germain",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "TNT 1 UK",
+        "url": "https://fubolazo.com/drm/tntsports1uk.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN2",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
@@ -1372,5 +1328,307 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Slovan Bratislava vs Stuttgart"
+  },
+  {
+    "hora_utc": "2026-10-14T21:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "junior vs deportivo pereira",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Junior vs Deportivo Pereira"
+  },
+  {
+    "hora_utc": "2026-10-14T22:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "sarmiento vs river plate",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 13",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Sarmiento vs River Plate"
+  },
+  {
+    "hora_utc": "2026-10-14T22:00:00Z",
+    "logo": "img/sud.png",
+    "liga": "Copa Sudamericana",
+    "equipos": "atletico mineiro vs atletico torque",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 14",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports HD",
+        "url": "https://fubolazo.com/drm/dsportshd.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports AR",
+        "url": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_op2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Mineiro vs Atletico Torque"
+  },
+  {
+    "hora_utc": "2026-10-14T23:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "perez zeledon vs escorpiones belen",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FUTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=futv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Perez Zeledon vs Escorpiones Belén"
+  },
+  {
+    "hora_utc": "2026-10-14T23:30:00Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "inter miami vs new york city fc",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "MLS 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Inter Miami vs New York City FC"
+  },
+  {
+    "hora_utc": "2026-10-14T23:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "washington capitals vs montreal canadiens",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 18",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Washington Capitals vs Montreal Canadiens"
+  },
+  {
+    "hora_utc": "2026-10-15T00:00:00Z",
+    "logo": "img/en.png",
+    "liga": "CONCACAF Caribbean Club Championship",
+    "equipos": "club sando vs mount pleasant academy",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 15",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Club Sando vs Mount Pleasant Academy"
+  },
+  {
+    "hora_utc": "2026-10-15T00:00:00Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "los angeles dodgers vs milwaukee brewers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 17",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Los Angeles Dodgers vs Milwaukee Brewers"
+  },
+  {
+    "hora_utc": "2026-10-15T00:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "fluminense vs palmeiras",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 16",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Fluminense vs Palmeiras"
+  },
+  {
+    "hora_utc": "2026-10-15T00:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "colorado avalanche vs dallas stars",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 19",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Colorado Avalanche vs Dallas Stars"
+  },
+  {
+    "hora_utc": "2026-10-15T01:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "atletico nacional vs independiente medellin",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético Nacional vs Independiente Medellín"
+  },
+  {
+    "hora_utc": "2026-10-15T02:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "ld alajuelense vs cs herediano",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FUTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=futv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "LD Alajuelense vs CS Herediano"
   }
 ]
