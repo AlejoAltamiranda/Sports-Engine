@@ -50,6 +50,27 @@
     "hora_utc": "2026-09-21T23:00:00Z",
     "logo": "img/nhl.png",
     "liga": "NHL",
+    "equipos": "new jersey devils vs new york rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-jersey-devils-vs-new-york-rangers-2591457",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "New Jersey Devils vs New York Rangers"
+  },
+  {
+    "hora_utc": "2026-09-21T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
     "equipos": "philadelphia flyers vs washington capitals",
     "status": "1 hour from now",
     "canales": [
@@ -93,22 +114,6 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Columbus Blue Jackets vs Detroit Red Wings"
-  },
-  {
-    "hora_utc": "2026-09-21T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "new jersey devils vs new york rangers",
-    "status": "1 hour from now",
-    "canales": [
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-jersey-devils-vs-new-york-rangers-2591457",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github_all",
-    "equipos_original": "New Jersey Devils vs New York Rangers"
   },
   {
     "hora_utc": "2026-09-21T23:00:00Z",
@@ -974,390 +979,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-10-15T15:30:00Z",
-    "logo": "img/tr.png",
-    "liga": "Cup",
-    "equipos": "rubin vs fc orenburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Dsports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports + I OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus_op2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Rubin vs FC Orenburg"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "cska sofia vs monaco",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 09",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "CSKA Sofia vs Monaco"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "egnatia rrogozhine vs fc midtjylland",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 10",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Egnatia Rrogozhinë vs FC Midtjylland"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "gent vs aarhus",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 11",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Gent vs Aarhus"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "hnk hajduk split vs ajax",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 12",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "HNK Hajduk Split vs Ajax"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "kups vs trabzonspor",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 13",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "KuPS vs Trabzonspor"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "fc lugano vs estrella roja",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 14",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "FC Lugano vs Estrella Roja"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "mjallby aif vs inter club descaldes",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 15",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Mjallby AIF vs Inter Club d'Escaldes"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "panathinaikos vs borac banja luka",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 16",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Panathinaikos vs Borac Banja Luka"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "riga vs kairat almaty",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 17",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Riga vs Kairat Almaty"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/conference_league.png",
-    "liga": "UEFA Conference League",
-    "equipos": "universitatea craiova vs getafe",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 18",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Universitatea Craiova vs Getafe"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "az alkmaar vs hapoel beer sheva",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN7",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN7 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "AZ Alkmaar vs Hapoel Beer Sheva"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "celje vs omonia nicosia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Celje vs Omonia Nicosia"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "lech poznan vs bayer leverkusen",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN3 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Lech Poznan vs Bayer Leverkusen"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "lyon vs crystal palace",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Lyon vs Crystal Palace"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "union saint-gilloise vs real sociedad",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN4",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN4 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Union Saint-Gilloise vs Real Sociedad"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "red bull salzburgo vs milan",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Red Bull Salzburgo vs Milan"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "sparta praga vs lillestrom",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Sparta Praga vs Lillestrom"
-  },
-  {
-    "hora_utc": "2026-10-15T16:45:00Z",
-    "logo": "img/europa_league.png",
-    "liga": "UEFA Europa League",
-    "equipos": "torreense vs sunderland",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Torreense vs Sunderland"
-  },
-  {
     "hora_utc": "2026-10-15T17:45:00Z",
     "logo": "img/tr.png",
     "liga": "Cup",
@@ -1377,6 +998,32 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Rodina Moskva vs Spartak Moscow"
+  },
+  {
+    "hora_utc": "2026-10-15T18:00:00Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "cleveland guardians vs tampa bay rays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN6",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN6 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn6tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cleveland Guardians vs Tampa Bay Rays"
   },
   {
     "hora_utc": "2026-10-15T19:00:00Z",
@@ -1434,8 +1081,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Disney 12",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
         "calidad": "HD"
       }
     ],
@@ -1743,6 +1390,27 @@
     "equipos_original": "Rennes vs OFI"
   },
   {
+    "hora_utc": "2026-10-15T20:00:00Z",
+    "logo": "img/lib.png",
+    "liga": "CONMEBOL Libertadores Femenina",
+    "equipos": "corinthians femenil vs colo-colo femenil",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Corinthians Femenil vs Colo-Colo Femenil"
+  },
+  {
     "hora_utc": "2026-10-15T23:00:00Z",
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
@@ -1762,5 +1430,290 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Huracán vs Gimnasia La Plata"
+  },
+  {
+    "hora_utc": "2026-10-15T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "ottawa senators vs new york islanders",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ottawa Senators vs New York Islanders"
+  },
+  {
+    "hora_utc": "2026-10-15T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "toronto maple leafs vs buffalo sabres",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Toronto Maple Leafs vs Buffalo Sabres"
+  },
+  {
+    "hora_utc": "2026-10-15T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "tampa bay lightning vs seattle kraken",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Tampa Bay Lightning vs Seattle Kraken"
+  },
+  {
+    "hora_utc": "2026-10-15T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "florida panthers vs vancouver canucks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Florida Panthers vs Vancouver Canucks"
+  },
+  {
+    "hora_utc": "2026-10-15T23:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "detroit red wings vs philadelphia flyers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Detroit Red Wings vs Philadelphia Flyers"
+  },
+  {
+    "hora_utc": "2026-10-16T00:00:00Z",
+    "logo": "img/lib.png",
+    "liga": "CONMEBOL Libertadores Femenina",
+    "equipos": "u de deportes femenil vs palmeiras femenil",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "U. de Deportes Femenil vs Palmeiras Femenil"
+  },
+  {
+    "hora_utc": "2026-10-16T00:00:00Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "los angeles dodgers vs milwaukee brewers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Los Angeles Dodgers vs Milwaukee Brewers"
+  },
+  {
+    "hora_utc": "2026-10-16T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "chicago blackhawks vs winnipeg jets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Chicago Blackhawks vs Winnipeg Jets"
+  },
+  {
+    "hora_utc": "2026-10-16T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "minnesota wild vs st louis blues",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Minnesota Wild vs St. Louis Blues"
+  },
+  {
+    "hora_utc": "2026-10-16T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "nashville predators vs san jose sharks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Nashville Predators vs San Jose Sharks"
+  },
+  {
+    "hora_utc": "2026-10-16T00:15:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "denver broncos vs seattle seahawks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 13",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN7 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Denver Broncos vs Seattle Seahawks"
+  },
+  {
+    "hora_utc": "2026-10-16T00:30:00Z",
+    "logo": "img/lib.png",
+    "liga": "Copa Libertadores",
+    "equipos": "estudiantes de la plata vs flamengo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Estudiantes de La Plata vs Flamengo"
+  },
+  {
+    "hora_utc": "2026-10-16T01:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "edmonton oilers vs utah mammoth",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 14",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Edmonton Oilers vs Utah Mammoth"
+  },
+  {
+    "hora_utc": "2026-10-16T02:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "deportivo saprissa vs sporting san jose",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FUTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=futv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportivo Saprissa vs Sporting San Jose"
+  },
+  {
+    "hora_utc": "2026-10-16T02:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "vegas golden knights vs calgary flames",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 15",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vegas Golden Knights vs Calgary Flames"
   }
 ]
