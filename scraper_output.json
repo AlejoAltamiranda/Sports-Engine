@@ -50,27 +50,6 @@
     "hora_utc": "2026-09-21T23:00:00Z",
     "logo": "img/nhl.png",
     "liga": "NHL",
-    "equipos": "new jersey devils vs new york rangers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/new-jersey-devils-vs-new-york-rangers-2591457",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "New Jersey Devils vs New York Rangers"
-  },
-  {
-    "hora_utc": "2026-09-21T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
     "equipos": "philadelphia flyers vs washington capitals",
     "status": "1 hour from now",
     "canales": [
@@ -114,6 +93,22 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Columbus Blue Jackets vs Detroit Red Wings"
+  },
+  {
+    "hora_utc": "2026-09-21T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "new jersey devils vs new york rangers",
+    "status": "1 hour from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/new-jersey-devils-vs-new-york-rangers-2591457",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "New Jersey Devils vs New York Rangers"
   },
   {
     "hora_utc": "2026-09-21T23:00:00Z",
@@ -977,290 +972,5 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
-  },
-  {
-    "hora_utc": "2026-10-15T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "ottawa senators vs new york islanders",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Ottawa Senators vs New York Islanders"
-  },
-  {
-    "hora_utc": "2026-10-15T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "toronto maple leafs vs buffalo sabres",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Toronto Maple Leafs vs Buffalo Sabres"
-  },
-  {
-    "hora_utc": "2026-10-15T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "tampa bay lightning vs seattle kraken",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 03",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Tampa Bay Lightning vs Seattle Kraken"
-  },
-  {
-    "hora_utc": "2026-10-15T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "florida panthers vs vancouver canucks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 05",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Florida Panthers vs Vancouver Canucks"
-  },
-  {
-    "hora_utc": "2026-10-15T23:30:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "detroit red wings vs philadelphia flyers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Detroit Red Wings vs Philadelphia Flyers"
-  },
-  {
-    "hora_utc": "2026-10-16T00:00:00Z",
-    "logo": "img/lib.png",
-    "liga": "CONMEBOL Libertadores Femenina",
-    "equipos": "u de deportes femenil vs palmeiras femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "SporTV",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "U. de Deportes Femenil vs Palmeiras Femenil"
-  },
-  {
-    "hora_utc": "2026-10-16T00:00:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "los angeles dodgers vs milwaukee brewers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 11",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | Móvil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Los Angeles Dodgers vs Milwaukee Brewers"
-  },
-  {
-    "hora_utc": "2026-10-16T00:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "chicago blackhawks vs winnipeg jets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Chicago Blackhawks vs Winnipeg Jets"
-  },
-  {
-    "hora_utc": "2026-10-16T00:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "minnesota wild vs st louis blues",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Minnesota Wild vs St. Louis Blues"
-  },
-  {
-    "hora_utc": "2026-10-16T00:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "nashville predators vs san jose sharks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 09",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Nashville Predators vs San Jose Sharks"
-  },
-  {
-    "hora_utc": "2026-10-16T00:15:00Z",
-    "logo": "img/nfl.png",
-    "liga": "NFL",
-    "equipos": "denver broncos vs seattle seahawks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN7",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 13",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN7 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Denver Broncos vs Seattle Seahawks"
-  },
-  {
-    "hora_utc": "2026-10-16T00:30:00Z",
-    "logo": "img/lib.png",
-    "liga": "Copa Libertadores",
-    "equipos": "estudiantes de la plata vs flamengo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 10",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Estudiantes de La Plata vs Flamengo"
-  },
-  {
-    "hora_utc": "2026-10-16T01:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "edmonton oilers vs utah mammoth",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 14",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Edmonton Oilers vs Utah Mammoth"
-  },
-  {
-    "hora_utc": "2026-10-16T02:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "deportivo saprissa vs sporting san jose",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "url": "https://la18hd.su/vivo/canal.php?stream=futv",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Saprissa vs Sporting San Jose"
-  },
-  {
-    "hora_utc": "2026-10-16T02:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "vegas golden knights vs calgary flames",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney 15",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Vegas Golden Knights vs Calgary Flames"
   }
 ]
