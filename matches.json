@@ -915,156 +915,6 @@
     ]
   },
   {
-    "hora_utc": "2026-10-16T20:00:00Z",
-    "hora_fin_utc": "2026-10-16T22:20:00Z",
-    "liga": "CONMEBOL Libertadores Femenina",
-    "equipos": "bolivar femenil vs olimpia femenil",
-    "logo": "img/lib.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T20:00:00Z",
-    "hora_fin_utc": "2026-10-16T22:20:00Z",
-    "liga": "CONMEBOL Libertadores Femenina",
-    "equipos": "deportivo cali femenil vs libertad asuncion femenil",
-    "logo": "img/lib.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T20:30:00Z",
-    "hora_fin_utc": "2026-10-16T22:50:00Z",
-    "liga": "Liga 1",
-    "equipos": "adt de tarma vs Los Chankas",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T21:00:00Z",
-    "hora_fin_utc": "2026-10-16T23:20:00Z",
-    "liga": "Primera B",
-    "equipos": "rangers de talca vs santiago wanderers",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T22:00:00Z",
-    "hora_fin_utc": "2026-10-17T00:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Defensa y Justicia vs Instituto",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T22:00:00Z",
-    "hora_fin_utc": "2026-10-17T00:20:00Z",
-    "liga": "Primera División de Uruguay",
-    "equipos": "CA Cerro vs Cerro Largo FC",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 07",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T23:00:00Z",
-    "hora_fin_utc": "2026-10-17T01:20:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Internacional vs Mirassol",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "SporTV",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-16T23:00:00Z",
-    "hora_fin_utc": "2026-10-17T01:20:00Z",
-    "liga": "Segunda División",
-    "equipos": "colon vs sportivo huracan",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 08",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-10-16T23:30:00Z",
     "hora_fin_utc": "2026-10-17T01:50:00Z",
     "liga": "Liga de Primera",
@@ -1110,6 +960,31 @@
       {
         "nombre": "SporTV",
         "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-17T00:00:00Z",
+    "hora_fin_utc": "2026-10-17T03:15:00Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
         "calidad": "HD"
       }
     ]
@@ -1185,6 +1060,51 @@
       {
         "nombre": "ESPN2 MX",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-17T01:00:00Z",
+    "hora_fin_utc": "2026-10-17T04:00:00Z",
+    "liga": "NHL",
+    "equipos": "colorado avalanche vs pittsburgh penguins",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney 13",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-17T02:00:00Z",
+    "hora_fin_utc": "2026-10-17T05:00:00Z",
+    "liga": "NHL",
+    "equipos": "anaheim ducks vs boston bruins",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney 14",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-17T02:30:00Z",
+    "hora_fin_utc": "2026-10-17T05:45:00Z",
+    "liga": "NBA",
+    "equipos": "Denver Nuggets vs LA Lakers",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
         "calidad": "HD"
       }
     ]
