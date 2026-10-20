@@ -974,32 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-10-20T15:10:00Z",
-    "logo": "img/sa.png",
-    "liga": "Pro League",
-    "equipos": "al taawon vs al-qadisiyah fc",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | Móvil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Soccer Plus",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Al Taawon vs Al-Qadisiyah FC"
-  },
-  {
     "hora_utc": "2026-10-20T16:45:00Z",
     "logo": "img/champions.png",
     "liga": "UEFA Champions League",
@@ -1104,11 +1078,32 @@
   },
   {
     "hora_utc": "2026-10-20T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "League Two",
+    "equipos": "gillingham vs port vale",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Gillingham vs Port Vale"
+  },
+  {
+    "hora_utc": "2026-10-20T19:00:00Z",
     "logo": "img/champions.png",
     "liga": "UEFA Champions League",
     "equipos": "roma vs slovan bratislava",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "TNT 3 UK",
+        "url": "https://fubolazo.com/drm/tntsports3uk.php",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN3",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
@@ -1188,6 +1183,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "TNT 1 UK",
+        "url": "https://fubolazo.com/drm/tntsports1uk.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN5",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
         "calidad": "HD"
@@ -1240,18 +1240,13 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "TNT 2 UK",
+        "url": "https://fubolazo.com/drm/tntsports2uk.php",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN",
         "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 10",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
         "calidad": "HD"
       },
       {
@@ -1260,13 +1255,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
         "calidad": "HD"
       },
       {
-        "nombre": "Unimas",
-        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
         "calidad": "HD"
       }
     ],
@@ -1298,5 +1293,319 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Stuttgart vs Atlético de Madrid"
+  },
+  {
+    "hora_utc": "2026-10-20T21:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "deportivo pereira vs boyaca chico",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportivo Pereira vs Boyacá Chicó"
+  },
+  {
+    "hora_utc": "2026-10-20T23:00:00Z",
+    "logo": "img/cl.png",
+    "liga": "Liga de Primera",
+    "equipos": "union la calera vs coquimbo unido",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Union La Calera vs Coquimbo Unido"
+  },
+  {
+    "hora_utc": "2026-10-20T23:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "new york knicks vs philadelphia 76ers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN4 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "New York Knicks vs Philadelphia 76ers"
+  },
+  {
+    "hora_utc": "2026-10-20T23:15:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga BetPlay",
+    "equipos": "internacional de bogota vs fortaleza ceif",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Internacional de Bogotá vs Fortaleza CEIF"
+  },
+  {
+    "hora_utc": "2026-10-20T23:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "cucuta vs atletico nacional",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Cucuta vs Atlético Nacional"
+  },
+  {
+    "hora_utc": "2026-10-21T00:07:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "chivas vs necaxa",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Chivas vs Necaxa"
+  },
+  {
+    "hora_utc": "2026-10-21T00:30:00Z",
+    "logo": "img/sud.png",
+    "liga": "Copa Sudamericana",
+    "equipos": "vasco da gama vs boca juniors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Dsports HD",
+        "url": "https://fubolazo.com/drm/dsportshd.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports AR",
+        "url": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_op2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vasco da Gama vs Boca Juniors"
+  },
+  {
+    "hora_utc": "2026-10-21T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "atletico san luis vs queretaro",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Atlético San Luis vs Querétaro"
+  },
+  {
+    "hora_utc": "2026-10-21T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "fc juarez vs atlante fc",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "FC Juarez vs Atlante FC"
+  },
+  {
+    "hora_utc": "2026-10-21T01:30:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "millonarios vs once caldas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Millonarios vs Once Caldas"
+  },
+  {
+    "hora_utc": "2026-10-21T02:00:00Z",
+    "logo": "img/default.png",
+    "liga": "CONCACAF Central American Cup",
+    "equipos": "cd marathon vs alianza",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "CD Marathon vs Alianza"
+  },
+  {
+    "hora_utc": "2026-10-21T02:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "vancouver canucks vs carolina hurricanes",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vancouver Canucks vs Carolina Hurricanes"
+  },
+  {
+    "hora_utc": "2026-10-21T02:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "vegas golden knights vs tampa bay lightning",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vegas Golden Knights vs Tampa Bay Lightning"
+  },
+  {
+    "hora_utc": "2026-10-21T03:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "tigres vs leon",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | Móvil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Tigres vs León"
   }
 ]
