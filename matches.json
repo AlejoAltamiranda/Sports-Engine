@@ -915,31 +915,31 @@
     ]
   },
   {
-    "hora_utc": "2026-10-21T12:00:00Z",
-    "hora_fin_utc": "2026-10-21T14:20:00Z",
-    "liga": "UEFA Youth League",
-    "equipos": "galatasaray sub-19 vs lille sub-19",
-    "logo": "img/default.png",
+    "hora_utc": "2026-10-21T16:45:00Z",
+    "hora_fin_utc": "2026-10-21T19:05:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "Galatasaray vs LOSC Lille",
+    "logo": "img/champions.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-21T14:00:00Z",
-    "hora_fin_utc": "2026-10-21T16:20:00Z",
-    "liga": "UEFA Youth League",
-    "equipos": "internazionale sub-19 vs shakhtar donetsk sub-19",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
+      },
       {
-        "nombre": "Disney 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
         "calidad": "HD"
       }
     ]
@@ -986,35 +986,10 @@
         "nombre": "Univision",
         "url": "https://la18hd.su/vivo/canal.php?stream=univision",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-21T16:45:00Z",
-    "hora_fin_utc": "2026-10-21T19:05:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "Galatasaray vs LOSC Lille",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
       },
       {
-        "nombre": "Disney 04",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "nombre": "TNT 2 UK",
+        "url": "https://fubolazo.com/drm/tntsports2uk.php",
         "calidad": "HD"
       }
     ]
@@ -1093,56 +1068,6 @@
     "hora_utc": "2026-10-21T19:00:00Z",
     "hora_fin_utc": "2026-10-21T21:20:00Z",
     "liga": "UEFA Champions League",
-    "equipos": "Arsenal vs Bayern München",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 06",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Unimas",
-        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Univision",
-        "url": "https://la18hd.su/vivo/canal.php?stream=univision",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-21T19:00:00Z",
-    "hora_fin_utc": "2026-10-21T21:20:00Z",
-    "liga": "UEFA Champions League",
     "equipos": "Feyenoord vs Real Betis",
     "logo": "img/champions.png",
     "sport": "football",
@@ -1198,6 +1123,116 @@
     "hora_utc": "2026-10-21T19:00:00Z",
     "hora_fin_utc": "2026-10-21T21:20:00Z",
     "liga": "UEFA Champions League",
+    "equipos": "lask linz vs sporting de lisboa",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN6",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN6 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn6tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-21T19:00:00Z",
+    "hora_fin_utc": "2026-10-21T21:20:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "RB Leipzig vs Real Madrid",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT 4 UK",
+        "url": "https://fubolazo.com/drm/tntsports4uk.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-21T19:00:00Z",
+    "hora_fin_utc": "2026-10-21T21:20:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "Arsenal vs Bayern München",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT 1 UK",
+        "url": "https://fubolazo.com/drm/tntsports1uk.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Unimas",
+        "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision",
+        "url": "https://la18hd.su/vivo/canal.php?stream=univision",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-21T19:00:00Z",
+    "hora_fin_utc": "2026-10-21T21:20:00Z",
+    "liga": "UEFA Champions League",
     "equipos": "Inter Milan vs shakhtar donetsk",
     "logo": "img/champions.png",
     "sport": "football",
@@ -1220,56 +1255,6 @@
       {
         "nombre": "Fox Sports 2",
         "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-21T19:00:00Z",
-    "hora_fin_utc": "2026-10-21T21:20:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "RB Leipzig vs Real Madrid",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 10",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-21T19:00:00Z",
-    "hora_fin_utc": "2026-10-21T21:20:00Z",
-    "liga": "UEFA Champions League",
-    "equipos": "lask linz vs sporting de lisboa",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN6",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 11",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN6 Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn6tv.html",
         "calidad": "HD"
       }
     ]
