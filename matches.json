@@ -915,60 +915,55 @@
     ]
   },
   {
-    "hora_utc": "2026-10-23T20:15:00Z",
-    "hora_fin_utc": "2026-10-23T22:35:00Z",
-    "liga": "Liga 1",
-    "equipos": "adt de tarma vs Atlético Grau",
-    "logo": "img/default.png",
-    "sport": "football",
+    "hora_utc": "2026-10-24T00:00:00Z",
+    "hora_fin_utc": "2026-10-24T03:15:00Z",
+    "liga": "MLB",
+    "equipos": "Milwaukee Brewers vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
     "canales": [
       {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
         "calidad": "HD"
       },
       {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
+        "nombre": "Disney 13",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
         "calidad": "HD"
       },
       {
-        "nombre": "Liga1max OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-10-23T21:00:00Z",
-    "hora_fin_utc": "2026-10-23T23:20:00Z",
+    "hora_utc": "2026-10-24T00:00:00Z",
+    "hora_fin_utc": "2026-10-24T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "chicago blackhawks vs montreal canadiens",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-24T00:15:00Z",
+    "hora_fin_utc": "2026-10-24T02:35:00Z",
     "liga": "Liga Profesional",
-    "equipos": "Gimnasia y Esgrima La Plata vs Sarmiento",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney 09",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-23T21:30:00Z",
-    "hora_fin_utc": "2026-10-23T23:50:00Z",
-    "liga": "Liga Profesional Argentina",
-    "equipos": "gimnasia m vs Platense",
+    "equipos": "Atlético Tucumán vs Tigre",
     "logo": "img/ar.png",
     "sport": "football",
     "canales": [
@@ -985,76 +980,31 @@
     ]
   },
   {
-    "hora_utc": "2026-10-23T23:00:00Z",
-    "hora_fin_utc": "2026-10-24T01:20:00Z",
-    "liga": "Brasileirão",
-    "equipos": "Cruzeiro vs Remo",
-    "logo": "img/br.png",
+    "hora_utc": "2026-10-24T01:00:00Z",
+    "hora_fin_utc": "2026-10-24T03:20:00Z",
+    "liga": "Liga MX",
+    "equipos": "FC Juárez vs Necaxa",
+    "logo": "img/mx.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Premiere BR",
-        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "SporTV",
-        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "nombre": "FOX One",
+        "url": "https://fubolazo.com/drm/foxone.php",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-10-23T23:00:00Z",
-    "hora_fin_utc": "2026-10-24T01:20:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "Audax Italiano vs Huachipato",
-    "logo": "img/cl.png",
-    "sport": "football",
+    "hora_utc": "2026-10-24T01:00:00Z",
+    "hora_fin_utc": "2026-10-24T04:00:00Z",
+    "liga": "NHL",
+    "equipos": "colorado avalanche vs tampa bay lightning",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
     "canales": [
       {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-23T23:00:00Z",
-    "hora_fin_utc": "2026-10-24T01:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Atlético Bucaramanga vs Boyacá Chicó",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-10-23T23:00:00Z",
-    "hora_fin_utc": "2026-10-24T01:20:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Juventud de Las Piedras vs Peñarol",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney 10",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
         "calidad": "HD"
       }
     ]
@@ -1075,6 +1025,51 @@
       {
         "nombre": "Win Sports + | opc3",
         "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-24T02:00:00Z",
+    "hora_fin_utc": "2026-10-24T04:20:00Z",
+    "liga": "Primera División",
+    "equipos": "escorpiones belen vs sporting san jose",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FUTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=futv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-24T03:00:00Z",
+    "hora_fin_utc": "2026-10-24T05:20:00Z",
+    "liga": "Liga MX",
+    "equipos": "atlante fc vs Atlético de San Luis",
+    "logo": "img/mx.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
         "calidad": "HD"
       }
     ]
