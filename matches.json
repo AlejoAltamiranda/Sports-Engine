@@ -913,5 +913,765 @@
         "calidad": "HD"
       }
     ]
+  },
+  {
+    "hora_utc": "2026-10-25T11:30:00Z",
+    "hora_fin_utc": "2026-10-25T13:50:00Z",
+    "liga": "Serie A",
+    "equipos": "Fiorentina vs Inter Milan",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T12:30:00Z",
+    "hora_fin_utc": "2026-10-25T14:50:00Z",
+    "liga": "2. Bundesliga",
+    "equipos": "eintracht braunschweig vs hannover 96",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T12:30:00Z",
+    "hora_fin_utc": "2026-10-25T14:50:00Z",
+    "liga": "2. Bundesliga",
+    "equipos": "dynamo dresden vs holstein kiel",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T12:30:00Z",
+    "hora_fin_utc": "2026-10-25T14:50:00Z",
+    "liga": "2. Bundesliga",
+    "equipos": "spvgg greuther furth vs vfl osnabruck",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T13:00:00Z",
+    "hora_fin_utc": "2026-10-25T15:20:00Z",
+    "liga": "LaLiga",
+    "equipos": "Athletic Club vs Getafe",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Dsports AR",
+        "url": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_op2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T13:00:00Z",
+    "hora_fin_utc": "2026-10-25T15:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "sabadell vs tenerife",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T13:00:00Z",
+    "hora_fin_utc": "2026-10-25T15:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "oriental vs sportivo huracan",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T13:00:00Z",
+    "hora_fin_utc": "2026-10-25T15:20:00Z",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "CA Progreso vs Montevideo Wanderers",
+    "logo": "img/uy.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T13:30:00Z",
+    "hora_fin_utc": "2026-10-25T15:50:00Z",
+    "liga": "Eredivisie",
+    "equipos": "Feyenoord vs PSV Eindhoven",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T13:30:00Z",
+    "hora_fin_utc": "2026-10-25T15:50:00Z",
+    "liga": "Eredivisie",
+    "equipos": "FC Groningen vs NEC Nijmegen",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Ligue 1",
+    "equipos": "AS Monaco vs LOSC Lille",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 15",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Super League 1",
+    "equipos": "kalamata vs olympiacos",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Claro Sports HD",
+        "url": "https://fubolazo.com/drm/clarosports1.php",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Crystal Palace vs Newcastle United",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 09",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Brentford vs Hull City",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX One",
+        "url": "https://fubolazo.com/drm/foxone.php",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "Brighton & Hove Albion vs Liverpool",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 11",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Premier League",
+    "equipos": "AFC Bournemouth vs Manchester United",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 12",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Serie A",
+    "equipos": "Atalanta vs frosinone",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 13",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:00:00Z",
+    "hora_fin_utc": "2026-10-25T16:20:00Z",
+    "liga": "Serie A",
+    "equipos": "genova vs venecia",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 14",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T14:30:00Z",
+    "hora_fin_utc": "2026-10-25T16:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "Bayer Leverkusen vs TSG Hoffenheim",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 16",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T15:15:00Z",
+    "hora_fin_utc": "2026-10-25T17:35:00Z",
+    "liga": "LaLiga",
+    "equipos": "Celta de Vigo vs Real Betis",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Dsports AR",
+        "url": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_op2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T15:15:00Z",
+    "hora_fin_utc": "2026-10-25T17:35:00Z",
+    "liga": "Segunda División",
+    "equipos": "albacete vs eldense",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T15:15:00Z",
+    "hora_fin_utc": "2026-10-25T17:35:00Z",
+    "liga": "Segunda División",
+    "equipos": "ad ceuta fc vs cadiz",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T15:30:00Z",
+    "hora_fin_utc": "2026-10-25T17:50:00Z",
+    "liga": "Liga de Primera",
+    "equipos": "Coquimbo Unido vs Ñublense",
+    "logo": "img/cl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Premium CL Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T15:45:00Z",
+    "hora_fin_utc": "2026-10-25T18:05:00Z",
+    "liga": "Eredivisie",
+    "equipos": "Ajax vs Sparta Rotterdam",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 17",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:00:00Z",
+    "hora_fin_utc": "2026-10-25T18:20:00Z",
+    "liga": "Liga1",
+    "equipos": "Cienciano vs Comerciantes Unidos",
+    "logo": "img/pe.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:00:00Z",
+    "hora_fin_utc": "2026-10-25T18:20:00Z",
+    "liga": "Süper Lig",
+    "equipos": "corum fk vs Göztepe",
+    "logo": "img/tr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 20",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney20",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:00:00Z",
+    "hora_fin_utc": "2026-10-25T18:20:00Z",
+    "liga": "Segunda División",
+    "equipos": "atenas vs fenix",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 18",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:00:00Z",
+    "hora_fin_utc": "2026-10-25T18:20:00Z",
+    "liga": "Primera División de Uruguay",
+    "equipos": "atletico torque vs CA Cerro",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 19",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:15:00Z",
+    "hora_fin_utc": "2026-10-25T18:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Angers SCO vs FC Lorient",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 01",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:15:00Z",
+    "hora_fin_utc": "2026-10-25T18:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "AJ Auxerre vs le mans",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 02",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:15:00Z",
+    "hora_fin_utc": "2026-10-25T18:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "RC Strasbourg vs Stade Rennais",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 04",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:15:00Z",
+    "hora_fin_utc": "2026-10-25T18:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "estac troyes vs Toulouse FC",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 05",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:15:00Z",
+    "hora_fin_utc": "2026-10-25T18:35:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Le Havre AC vs Olympique de Marseille",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 03",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:30:00Z",
+    "hora_fin_utc": "2026-10-25T18:50:00Z",
+    "liga": "Bundesliga",
+    "equipos": "Bayern München vs SC Freiburg",
+    "logo": "img/de.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney 07",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telemundo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T16:30:00Z",
+    "hora_fin_utc": "2026-10-25T18:50:00Z",
+    "liga": "Premier League",
+    "equipos": "Leeds United vs Sunderland",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 06",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T17:00:00Z",
+    "hora_fin_utc": "2026-10-25T19:20:00Z",
+    "liga": "Serie A",
+    "equipos": "Juventus vs Lecce",
+    "logo": "img/it.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney 08",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T17:30:00Z",
+    "hora_fin_utc": "2026-10-25T19:50:00Z",
+    "liga": "LaLiga",
+    "equipos": "Levante vs Real Sociedad",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Dsports AR",
+        "url": "https://la18hd.su/vivo/canales.php?stream=dsportsar",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports | OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports_op2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports Movil",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-10-25T17:30:00Z",
+    "hora_fin_utc": "2026-10-25T19:50:00Z",
+    "liga": "Segunda División",
+    "equipos": "castellon vs sporting gijon",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
   }
 ]
