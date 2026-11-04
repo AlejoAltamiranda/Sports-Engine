@@ -913,20 +913,5 @@
         "calidad": "HD"
       }
     ]
-  },
-  {
-    "hora_utc": "2026-11-04T02:00:00Z",
-    "hora_fin_utc": "2026-11-04T05:00:00Z",
-    "liga": "NHL",
-    "equipos": "vancouver canucks vs anaheim ducks",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
-    "canales": [
-      {
-        "nombre": "Disney 11",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-        "calidad": "HD"
-      }
-    ]
   }
 ]
