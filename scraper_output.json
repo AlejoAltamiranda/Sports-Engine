@@ -556,27 +556,6 @@
     "hora_utc": "2026-09-22T23:00:00Z",
     "logo": "img/nhl.png",
     "liga": "NHL",
-    "equipos": "buffalo sabres vs columbus blue jackets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Stream",
-        "url": "https://istreameast.cx/links/buffalo-sabres-vs-columbus-blue-jackets-2591464",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Buffalo Sabres vs Columbus Blue Jackets"
-  },
-  {
-    "hora_utc": "2026-09-22T23:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
     "equipos": "boston bruins vs philadelphia flyers",
     "status": "1 day from now",
     "canales": [
@@ -636,6 +615,22 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Carolina Hurricanes vs Florida Panthers"
+  },
+  {
+    "hora_utc": "2026-09-22T23:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "buffalo sabres vs columbus blue jackets",
+    "status": "1 day from now",
+    "canales": [
+      {
+        "nombre": "Stream",
+        "url": "https://istreameast.cx/links/buffalo-sabres-vs-columbus-blue-jackets-2591464",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github_all",
+    "equipos_original": "Buffalo Sabres vs Columbus Blue Jackets"
   },
   {
     "hora_utc": "2026-09-22T23:15:00Z",
@@ -977,230 +972,5 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "banfield vs atletico tucuman",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Banfield vs Atlético Tucumán"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "tigre vs sarmiento",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN7",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN7 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn7tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espnpremium2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Tigre vs Sarmiento"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "fortaleza ceif vs independiente medellin",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Fortaleza CEIF vs Independiente Medellín"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "necaxa vs tijuana",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | Móvil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Necaxa vs Tijuana"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "atletico san luis vs fc juarez",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Atlético San Luis vs FC Juarez"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "calgary flames vs anaheim ducks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Calgary Flames vs Anaheim Ducks"
-  },
-  {
-    "hora_utc": "2026-11-07T01:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "minnesota wild vs san jose sharks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Minnesota Wild vs San Jose Sharks"
-  },
-  {
-    "hora_utc": "2026-11-07T01:06:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX Femenil",
-    "equipos": "guadalajara femenil vs america femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Telemundo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Guadalajara Femenil vs América Femenil"
-  },
-  {
-    "hora_utc": "2026-11-07T02:10:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX Femenil",
-    "equipos": "juarez femenil vs monterrey femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | Móvil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Juárez Femenil vs Monterrey Femenil"
-  },
-  {
-    "hora_utc": "2026-11-07T03:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "atlante fc vs santos laguna",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Atlante FC vs Santos Laguna"
   }
 ]
