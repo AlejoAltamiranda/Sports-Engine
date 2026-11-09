@@ -972,5 +972,132 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
+  },
+  {
+    "hora_utc": "2026-11-09T19:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "sabadell vs real sociedad ii",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Sabadell vs Real Sociedad II"
+  },
+  {
+    "hora_utc": "2026-11-09T19:30:00Z",
+    "logo": "img/default.png",
+    "liga": "FA Cup",
+    "equipos": "plymouth parkway vs berkhamsted",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Plymouth Parkway vs Berkhamsted"
+  },
+  {
+    "hora_utc": "2026-11-10T00:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "junior vs cucuta",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Junior vs Cucuta"
+  },
+  {
+    "hora_utc": "2026-11-10T01:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "edmonton oilers vs new york rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Edmonton Oilers vs New York Rangers"
+  },
+  {
+    "hora_utc": "2026-11-10T01:15:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "minnesota vikings vs buffalo bills",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Minnesota Vikings vs Buffalo Bills"
+  },
+  {
+    "hora_utc": "2026-11-10T02:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "vancouver canucks vs philadelphia flyers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vancouver Canucks vs Philadelphia Flyers"
+  },
+  {
+    "hora_utc": "2026-11-10T03:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "san jose sharks vs new york islanders",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "San Jose Sharks vs New York Islanders"
   }
 ]
