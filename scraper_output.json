@@ -997,8 +997,23 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
         "calidad": "HD"
       }
     ],
@@ -1087,8 +1102,18 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
         "calidad": "HD"
       }
     ],
@@ -1106,10 +1131,111 @@
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
         "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "Paris Saint Germain Femenil vs Bayern Munich Femenil"
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "toronto maple leafs vs colorado avalanche",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Toronto Maple Leafs vs Colorado Avalanche"
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "ottawa senators vs washington capitals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ottawa Senators vs Washington Capitals"
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "montreal canadiens vs minnesota wild",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Montreal Canadiens vs Minnesota Wild"
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "winnipeg jets vs new jersey devils",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Winnipeg Jets vs New Jersey Devils"
+  },
+  {
+    "hora_utc": "2026-11-11T00:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "columbus blue jackets vs florida panthers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Columbus Blue Jackets vs Florida Panthers"
+  },
+  {
+    "hora_utc": "2026-11-11T01:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "st louis blues vs detroit red wings",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "St. Louis Blues vs Detroit Red Wings"
   },
   {
     "hora_utc": "2026-11-11T03:00:00Z",
@@ -1126,5 +1252,21 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Juárez Femenil vs Guadalajara Femenil"
+  },
+  {
+    "hora_utc": "2026-11-11T03:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "los angeles kings vs nashville predators",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Los Angeles Kings vs Nashville Predators"
   }
 ]

@@ -938,8 +938,23 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
         "calidad": "HD"
       }
     ]
@@ -1023,8 +1038,18 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
         "calidad": "HD"
       }
     ]
@@ -1041,6 +1066,101 @@
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
         "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "hora_fin_utc": "2026-11-11T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "toronto maple leafs vs colorado avalanche",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "hora_fin_utc": "2026-11-11T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "ottawa senators vs washington capitals",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "hora_fin_utc": "2026-11-11T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "montreal canadiens vs minnesota wild",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T00:00:00Z",
+    "hora_fin_utc": "2026-11-11T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "winnipeg jets vs new jersey devils",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T00:30:00Z",
+    "hora_fin_utc": "2026-11-11T03:30:00Z",
+    "liga": "NHL",
+    "equipos": "columbus blue jackets vs florida panthers",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T01:00:00Z",
+    "hora_fin_utc": "2026-11-11T04:00:00Z",
+    "liga": "NHL",
+    "equipos": "st louis blues vs detroit red wings",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
       }
     ]
   },
@@ -1055,6 +1175,21 @@
       {
         "nombre": "FOX One",
         "url": "https://fubolazo.com/drm/foxone.php",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-11T03:00:00Z",
+    "hora_fin_utc": "2026-11-11T06:00:00Z",
+    "liga": "NHL",
+    "equipos": "los angeles kings vs nashville predators",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
         "calidad": "HD"
       }
     ]
