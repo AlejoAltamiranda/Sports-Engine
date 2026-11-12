@@ -915,37 +915,182 @@
     ]
   },
   {
-    "hora_utc": "2026-11-12T02:30:00Z",
-    "hora_fin_utc": "2026-11-12T05:45:00Z",
-    "liga": "NBA",
-    "equipos": "Golden State Warriors vs Houston Rockets",
-    "logo": "img/nba.png",
-    "sport": "nba",
+    "hora_utc": "2026-11-12T12:00:00Z",
+    "hora_fin_utc": "2026-11-12T14:20:00Z",
+    "liga": "Bybit Stockholm Open",
+    "equipos": "alejandro tabilo vs alex michelsen",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-11-12T02:30:00Z",
-    "hora_fin_utc": "2026-11-12T05:30:00Z",
-    "liga": "NHL",
-    "equipos": "vegas golden knights vs utah mammoth",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-12T17:00:00Z",
+    "hora_fin_utc": "2026-11-12T19:20:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "Bélgica vs turkiye",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T17:00:00Z",
+    "hora_fin_utc": "2026-11-12T19:20:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "armenia vs chipre",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T17:45:00Z",
+    "hora_fin_utc": "2026-11-12T20:05:00Z",
+    "liga": "UEFA Champions League Women",
+    "equipos": "arsenal femenil vs barcelona femenil",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T18:00:00Z",
+    "hora_fin_utc": "2026-11-12T20:20:00Z",
+    "liga": "Reserve League",
+    "equipos": "river plate res vs rosario central res",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tntsports2.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:30:00Z",
+    "hora_fin_utc": "2026-11-12T21:50:00Z",
+    "liga": "Segunda División",
+    "equipos": "atenas vs oriental",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:30:00Z",
+    "hora_fin_utc": "2026-11-12T21:50:00Z",
+    "liga": "Segunda División",
+    "equipos": "cerrito vs colon",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:30:00Z",
+    "hora_fin_utc": "2026-11-12T21:50:00Z",
+    "liga": "Segunda División",
+    "equipos": "plaza colonia vs rentistas",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:45:00Z",
+    "hora_fin_utc": "2026-11-12T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "Francia vs italia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:45:00Z",
+    "hora_fin_utc": "2026-11-12T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "España vs República Checa",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:45:00Z",
+    "hora_fin_utc": "2026-11-12T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "Croacia vs Inglaterra",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T19:45:00Z",
+    "hora_fin_utc": "2026-11-12T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "albania vs finlandia",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
@@ -955,12 +1100,12 @@
     ]
   },
   {
-    "hora_utc": "2026-11-12T03:00:00Z",
-    "hora_fin_utc": "2026-11-12T06:00:00Z",
-    "liga": "NHL",
-    "equipos": "san jose sharks vs pittsburgh penguins",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-12T19:45:00Z",
+    "hora_fin_utc": "2026-11-12T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "bielorrusia vs san marino",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
@@ -970,16 +1115,116 @@
     ]
   },
   {
-    "hora_utc": "2026-11-12T03:00:00Z",
-    "hora_fin_utc": "2026-11-12T06:00:00Z",
-    "liga": "NHL",
-    "equipos": "anaheim ducks vs nashville predators",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-12T19:45:00Z",
+    "hora_fin_utc": "2026-11-12T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "letonia vs montenegro",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T20:00:00Z",
+    "hora_fin_utc": "2026-11-12T22:20:00Z",
+    "liga": "UEFA Champions League Women",
+    "equipos": "austria wien femenil vs sl benfica femenil",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T22:00:00Z",
+    "hora_fin_utc": "2026-11-13T00:20:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Deportivo Pasto vs Junior",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T23:00:00Z",
+    "hora_fin_utc": "2026-11-13T01:20:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Estudiantes de La Plata vs Independiente Rivadavia",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-12T23:00:00Z",
+    "hora_fin_utc": "2026-11-13T01:20:00Z",
+    "liga": "Primera División de Uruguay",
+    "equipos": "CA Progreso vs Cerro Largo FC",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "hora_fin_utc": "2026-11-13T02:20:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Boyacá Chicó vs Llaneros",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | opc3",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T02:00:00Z",
+    "hora_fin_utc": "2026-11-13T04:20:00Z",
+    "liga": "Liga de Expansión MX",
+    "equipos": "leones negros udg vs monarcas",
+    "logo": "img/mx.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
         "calidad": "HD"
       }
     ]
