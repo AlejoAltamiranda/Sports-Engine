@@ -913,5 +913,195 @@
         "calidad": "HD"
       }
     ]
+  },
+  {
+    "hora_utc": "2026-11-13T17:00:00Z",
+    "hora_fin_utc": "2026-11-13T19:20:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "kazajistan vs moldavia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:30:00Z",
+    "hora_fin_utc": "2026-11-13T21:50:00Z",
+    "liga": "Segunda División",
+    "equipos": "burgos vs leganes",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "Alemania vs serbia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "grecia vs Países Bajos",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "eslovaquia vs islas feroe",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "bulgaria vs islandia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "azerbaiyan vs liechtenstein",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "estonia vs luxemburgo",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "andorra vs gibraltar",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "eslovenia vs Suiza",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T19:45:00Z",
+    "hora_fin_utc": "2026-11-13T22:05:00Z",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "Escocia vs fyr macedonia",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T20:00:00Z",
+    "hora_fin_utc": "2026-11-13T22:20:00Z",
+    "liga": "Primera División de Uruguay",
+    "equipos": "atletico torque vs racing de montevideo",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ]
   }
 ]
