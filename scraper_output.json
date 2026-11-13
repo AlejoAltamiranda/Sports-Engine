@@ -974,94 +974,132 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-11-12T20:00:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Champions League Women",
-    "equipos": "sl benfica femenil vs austria wien femenil",
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "boston bruins vs montreal canadiens",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "SL Benfica Femenil vs Austria Wien Femenil"
-  },
-  {
-    "hora_utc": "2026-11-12T22:00:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "deportivo pasto vs junior",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Pasto vs Junior"
-  },
-  {
-    "hora_utc": "2026-11-12T23:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "estudiantes de la plata vs independiente rivadavia",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Estudiantes de La Plata vs Independiente Rivadavia"
-  },
-  {
-    "hora_utc": "2026-11-12T23:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División de Uruguay",
-    "equipos": "cerro largo vs progreso",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Cerro Largo vs Progreso"
+    "equipos_original": "Boston Bruins vs Montreal Canadiens"
   },
   {
     "hora_utc": "2026-11-13T00:00:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "llaneros vs boyaca chico",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "columbus blue jackets vs tampa bay lightning",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Llaneros vs Boyacá Chicó"
+    "equipos_original": "Columbus Blue Jackets vs Tampa Bay Lightning"
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "new jersey devils vs washington capitals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "New Jersey Devils vs Washington Capitals"
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "ottawa senators vs colorado avalanche",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Ottawa Senators vs Colorado Avalanche"
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "toronto maple leafs vs minnesota wild",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Toronto Maple Leafs vs Minnesota Wild"
+  },
+  {
+    "hora_utc": "2026-11-13T00:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "florida panthers vs detroit red wings",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Florida Panthers vs Detroit Red Wings"
+  },
+  {
+    "hora_utc": "2026-11-13T01:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "chicago blackhawks vs buffalo sabres",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Chicago Blackhawks vs Buffalo Sabres"
+  },
+  {
+    "hora_utc": "2026-11-13T01:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "dallas stars vs winnipeg jets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Dallas Stars vs Winnipeg Jets"
   },
   {
     "hora_utc": "2026-11-13T01:15:00Z",
@@ -1097,17 +1135,33 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "Monarcas vs Leones Negros UDG"
+  },
+  {
+    "hora_utc": "2026-11-13T02:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "utah mammoth vs st louis blues",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Utah Mammoth vs St. Louis Blues"
   }
 ]

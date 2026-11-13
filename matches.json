@@ -915,86 +915,121 @@
     ]
   },
   {
-    "hora_utc": "2026-11-12T20:00:00Z",
-    "hora_fin_utc": "2026-11-12T22:20:00Z",
-    "liga": "UEFA Champions League Women",
-    "equipos": "austria wien femenil vs sl benfica femenil",
-    "logo": "img/champions.png",
-    "sport": "football",
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "hora_fin_utc": "2026-11-13T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "boston bruins vs montreal canadiens",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-12T22:00:00Z",
-    "hora_fin_utc": "2026-11-13T00:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Deportivo Pasto vs Junior",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-12T23:00:00Z",
-    "hora_fin_utc": "2026-11-13T01:20:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Estudiantes de La Plata vs Independiente Rivadavia",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-12T23:00:00Z",
-    "hora_fin_utc": "2026-11-13T01:20:00Z",
-    "liga": "Primera División de Uruguay",
-    "equipos": "CA Progreso vs Cerro Largo FC",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       }
     ]
   },
   {
     "hora_utc": "2026-11-13T00:00:00Z",
-    "hora_fin_utc": "2026-11-13T02:20:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Boyacá Chicó vs Llaneros",
-    "logo": "img/col.png",
-    "sport": "football",
+    "hora_fin_utc": "2026-11-13T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "columbus blue jackets vs tampa bay lightning",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
     "canales": [
       {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "hora_fin_utc": "2026-11-13T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "new jersey devils vs washington capitals",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
       {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "hora_fin_utc": "2026-11-13T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "ottawa senators vs colorado avalanche",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T00:00:00Z",
+    "hora_fin_utc": "2026-11-13T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "toronto maple leafs vs minnesota wild",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T00:30:00Z",
+    "hora_fin_utc": "2026-11-13T03:30:00Z",
+    "liga": "NHL",
+    "equipos": "florida panthers vs detroit red wings",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T01:00:00Z",
+    "hora_fin_utc": "2026-11-13T04:00:00Z",
+    "liga": "NHL",
+    "equipos": "chicago blackhawks vs buffalo sabres",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T01:00:00Z",
+    "hora_fin_utc": "2026-11-13T04:00:00Z",
+    "liga": "NHL",
+    "equipos": "dallas stars vs winnipeg jets",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
         "calidad": "HD"
       }
     ]
@@ -1033,13 +1068,28 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
+        "nombre": "ESPN MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-13T02:00:00Z",
+    "hora_fin_utc": "2026-11-13T05:00:00Z",
+    "liga": "NHL",
+    "equipos": "utah mammoth vs st louis blues",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
         "calidad": "HD"
       }
     ]
