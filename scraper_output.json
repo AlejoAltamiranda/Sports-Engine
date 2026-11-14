@@ -972,5 +972,383 @@
     ],
     "fuente": "github_all",
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
+  },
+  {
+    "hora_utc": "2026-11-14T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "noruega vs gales",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espnmovil.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Noruega vs Gales"
+  },
+  {
+    "hora_utc": "2026-11-14T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "georgia vs hungria",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Georgia vs Hungría"
+  },
+  {
+    "hora_utc": "2026-11-14T17:30:00Z",
+    "logo": "img/default.png",
+    "liga": "League Two",
+    "equipos": "fleetwood town vs tranmere",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Fleetwood Town vs Tranmere"
+  },
+  {
+    "hora_utc": "2026-11-14T19:30:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "deportivo maldonado vs cerro",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Deportivo Maldonado vs Cerro"
+  },
+  {
+    "hora_utc": "2026-11-14T19:45:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "irlanda del norte vs ucrania",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Irlanda del Norte vs Ucrania"
+  },
+  {
+    "hora_utc": "2026-11-14T19:45:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "austria vs irlanda",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Austria vs Irlanda"
+  },
+  {
+    "hora_utc": "2026-11-14T19:45:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "rumania vs polonia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Rumania vs Polonia"
+  },
+  {
+    "hora_utc": "2026-11-14T19:45:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "suecia vs bosnia y herzegovina",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Suecia vs Bosnia y Herzegovina"
+  },
+  {
+    "hora_utc": "2026-11-14T19:45:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "portugal vs dinamarca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espnmovil.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Portugal vs Dinamarca"
+  },
+  {
+    "hora_utc": "2026-11-14T21:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "mirassol vs atletico mineiro",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Amazon Prime",
+        "url": "https://la18hd.su/vivo/canal.php?stream=amazon_prime1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Mirassol vs Atlético Mineiro"
+  },
+  {
+    "hora_utc": "2026-11-14T22:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "banfield vs boca juniors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TYC Sports",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tycsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tycsportsarg.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Banfield vs Boca Juniors"
+  },
+  {
+    "hora_utc": "2026-11-14T22:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "paysandu vs uruguay montevideo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Paysandu vs Uruguay Montevideo"
+  },
+  {
+    "hora_utc": "2026-11-14T23:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "queretaro vs monterrey",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Univision",
+        "url": "https://la18hd.su/vivo/canal.php?stream=univision",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Querétaro vs Monterrey"
+  },
+  {
+    "hora_utc": "2026-11-14T23:00:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "nacional vs albion fc",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Nacional vs Albion FC"
+  },
+  {
+    "hora_utc": "2026-11-14T23:30:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasileirão",
+    "equipos": "chapecoense-sc vs vasco da gama",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Chapecoense-sc vs Vasco da Gama"
+  },
+  {
+    "hora_utc": "2026-11-15T00:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones CONCACAF",
+    "equipos": "st vincent grenadines vs belice",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "St. Vincent / Grenadines vs Belice"
+  },
+  {
+    "hora_utc": "2026-11-15T01:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones CONCACAF",
+    "equipos": "jamaica vs mexico",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 5 MX HD",
+        "url": "https://fubolazo.com/drm/canal5mx.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7",
+        "url": "https://la18hd.su/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Claro Sports HD",
+        "url": "https://fubolazo.com/drm/clarosports1.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tudnusatv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision",
+        "url": "https://la18hd.su/vivo/canal.php?stream=univision",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Jamaica vs México"
+  },
+  {
+    "hora_utc": "2026-11-15T03:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga de Expansión MX",
+    "equipos": "ca la paz vs piratas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "CA La Paz vs Piratas"
   }
 ]
