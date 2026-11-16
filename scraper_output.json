@@ -974,142 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-11-15T20:15:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga 1",
-    "equipos": "juan pablo ii college vs deportivo garcilaso",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/liga1maxtv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Juan Pablo II College vs Deportivo Garcilaso"
-  },
-  {
-    "hora_utc": "2026-11-15T21:05:00Z",
-    "logo": "img/nfl.png",
-    "liga": "NFL",
-    "equipos": "arizona cardinals vs los angeles rams",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN6",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn6",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN6 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn6tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Arizona Cardinals vs Los Angeles Rams"
-  },
-  {
-    "hora_utc": "2026-11-15T21:25:00Z",
-    "logo": "img/nfl.png",
-    "liga": "NFL",
-    "equipos": "dallas cowboys vs san francisco 49ers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN5 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn5tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Dallas Cowboys vs San Francisco 49ers"
-  },
-  {
-    "hora_utc": "2026-11-15T23:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga de Naciones CONCACAF",
-    "equipos": "panama vs curacao",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Panamá vs Curaçao"
-  },
-  {
-    "hora_utc": "2026-11-15T23:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "defensor sporting vs penarol",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Defensor Sporting vs Peñarol"
-  },
-  {
-    "hora_utc": "2026-11-15T23:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "oriental vs colon",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Oriental vs Colón"
-  },
-  {
     "hora_utc": "2026-11-16T01:20:00Z",
     "logo": "img/nfl.png",
     "liga": "NFL",
@@ -1134,6 +998,38 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Cincinnati Bengals vs Pittsburgh Steelers"
+  },
+  {
+    "hora_utc": "2026-11-16T02:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "san jose sharks vs nashville predators",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "San Jose Sharks vs Nashville Predators"
+  },
+  {
+    "hora_utc": "2026-11-16T02:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "vegas golden knights vs vancouver canucks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Vegas Golden Knights vs Vancouver Canucks"
   },
   {
     "hora_utc": "2026-11-16T03:10:00Z",
