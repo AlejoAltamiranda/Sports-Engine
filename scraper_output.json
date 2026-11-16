@@ -974,10 +974,10 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-11-16T01:20:00Z",
-    "logo": "img/nfl.png",
-    "liga": "NFL",
-    "equipos": "cincinnati bengals vs pittsburgh steelers",
+    "hora_utc": "2026-11-16T13:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Nitto ATP Finals - Men's Singles",
+    "equipos": "frances tiafoe vs carlos alcaraz",
     "status": "pronto",
     "canales": [
       {
@@ -987,7 +987,7 @@
       },
       {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney20",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       },
       {
@@ -997,59 +997,178 @@
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Cincinnati Bengals vs Pittsburgh Steelers"
+    "equipos_original": "Frances Tiafoe vs Carlos Alcaraz"
   },
   {
-    "hora_utc": "2026-11-16T02:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "san jose sharks vs nashville predators",
+    "hora_utc": "2026-11-16T15:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "kazajistan vs eslovaquia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN4",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn4tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Kazajistán vs Eslovaquia"
+  },
+  {
+    "hora_utc": "2026-11-16T15:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "islas feroe vs moldavia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Islas Feroe vs Moldavia"
+  },
+  {
+    "hora_utc": "2026-11-16T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "estonia vs bulgaria",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Disney+",
         "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv 2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2 USA",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "San Jose Sharks vs Nashville Predators"
+    "equipos_original": "Estonia vs Bulgaria"
   },
   {
-    "hora_utc": "2026-11-16T02:00:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "vegas golden knights vs vancouver canucks",
+    "hora_utc": "2026-11-16T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "lituania vs liechtenstein",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Vegas Golden Knights vs Vancouver Canucks"
-  },
-  {
-    "hora_utc": "2026-11-16T03:10:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX Femenil",
-    "equipos": "toluca femenil vs america femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
         "calidad": "HD"
       },
       {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tudnusatv.html",
+        "nombre": "Fox Soccer Plus",
+        "url": "https://la18hd.su/vivo/canal.php?stream=foxsoccerplus",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Toluca Femenil vs América Femenil"
+    "equipos_original": "Lituania vs Liechtenstein"
+  },
+  {
+    "hora_utc": "2026-11-16T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga de Naciones UEFA",
+    "equipos": "islandia vs luxemburgo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Islandia vs Luxemburgo"
+  },
+  {
+    "hora_utc": "2026-11-16T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Amistoso Internacional",
+    "equipos": "andorra vs azerbaiyan",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Andorra vs Azerbaiyán"
+  },
+  {
+    "hora_utc": "2026-11-16T18:00:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "utc vs los chankas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/liga1maxtv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "UTC vs Los Chankas"
   }
 ]
