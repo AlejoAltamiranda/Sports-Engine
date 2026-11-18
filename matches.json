@@ -915,61 +915,161 @@
     ]
   },
   {
-    "hora_utc": "2026-11-18T03:00:00Z",
-    "hora_fin_utc": "2026-11-18T06:00:00Z",
-    "liga": "NHL",
-    "equipos": "vegas golden knights vs dallas stars",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-18T13:00:00Z",
+    "hora_fin_utc": "2026-11-18T15:20:00Z",
+    "liga": "Nitto ATP Finals",
+    "equipos": "carlos alcaraz vs daniil medvedev",
+    "logo": "img/default.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-18T19:30:00Z",
+    "hora_fin_utc": "2026-11-18T21:50:00Z",
+    "liga": "Segunda División",
+    "equipos": "atenas vs fenix",
+    "logo": "img/default.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-11-18T03:00:00Z",
-    "hora_fin_utc": "2026-11-18T06:00:00Z",
-    "liga": "NHL",
-    "equipos": "san jose sharks vs calgary flames",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-18T20:00:00Z",
+    "hora_fin_utc": "2026-11-18T22:20:00Z",
+    "liga": "Liga1",
+    "equipos": "Alianza Atlético vs Melgar",
+    "logo": "img/pe.png",
+    "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "nombre": "Liga1max",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/liga1maxtv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1max OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-11-18T03:30:00Z",
-    "hora_fin_utc": "2026-11-18T06:45:00Z",
-    "liga": "NBA",
-    "equipos": "LA Clippers vs Utah Jazz",
-    "logo": "img/nba.png",
-    "sport": "nba",
+    "hora_utc": "2026-11-18T22:30:00Z",
+    "hora_fin_utc": "2026-11-19T00:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Coritiba vs Santos",
+    "logo": "img/br.png",
+    "sport": "football",
     "canales": [
       {
-        "nombre": "NBA 01",
-        "url": "https://la18hd.su/vivo/canal.php?stream=nba01",
+        "nombre": "Premiere 7 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere7",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-11-18T04:00:00Z",
-    "hora_fin_utc": "2026-11-18T07:15:00Z",
-    "liga": "NBA",
-    "equipos": "Charlotte Hornets vs LA Lakers",
-    "logo": "img/nba.png",
-    "sport": "nba",
+    "hora_utc": "2026-11-18T23:00:00Z",
+    "hora_fin_utc": "2026-11-19T01:20:00Z",
+    "liga": "Brasileirão",
+    "equipos": "chapecoense-sc vs Remo",
+    "logo": "img/br.png",
+    "sport": "football",
     "canales": [
       {
-        "nombre": "NBA 02",
-        "url": "https://la18hd.su/vivo/canal.php?stream=nba02",
+        "nombre": "Premiere 6 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere6",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-18T23:30:00Z",
+    "hora_fin_utc": "2026-11-19T01:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Cruzeiro vs Palmeiras",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere 2 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-18T23:30:00Z",
+    "hora_fin_utc": "2026-11-19T01:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Athletico Paranaense vs Flamengo",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-19T00:30:00Z",
+    "hora_fin_utc": "2026-11-19T02:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Botafogo vs Corinthians",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere 3 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere 4 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-19T00:30:00Z",
+    "hora_fin_utc": "2026-11-19T02:50:00Z",
+    "liga": "Brasilerao",
+    "equipos": "Bahia vs Grêmio",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere 5 BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere5",
         "calidad": "HD"
       }
     ]
