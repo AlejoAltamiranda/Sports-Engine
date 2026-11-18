@@ -974,74 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-11-18T13:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Nitto ATP Finals - Men's Singles",
-    "equipos": "daniil medvedev vs carlos alcaraz",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Daniil Medvedev vs Carlos Alcaraz"
-  },
-  {
-    "hora_utc": "2026-11-18T19:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "atenas vs fenix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Atenas vs Fenix"
-  },
-  {
-    "hora_utc": "2026-11-18T20:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "alianza atletico vs melgar",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/liga1maxtv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1max OP2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=liga1max_op2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Alianza Atlético vs Melgar"
-  },
-  {
     "hora_utc": "2026-11-18T22:30:00Z",
     "logo": "img/br.png",
     "liga": "Brasilerao",
@@ -1056,6 +988,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Coritiba vs Santos"
+  },
+  {
+    "hora_utc": "2026-11-18T22:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "colon vs oriental",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Colón vs Oriental"
   },
   {
     "hora_utc": "2026-11-18T23:00:00Z",
@@ -1100,10 +1048,41 @@
         "nombre": "Premiere BR",
         "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "SporTV",
+        "url": "https://la18hd.su/vivo/canal.php?stream=sportv",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
     "equipos_original": "Flamengo vs Athletico Paranaense"
+  },
+  {
+    "hora_utc": "2026-11-19T00:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "miami heat vs milwaukee bucks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Miami Heat vs Milwaukee Bucks"
   },
   {
     "hora_utc": "2026-11-19T00:30:00Z",
@@ -1141,5 +1120,79 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "Grêmio vs Bahia"
+  },
+  {
+    "hora_utc": "2026-11-19T00:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "detroit red wings vs boston bruins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Detroit Red Wings vs Boston Bruins"
+  },
+  {
+    "hora_utc": "2026-11-19T00:30:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "new jersey devils vs montreal canadiens",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "New Jersey Devils vs Montreal Canadiens"
+  },
+  {
+    "hora_utc": "2026-11-19T02:30:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "denver nuggets vs boston celtics",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Denver Nuggets vs Boston Celtics"
+  },
+  {
+    "hora_utc": "2026-11-19T03:00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "utah mammoth vs colorado avalanche",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Utah Mammoth vs Colorado Avalanche"
   }
 ]
