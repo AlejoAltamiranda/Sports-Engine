@@ -915,126 +915,6 @@
     ]
   },
   {
-    "hora_utc": "2026-11-19T17:00:00Z",
-    "hora_fin_utc": "2026-11-19T19:20:00Z",
-    "liga": "Nitto ATP Finals",
-    "equipos": "harri heliovaara henry patten vs theo arribage albano olivetti",
-    "logo": "img/default.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T17:45:00Z",
-    "hora_fin_utc": "2026-11-19T20:05:00Z",
-    "liga": "UEFA Champions League Women",
-    "equipos": "austria wien femenil vs bayern munich femenil",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T17:45:00Z",
-    "hora_fin_utc": "2026-11-19T20:05:00Z",
-    "liga": "UEFA Champions League Women",
-    "equipos": "kge femenil vs paris fc femenil",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T19:30:00Z",
-    "hora_fin_utc": "2026-11-19T21:50:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Boston River vs Deportivo Maldonado",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T19:30:00Z",
-    "hora_fin_utc": "2026-11-19T21:50:00Z",
-    "liga": "Primera División de Uruguay",
-    "equipos": "Cerro Largo FC vs Peñarol",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T20:00:00Z",
-    "hora_fin_utc": "2026-11-19T22:20:00Z",
-    "liga": "UEFA Champions League Women",
-    "equipos": "arsenal femenil vs lyon femenil",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T20:00:00Z",
-    "hora_fin_utc": "2026-11-19T22:20:00Z",
-    "liga": "UEFA Champions League Women",
-    "equipos": "barcelona femenil vs servette chenois femenil",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-19T20:00:00Z",
-    "hora_fin_utc": "2026-11-19T22:20:00Z",
-    "liga": "UEFA Champions League Women",
-    "equipos": "roma femenil vs sl benfica femenil",
-    "logo": "img/champions.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-11-19T22:30:00Z",
     "hora_fin_utc": "2026-11-20T00:50:00Z",
     "liga": "Brasilerao",
@@ -1075,6 +955,31 @@
       {
         "nombre": "Premiere 2 BR",
         "url": "https://la18hd.su/vivo/canal.php?stream=premiere2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-20T01:15:00Z",
+    "hora_fin_utc": "2026-11-20T04:30:00Z",
+    "liga": "NFL",
+    "equipos": "houston texans vs indianapolis colts",
+    "logo": "img/nfl.png",
+    "sport": "nfl",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn5tv.html",
         "calidad": "HD"
       }
     ]

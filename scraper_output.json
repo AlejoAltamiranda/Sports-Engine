@@ -974,134 +974,6 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-11-19T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Nitto ATP Finals - Men's Doubles",
-    "equipos": "theo arribage albano olivetti vs harri heliovaara henry patten",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Theo Arribage / Albano Olivetti vs Harri Heliovaara / Henry Patten"
-  },
-  {
-    "hora_utc": "2026-11-19T17:45:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Champions League Women",
-    "equipos": "austria wien femenil vs bayern munich femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Austria Wien Femenil vs Bayern Munich Femenil"
-  },
-  {
-    "hora_utc": "2026-11-19T17:45:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Champions League Women",
-    "equipos": "paris fc femenil vs kge femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Paris FC Femenil vs Køge Femenil"
-  },
-  {
-    "hora_utc": "2026-11-19T19:30:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "boston river vs deportivo maldonado",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Boston River vs Deportivo Maldonado"
-  },
-  {
-    "hora_utc": "2026-11-19T19:30:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División de Uruguay",
-    "equipos": "penarol vs cerro largo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Peñarol vs Cerro Largo"
-  },
-  {
-    "hora_utc": "2026-11-19T20:00:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Champions League Women",
-    "equipos": "arsenal femenil vs lyon femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Arsenal Femenil vs Lyon Femenil"
-  },
-  {
-    "hora_utc": "2026-11-19T20:00:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Champions League Women",
-    "equipos": "barcelona femenil vs servette chenois femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Barcelona Femenil vs Servette Chênois Femenil"
-  },
-  {
-    "hora_utc": "2026-11-19T20:00:00Z",
-    "logo": "img/champions.png",
-    "liga": "UEFA Champions League Women",
-    "equipos": "sl benfica femenil vs roma femenil",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "SL Benfica Femenil vs Roma Femenil"
-  },
-  {
     "hora_utc": "2026-11-19T22:30:00Z",
     "logo": "img/br.png",
     "liga": "Brasilerao",
@@ -1148,5 +1020,31 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "São Paulo vs Fluminense"
+  },
+  {
+    "hora_utc": "2026-11-20T01:15:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "houston texans vs indianapolis colts",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN5 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn5tv.html",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Houston Texans vs Indianapolis Colts"
   }
 ]
