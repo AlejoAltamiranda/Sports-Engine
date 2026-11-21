@@ -974,172 +974,20 @@
     "equipos_original": "Ottawa Senators vs Toronto Maple Leafs"
   },
   {
-    "hora_utc": "2026-11-20T20:45:00Z",
-    "logo": "img/pt.png",
-    "liga": "Taça de Portugal",
-    "equipos": "oporto vs paredes",
+    "hora_utc": "2026-11-21T02:30:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "utah jazz vs phoenix suns",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+        "nombre": "NBA 07",
+        "url": "https://la18hd.su/vivo/canales.php?stream=nba07",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd",
-    "equipos_original": "Oporto vs Paredes"
-  },
-  {
-    "hora_utc": "2026-11-20T21:00:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "cobresal vs audax italiano",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Cobresal vs Audax Italiano"
-  },
-  {
-    "hora_utc": "2026-11-20T21:30:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "independiente medellin vs independiente santa fe",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Independiente Medellín vs Independiente Santa Fe"
-  },
-  {
-    "hora_utc": "2026-11-20T23:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "velez sarsfield vs belgrano",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tntsports2.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Vélez Sarsfield vs Belgrano"
-  },
-  {
-    "hora_utc": "2026-11-20T23:30:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "palestino vs union la calera",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premium CL Movil",
-        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Palestino vs Union La Calera"
-  },
-  {
-    "hora_utc": "2026-11-20T23:35:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "atletico bucaramanga vs america de cali",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Atlético Bucaramanga vs América de Cali"
-  },
-  {
-    "hora_utc": "2026-11-21T01:00:00Z",
-    "logo": "img/mx.png",
-    "liga": "Liga MX",
-    "equipos": "puebla vs atletico san luis",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TUDN USA",
-        "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TUDN USA Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/tudnusatv.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Puebla vs Atlético San Luis"
-  },
-  {
-    "hora_utc": "2026-11-21T01:40:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "deportivo cali vs millonarios",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://la18hd.su/vivo/canal.php?stream=winplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | opc3",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/winplus.html",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd",
-    "equipos_original": "Deportivo Cali vs Millonarios"
+    "equipos_original": "Utah Jazz vs Phoenix Suns"
   },
   {
     "hora_utc": "2026-11-21T03:00:00Z",
@@ -1171,6 +1019,22 @@
     ],
     "fuente": "pltvhd",
     "equipos_original": "FC Juarez vs Atlas"
+  },
+  {
+    "hora_utc": "2026-11-21T03:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "los angeles lakers vs sacramento kings",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "NBA 08",
+        "url": "https://la18hd.su/vivo/canales.php?stream=nba08",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd",
+    "equipos_original": "Los Angeles Lakers vs Sacramento Kings"
   },
   {
     "hora_utc": "2026-11-21T03:10:00Z",
