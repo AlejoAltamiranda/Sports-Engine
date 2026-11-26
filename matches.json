@@ -915,12 +915,67 @@
     ]
   },
   {
-    "hora_utc": "2026-11-26T01:00:00Z",
-    "hora_fin_utc": "2026-11-26T04:00:00Z",
-    "liga": "NHL",
-    "equipos": "minnesota wild vs utah mammoth",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-26T15:30:00Z",
+    "hora_fin_utc": "2026-11-26T17:50:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "kairat almaty vs mjallby aif",
+    "logo": "img/conference_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T16:30:00Z",
+    "hora_fin_utc": "2026-11-26T18:50:00Z",
+    "liga": "Cup",
+    "equipos": "fakel vs Houston Dynamo",
+    "logo": "img/tr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Dsports +",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Dsports+ Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/dsportsplus.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + I OP2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=dsportsplus_op2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "Ajax vs fc thun",
+    "logo": "img/conference_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "aarhus vs brann",
+    "logo": "img/conference_league.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
@@ -930,27 +985,12 @@
     ]
   },
   {
-    "hora_utc": "2026-11-26T01:30:00Z",
-    "hora_fin_utc": "2026-11-26T04:45:00Z",
-    "liga": "NBA",
-    "equipos": "Houston Rockets vs Phoenix Suns",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "NBA 07",
-        "url": "https://la18hd.su/vivo/canales.php?stream=nba07",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-26T02:30:00Z",
-    "hora_fin_utc": "2026-11-26T05:30:00Z",
-    "liga": "NHL",
-    "equipos": "colorado avalanche vs montreal canadiens",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "Brighton & Hove Albion vs universitatea craiova",
+    "logo": "img/conference_league.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
@@ -960,12 +1000,12 @@
     ]
   },
   {
-    "hora_utc": "2026-11-26T02:40:00Z",
-    "hora_fin_utc": "2026-11-26T05:40:00Z",
-    "liga": "NHL",
-    "equipos": "seattle kraken vs chicago blackhawks",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "egnatia rrogozhine vs lincoln red imps fc",
+    "logo": "img/conference_league.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
@@ -975,67 +1015,12 @@
     ]
   },
   {
-    "hora_utc": "2026-11-26T03:00:00Z",
-    "hora_fin_utc": "2026-11-26T06:15:00Z",
-    "liga": "NBA",
-    "equipos": "Golden State Warriors vs Sacramento Kings",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "NBA 08",
-        "url": "https://la18hd.su/vivo/canales.php?stream=nba08",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-26T03:00:00Z",
-    "hora_fin_utc": "2026-11-26T06:15:00Z",
-    "liga": "NBA",
-    "equipos": "Portland Trail Blazers vs San Antonio Spurs",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "ESPN2",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN2 Movil",
-        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN1 USA",
-        "url": "https://la18hd.su/vivo/canales.php?stream=espn_usa",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "NBA 09",
-        "url": "https://la18hd.su/vivo/canales.php?stream=nba09",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-11-26T03:00:00Z",
-    "hora_fin_utc": "2026-11-26T06:00:00Z",
-    "liga": "NHL",
-    "equipos": "anaheim ducks vs san jose sharks",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "AS Monaco vs hearts",
+    "logo": "img/conference_league.png",
+    "sport": "football",
     "canales": [
       {
         "nombre": "Disney+",
@@ -1045,21 +1030,171 @@
     ]
   },
   {
-    "hora_utc": "2026-11-26T03:10:00Z",
-    "hora_fin_utc": "2026-11-26T05:30:00Z",
-    "liga": "Liga MX",
-    "equipos": "Club América vs Monterrey",
-    "logo": "img/mx.png",
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "fc iberia 1999 vs Getafe",
+    "logo": "img/conference_league.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 5 MX",
-        "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "fc lugano vs fk jablonec",
+    "logo": "img/conference_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney16",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "kauno algiris vs riga",
+    "logo": "img/conference_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney17",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Conference League",
+    "equipos": "fc midtjylland vs pafos",
+    "logo": "img/conference_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney18",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "Beşiktaş vs hapoel beer sheva",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "AFC Bournemouth vs Celta de Vigo",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN4",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
         "calidad": "HD"
       },
       {
-        "nombre": "Canal 5 MX HD",
-        "url": "https://fubolazo.com/drm/canal5mx.php",
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn4tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "Bayer Leverkusen vs dinamo zagreb",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN3",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN3 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn3tv.html",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "levski sofia vs Olympique de Marseille",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "AC Milan vs olympiacos",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espn2tv.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
         "calidad": "HD"
       },
       {
@@ -1075,6 +1210,81 @@
       {
         "nombre": "Unimas",
         "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "SL Benfica vs viktoria plze",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Movil",
+        "url": "https://www.golperutv.xyz/sw3.html?get=https://www.golperutv.xyz/repro/espnmovil.html",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN4 MX",
+        "url": "https://la18hd.su/vivo/canal.php?stream=espn4mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "lech poznan vs union saint-gilloise",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T17:45:00Z",
+    "hora_fin_utc": "2026-11-26T20:05:00Z",
+    "liga": "UEFA Europa League",
+    "equipos": "ararat-armenia vs red bull salzburgo",
+    "logo": "img/europa_league.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-11-26T23:00:00Z",
+    "hora_fin_utc": "2026-11-27T01:20:00Z",
+    "liga": "Brasileirão",
+    "equipos": "Remo vs São Paulo",
+    "logo": "img/br.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
         "calidad": "HD"
       }
     ]
